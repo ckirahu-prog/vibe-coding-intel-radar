@@ -88,7 +88,7 @@ jobs:
             echo "has_files=false" >> "$GITHUB_OUTPUT"
             echo "No report files to send."
             if [ "$MANUAL_MODE" != "true" ]; then
-              echo "::error::Push 触发了发信 workflow，但未检测到 reports/*.md 变更（可能是文件名匹配问题）"
+              echo "::error::Push 触发了发信 workflow，但未检测到 reports/*.md 变更"
               exit 1
             fi
             exit 0
@@ -98,37 +98,33 @@ jobs:
           echo "Report files:"
           echo "$FILES"
 
-          BODY=""
+          mkdir -p .email
+          echo "$FILES" > .email/files.txt
+
           while IFS= read -r f; do
             [ -z "$f" ] && continue
-            [ ! -f "$f" ] && continue
             fname=$(basename "$f" .md)
             if echo "$f" | grep -q '^reports/daily/'; then
               SUBJECT="【信息雷达·日报】${fname}"
             elif echo "$f" | grep -q '^reports/weekly/'; then
               SUBJECT="【信息雷达·周报】${fname}"
             fi
-            BODY="${BODY}
-          ========================================
-          ${f}
-          ========================================
-
-          $(cat "$f")
-          "
           done <<< "$FILES"
 
           if [ "$HAS_DAILY" = true ] && [ "$HAS_WEEKLY" = true ]; then
             SUBJECT="【信息雷达】日报 + 周报"
           fi
 
-          {
-            echo "subject<<EOF"
-            echo "$SUBJECT"
-            echo "EOF"
-            echo "body<<EOF"
-            echo "$BODY"
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
+          echo "subject<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$SUBJECT" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Build HTML email
+        if: steps.detect.outputs.has_files == 'true'
+        run: |
+          pip install markdown
+          mapfile -t REPORT_FILES < .email/files.txt
+          python scripts/build_report_email.py .email/body.html "${REPORT_FILES[@]}"
 
       - name: Send via QQ SMTP
         if: steps.detect.outputs.has_files == 'true'
@@ -142,7 +138,6 @@ jobs:
           subject: ${{ steps.detect.outputs.subject }}
           to: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
           from: ${{ secrets.MAIL_USERNAME }}
-          convert_markdown: true
+          html_body: file://${{ github.workspace }}/.email/body.html
           content_type: text/html
-          body: ${{ steps.detect.outputs.body }}
           priority: normal
