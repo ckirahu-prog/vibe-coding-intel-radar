@@ -5,7 +5,10 @@ topics:
     name: "AI 做游戏"
     description: "AI 游戏开发工具、工作流、方向与产品思路"
     keywords:
-      - ai
+      - ai game
+      - gamedev
+      - game dev
+      - indie game
       - llm
       - gpt
       - claude
@@ -13,8 +16,6 @@ topics:
       - npc
       - dialogue
       - generative
-      - machine learning
-      - neural
       - rosebud
       - ludo ai
       - meshy
@@ -26,6 +27,7 @@ topics:
       - copilot
       - unity
       - unreal
+      - godot
       - game engine
       - sprite
       - texture
@@ -35,7 +37,11 @@ topics:
       - level design
       - mcp
       - genai
-    # B 级源需命中至少 1 个关键词；A 级源跳过关键词过滤
+      - steam
+      - itch.io
+      - playtest
+      - game jam
+    # 注意：不用单独的 "ai"，避免宏观 AI 新闻涌入
 
   vibe-coding-commercial:
     name: "Vibe Coding 商业化"
@@ -60,12 +66,10 @@ topics:
       - bootstrapped
       - product hunt
       - show hn
-      - indie
       - monetize
       - paying customers
       - stripe
-      - no-code
       - ai-built
-
-# 默认归属：当条目来自某主题的专属源时自动打标
-# 跨主题源（如 HN）靠关键词匹配，可双标签
+      - subscribers
+      - customers
+      - profit
