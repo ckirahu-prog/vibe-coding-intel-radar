@@ -17,7 +17,7 @@
 ## 读取范围
 
 1. `data/raw/` 目录下，过去 7 天内新增的 JSON 文件（按文件名日期判断）。
-2. `reports/daily/` 目录下，本周（周一至今日）的日报 Markdown。
+2. `reports/daily/` 目录下，**本周（周一至周六）**的日报 Markdown（周六汇总时覆盖整周）。
 3. 参考 `config/topics.yaml` 了解两个主题的定义。
 
 ## 输出文件

@@ -11,11 +11,12 @@ Push 到 GitHub 后，按以下步骤验证系统正常运行。
   - `data/raw/YYYY-MM-DD.json`
   - `reports/daily/YYYY-MM-DD.md`
   - `data/seen.json` 和 `data/stats.json` 有更新
-- [ ] 在 repo 页面 **Watch → All Activity** 开启邮件通知
+- [ ] 配置 QQ 邮箱 Secrets：`MAIL_USERNAME`、`MAIL_PASSWORD`、`MAIL_TO`（见 README）
+- [ ] 确认 **Send Report Email** workflow 在日报 commit 后运行并成功
 
 ## 日报观察（Day 1–5）
 
-- [ ] 每天检查是否收到 GitHub commit 邮件（无新内容时不会 commit，属正常）
+- [ ] 每天检查 QQ 邮箱是否收到 **【信息雷达·日报】**（无新内容时不会 commit/发信，属正常）
 - [ ] 阅读 `reports/daily/` 评估信息质量：
   - AI 做游戏：是否有工具/工作流相关条目？
   - Vibe Coding：是否有产品/收入相关条目？
@@ -27,8 +28,9 @@ Push 到 GitHub 后，按以下步骤验证系统正常运行。
 
 - [ ] 按 [`.cursor/automation-draft.md`](../.cursor/automation-draft.md) 创建 Cursor Automation
 - [ ] Dashboard 设 spend limit **$5/月**
-- [ ] 选手动 **Run now** 触发一次（不必等周一）
-- [ ] 确认 `reports/weekly/YYYY-Www.md` 已 commit
+- [ ] Automation Cron 设为 **`0 1 * * 6`**（北京时间周六 09:00）
+- [ ] 选手动 **Run now** 触发一次（不必等周六）
+- [ ] 确认 `reports/weekly/YYYY-Www.md` 已 commit，QQ 邮箱收到 **【信息雷达·周报】**
 - [ ] 到 [cursor.com/dashboard](https://cursor.com/dashboard) → Usage 记录本次费用
   - 预期：**$0.15–$0.40/次**
   - 若超过 $1：检查是否用了 Opus 或 Agent 上网搜索了

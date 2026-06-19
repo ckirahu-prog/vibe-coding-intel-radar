@@ -12,15 +12,15 @@ Pro 优化版信息收集工具：**GitHub Actions 每日免费采集** + **Curs
 ## 架构
 
 ```
-GitHub Actions (每日)          Cursor Automation (每周一)
-     │                              │
-     ▼                              ▼
- RSS/API 采集 ──→ data/raw/ ──→ 中文周报
-     │                              │
-     ▼                              ▼
- reports/daily/              reports/weekly/
-     │                              │
-     └──────── GitHub 邮件通知 ──────┘
+GitHub Actions (每日 08:00)       Cursor Automation (每周六 09:00)
+     │                                      │
+     ▼                                      ▼
+ RSS/API 采集 ──→ data/raw/ ──→ 新手向中文周报
+     │                                      │
+     ▼                                      ▼
+ reports/daily/                   reports/weekly/
+     │                                      │
+     └──── push 触发 ──→ QQ 邮箱 SMTP 发信 ──┘
 ```
 
 - **日报**：纯链接列表，无 LLM，阅读 3–5 分钟
@@ -42,16 +42,40 @@ git push -u origin main
 
 Push 后 Actions 自动启用。也可手动触发：**Actions → Daily Intel Collect → Run workflow**。
 
-### 3. 设置邮件通知
+### 3. 配置 QQ 邮箱推送（推荐）
 
-在 GitHub repo 页面点击 **Watch → All Activity**（或 Custom，只勾选相关 commit 通知）。  
-有新 `reports/daily/` 或 `reports/weekly/` commit 时会收到邮件。
+报告 commit 后，[`send-report-email.yml`](.github/workflows/send-report-email.yml) 会把 **日报/周报正文** 发到你的 QQ 邮箱。
+
+**① 开启 QQ 邮箱 SMTP**
+
+1. 登录 [mail.qq.com](https://mail.qq.com) → 设置 → 账户  
+2. 开启 **POP3/SMTP 服务**  
+3. 生成 **授权码**（不是 QQ 密码，妥善保管）
+
+**② 在 GitHub 仓库添加 Secrets**
+
+[仓库 Settings → Secrets and variables → Actions](https://github.com/ckirahu-prog/vibe-coding-intel-radar/settings/secrets/actions) → **New repository secret**：
+
+| Secret 名 | 值 | 示例 |
+|-----------|-----|------|
+| `MAIL_USERNAME` | 发件 QQ 邮箱 | `1003862941@qq.com` |
+| `MAIL_PASSWORD` | QQ 邮箱 **授权码** | （16 位授权码） |
+| `MAIL_TO` | 收件邮箱 | `1003862941@qq.com` |
+
+**③ 测试**
+
+- 手动跑一次 **Daily Intel Collect**，或有新日报 commit 后，检查 QQ 邮箱  
+- 或在 Actions 里运行 **Send Report Email**（需先有 reports 变更 commit）
+
+> 未配置 Secrets 时，发信 workflow 会自动跳过，不影响采集。
+
+（可选）GitHub **Watch → All Activity** 可同时收到 commit 通知，但不含报告正文。
 
 ### 4. 配置 Cursor Automation（周报）
 
 详见 [`.cursor/automation-draft.md`](.cursor/automation-draft.md)：
 
-- Cron：`0 1 * * 1`（北京时间周一 09:00）
+- Cron：`0 1 * * 6`（UTC 周六 01:00 = **北京时间周六 09:00**）
 - 模型：最便宜档（Flash / Haiku / Composer Fast）
 - Prompt：[`templates/weekly-prompt.md`](templates/weekly-prompt.md)
 - Spend limit：Dashboard 设 $5/月
@@ -87,8 +111,9 @@ templates/
 
 | 任务 | Cron (UTC) | 北京时间 |
 |------|------------|----------|
-| 每日采集 | `0 0 * * *` | 08:00 |
-| 每周汇总 | `0 1 * * 1` | 周一 09:00 |
+| 每日采集 | `0 0 * * *` | 每天 08:00 |
+| 每周汇总 | `0 1 * * 6` | **周六 09:00** |
+| 报告发信 | push 到 `reports/` 时自动 | 紧随日报/周报 commit |
 
 修改采集时间：编辑 [`.github/workflows/collect-daily.yml`](.github/workflows/collect-daily.yml) 中的 `cron` 字段。
 
@@ -134,7 +159,7 @@ B 级源只有标题/摘要命中关键词才会收录；A 级源（如 GitHub S
 ## 常见问题
 
 **Q: 今天没有收到邮件？**  
-A: 可能当日无新内容（脚本不会空 commit）。可在 Actions 日志确认，或本地跑 `collect.py` 测试。
+A: 可能当日无新内容（脚本不会空 commit，也就不会发信）。检查 Actions 里 **Send Report Email** 是否运行；确认已配置 `MAIL_USERNAME` / `MAIL_PASSWORD` / `MAIL_TO` Secrets。
 
 **Q: Reddit RSS 拉不到？**  
 A: Reddit 可能限流；GitHub Actions 环境通常可用。持续失败可在 `stats.json` 查看 `last_error`。

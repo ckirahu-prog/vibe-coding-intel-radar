@@ -8,8 +8,8 @@
 |------|-----|
 | **名称** | Weekly Intel Report |
 | **描述** | 每周基于 repo 内采集数据生成 **新手向** AI 游戏 & Vibe Coding 中文周报 |
-| **触发** | Cron：`0 1 * * 1`（UTC 周一 01:00 = 北京时间周一 09:00） |
-| **仓库** | 本项目的 GitHub repo |
+| **触发** | Cron：`0 1 * * 6`（UTC 周六 01:00 = **北京时间周六 09:00**） |
+| **仓库** | [ckirahu-prog/vibe-coding-intel-radar](https://github.com/ckirahu-prog/vibe-coding-intel-radar) |
 | **分支** | `main` |
 | **模型** | 最便宜可用档（Flash / Haiku / Composer Fast），**不要用 Opus** |
 | **Spend limit** | 在 [cursor.com/dashboard](https://cursor.com/dashboard) → Spending 设 **$5/月** |
@@ -34,7 +34,7 @@
 
 1. 在 Automations UI 手动 **Run now** 触发一次。
 2. 到 Dashboard → Usage 查看本次 token 消耗（预期 $0.15–$0.40）。
-3. 检查 `reports/weekly/` 是否生成了新的 Markdown 文件。
+3. 检查 `reports/weekly/` 是否生成了新的 Markdown 文件；若已配置 QQ 邮箱 Secrets，应收到 **Send Report Email** 推送。
 
 ## 成本预期（Pro 计划）
 
