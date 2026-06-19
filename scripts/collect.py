@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_DIR = ROOT / "config"
 DATA_DIR = ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
-REPORTS_DIR = ROOT / "reports" / "daily"
+INDEX_DIR = DATA_DIR / "daily-index"
 
 SEEN_FILE = DATA_DIR / "seen.json"
 STATS_FILE = DATA_DIR / "stats.json"
@@ -28,7 +28,19 @@ TOPICS_FILE = CONFIG_DIR / "topics.yaml"
 SOURCES_FILE = CONFIG_DIR / "sources.yaml"
 MANUAL_FILE = CONFIG_DIR / "manual-urls.yaml"
 
-SUMMARY_MAX_LEN = 200
+SUMMARY_MAX_LEN = 400
+HIGH_VALUE_KEYWORDS = {
+    "ai-game-dev": [
+        "tutorial", "how to", "workflow", "tool", "release", "launch", "free",
+        "open source", "godot", "unity", "cursor", "mcp", "rosebud", "meshy",
+        "game jam", "steam", "itch", "playtest", "demo", "guide",
+    ],
+    "vibe-coding-commercial": [
+        "mrr", "revenue", "arr", "customers", "subscribers", "pricing", "launched",
+        "shipped", "stripe", "bootstrapped", "profit", "paying", "show hn",
+        "product hunt", "built with cursor", "vibe coding", "solo founder",
+    ],
+}
 USER_AGENT = "IntelRadar/1.0 (github-actions; info-collector)"
 GITHUB_API = "https://api.github.com"
 
@@ -80,6 +92,27 @@ def truncate(text: str, max_len: int = SUMMARY_MAX_LEN) -> str:
 def match_keywords(text: str, keywords: list[str]) -> bool:
     lower = text.lower()
     return any(kw.lower() in lower for kw in keywords)
+
+
+def score_item(item: dict, topic_keywords: dict[str, list[str]]) -> int:
+    """Heuristic relevance score for daily highlights."""
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    score = 0
+    for topic_id in item.get("topics") or []:
+        for kw in topic_keywords.get(topic_id, []):
+            if kw.lower() in text:
+                score += 2
+        for kw in HIGH_VALUE_KEYWORDS.get(topic_id, []):
+            if kw.lower() in text:
+                score += 3
+    if item.get("source_id") == "manual":
+        score += 5
+    tier_a_sources = {"reddit-aigamedev", "github-game-ai", "github-vibe-coding"}
+    if item.get("source_id") in tier_a_sources:
+        score += 2
+    if len(item.get("summary") or "") > 120:
+        score += 1
+    return score
 
 
 def classify_topics(
@@ -241,8 +274,48 @@ def process_manual_urls(
     return new_items
 
 
-def generate_daily_report(date_str: str, items: list[dict], topic_names: dict[str, str]) -> str:
-    lines = [f"# 信息雷达日报 {date_str}", ""]
+def format_item_line(item: dict, *, verbose: bool = False) -> str:
+    summary = item.get("summary") or ""
+    if verbose and summary:
+        return (
+            f"- **[{item['title']}]({item['url']})**\n"
+            f"  - 来源：{item['source_name']}\n"
+            f"  - 摘要：{summary}"
+        )
+    summary_part = f" — {summary}" if summary else ""
+    return f"- [{item['title']}]({item['url']}) · {item['source_name']}{summary_part}"
+
+
+def generate_daily_index(
+    date_str: str,
+    items: list[dict],
+    topic_names: dict[str, str],
+    topic_keywords: dict[str, list[str]],
+) -> str:
+    """Raw link index for Daily Cursor Automation — not the final user-facing report."""
+    lines = [
+        f"# 日报素材索引 {date_str}",
+        "",
+        "> 供 Cursor Daily Automation 读取；最终案例拆解日报见 `reports/daily/YYYY-MM-DD.md`",
+        "",
+        f"共 {len(items)} 条新内容",
+        "",
+    ]
+
+    scored = sorted(
+        items,
+        key=lambda it: score_item(it, topic_keywords),
+        reverse=True,
+    )
+    highlights = [it for it in scored if score_item(it, topic_keywords) >= 4][:8]
+    if highlights:
+        lines.append("## 今日精选（优先阅读）")
+        lines.append("")
+        for item in highlights:
+            topics = "、".join(topic_names.get(t, t) for t in item.get("topics") or [])
+            tag = f" · {topics}" if topics else ""
+            lines.append(format_item_line(item, verbose=True) + tag)
+            lines.append("")
 
     by_topic: dict[str, list[dict]] = {}
     untagged: list[dict] = []
@@ -257,24 +330,29 @@ def generate_daily_report(date_str: str, items: list[dict], topic_names: dict[st
     for topic_id in topic_order:
         name = topic_names.get(topic_id, topic_id)
         topic_items = by_topic.get(topic_id, [])
-        lines.append(f"## {name} ({len(topic_items)} 条)")
+        lines.append(f"## {name}（{len(topic_items)} 条）")
         if not topic_items:
             lines.append("")
             lines.append("_无新增_")
         else:
+            by_source: dict[str, list[dict]] = {}
             for item in topic_items:
-                summary_part = f" | {item['summary']}" if item["summary"] else ""
-                lines.append(f"- [{item['title']}]({item['url']}) — {item['source_name']}{summary_part}")
+                by_source.setdefault(item["source_name"], []).append(item)
+            for source_name, source_items in sorted(by_source.items()):
+                lines.append("")
+                lines.append(f"### {source_name}（{len(source_items)}）")
+                for item in source_items:
+                    lines.append(format_item_line(item))
         lines.append("")
 
     if untagged:
-        lines.append(f"## 未分类 ({len(untagged)} 条)")
+        lines.append(f"## 未分类（{len(untagged)} 条）")
         for item in untagged:
-            lines.append(f"- [{item['title']}]({item['url']}) — {item['source_name']}")
+            lines.append(format_item_line(item))
         lines.append("")
 
     lines.append("---")
-    lines.append(f"_共收录 {len(items)} 条新内容，由 GitHub Actions 自动生成，无 LLM 参与。_")
+    lines.append("_采集器自动生成 · 无 LLM · 仅供日报 Agent 分析输入_")
     return "\n".join(lines)
 
 
@@ -373,15 +451,15 @@ def main() -> int:
     raw_path = RAW_DIR / f"{date_str}.json"
     save_json(raw_path, new_items)
 
-    report = generate_daily_report(date_str, new_items, topic_names)
-    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
-    report_path = REPORTS_DIR / f"{date_str}.md"
-    report_path.write_text(report, encoding="utf-8")
+    report = generate_daily_index(date_str, new_items, topic_names, topic_keywords)
+    INDEX_DIR.mkdir(parents=True, exist_ok=True)
+    index_path = INDEX_DIR / f"{date_str}.md"
+    index_path.write_text(report, encoding="utf-8")
 
     save_json(SEEN_FILE, seen)
     save_json(STATS_FILE, stats)
 
-    print(f"Wrote {len(new_items)} items → {raw_path.name}, {report_path.name}")
+    print(f"Wrote {len(new_items)} items → {raw_path.name}, {index_path.name}")
     print_summary(stats)
     return 0
 
