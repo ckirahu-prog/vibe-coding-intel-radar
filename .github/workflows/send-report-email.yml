@@ -1,6 +1,6 @@
 name: Send Report Email
 
-# 日报 commit（Daily Collect）或周报 commit（Cursor Automation 周六）后自动发 QQ 邮箱
+# 日报/周报 commit 后自动发 QQ 邮箱；也可手动 Run 发送最新报告
 on:
   push:
     branches: [main]
@@ -8,6 +8,16 @@ on:
       - 'reports/daily/**'
       - 'reports/weekly/**'
   workflow_dispatch:
+    inputs:
+      send_latest:
+        description: '手动发送最新报告（daily / weekly / both）'
+        required: false
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - daily
+          - weekly
 
 permissions:
   contents: read
@@ -26,46 +36,72 @@ jobs:
             echo "configured=true" >> "$GITHUB_OUTPUT"
           else
             echo "configured=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping: set MAIL_USERNAME and MAIL_PASSWORD in repo Secrets."
+            echo "::error::MAIL_USERNAME or MAIL_PASSWORD secret missing"
+            exit 1
           fi
 
       - name: Checkout
-        if: steps.mailcfg.outputs.configured == 'true'
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 1
 
-      - name: Detect changed reports
-        if: steps.mailcfg.outputs.configured == 'true'
+      - name: Resolve report files to send
         id: detect
+        env:
+          MANUAL_MODE: ${{ github.event_name == 'workflow_dispatch' }}
+          SEND_LATEST: ${{ inputs.send_latest || 'both' }}
         run: |
-          FILES=$(git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" \
-            | grep -E '^reports/(daily|weekly)/[0-9A-Za-z._-]+\.md$' || true)
+          FILES=""
+          SUBJECT="【信息雷达】新报告"
+          HAS_DAILY=false
+          HAS_WEEKLY=false
+
+          if [ "$MANUAL_MODE" = "true" ]; then
+            echo "Manual send mode: $SEND_LATEST"
+            if [ "$SEND_LATEST" = "daily" ] || [ "$SEND_LATEST" = "both" ]; then
+              LATEST_DAILY=$(ls -1 reports/daily/*.md 2>/dev/null | grep -v gitkeep | sort | tail -1 || true)
+              if [ -n "$LATEST_DAILY" ] && [ -f "$LATEST_DAILY" ]; then
+                FILES="${FILES}${LATEST_DAILY}"$'\n'
+                HAS_DAILY=true
+              fi
+            fi
+            if [ "$SEND_LATEST" = "weekly" ] || [ "$SEND_LATEST" = "both" ]; then
+              LATEST_WEEKLY=$(ls -1 reports/weekly/*.md 2>/dev/null | grep -v gitkeep | sort | tail -1 || true)
+              if [ -n "$LATEST_WEEKLY" ] && [ -f "$LATEST_WEEKLY" ]; then
+                FILES="${FILES}${LATEST_WEEKLY}"$'\n'
+                HAS_WEEKLY=true
+              fi
+            fi
+          else
+            FILES=$(git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" \
+              | grep -E '^reports/(daily|weekly)/[0-9A-Za-z._-]+\.md$' || true)
+            while IFS= read -r f; do
+              [ -z "$f" ] && continue
+              echo "$f" | grep -q '^reports/daily/' && HAS_DAILY=true
+              echo "$f" | grep -q '^reports/weekly/' && HAS_WEEKLY=true
+            done <<< "$FILES"
+          fi
+
+          FILES=$(echo "$FILES" | sed '/^$/d' | sort -u)
 
           if [ -z "$FILES" ]; then
-            echo "No report markdown in this commit."
             echo "has_files=false" >> "$GITHUB_OUTPUT"
+            echo "No report files to send."
             exit 0
           fi
 
           echo "has_files=true" >> "$GITHUB_OUTPUT"
-          echo "Changed report files:"
+          echo "Report files:"
           echo "$FILES"
 
-          SUBJECT="【信息雷达】新报告"
           BODY=""
-          HAS_DAILY=false
-          HAS_WEEKLY=false
-
           while IFS= read -r f; do
             [ -z "$f" ] && continue
             [ ! -f "$f" ] && continue
             fname=$(basename "$f" .md)
             if echo "$f" | grep -q '^reports/daily/'; then
-              HAS_DAILY=true
               SUBJECT="【信息雷达·日报】${fname}"
             elif echo "$f" | grep -q '^reports/weekly/'; then
-              HAS_WEEKLY=true
               SUBJECT="【信息雷达·周报】${fname}"
             fi
             BODY="${BODY}
@@ -78,7 +114,7 @@ jobs:
           done <<< "$FILES"
 
           if [ "$HAS_DAILY" = true ] && [ "$HAS_WEEKLY" = true ]; then
-            SUBJECT="【信息雷达】日报 + 周报已更新"
+            SUBJECT="【信息雷达】日报 + 周报"
           fi
 
           {
@@ -91,7 +127,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Send via QQ SMTP
-        if: steps.mailcfg.outputs.configured == 'true' && steps.detect.outputs.has_files == 'true'
+        if: steps.detect.outputs.has_files == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.qq.com
@@ -101,6 +137,8 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ steps.detect.outputs.subject }}
           to: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
-          from: 信息雷达 <${{ secrets.MAIL_USERNAME }}>
+          from: ${{ secrets.MAIL_USERNAME }}
+          convert_markdown: true
+          content_type: text/html
           body: ${{ steps.detect.outputs.body }}
-          convert_markdown: false
+          priority: normal
