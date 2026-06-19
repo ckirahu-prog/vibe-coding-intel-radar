@@ -5,10 +5,17 @@
 sources:
   # ── AI 做游戏 ──────────────────────────────────────────
 
-  - id: hn-ai-game
-    name: "HN Search: AI game"
+  - id: hn-ai-game-tools
+    name: "HN: AI game tools"
     type: rss
-    url: "https://hnrss.org/newest?q=AI+game+OR+gamedev+AI&points=3"
+    url: "https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: hn-gamedev
+    name: "HN: gamedev"
+    type: rss
+    url: "https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     topics: [ai-game-dev]
     tier: B
 
@@ -19,17 +26,17 @@ sources:
     topics: [ai-game-dev]
     tier: B
 
+  - id: reddit-aigamedev
+    name: "Reddit r/aigamedev"
+    type: rss
+    url: "https://www.reddit.com/r/aigamedev/.rss"
+    topics: [ai-game-dev]
+    tier: A
+
   - id: reddit-unity3d
     name: "Reddit r/Unity3D"
     type: rss
     url: "https://www.reddit.com/r/Unity3D/.rss"
-    topics: [ai-game-dev]
-    tier: B
-
-  - id: reddit-unrealengine
-    name: "Reddit r/unrealengine"
-    type: rss
-    url: "https://www.reddit.com/r/unrealengine/.rss"
     topics: [ai-game-dev]
     tier: B
 
@@ -56,10 +63,17 @@ sources:
     topics: [vibe-coding-commercial]
     tier: B
 
-  - id: hn-solo-revenue
-    name: "HN Search: solo founder revenue"
+  - id: hn-cursor-vibe
+    name: "HN: Cursor / vibe coding"
     type: rss
-    url: "https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue&points=5"
+    url: "https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
+    topics: [vibe-coding-commercial]
+    tier: B
+
+  - id: hn-solo-revenue
+    name: "HN: solo founder revenue"
+    type: rss
+    url: "https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     topics: [vibe-coding-commercial]
     tier: B
 
@@ -81,5 +95,12 @@ sources:
     name: "Indie Hackers"
     type: rss
     url: "https://www.indiehackers.com/feed.xml"
+    topics: [vibe-coding-commercial]
+    tier: B
+
+  - id: reddit-sideproject
+    name: "Reddit r/SideProject"
+    type: rss
+    url: "https://www.reddit.com/r/SideProject/.rss"
     topics: [vibe-coding-commercial]
     tier: B
