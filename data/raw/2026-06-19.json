@@ -1,1828 +1,1250 @@
 [
   {
-    "id": "7b71ac9b071fea59",
-    "title": "'We created a monster': companies rein in AI usage as costs strain budgets",
-    "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314\">https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314</a></p> <p>Comments URL: <a href=\"https://new…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "443e87ec0a3ca390",
+    "title": "Show HN: I built an 11-LLM consensus engine to detect AI hallucination",
+    "url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+    "summary": "Article URL: https://github.com/jaquelinejaque/quorum-saas-starter Comments URL: https://news.ycombinator.com/item?id=48596771 Points: 3 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:44:36 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 09:53:50 +0000"
   },
   {
-    "id": "ff9d5cd34ade2d96",
-    "title": "Contributor Poker and Zig's AI Ban",
-    "url": "https://kristoff.it/blog/contributor-poker-and-ai/",
-    "summary": "<p>Article URL: <a href=\"https://kristoff.it/blog/contributor-poker-and-ai/\">https://kristoff.it/blog/contributor-poker-and-ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "cd2a9a77c923ff32",
+    "title": "Building Reliable Agentic AI Systems",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48595716 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:30:47 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 07:12:53 +0000"
   },
   {
-    "id": "77747fdac0870ffa",
-    "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
-    "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9",
-    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9\">https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "d6392e1b99c949fd",
+    "title": "Unreal Engine 5.8 adds MCP server for AI agents",
+    "url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+    "summary": "Article URL: https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available Comments URL: https://news.ycombinator.com/item?id=48583236 Points: 8 # Comments: 2",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:21:34 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Thu, 18 Jun 2026 10:12:16 +0000"
   },
   {
-    "id": "6972f12361941b30",
-    "title": "Bernie Sanders unveils $7T plan to give Americans control of AI industry",
-    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/\">https://arstechnica.com/tech-policy/2026/06/bern…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "b033e60c4709f0ec",
+    "title": "The Road to Unreal Engine 6",
+    "url": "https://www.unrealengine.com/news/the-road-to-ue-6",
+    "summary": "Article URL: https://www.unrealengine.com/news/the-road-to-ue-6 Comments URL: https://news.ycombinator.com/item?id=48572577 Points: 8 # Comments: 0",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:09:29 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Wed, 17 Jun 2026 16:16:17 +0000"
   },
   {
-    "id": "0ad9b5ceb57820a0",
-    "title": "Generative AI Is Having Its Herbalife Moment",
-    "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-    "summary": "<p>Article URL: <a href=\"https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife\">https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife</a></p> <p>Comments URL: <a href=\"https://new…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "789e748f99b6aa2e",
+    "title": "Show HN: Pen and paper resource development game with an emergent world",
+    "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
+    "summary": "I've been working for a while on trying to curate a game that has the emergence of procedurally generated computer games but that can be played with only pen and paper. Here I present the best version I've been able to come up with that is simple and emergent. I've really enjoyed being able to engage with this sort of game while not feeling like my brain in rotting. I recon my numeracy improves w…",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:37:51 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Tue, 16 Jun 2026 17:49:54 +0000"
   },
   {
-    "id": "4088114639a153f9",
-    "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search",
-    "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
-    "summary": "<p>Article URL: <a href=\"https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/\">https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulat…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "5df66460371d5018",
+    "title": "Show HN: Fish anything – a chill game using small models",
+    "url": "https://build-small-hackathon-llm-fishing.hf.space",
+    "summary": "Article URL: https://build-small-hackathon-llm-fishing.hf.space Comments URL: https://news.ycombinator.com/item?id=48547932 Points: 7 # Comments: 4",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:26:28 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Mon, 15 Jun 2026 22:32:57 +0000"
   },
   {
-    "id": "ae54838d0af03c64",
-    "title": "AI helped diagnose 18 children whose rare diseases had stumped doctors",
-    "url": "https://www.nbcnews.com/tech/innovation/ai-boston-childrens-hospital-diagnose-rare-diseases-kids-openai-rcna350387",
-    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/innovation/ai-boston-childrens-hospital-diagnose-rare-diseases-kids-openai-rcna350387\">https://www.nbcnews.com/tech/innovation/ai-boston-children…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "9e3aa322058f3c0e",
+    "title": "Game Engine White Papers: Commander Keen",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "summary": "Article URL: https://forgottenbytes.net/commander_keen.html Comments URL: https://news.ycombinator.com/item?id=48544781 Points: 238 # Comments: 79",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:12:23 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Mon, 15 Jun 2026 17:52:39 +0000"
   },
   {
-    "id": "fcdac4401714eb5a",
-    "title": "White House talks with Anthropic shift to setting AI security rules",
-    "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
-    "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758\">https://www.politico.com/news/2026/06/18/white-house-ta…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
+    "id": "0583f3a48b55852a",
+    "title": "Shepherd's Dog: A Game by Fable",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "summary": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog Comments URL: https://news.ycombinator.com/item?id=48513728 Points: 185 # Comments: 132",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:54:19 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Sat, 13 Jun 2026 05:44:46 +0000"
   },
   {
-    "id": "3f6d183e0c138bc8",
-    "title": "Why do politicians want AI to go faster?",
-    "url": "https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/",
-    "summary": "<p>Article URL: <a href=\"https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/\">https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicia…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:42:03 +0000"
-  },
-  {
-    "id": "224b45d38513022e",
-    "title": "AI Agents for Product Managers",
-    "url": "https://ferrix.ai/blog/ai-agents-for-product-managers",
-    "summary": "<p>Article URL: <a href=\"https://ferrix.ai/blog/ai-agents-for-product-managers\">https://ferrix.ai/blog/ai-agents-for-product-managers</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/it…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:19:47 +0000"
-  },
-  {
-    "id": "13b50c9aa3ac22b7",
-    "title": "A modest proposal: Reformat everything to make documents more palatable to AI",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938\">https://www.theregister.com/ai-and-ml/2…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 01:57:12 +0000"
-  },
-  {
-    "id": "7344c47ba59f9fe2",
-    "title": "AI has granted America new power",
-    "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
-    "summary": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power\">https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power</a></p>…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 01:30:46 +0000"
-  },
-  {
-    "id": "24d72cd91473409b",
-    "title": "From Dream Job to 'The Gulag': Inside Staff Revolt Zuckerberg's Brutal AI Push",
-    "url": "https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653",
-    "summary": "<p>Article URL: <a href=\"https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653\">https://www.inc.com/bruce-crumley/from-dr…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 01:23:21 +0000"
-  },
-  {
-    "id": "66918379d71c7344",
-    "title": "Observation is the layer under taste. We built it for AI runtime",
-    "url": "https://twitter.com/damnventures/status/2067394719756251468",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/damnventures/status/2067394719756251468\">https://twitter.com/damnventures/status/2067394719756251468</a></p> <p>Comments URL: <a href=\"https://news.ycombi…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 01:02:32 +0000"
-  },
-  {
-    "id": "2bfbd11a20434f52",
-    "title": "AI Governance Cannot Be a Tool Call",
-    "url": "https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/",
-    "summary": "<p>Article URL: <a href=\"https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/\">https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/</a></p> <p>Comments URL: <a href=\"https:/…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 00:53:50 +0000"
-  },
-  {
-    "id": "6b8c6f70e98e1a0b",
-    "title": "AI Holdouts in Tech Face 3 Times Higher Layoff Odds, Gallup Finds",
-    "url": "https://finance.yahoo.com/technology/ai/articles/ai-holdouts-tech-face-3-095310222.html",
-    "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/ai-holdouts-tech-face-3-095310222.html\">https://finance.yahoo.com/technology/ai/articles/ai-holdouts-tech-face-3-095310222.ht…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 00:34:33 +0000"
-  },
-  {
-    "id": "9d9cedcd54ca2648",
-    "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-    "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-    "summary": "<p>Article URL: <a href=\"https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again\">https://venturebeat.com/technology/why-weibos-tiny-vibethink…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 22:09:58 +0000"
-  },
-  {
-    "id": "cd32a0b326930ea5",
-    "title": "Accenture shares fall to lowest since 2017 as AI threat mounts",
-    "url": "https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62",
-    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62\">https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62</a></p> <p>Comments URL: <a href=\"https://new…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 21:02:18 +0000"
-  },
-  {
-    "id": "4582fa80045efa21",
-    "title": "Fed regulators order grid operators speed power to energy-hungry AI data centers",
-    "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5\">https://apnews.com/article/power-electricity-ai-plants-data-centers…",
-    "source_id": "hn-ai-game",
-    "source_name": "HN Search: AI game",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 20:44:14 +0000"
-  },
-  {
-    "id": "5973752d1125325a",
+    "id": "556bd0e68c2f49ed",
     "title": "6 years later, 20k+ copies sold, $135k revenue and I only launched on Console",
-    "url": "https://www.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ok so this comes a bit out of nowhere and I’m LATE to the party on making this postmortem but that graphic at Summer Games Fest of over 9k+ games being launched on s…",
+    "url": "https://old.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
+    "summary": "Ok so this comes a bit out of nowhere and I’m LATE to the party on making this postmortem but that graphic at Summer Games Fest of over 9k+ games being launched on steam had me thinking. So here this goes. Feel free to ask me anything and I’d be more than happy to chat about set up, who to contact, my experience, all the things. Context: I work in AAA now and I HATE looking at that game because i…",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-06-07T15:38:54+00:00"
   },
   {
-    "id": "4df9124c55a0c0ae",
+    "id": "cfaec43a13743aff",
     "title": "Our game jam entry blew up and we turned it into a full release with 175,000 wishlists. It was also stolen multiple times and turned into AI slop.",
-    "url": "https://www.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I’m the lead artist and one of the creators of <a href=\"https://store.steampowered.com/app/3198890/Scale_the_Depths/\">Scale the Depths</a>, a casual fishing and…",
+    "url": "https://old.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
+    "summary": "Hi! I’m the lead artist and one of the creators of Scale the Depths , a casual fishing and fish-scaling game that just launched today. We started out as a few friends who formed our team, Glass Gecko Games, back in university, and we’ve added more people to the team since then. We’ve hit the top 350 most wishlisted games on Steam with around 175,000 wishlists right before launch. This post is gon…",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-05-28T13:33:42+00:00"
   },
   {
-    "id": "b5c1738d8ffc777c",
-    "title": "What’s a feature you spent days making that players barely noticed?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u9uned/whats_a_feature_you_spent_days_making_that/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think every dev has one. Share your pain 😂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SeriousNothing1774\"> /u/SeriousNo…",
+    "id": "e03c627fe639e739",
+    "title": "Godot 4.7 Release: Lights, Camera, Action!",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u97ysa/godot_47_release_lights_camera_action/",
+    "summary": "New Godot engine release. And review from GameFromScratch: https://odysee.com/@gamefromscratch:1/godot-4.7-released-what's-new:2 &#32; submitted by &#32; /u/testus_maximus [link] &#32; [comments]",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-19T06:48:38+00:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T14:34:21+00:00"
   },
   {
-    "id": "d8865dc542a39443",
-    "title": "Where to look for an artist for a game?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u9jw95/where_to_look_for_an_artist_for_a_game/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not too long ago, I started developing my first commercial indie game, which I plan to release on Steam, and although I'm not deep into the development process yet,…",
+    "id": "bec64517ee456014",
+    "title": "Almost a year of game development, 3 (+1) games, and nothing",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9x3o1/almost_a_year_of_game_development_3_1_games_and/",
+    "summary": "Last September, I tried becoming a full-time game dev. Since then, I've bounced between being full-time and not. Since then I released three prototypes/MVPs/alphas, call them whatever you want, plus a Roblox game (more on that later), all of this for zero success. At this point I run out of motivation, founding, and time to continue. So I guess it's time to wrap it all up. I mostly focused on idl…",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T09:16:41+00:00"
+  },
+  {
+    "id": "afa326a733aeee49",
+    "title": "My game entered Next Fest with 6,000+ wishlists... and barely moved. Then I noticed this...",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9fgv7/my_game_entered_next_fest_with_6000_wishlists_and/",
+    "summary": "I'm trying to understand what happened with my game's Steam Next Fest participation, and I'd love to hear from other developers. My demo entered Next Fest with a little over 6,400 wishlists. Prior to the event, it was averaging around 90-100 wishlists per day. Once Next Fest started, I expected at least some noticeable increase. Instead, the numbers barely moved. Wishlist growth remained very clo…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T19:12:43+00:00"
+  },
+  {
+    "id": "01233acfe01a100c",
+    "title": "I'm a dev who has been working on my game for 2 years and THE EXACT SAME game title appeared on another Steam game as they plan to release before I do. Here is what to do in that situation:",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9y7c5/im_a_dev_who_has_been_working_on_my_game_for_2/",
+    "summary": "Quick summary of the situation: I've been working on my game called The Milgram Experiment for a while now and last week I found out a game with the exact same title was recently added to Steam. I wasn't sure what to do and never considered such a scenario because I always thought that Valve would just prevent you from using a name of a game that already exists. I made a post on r/IndieGaming and…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:20:43+00:00"
+  },
+  {
+    "id": "a7eecc2cce952884",
+    "title": "Do you also think my game looks a bit \"old-fashioned\"",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9rzgn/do_you_also_think_my_game_looks_a_bit_oldfashioned/",
+    "summary": "I'm a not-so-young game developer, and I can see myself that my game's graphics look a bit dated. Personally, I like this art style, but I'd be curious to hear what others think about it. Thank you for the feedback! Play Store link: https://play.google.com/store/apps/details?id=eu.landorhillstudio.spacedelivery.android &#32; submitted by &#32; /u/SpaceDeliveryBoiii [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T04:23:23+00:00"
+  },
+  {
+    "id": "1339e650bc759edd",
+    "title": "Those who have released a free game on Steam -- how many \"sales\" (free licenses) have you distributed?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9ltc5/those_who_have_released_a_free_game_on_steam_how/",
+    "summary": "My game Bad Golf has 27.7K total lifetime free units given away, and 1.1K unique users with a median play time of 6 minutes. This is since Sept 30, 2025 for a game with no press or marketing. Are there just bots that download every free Steam game out there? Or... what's going on here? &#32; submitted by &#32; /u/GrammerSnob [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T23:25:57+00:00"
+  },
+  {
+    "id": "59b134e6ef2aed41",
+    "title": "Why Are Short-Term Jobs Becoming So Common in the Games Industry?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u97192/why_are_shortterm_jobs_becoming_so_common_in_the/",
+    "summary": "Has anyone else noticed that short job tenures are becoming increasingly common in the games industry? It feels like even &quot;permanent&quot; positions aren't truly permanent anymore. Developers, artists, designers, and QA staff can join a studio, only for a restructure, project cancellation, or round of layoffs to happen before they've even passed probation. This creates a situation where tale…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T13:58:27+00:00"
+  },
+  {
+    "id": "2c1f1a75c847b147",
+    "title": "Where to look for an artist for a game?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9jw95/where_to_look_for_an_artist_for_a_game/",
+    "summary": "Not too long ago, I started developing my first commercial indie game, which I plan to release on Steam, and although I'm not deep into the development process yet, I’ve already made quite big progress. But the problem is that I don’t know how to draw or create animations at all, so even if I tried, the result would look really bad. I decided it would be better to find/hire an artist to create al…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-06-18T22:03:49+00:00"
   },
   {
-    "id": "b2e11eb59a114a8d",
-    "title": "Is it some kind of taboo to ask developers their earnings?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u8wjs2/is_it_some_kind_of_taboo_to_ask_developers_their/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Twice now I have asked sub reddits if they earned enough from their game to be considered a success and not wasting their time. And both times I didn't get straight…",
-    "source_id": "reddit-gamedev",
-    "source_name": "Reddit r/gamedev",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T04:34:09+00:00"
-  },
-  {
-    "id": "729a42cc50157036",
+    "id": "9e8f3a1623b196f2",
     "title": "All things about UE6 announced Yesterday.",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u8xp4t/all_things_about_ue6_announced_yesterday/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Straight to the point </p> <p>UE6 will be the first UE version that doesn't have any graphical jump.</p> <p>It will combine UE5 + Fortnite Metaverse </p> <p>I know M…",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u8xp4t/all_things_about_ue6_announced_yesterday/",
+    "summary": "Straight to the point UE6 will be the first UE version that doesn't have any graphical jump. It will combine UE5 + Fortnite Metaverse I know Many ppl doesn't even care about Fortnite Metaverse, So here is stuff important to us. Verse is Coming a New Visual Coding API with Directly integration with LLM's like Claude, Codex, Gemini etc UE will be able to handle much larger projects and multiplayer…",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-06-18T05:36:27+00:00"
   },
   {
-    "id": "e24354c194c35054",
-    "title": "Anyone else still uses little to no AI to code?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u8gc0p/anyone_else_still_uses_little_to_no_ai_to_code/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm wondering how much of a dinosaur I have become regarding my disdain for AI. I'm using unity / C#. I've started programming in 2013, and doing indie gamedev since…",
+    "id": "79ffcc9e8f50bb72",
+    "title": "Is it better for top 5 Steam tags to be uncommon tags?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9hpc3/is_it_better_for_top_5_steam_tags_to_be_uncommon/",
+    "summary": "Is it better for visibility to make less common tags the top 5, or does it not make much difference? I won't mention my own game but for example, if I had a science fiction rpg roguelite game, would it make more sense to have the top 5 tags something like Aliens, Atmospheric, Sci-Fi, Comedy, Surreal or the major genre tags like RPG, ARPG, Roguelite, Single-Player, Sci-Fi? With so many games relea…",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:37:37+00:00"
+  },
+  {
+    "id": "4da5d46ad9828689",
+    "title": "Anyone else still uses little to no AI to code?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u8gc0p/anyone_else_still_uses_little_to_no_ai_to_code/",
+    "summary": "I'm wondering how much of a dinosaur I have become regarding my disdain for AI. I'm using unity / C#. I've started programming in 2013, and doing indie gamedev since 2016. I don't typically use AI in my day to day work (I do paid contracts and also work on my own game). At most, I'll use ChatGPT once a week as a stackoverflow alternative. &#32; submitted by &#32; /u/MidlandAintFree [link] &#32; […",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-06-17T17:15:42+00:00"
   },
   {
-    "id": "887f178f577ba2cb",
-    "title": "What type of pixel art asset packs are you looking for and can't find?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u99jwd/what_type_of_pixel_art_asset_packs_are_you/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Are there any pixel art packs you wish existed? Or any you think are overused at this point and would like to see something new?</p> <p>I am thinking of making some…",
+    "id": "84cb03db55e63036",
+    "title": "When does Steam show your game?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u9sh8h/when_does_steam_show_your_game/",
+    "summary": "I know that you’re supposed to drive traffic to your Steam page yourself at the beginning. But it makes me wonder, when does Steam actually start showing your game around? So I’m at a point where I’ll have a demo ready soon. Once that happens, will it help? Or do you still need to bring every click from outside? &#32; submitted by &#32; /u/eRickoCS [link] &#32; [comments]",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T04:49:42+00:00"
+  },
+  {
+    "id": "d931cf2a461b73a9",
+    "title": "What type of pixel art asset packs are you looking for and can't find?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u99jwd/what_type_of_pixel_art_asset_packs_are_you/",
+    "summary": "Are there any pixel art packs you wish existed? Or any you think are overused at this point and would like to see something new? I am thinking of making some asset packs, but I would like to avoid oversaturated niches for obvious reasons. &#32; submitted by &#32; /u/Mean-Ear-6534 [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
     "published": "2026-06-18T15:34:12+00:00"
   },
   {
-    "id": "1755c07be47e3bf9",
-    "title": "What's one feature players consistently notice that you expected nobody to care about?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u8y7xb/whats_one_feature_players_consistently_notice/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Every time I show a build to players, they end up commenting on something completely different from what I expected. Sometimes it's a tiny UI detail, a sound effect,…",
+    "id": "489e16e532793ecb",
+    "title": "Epic Games released a game-specific git competitor: Lore",
+    "url": "https://old.reddit.com/r/gamedev/comments/1u8cwp1/epic_games_released_a_gamespecific_git_competitor/",
+    "summary": "Apparently the problem they're solving for is merge conflicts in non-text files like art assets. Our team is small and we have no chance for conflict on files like these so we'll likely stick with git for our version control. Curious if others see a use case for this in their work. &#32; submitted by &#32; /u/LittleDipperInt [link] &#32; [comments]",
     "source_id": "reddit-gamedev",
     "source_name": "Reddit r/gamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T06:06:20+00:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-17T15:11:32+00:00"
   },
   {
-    "id": "c528de36286f404c",
-    "title": "What's your game brainstorming process?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u991rs/whats_your_game_brainstorming_process/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Do your best game ideas just come to you seemingly out of nowhere?</p> <p>Or do you have a deliberate process that helps you brainstorm your next game? If so, what?<…",
-    "source_id": "reddit-gamedev",
-    "source_name": "Reddit r/gamedev",
+    "id": "d1b3e87684f6eccd",
+    "title": "AI Game Dev Discord",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1shiykx/ai_game_dev_discord/",
+    "summary": "Friendly reminder that we have a discord server you can all hang out at. The discussions there are much more in depth, and nothing beats being able to chat to other like minded devs in real time (or close to). Hop on this weekend and say hi. https://discord.gg/6yrzsDJVGp &#32; submitted by &#32; /u/fisj [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T15:15:33+00:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-04-10T10:43:30+00:00"
   },
   {
-    "id": "91ccaf526a5b63e8",
-    "title": "What is the market like for game designers / level designers?",
-    "url": "https://www.reddit.com/r/gamedev/comments/1u9a6ty/what_is_the_market_like_for_game_designers_level/",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently got enrolled into a school that focuses on game design / ux design. Is it even worth it? I've heard and read so much about how difficult it is to get a jo…",
-    "source_id": "reddit-gamedev",
-    "source_name": "Reddit r/gamedev",
+    "id": "4d21a9f97a2e0dc3",
+    "title": "AI -> Pixel Art workflow",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9etqa/ai_pixel_art_workflow/",
+    "summary": "I've been working on an (automated) workflow that can use completely AI generated images to create pixel art sprites with a lattice-fitting algorithm to do the downsampling into crisp, clean pixel art. I got it basically identical to a ground truth that I hand-redrew in one example. The lattice based approach works better than any uniform grid fitting approach because of global alignment inconsis…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T15:58:38+00:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T18:48:53+00:00"
   },
   {
-    "id": "6f0a305f04d19efb",
-    "title": "Pocketpair lead on generative AI: Gamers don't want it",
-    "url": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
-    "summary": "Pocketpair communications director and publishing manager John Buckley doesn't see genAI ever becoming too prominent.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "28f87a24d9420124",
+    "title": "Unreal Engine 5.8 has Al integration with Claude and Codex.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u946zi/unreal_engine_58_has_al_integration_with_claude/",
+    "summary": "&#32; submitted by &#32; /u/Temporary_Idea8880 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 15:46:44 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T11:54:33+00:00"
   },
   {
-    "id": "88ca01061aa75c07",
-    "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
-    "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
-    "summary": "Poncle voiced its doubts mere hours after the collaboration's announcement.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "5d9ae224c83d1735",
+    "title": "I’m building an AI-assisted Godot 4 space 4X: Galactum Meridian is now on Steam.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9l6cw/im_building_an_aiassisted_godot_4_space_4x/",
+    "summary": "Hi r/aigamedev . I’m the developer of Galactum Meridian , a discovery-first space strategy / 4X game that just went live on Steam for wishlisting. Steam page: https://store.steampowered.com/app/4690110/Galactum_Meridian/ The short version: Galactum Meridian is about leading humanity’s first deep survey mission beyond Sol. The player commands the Far Horizon Expedition, explores nearby star system…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 14:44:30 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T22:58:19+00:00"
   },
   {
-    "id": "77491d15757de739",
-    "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
-    "url": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
-    "summary": "'While Tencent has decided not to make an additional investment in the studio in the short term, it continues to be a long-term shareholder of the company.'",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "74b2bad78bf7b9ef",
+    "title": "Made a small three.js game using only prompt-generated 3D assets. Showing the gameplay and the actual unoptimized meshes (~40k tris)",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9y8s2/made_a_small_threejs_game_using_only/",
+    "summary": "Quick build-in-public share. This is a small browser game (three.js) where every object — the glider, the floating islands, crystals, rocks — was generated from a prompt, exported as .glb, and dropped straight into the scene. No asset store, no Blender. Disclosure: I work on the MCP that generates the assets (Dro). So take this as &quot;here's what the pipeline produces,&quot; not a pitch. Being…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 19:12:04 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:22:58+00:00"
   },
   {
-    "id": "f4b51fc2d179a34c",
-    "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
-    "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
-    "summary": "Major changes to Unreal Engine include a change of programming model, tools for cross-game interoperability, and genAI pipeline features.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "0f64c99e141b443e",
+    "title": "i started on this MMORPG in threeJS 3 days ago",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9p7nd/i_started_on_this_mmorpg_in_threejs_3_days_ago/",
+    "summary": "Since turtle WoW shut down I started a passion project this is all in threeJS and in a browser. Not much yet but just started this past weekend. My biggest issue is modeling 😭 but hope you guys like it! post more frequent updates on x https://x.com/yeehaw_games?s=21&amp;t=fWaeKuwvARny_EQ5hK5YEg &#32; submitted by &#32; /u/Winter_West_8839 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 18:44:50 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T02:05:55+00:00"
   },
   {
-    "id": "956a51e80f3a4612",
-    "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
-    "url": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
-    "summary": "OtherSide says the current challenging video game landscape rendered codenamed project Argos 'unviable for now.'",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "cd175e10375fa9ae",
+    "title": "Need your brainpower: Help me choose a tagline for my local AI-driven MUD (and check out the Web UI preview!)",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9uv4r/need_your_brainpower_help_me_choose_a_tagline_for/",
+    "summary": "Hi everyone! Following up on my last post about building an AI-powered MUD ( Homeris ) backed by Java, PostgreSQL, and local Ollama orchestration , I’m currently finalizing the brand identity and the Web UI. Since the game relies heavily on text immersion—where strict database facts dictate what happens and a local 8B model decides how to narrate it based on context—I want a tagline that captures…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 18:06:20 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T07:01:04+00:00"
   },
   {
-    "id": "8584d0cc2b82154e",
-    "title": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
-    "url": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
-    "summary": "The Housemarque veteran explains how he intends to break new ground while remaining 'lean and mean'—and yes, that might involve the use of generative AI.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "f2ee6022f3fe1a73",
+    "title": "Chonky Cat Waddled into Steam Next Fest",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u975py/chonky_cat_waddled_into_steam_next_fest/",
+    "summary": "&#32; submitted by &#32; /u/jiltedgenerationprod [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 14:29:05 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T14:03:02+00:00"
   },
   {
-    "id": "274a3952c7da39f9",
-    "title": "Rockstar suffers legal blow in union busting dispute as trial date set",
-    "url": "https://www.gamedeveloper.com/business/rockstar-suffers-legal-blow-in-union-busting-dispute-as-trial-date-set",
-    "summary": "The decision means fired union workers will be able to bring blacklisting claims against the studio at trial later this year.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "591a9ee13a1bbc67",
+    "title": "Retro Diffusion Question",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9yfnb/retro_diffusion_question/",
+    "summary": "Hi everyone, new AI game developer here so i apologize for the potentially dumb question: I created my first tileset in retro diffusion yet when I open it in Tiled, it has way more tiles than I would have expected. This makes mapping difficult / confusing. I created this in Retro Diffusion: https://preview.redd.it/h9wn2ocav78h1.png?width=2030&amp;format=png&amp;auto=webp&amp;s=998dea87d48747a66c4…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 13:30:38 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:33:43+00:00"
   },
   {
-    "id": "1f52ba486c6bf214",
-    "title": "Luna Abyss development team laid off by Kwalee",
-    "url": "https://www.gamedeveloper.com/business/luna-abyss-development-team-laid-off-by-kwalee",
-    "summary": "The UK publisher has made the entire development team redundant just weeks after the acclaimed shooter hit shelves.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "4e51c0af1abb4b6e",
+    "title": "Woke up, wrote up a design document, two days of back and forth with Claude later I have a nearly finished demo.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9mc4l/woke_up_wrote_up_a_design_document_two_days_of/",
+    "summary": "Heyo people! My work has us using Claude now a bit more and I decided to give it's black magic a full shot at helping me make a game. I do have a background in programming, but not a lot of game dev experience. Most of what you see here was done with shaders, tweens, and procedural generation. It can sometimes be a pain to get what you want, but it really is a powerful tool! This was done in Godo…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 09:56:46 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T23:49:32+00:00"
   },
   {
-    "id": "09acabf5c75deeb9",
-    "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
-    "url": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
-    "summary": "Fumi Games' Mouse: P.I. For Hire is more than a Steamboat Willy parody—but does its worldbuilding always stick the landing?",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
-    "topics": [
-      "vibe-coding-commercial"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 16 Jun 2026 14:08:07 GMT"
-  },
-  {
-    "id": "655acb9b8eb00956",
-    "title": "Treyarch studio head steps down after 22 years",
-    "url": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
-    "summary": "Two new co-studio heads will take over for Mark Gordon.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "738b2c1e740c9bc7",
+    "title": "Thanks to AI, we're all making browser games wild again",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9y47p/thanks_to_ai_were_all_making_browser_games_wild/",
+    "summary": "I love seeing all the crazy stuff you guys are building. The odds are against us in so many ways but keep the faith, soon we're gonna show the world that browser games will matter again in a big way. Anyways, a little update from my 100% vibe coded destruction-based beat smasher - more visual polish, better onboarding, new beat assist mode, free aim mode and more play-influenced procedural music…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 16 Jun 2026 14:05:00 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:15:58+00:00"
   },
   {
-    "id": "7b039eb7628be9d0",
-    "title": "Report: Multiple Xbox game studio heads negotiating with Xbox to avoid closure",
-    "url": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
-    "summary": "Update: Xbox's strategic reset appears to involve shutting down or divesting less-profitable studios.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "532baaf21b09b4d4",
+    "title": "I have been adding regions with their crest on my game world map, thoughts?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9tbwv/i_have_been_adding_regions_with_their_crest_on_my/",
+    "summary": "Hello! I'm trying to make the game more engaging and add another layer of complexity/lore/politics on top of the current simple online RPG loot/progression layer and I wonder what do you guys think. Clouds are dynamic and move around 😛. Game is https://berrus.app (already playable with dozens of active players, join us on discord!). &#32; submitted by &#32; /u/v1dal [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 15 Jun 2026 20:16:23 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T05:34:44+00:00"
   },
   {
-    "id": "9e1dce2f4c918888",
-    "title": "EA announces advertising platform to launch ads 'directly into gameplay'",
-    "url": "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform-to-launch-ads-directly-into-gameplay-",
-    "summary": "The new EA Advertising platform is launching with partnerships from Visa, Red Bull, Xfinity, Lowe's, Peacock, and Mountain Dew.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "4c3a57a1fd77f93b",
+    "title": "Does AI Have Problems Understanding 3 Dimensions?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9t2kt/does_ai_have_problems_understanding_3_dimensions/",
+    "summary": "&#32; submitted by &#32; /u/Odd-Woodpecker-592 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 15 Jun 2026 19:05:16 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T05:20:40+00:00"
   },
   {
-    "id": "88a0a2ee2a9433a1",
-    "title": "Report: Two former Rare execs are leaving Xbox",
-    "url": "https://www.gamedeveloper.com/business/report-two-former-rare-execs-are-leaving-xbox",
-    "summary": "Head of Xbox Game Studios Craig Duncan and Xbox Game Studios chief of staff Louise O'Connor are leaving the outfit.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "61e2784023c63835",
+    "title": "Cool games on Steam Next Fest made with AI",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9h31i/cool_games_on_steam_next_fest_made_with_ai/",
+    "summary": "Would love to get some recommendations oncool games developed using AI on Steam Next Fest to download and wishlist. &#32; submitted by &#32; /u/ResenhaDoBar [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 15 Jun 2026 16:59:02 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:14:07+00:00"
   },
   {
-    "id": "224671a839c673cc",
-    "title": "Microsoft CEO says Xbox must become 'sustainable' as it reportedly considers major spinoff",
-    "url": "https://www.gamedeveloper.com/console/microsoft-ceo-says-xbox-must-become-sustainable-as-it-reportedly-considers-major-spinoff",
-    "summary": "'The challenge we have is we've not been monetizing that entertainment...if anything we've been subsidizing that entertainment.'",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "ef9ef849db15b7f9",
+    "title": "Rogue-like developed as first ever game using Claude",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9elto/roguelike_developed_as_first_ever_game_using/",
+    "summary": "Despite being a software developer, I have not written a single line of code and done minimal bug testing for this game. I wanted to see how far I could get with a few hours of work and just worked on this for a few hours while trying to kill some time at work. Apart from making Flappy Bird in Unity once, this is my first ever game. I was gonna build it with Fable 5 but had the idea AFTER Fable 5…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 15 Jun 2026 15:06:39 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T18:40:48+00:00"
   },
   {
-    "id": "10f880f18a0a7445",
-    "title": "The art of game writing in 'non-narrative' games ft. Emma Kidwell and Harrison Pink",
-    "url": "https://www.gamedeveloper.com/design/the-art-of-game-writing-in-non-narrative-games-ft-emma-kidwell-and-harrison-pink",
-    "summary": "This week senior editor Bryant Francis sits down with narrative designer Harrison Pink and game writer Emma Kidwell for a conversation about the craft of creating narrative content in games that don’…",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
-    "topics": [
-      "vibe-coding-commercial"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 12 Jun 2026 14:15:00 GMT"
-  },
-  {
-    "id": "0c67963c48931c4a",
-    "title": "Playstack sold, Xbox announces business 'reset,' and is generative AI poisoning the well? - Patch Notes #56",
-    "url": "https://www.gamedeveloper.com/business/playstack-sold-xbox-announces-business-reset-and-is-generative-ai-poisoning-the-well-patch-notes-55",
-    "summary": "Plus: Could an arbitration clause prevent families suing Roblox from taking the company to court?",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "1aac034d669a58b2",
+    "title": "Game prototype - Part 3 [Multiplayer]",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9jlbq/game_prototype_part_3_multiplayer/",
+    "summary": "This is a continuation of my game prototype series. Changes: - Added experimental multiplayer support [Partially authoritative] The multiplayer implementation is around 50% done, the first game mode will be Players versus Computer (Zombies), it's a bit buggy currently, but the premise is, the team has to defend waves of zombies (until reaching some predefined wave number, after which the game is…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 12 Jun 2026 09:54:22 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T21:51:30+00:00"
   },
   {
-    "id": "d38f76016199cafa",
-    "title": "Update: Niantic Spatial denies Pokemon Go video scans are used for AI drone training",
-    "url": "https://www.gamedeveloper.com/business/report-pokemon-go-area-scans-sold-to-military-drone-technology-company",
-    "summary": "Update: A Niantic Spatial spokesperson has confirmed that Pokemon Go spatial data is not shared with the former branch of Niantic.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "0907eb233d0e5936",
+    "title": "List Of AI Development Tools (with discount codes) and Game Publishers",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9ajmp/list_of_ai_development_tools_with_discount_codes/",
+    "summary": "If this already exist, sorry for the duplication, but here is a list of AI Development tools and also publishers to reach out. https://docs.google.com/spreadsheets/d/10LtnutxIzaOO3p8c73EyvAg9KLEKLI37/edit?usp=sharing&amp;ouid=101145796026083063462&amp;rtpof=true&amp;sd=true Some of the AI Tools of discount codes for free access. And then there is a verified vs unverified publisher list. &#32; sub…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 11 Jun 2026 14:37:45 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T16:11:44+00:00"
   },
   {
-    "id": "668230732b35c10d",
-    "title": "Xbox announces business 'reset' amid reports of layoffs and studio closures",
-    "url": "https://www.gamedeveloper.com/business/xbox-announces-business-reset-amid-reports-of-layoffs-and-studio-closures",
-    "summary": "Xbox CEO Asha Sharma said the video game division must display 'optimism and realism' as it moves forward.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "57b3d25e502f441d",
+    "title": "Cat Dominion",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9ibun/cat_dominion/",
+    "summary": "This isn't for commercial purposes or anything... just made a version of Dominion but with cats 😅 Still trying to get link to show but it works &#32; submitted by &#32; /u/Dramatic_Wheel2416 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 11 Jun 2026 10:20:53 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T21:01:34+00:00"
   },
   {
-    "id": "e915c1762ffa1e67",
-    "title": "Valve confirms it won't restock Steam Gift Cards",
-    "url": "https://www.gamedeveloper.com/business/valve-confirms-it-won-t-restock-steam-gift-cards",
-    "summary": "The company expects all retailers to be out of stock of Steam Gift Cards by the end of 2026.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "36b54ca0887fcb24",
+    "title": "I made a complete game with Deep Seek",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9hk3y/i_made_a_complete_game_with_deep_seek/",
+    "summary": "Hey guys, im an amateur solo developer interested in exploring revenue in mobile games and applications. I just completed my first project in Godot, completely assisted with VS Code CLI. I spent about 4 weeks working on it, and maybe less than 200 hours combined. I would love to know what you guys think of it and also any help promoting. You read more about it and play it in browser TRY IT HERE!…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 10 Jun 2026 19:00:00 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:32:02+00:00"
   },
   {
-    "id": "691886c07d8964d5",
-    "title": "Ubisoft closing Winnipeg and Belgrade studios and making further layoffs",
-    "url": "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs",
-    "summary": "The French publisher could eliminate up to 380 roles.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "3ce52ad34b50a1b6",
+    "title": "Never knew how to get into D&D - or tired of sessions always getting rescheduled? After a year of testing, we're finally available on Google Play!",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u98uvd/never_knew_how_to_get_into_dd_or_tired_of/",
+    "summary": "Hey folks! We’re two brothers behind Master of Dungeon, and we’re happy to be back here after some time since we first started sharing the project. For anyone who hasn’t seen it before - quick recap. We loved playing D&amp;D, but like many of you, we just couldn’t keep up with regular sessions anymore. Work, life, scheduling… it got harder and harder to come back to the table. So instead of letti…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 10 Jun 2026 16:59:59 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T15:08:32+00:00"
   },
   {
-    "id": "c1f22bdd64ed922d",
-    "title": "Telltale Games is back, but can it learn from its past mistakes?",
-    "url": "https://www.gamedeveloper.com/production/can-telltale-games-learn-from-its-past-mistakes-",
-    "summary": "Telltale Games was once the standard-bearer for interactive storytelling. Its new leaders want to reclaim that title in a more sustainable way.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "dc35f61f65738aad",
+    "title": "Could real-time world models make UGC mini-game creation easier?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u98ttk/could_realtime_world_models_make_ugc_minigame/",
+    "summary": "&#32; submitted by &#32; /u/Delicious_Yak_4209 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 09 Jun 2026 14:11:41 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T15:07:28+00:00"
   },
   {
-    "id": "78bee05e5b617b39",
-    "title": "Embracer-owned VR developer Vertigo Games closes Amsterdam studio",
-    "url": "https://www.gamedeveloper.com/business/embracer-owned-vr-developer-vertigo-games-closes-amsterdam-studio",
-    "summary": "It's unclear how many people have been impacted by the closure.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "db5bd5fd51beb1f0",
+    "title": "Early AI open-world prototype — what would you improve first?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9vxcs/early_ai_openworld_prototype_what_would_you/",
+    "summary": "&#32; submitted by &#32; /u/Fearless_Shift7108 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 09 Jun 2026 11:48:51 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T08:05:05+00:00"
   },
   {
-    "id": "3b1549061ca58944",
-    "title": "Paramount unveils new 'unified' Paramount Games Studio",
-    "url": "https://www.gamedeveloper.com/business/paramount-games-studio-breaks-cover",
-    "summary": "The freshly unveiled studio will house all current Paramount and Skydance game studios moving forward.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "be92eece87a6cf7e",
+    "title": "We back Squad !! (For my New Life players)",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9ksh5/we_back_squad_for_my_new_life_players/",
+    "summary": "Yooo we back !! First off I just want to thank you guys for the support and love !! I greatly appreciate it !! If you were playing and had a black screen issue it is now fixed as i explain in my itch.io devlogs. BUT..the game just got its biggest update and it’s live now !! Career, gang, and job system expansions, plus more I want you guys to discover on your own🤐 love yall !! 💙🙌🏾 https://locomus…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 05 Jun 2026 21:40:05 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T22:41:25+00:00"
   },
   {
-    "id": "5f4ffba779a700b5",
-    "title": "PlayerUnknown Productions is laying off staff and halting development on Go Wayback",
-    "url": "https://www.gamedeveloper.com/business/playerunknown-productions-is-laying-off-staff-and-halting-development",
-    "summary": "The studio founded by Brendan 'PlayerUnknown' Greene will operate with a smaller team going forward.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "2a9e5683be64a8f7",
+    "title": "Testing a cute pixel unicorn platformer — does the jump timing feel satisfying?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u9vt1g/testing_a_cute_pixel_unicorn_platformer_does_the/",
+    "summary": "&#32; submitted by &#32; /u/Fearless_Shift7108 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 03 Jun 2026 16:14:23 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T07:57:54+00:00"
   },
   {
-    "id": "bc5a98f84fa0ef6b",
-    "title": "Update: Team17 has laid off members of its marketing and communications department",
-    "url": "https://www.gamedeveloper.com/business/team17-has-laid-off-members-of-its-marketing-and-communications-department",
-    "summary": "Two employees have been let go.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "915f0898081ab925",
+    "title": "Devlog Tráiler for My game Bounty Hunters",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1u901yi/devlog_tráiler_for_my_game_bounty_hunters/",
+    "summary": "I got the spider mech animated on pixverse AND then i painted on top of it to refine the animation, also the glitch effect Is on me. Going to be releasing My 1st bullethell game 'Bounty Hunters' on steam on early release in about 1month. You can wishlist and support My game on steam: https://store.steampowered.com/app/2507500/Bo… &#32; submitted by &#32; /u/Ciso507 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 03 Jun 2026 14:58:09 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T07:55:43+00:00"
   },
   {
-    "id": "5582aa3a3c58d477",
-    "title": "Mina the Hollower sells 300,000 copies in three days",
-    "url": "https://www.gamedeveloper.com/business/mina-the-hollower-sold-300-000-copies-in-three-days",
-    "summary": "Yacht Club Games previously indicated the title's performance would 'make or break' the studio.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "297511e71c28b365",
+    "title": "Glade-tool/glade-mcp",
+    "url": "https://github.com/Glade-tool/glade-mcp",
+    "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 235+ granular tools, a Unity-aware system prompt, game design document project context, script semantic search, and skill calibration.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 03 Jun 2026 10:05:43 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T09:14:54Z"
   },
   {
-    "id": "b35b93f615f5ae71",
-    "title": "Tekken 8 game director Kohei Ikeda has left Bandai Namco",
-    "url": "https://www.gamedeveloper.com/business/tekken-8-game-director-kohei-ikeda-has-departed-bandai-namco",
-    "summary": "Ikeda worked at the Japanese company for two decades.",
-    "source_id": "gd-ai",
-    "source_name": "Game Developer",
+    "id": "151bab52db5cbf18",
+    "title": "DY-2026/GameDesignOS",
+    "url": "https://github.com/DY-2026/GameDesignOS",
+    "summary": "Evidence-first agent skills for game design analysis, concept architecture, and AI workflow evolution.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
       "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 02 Jun 2026 14:40:38 GMT"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T08:26:31Z"
   },
   {
-    "id": "cf59b5b1d0067d15",
-    "title": "Show HN: One-click fork of \"Everything Claude Code\" onto an isolated microVM",
-    "url": "https://www.jurniti.com/templates/ecc",
-    "summary": "<p>Article URL: <a href=\"https://www.jurniti.com/templates/ecc\">https://www.jurniti.com/templates/ecc</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48596184\">https://news.yco…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "290effe47a8d5e84",
+    "title": "Asara-Technologies/prism-mcp",
+    "url": "https://github.com/Asara-Technologies/prism-mcp",
+    "summary": "Direct AI access to the Unreal Engine editor. PrismMCP is a Model Context Protocol (MCP) plugin for UE 5.3-5.7, exposing 1,678 commands across 58 editor systems to Claude Code, Cursor, Claude Desktop, and any MCP-compatible AI agent. By Asara Technologies.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 08:22:14 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T07:41:47Z"
   },
   {
-    "id": "2e248603718eff9f",
-    "title": "Show HN: Avera – a deterministic check that proves no regression was introduced",
-    "url": "https://github.com/tc7kxsszs5-cloud/avera",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tc7kxsszs5-cloud/avera\">https://github.com/tc7kxsszs5-cloud/avera</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48596140\">https://…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "b6eacf18d493a6eb",
+    "title": "cuberhaus/joc_eda",
+    "url": "https://github.com/cuberhaus/joc_eda",
+    "summary": "Programming game project (FIB-UPC, EDA course): C++ AI game with a Mithril.js + Canvas replay viewer and Go backend for match playback.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 08:16:32 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T07:04:03Z"
   },
   {
-    "id": "0068d946dc3c7d20",
-    "title": "Show HN: I was drowning in browser tabs, so I built this",
-    "url": "https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfkkomnmk",
-    "summary": "<p>Article URL: <a href=\"https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfkkomnmk\">https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfk…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "35192f88c8101fcb",
+    "title": "amsbangs1975-collab/unity-shader-agent-canvas",
+    "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas",
+    "summary": "Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 08:08:00 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T06:17:36Z"
   },
   {
-    "id": "86c719f5a67dfbdd",
-    "title": "Show HN: Redteam:If you are using more than 2 coding agents",
-    "url": "https://github.com/AscendyProject/redteam",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AscendyProject/redteam\">https://github.com/AscendyProject/redteam</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48596064\">https://…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "d84494f3f935c4ce",
+    "title": "kevinpbuckley/VibeUE",
+    "url": "https://github.com/kevinpbuckley/VibeUE",
+    "summary": "Unreal Engine Vibe Coding tool",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 08:02:18 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T09:31:25Z"
   },
   {
-    "id": "9e696ce371c25eb7",
-    "title": "Show HN: Write SaaS apps where users control where their data is stored",
-    "url": "https://github.com/wolfoo2931/linkedrecords/",
-    "summary": "<p>Article URL: <a href=\"https://github.com/wolfoo2931/linkedrecords/\">https://github.com/wolfoo2931/linkedrecords/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595882\">ht…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "204b324fd09c7629",
+    "title": "lazyxeon/AstraWeave",
+    "url": "https://github.com/lazyxeon/AstraWeave",
+    "summary": "A game engine where AI agents aren't scripted — they plan, learn, and adapt. Rust. Deterministic ECS. Designed and built entirely through human-AI collaboration. MIT licensed.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:37:14 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T01:41:51Z"
   },
   {
-    "id": "093b9cc8dc583f97",
-    "title": "Show HN: Appaca – AI Workspace for Operators",
-    "url": "https://www.appaca.ai/index.html",
-    "summary": "<p>Build a custom CRM, internal tool, or workflow your team needs. Appaca builds and runs it all in one platform.</p> <hr /> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595638\">h…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "b12f253c7672273b",
+    "title": "krishsharma-code/krishsharma-code",
+    "url": "https://github.com/krishsharma-code/krishsharma-code",
+    "summary": "Computer Engineering Student @ DSEU | Lead Developer @ VS Gaming Studio | Building AI-Driven Web Solutions & Python Scripts 🚀",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 07:00:02 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T01:21:13Z"
   },
   {
-    "id": "b1ce80d397d40f9b",
-    "title": "Show HN: `pbi`, an image aware pbcopy/paste for macOS command line users.",
-    "url": "https://github.com/fragmede/pbi",
-    "summary": "<p>Ever right click an image on your mac and then try to use pbpaste > destination.jpg and it didn't work? Or try to pbcopy < nyan.jpeg and not be able to paste it?<p>Introducing: pbi</p> <hr /> <p>C…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "a2c0a866cf4ebc43",
+    "title": "coleyrockin/Chess-Game",
+    "url": "https://github.com/coleyrockin/Chess-Game",
+    "summary": "Neon City Chess — React + Three.js + chess.js, browser-first with worker-based AI, 3D Staunton pieces, lessons, daily puzzle, share links. Live at neon-city-chess.vercel.app (v3.4.0).",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:48:27 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T00:39:16Z"
   },
   {
-    "id": "c4e1c09bd27847b9",
-    "title": "Show HN: Protect your Go, Arch and AUR from Malware with a free firewall",
-    "url": "https://www.vulnetix.com/features/package-firewall",
-    "summary": "<p>Article URL: <a href=\"https://www.vulnetix.com/features/package-firewall\">https://www.vulnetix.com/features/package-firewall</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "508322468137bf7e",
+    "title": "jame581/GodotPrompter",
+    "url": "https://github.com/jame581/GodotPrompter",
+    "summary": "Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Gemini, Cursor)",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:41:58 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T06:26:25Z"
   },
   {
-    "id": "9035f5153159777c",
-    "title": "Show HN: Foldkit vs. React, the same pixel art editor implemented in both",
-    "url": "https://foldkit.dev/react/foldkit-vs-react-side-by-side",
-    "summary": "<p>Hi HN,<p>I'm the creator of Foldkit, a TypeScript framework built on Effect and inspired by the Elm Architecture.<p>This page compares the same pixel art editor implemented in React and Foldkit si…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "b99d161cbad02766",
+    "title": "indresh404/indresh404",
+    "url": "https://github.com/indresh404/indresh404",
+    "summary": "💻 Computer Engineering student passionate about coding, problem-solving, and building real-world projects. Exploring software development, AI, web technologies, and game development through continuous learning and hands-on creation.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:34:21 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:33:36Z"
   },
   {
-    "id": "e3e07bba99cc5384",
-    "title": "Show HN: Validate your idea from Reddit and TikTok",
-    "url": "https://draper.chat",
-    "summary": "<p>Article URL: <a href=\"https://draper.chat\">https://draper.chat</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595040\">https://news.ycombinator.com/item?id=48595040</a></p…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "b43fd90b5573cd37",
+    "title": "marko-builds/Claude-Code-Dev-Studio",
+    "url": "https://github.com/marko-builds/Claude-Code-Dev-Studio",
+    "summary": "A full-stack Claude Code studio — 37 agents, Studio Brain onboarding, game dev track, design phase. Bring an idea, the studio handles the rest.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 05:21:01 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:18:00Z"
   },
   {
-    "id": "afff43ed1f2efefb",
-    "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
-    "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/RayanPal_/status/2067816563995189631\">https://twitter.com/RayanPal_/status/2067816563995189631</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "f136fa54cb44c9ae",
+    "title": "simongonzalezdc/GameStory-Lab",
+    "url": "https://github.com/simongonzalezdc/GameStory-Lab",
+    "summary": "AI-assisted game design document (GDD) generator: mechanics, lore, branching story, consistency validation, and exports for indie developers.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:33:16 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:04:51Z"
   },
   {
-    "id": "4c46395b65b5df25",
-    "title": "Show HN: Sakha – An AI employee – onboarding tool for businesses",
-    "url": "https://www.sakha.one",
-    "summary": "<p>Article URL: <a href=\"https://www.sakha.one\">https://www.sakha.one</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594782\">https://news.ycombinator.com/item?id=48594782</a…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "24df894c736340e1",
+    "title": "ryonsherman/pygame-rebound",
+    "url": "https://github.com/ryonsherman/pygame-rebound",
+    "summary": "4-player castle battle game with Pygame and NATS multiplayer. Local AI or online play.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:30:22 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T20:01:23Z"
   },
   {
-    "id": "3dc172f1fdcb251f",
-    "title": "Show HN: FLIP TABLE 2026",
-    "url": "https://fliptable.nyc/",
-    "summary": "<p>Article URL: <a href=\"https://fliptable.nyc/\">https://fliptable.nyc/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594644\">https://news.ycombinator.com/item?id=48594644<…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "4ddfed17e277097b",
+    "title": "nonlooped/roblox-suite",
+    "url": "https://github.com/nonlooped/roblox-suite",
+    "summary": "Stop shipping outdated Luau. Production-grade, opinionated skill set for AI agents and developers. Accurate Roblox guidance + reusable scripts, grounded in official docs.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 04:00:54 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T19:43:42Z"
   },
   {
-    "id": "b28a8cffea98f8af",
-    "title": "Show HN: Kill 80% of meetings by sending short clips back-and-forth",
-    "url": "https://www.flowylabs.ai/llink",
-    "summary": "<p>Hey folks,<p>So you basically send quick video / audio clips back-and-forth. And because of the mechanics, it feels conversational and actually replaces meetings (unlike Loom, which is fire and fo…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "d4e4c6c3fd9c913b",
+    "title": "mhassan-ali/modern-pacman-mvc",
+    "url": "https://github.com/mhassan-ali/modern-pacman-mvc",
+    "summary": "A modern Pacman game built with MVC architecture, BFS-based ghost AI, and scalable desktop & browser implementations.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 03:59:26 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T18:46:54Z"
   },
   {
-    "id": "ff1510e381d9b329",
-    "title": "Show HN: Coding Tools MCP – Give any LLM agent the ability to code",
-    "url": "https://github.com/xyTom/coding-tools-mcp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/xyTom/coding-tools-mcp\">https://github.com/xyTom/coding-tools-mcp</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594594\">https://…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "3de2adbeddd570d1",
+    "title": "wellingfeng/FreeUltraCode",
+    "url": "https://github.com/wellingfeng/FreeUltraCode",
+    "summary": "FreeUltraCode - AI coding agent for game development: engine workflows, gameplay code, and asset generation.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 03:50:38 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T17:13:49Z"
   },
   {
-    "id": "e6e7069106bb9d9e",
-    "title": "Show HN: Guess the World Cup players' home club",
-    "url": "https://juice.name/",
-    "summary": "<p>Used to sit around the boys and guess hoopers colleges, thought it would be fun to do with the World Cup. Is it challenging enough?</p> <hr /> <p>Comments URL: <a href=\"https://news.ycombinator.co…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "97d6716eedebcf3f",
+    "title": "ParthChittalwar/ParthChittalwar",
+    "url": "https://github.com/ParthChittalwar/ParthChittalwar",
+    "summary": "Computer Technology student exploring software engineering, AI, cloud, and modern development.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 03:47:05 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T16:00:38Z"
   },
   {
-    "id": "f944c5c1eb043512",
-    "title": "Show HN: Sqim – install your iOS builds from Codex mobile without VPN",
-    "url": "https://www.sqim.dev/",
-    "summary": "<p>Hey HN, I built a free tool that lets you sign and upload your iOS project binaries, and serve temporary web pages to sideload on your iPhone straight from Codex Mobile, Claude Code remote control…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "6acc0a153071776e",
+    "title": "Tractatuz/ue-agent-toolkit",
+    "url": "https://github.com/Tractatuz/ue-agent-toolkit",
+    "summary": "ue-agent-toolkit is a toolkit for AI-agentic workflow for Unreal Engine projects.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 03:41:36 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T15:57:07Z"
   },
   {
-    "id": "2221396fd761cf7b",
-    "title": "Show HN: Building Cursor for Traders",
-    "url": "https://runhalcyon.com/",
-    "summary": "<p>Article URL: <a href=\"https://runhalcyon.com/\">https://runhalcyon.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594526\">https://news.ycombinator.com/item?id=4859452…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
+    "id": "67e2253c9fc70fb7",
+    "title": "qFlavius/War8",
+    "url": "https://github.com/qFlavius/War8",
+    "summary": "Turn-based abstract board game built with C++ and SFML, based on \"Război în 8\" from Nicolae Oprișiu’s \"Olimpiada Jocurilor Raționale\" (\"The Olympiad of Rational Games\", Chapter 10). Includes PvP, PvC, CvC, turn timer, HUD, leaderboard, themes, and Easy/Hard AI.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
     "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
+      "ai-game-dev"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 03:39:20 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-18T15:47:12Z"
   },
   {
-    "id": "059e02c06fb6f8c0",
-    "title": "Show HN: Iamspeed.dev – Fast.com Style but for LLMs",
-    "url": "https://iamspeed.dev/",
-    "summary": "<p>Article URL: <a href=\"https://iamspeed.dev/\">https://iamspeed.dev/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594310\">https://news.ycombinator.com/item?id=48594310</a…",
-    "source_id": "hn-show",
-    "source_name": "HN Show HN",
-    "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 02:47:08 +0000"
-  },
-  {
-    "id": "f960051e7087c4c0",
-    "title": "Show HN: Drift",
-    "url": "https://samuria.online/drift/",
-    "summary": "<p>Article URL: <a href=\"https://samuria.online/drift/\">https://samuria.online/drift/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48594148\">https://news.ycombinator.com/ite…",
+    "id": "c9972da8f6c9fc9f",
+    "title": "Show HN: I built a Wu-Tang name generator (wutangname.online)",
+    "url": "https://wutangname.online/",
+    "summary": "Article URL: https://wutangname.online/ Comments URL: https://news.ycombinator.com/item?id=48596731 Points: 1 # Comments: 0",
     "source_id": "hn-show",
     "source_name": "HN Show HN",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 19 Jun 2026 02:19:31 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 09:47:16 +0000"
   },
   {
-    "id": "1027fcbb81e9252a",
-    "title": "The founder of Craigslist has given away half a billion dollars",
-    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html\">https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newma…",
+    "id": "00877ddc1682fd16",
+    "title": "Show HN: Alert for real time application including video and audio",
+    "url": "https://sf-voice.sh",
+    "summary": "Anyone want to try it? send me email if you want an access lois@sf-voice.sh Comments URL: https://news.ycombinator.com/item?id=48596704 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 09:42:29 +0000"
+  },
+  {
+    "id": "9876f6640b65e268",
+    "title": "Show HN: Tracking iCal feed latency across O365/Google/Apple",
+    "url": "https://sync.timetastic.co.uk/",
+    "summary": "We track a lot of iCal feeds at Timetastic[0] and I thought it'd be interesting to see if we could identify when Google or Outlook's iCal feed fetchers were down or slow because the latency can vary wildly from a few hours to days. We already log the timestamps and user agents for the feed checkins and we've got a rolling month's worth of data so this seemed like a nice little exercise I could do…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 09:12:10 +0000"
+  },
+  {
+    "id": "736015e54c25e26f",
+    "title": "Show HN: The Deconstructed VS Code",
+    "url": "https://github.com/dipankar/dscode",
+    "summary": "One wonders why VS Code has become a bloatware. I am sort of used to it freezing, and just doing its thing. I started with vim, Eclipse (yes yes!) then sublime text and at this point back to the terminal or a combination of VS Code with the agents. This did make me wonder where we are headed with IDEs? Are we ready to give them up finally? This is exploratory work using rust that looks through ho…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 09:02:34 +0000"
+  },
+  {
+    "id": "5576e81e299ca882",
+    "title": "Show HN: NetSentinel – a local network security scanner and connectivity monitor",
+    "url": "https://github.com/ossianericson/netsentinel",
+    "summary": "A Google Nest speaker was winning the STP root bridge election on my network and knocking out DNS every 45 seconds. Took five separate tools to find it. I started NetSentinel one Sunday afternoon out of frustration. Thought I would be done the same evening. But I was off by about 2 months. Every time I hit a problem that lived in yet another tool, I just added it. Available on Windows (MS Store),…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 08:42:13 +0000"
+  },
+  {
+    "id": "653eb11ce7aef65b",
+    "title": "Show HN: UAVs FYI – Drone database with supply chain data, API and CLI",
+    "url": "https://www.uavs.fyi/",
+    "summary": "Hi HN community, I want to share my UAV/drone database. I made this because have been tired to be asked about who makes it, where it\"s made and who using Ardupilot. How it works: Just browse it. And if you want to put the info into your LLM, use API and CLI feature. Important: All the information is not classfied. It is sourced from public (web-pages, news, reports) and kind contributor from a re…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Fri, 19 Jun 2026 08:25:45 +0000"
+  },
+  {
+    "id": "1c079178004e6c60",
+    "title": "AI hasn't killed our bootstrapped enterprise software company yet",
+    "url": "https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled",
+    "summary": "Article URL: https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled Comments URL: https://news.ycombinator.com/item?id=48549199 Points: 6 # Comments: 0",
     "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Thu, 18 Jun 2026 16:55:25 +0000"
-  },
-  {
-    "id": "555aaf30890e7a75",
-    "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-    "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-    "summary": "<p>Readable: <a href=\"https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3?st=gj26io&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https://www.wsj.com/tech/ai/anthrop…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 19:22:02 +0000"
-  },
-  {
-    "id": "d25aea7d9d2fde04",
-    "title": "The founder's playbook: Building an AI-native startup",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-founders-playbook\">https://claude.com/blog/the-founders-playbook</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566832\">…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 17 Jun 2026 07:04:42 +0000"
-  },
-  {
-    "id": "065efa1745731622",
-    "title": "OpenAI's financials have leaked, showing $21B in losses against $13B in revenue",
-    "url": "https://fortune.com/2026/06/16/openai-financials-leaked-losses-revenue-profit/",
-    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/06/16/openai-financials-leaked-losses-revenue-profit/\">https://fortune.com/2026/06/16/openai-financials-leaked-losses-revenue-profit/</a></p> <p>Comm…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 16 Jun 2026 23:54:43 +0000"
-  },
-  {
-    "id": "7f4593f0a785fdbe",
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-    "url": "https://grassdx.com/",
-    "summary": "<p>I know, it's kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?<p>Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees wit…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev",
-      "vibe-coding-commercial"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 15 Jun 2026 17:56:00 +0000"
-  },
-  {
-    "id": "7c818137ae789404",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
-    "url": "https://www.orangecrumbs.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.orangecrumbs.com/\">https://www.orangecrumbs.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48530382\">https://news.ycombinator.com/ite…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "source_name": "HN: solo founder revenue",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Sun, 14 Jun 2026 17:54:17 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "Tue, 16 Jun 2026 00:56:37 +0000"
   },
   {
-    "id": "8d7d7c9d1a403278",
-    "title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
-    "url": "https://stackscope.dev/",
-    "summary": "<p>Hey all, I built StackScope, a crawler/catalogue that looks at new product launches and shows what they were built with.<p>It watches launches from Product Hunt, Show HN, and PeerPush, then crawls…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "id": "7b058e7f1405e90a",
+    "title": "pulkitxm/claude-directory",
+    "url": "https://github.com/pulkitxm/claude-directory",
+    "summary": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Fri, 12 Jun 2026 15:26:12 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:36:36Z"
   },
   {
-    "id": "b0f41eb077868d99",
-    "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-    "url": "https://www.matteast.io/spacex-escape-velocity.html",
-    "summary": "<p>Article URL: <a href=\"https://www.matteast.io/spacex-escape-velocity.html\">https://www.matteast.io/spacex-escape-velocity.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?i…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "id": "a5d3a50a6bad6bab",
+    "title": "JSONbored/awesome-claude",
+    "url": "https://github.com/JSONbored/awesome-claude",
+    "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Wed, 10 Jun 2026 17:44:59 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:36:08Z"
   },
   {
-    "id": "cb8f116647ba8457",
-    "title": "Show HN: ASCII Hacker News waterfall",
-    "url": "https://trizuliak.com/experiments/hacker-news-waterfall",
-    "summary": "<p>Article URL: <a href=\"https://trizuliak.com/experiments/hacker-news-waterfall\">https://trizuliak.com/experiments/hacker-news-waterfall</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.co…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "id": "96609c93810881f5",
+    "title": "NataliaMw/ouroboros",
+    "url": "https://github.com/NataliaMw/ouroboros",
+    "summary": "A Band room that engineers a verification loop per task, then runs it — loop engineering done by a band of agents. Track 2, Band of Agents Hackathon.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Tue, 09 Jun 2026 09:40:28 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:35:36Z"
   },
   {
-    "id": "35969baebc784f1a",
-    "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-    "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjwgd6jqd5do\">https://www.bbc.com/news/articles/cjwgd6jqd5do</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48448630…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 08 Jun 2026 17:51:21 +0000"
-  },
-  {
-    "id": "347474c3b7241a17",
-    "title": "Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew",
-    "url": "https://teardownhq.io",
-    "summary": "<p>Launching TeardownHQ: a directory of indie startups with revenue pulled from real signals (and labeled where it is an estimate), plus deep teardowns/playbooks of exactly how each one grew. The cha…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "id": "7f0c4fa70fdfb6fa",
+    "title": "Krishna4532/krishna-portfolio",
+    "url": "https://github.com/Krishna4532/krishna-portfolio",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Mon, 08 Jun 2026 02:32:21 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:35:35Z"
   },
   {
-    "id": "020a75c3eeb40630",
-    "title": "The ROI of AI coding looks different when you are a bootstrapped founder",
-    "url": "https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely",
-    "summary": "<p>Article URL: <a href=\"https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely\">https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely</a></p> <p>Comments URL: <a href=\"h…",
-    "source_id": "hn-solo-revenue",
-    "source_name": "HN Search: solo founder revenue",
+    "id": "0d34b510bf1a1583",
+    "title": "ckirahu-prog/vibe-coding-intel-radar",
+    "url": "https://github.com/ckirahu-prog/vibe-coding-intel-radar",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "Sun, 07 Jun 2026 14:30:15 +0000"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:35:05Z"
   },
   {
-    "id": "263f25f2abeaf9a6",
-    "title": "Darkmoon",
-    "url": "https://www.producthunt.com/products/darkmoon",
-    "summary": "<p> Autonomous penetration testing platform </p> <p> <a href=\"https://www.producthunt.com/products/darkmoon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "a8f8058a6f25ea66",
+    "title": "phuonghuster7/vnstock-news-bot",
+    "url": "https://github.com/phuonghuster7/vnstock-news-bot",
+    "summary": "vnstock-news-bot",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T05:12:33-07:00"
-  },
-  {
-    "id": "5025d3c88572f3e9",
-    "title": "QuackScreen",
-    "url": "https://www.producthunt.com/products/quackscreen",
-    "summary": "<p> Capture, drag, share all from the MacBook notch </p> <p> <a href=\"https://www.producthunt.com/products/quackscreen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T06:03:49-07:00"
-  },
-  {
-    "id": "84df51ce48865d6f",
-    "title": "Midjourney Scanner",
-    "url": "https://www.producthunt.com/products/midjourney",
-    "summary": "<p> 60 second ultrasound-based full-body scanner that beats MRI </p> <p> <a href=\"https://www.producthunt.com/products/midjourney?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T20:18:43-07:00"
-  },
-  {
-    "id": "f042c56c481fc15d",
-    "title": "API to MCP",
-    "url": "https://www.producthunt.com/products/api-to-mcp",
-    "summary": "<p> Turn any API into an MCP server for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/api-to-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=pro…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-08T01:21:02-07:00"
-  },
-  {
-    "id": "682e5a61c22fdd26",
-    "title": "Snap Deck HQ",
-    "url": "https://www.producthunt.com/products/snap-deck-hq",
-    "summary": "<p> Everything you need in one native macOS command bar </p> <p> <a href=\"https://www.producthunt.com/products/snap-deck-hq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_so…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T05:40:23-07:00"
-  },
-  {
-    "id": "e2ad3fea654f90bf",
-    "title": "Blazly Backlinker",
-    "url": "https://www.producthunt.com/products/blazly-backlinker",
-    "summary": "<p> Automate your entire backlink generation </p> <p> <a href=\"https://www.producthunt.com/products/blazly-backlinker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=p…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T07:58:24-07:00"
-  },
-  {
-    "id": "b4c9946d01788e40",
-    "title": "Screen Ruler",
-    "url": "https://www.producthunt.com/products/screen-ruler",
-    "summary": "<p> Edit anything on the web with change tracking </p> <p> <a href=\"https://www.producthunt.com/products/screen-ruler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=p…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T06:13:30-07:00"
-  },
-  {
-    "id": "cbcf12c3d9d058fe",
-    "title": "just f***ing send it",
-    "url": "https://www.producthunt.com/products/just-f-ing-send-it",
-    "summary": "<p> Send any file, any size, straight from browser to browser </p> <p> <a href=\"https://www.producthunt.com/products/just-f-ing-send-it?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-fee…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T12:11:49-07:00"
-  },
-  {
-    "id": "9a2b8110dfd5772b",
-    "title": "Narration Room",
-    "url": "https://www.producthunt.com/products/narration-room",
-    "summary": "<p> Turn source text into editable multi-voice scripts </p> <p> <a href=\"https://www.producthunt.com/products/narration-room?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_s…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-05-03T14:16:00-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:34:39Z"
   },
   {
-    "id": "6b4383b5f78100fd",
-    "title": "Zernio WhatsApp API",
-    "url": "https://www.producthunt.com/products/zernio",
-    "summary": "<p> One API for WhatsApp: messaging, calling, and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/zernio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_sour…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "818103f02a6f6c9e",
+    "title": "memforks-dev/memforks",
+    "url": "https://github.com/memforks-dev/memforks",
+    "summary": "Git for AI agent memory",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-11T07:18:43-07:00"
-  },
-  {
-    "id": "2a400eddaa0e08db",
-    "title": "Ask Ad Manager by Google Ads",
-    "url": "https://www.producthunt.com/products/ask-ad-manager",
-    "summary": "<p> Gemini-powered AI agent for insights & faster ad decisions </p> <p> <a href=\"https://www.producthunt.com/products/ask-ad-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&a…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T11:48:23-07:00"
-  },
-  {
-    "id": "b36f7116a84b8a9e",
-    "title": "Upsolve AI",
-    "url": "https://www.producthunt.com/products/upsolve-ai",
-    "summary": "<p> Build grounded, governed, trustworthy data agents </p> <p> <a href=\"https://www.producthunt.com/products/upsolve-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T14:46:10-07:00"
-  },
-  {
-    "id": "a5d8543bb47bf970",
-    "title": "Mutter AI Dictation",
-    "url": "https://www.producthunt.com/products/mutter-ai-dictation",
-    "summary": "<p> Think out loud and get a polished version of your thoughts </p> <p> <a href=\"https://www.producthunt.com/products/mutter-ai-dictation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-f…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T22:41:54-07:00"
-  },
-  {
-    "id": "e9a34a96bf7e72eb",
-    "title": "MeshPilot",
-    "url": "https://www.producthunt.com/products/meshpilot",
-    "summary": "<p> Your AI workspace for terminals, tasks, and agents </p> <p> <a href=\"https://www.producthunt.com/products/meshpilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T13:45:40-07:00"
-  },
-  {
-    "id": "da7d4bf895ffdd85",
-    "title": "Portia",
-    "url": "https://www.producthunt.com/products/portia-2",
-    "summary": "<p> The ultimate 1-click hunter for blocked macOS ports </p> <p> <a href=\"https://www.producthunt.com/products/portia-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-10T03:27:16-07:00"
-  },
-  {
-    "id": "1aa5da723dac1794",
-    "title": "Claude Code Artifacts",
-    "url": "https://www.producthunt.com/products/claude-redesigned",
-    "summary": "<p> Preview and share your coding work live as it happens </p> <p> <a href=\"https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T11:14:11-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:34:30Z"
   },
   {
-    "id": "6ff166208669fc7a",
-    "title": "Foglamp",
-    "url": "https://www.producthunt.com/products/foglamp",
-    "summary": "<p> Ship AI agents you can actually see </p> <p> <a href=\"https://www.producthunt.com/products/foglamp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "31c46bd02e4619b6",
+    "title": "Dogtheflash/WebMinecraft",
+    "url": "https://github.com/Dogtheflash/WebMinecraft",
+    "summary": "đời a chưa bt yêu là gì",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T09:51:50-07:00"
-  },
-  {
-    "id": "9c34bdf501028f6f",
-    "title": "Firecrawl Research Index",
-    "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-    "summary": "<p> An index for agents pushing the frontier of AI/ML research </p> <p> <a href=\"https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T13:29:16-07:00"
-  },
-  {
-    "id": "bf9754b2331b91ec",
-    "title": "Pitchbar",
-    "url": "https://www.producthunt.com/products/pitchbar",
-    "summary": "<p> Track World Cup 2026 scores from your macOS menubar </p> <p> <a href=\"https://www.producthunt.com/products/pitchbar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T07:38:06-07:00"
-  },
-  {
-    "id": "a8a9d4fc81c9f567",
-    "title": "frontpage.sh",
-    "url": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
-    "summary": "<p> A perpetual auction for eight ad squares </p> <p> <a href=\"https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-15T21:32:35-07:00"
-  },
-  {
-    "id": "4bec36d415cbad04",
-    "title": "Unreal Engine 5.8",
-    "url": "https://www.producthunt.com/products/unreal-engine",
-    "summary": "<p> Build unreal games with AI agents </p> <p> <a href=\"https://www.producthunt.com/products/unreal-engine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-18T06:31:58-07:00"
-  },
-  {
-    "id": "ddb0e26648002551",
-    "title": "Prism",
-    "url": "https://www.producthunt.com/products/prism-28",
-    "summary": "<p> Al Companion for macOS </p> <p> <a href=\"https://www.producthunt.com/products/prism-28?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\"…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-15T16:29:26-07:00"
-  },
-  {
-    "id": "2b930b78e60d1749",
-    "title": "Adapt",
-    "url": "https://www.producthunt.com/products/adapt-3",
-    "summary": "<p> The AI company brain that does work for you </p> <p> <a href=\"https://www.producthunt.com/products/adapt-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producth…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T02:12:10-07:00"
-  },
-  {
-    "id": "401687717c977f42",
-    "title": "Cliptop",
-    "url": "https://www.producthunt.com/products/cliptop",
-    "summary": "<p> Clipboard history for Mac, right under the notch. </p> <p> <a href=\"https://www.producthunt.com/products/cliptop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=pr…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T20:13:49-07:00"
-  },
-  {
-    "id": "6e887bbbdac51406",
-    "title": "Retool",
-    "url": "https://www.producthunt.com/products/retool",
-    "summary": "<p> Build anywhere. Govern in Retool. </p> <p> <a href=\"https://www.producthunt.com/products/retool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-po…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T09:53:04-07:00"
-  },
-  {
-    "id": "c169ccf8078dbf97",
-    "title": "Viktor for Microsoft Teams",
-    "url": "https://www.producthunt.com/products/viktor",
-    "summary": "<p> The most powerful AI employee, now in Microsoft Teams </p> <p> <a href=\"https://www.producthunt.com/products/viktor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-11T04:19:33-07:00"
-  },
-  {
-    "id": "1b8f47444447808e",
-    "title": "LayerProof Bristol",
-    "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
-    "summary": "<p> Agentic reports your clients want to read </p> <p> <a href=\"https://www.producthunt.com/products/layerproof-social-content-generation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-f…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T21:08:26-07:00"
-  },
-  {
-    "id": "59829e4bf2b76d04",
-    "title": "Elvin",
-    "url": "https://www.producthunt.com/products/elvin",
-    "summary": "<p> Proactive AI that finds and finishes work before you ask </p> <p> <a href=\"https://www.producthunt.com/products/elvin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_sour…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-11T14:04:48-07:00"
-  },
-  {
-    "id": "6f4a61052487e4bc",
-    "title": "Upstream",
-    "url": "https://www.producthunt.com/products/upstream-3",
-    "summary": "<p> The inbox designed for humans and agents </p> <p> <a href=\"https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producth…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-05-19T02:09:19-07:00"
-  },
-  {
-    "id": "91a4b795278d4419",
-    "title": "Jesse",
-    "url": "https://www.producthunt.com/products/jesse-2",
-    "summary": "<p> Stop building Apollo/Clay lists. Search the live internet. </p> <p> <a href=\"https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-08T21:20:29-07:00"
-  },
-  {
-    "id": "782cbae1afb73584",
-    "title": "Honestly",
-    "url": "https://www.producthunt.com/products/honestly",
-    "summary": "<p> See what Reddit and TikTok honestly think about your product </p> <p> <a href=\"https://www.producthunt.com/products/honestly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;u…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-16T03:10:37-07:00"
-  },
-  {
-    "id": "cc2ef5ec72b7dbb0",
-    "title": "Ploy.ai",
-    "url": "https://www.producthunt.com/products/ploy-ai",
-    "summary": "<p> Ploy turns your website into your company's growth engine. </p> <p> <a href=\"https://www.producthunt.com/products/ploy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-16T19:34:20-07:00"
-  },
-  {
-    "id": "611fc5c645c0e1be",
-    "title": "InstantDelay",
-    "url": "https://www.producthunt.com/products/instantdelay",
-    "summary": "<p> Add, remove, or adjust stream delay while already live </p> <p> <a href=\"https://www.producthunt.com/products/instantdelay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T13:40:44-07:00"
-  },
-  {
-    "id": "af67a8e029bacc63",
-    "title": "AI‑Native eCommerce Infrastructure",
-    "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
-    "summary": "<p> A unified control plane for Magento with Claude Code web </p> <p> <a href=\"https://www.producthunt.com/products/ai-native-ecommerce-infrastructure?utm_campaign=producthunt-atom-posts-feed&amp;utm…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T20:12:56-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:34:33Z"
   },
   {
-    "id": "b04665fbf26123c8",
-    "title": "VoiceOS",
-    "url": "https://www.producthunt.com/products/voiceos",
-    "summary": "<p> Say it and it's done. JARVIS for your computer </p> <p> <a href=\"https://www.producthunt.com/products/voiceos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=produ…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "a2c12239515b992c",
+    "title": "rakafebriansy/tpt-landing-ai-orchestrator",
+    "url": "https://github.com/rakafebriansy/tpt-landing-ai-orchestrator",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-15T14:32:52-07:00"
-  },
-  {
-    "id": "9d33f748ef4d7e66",
-    "title": "Japanly AEO",
-    "url": "https://www.producthunt.com/products/japanly-aeo",
-    "summary": "<p> See if Japanese AI search recommends your brand </p> <p> <a href=\"https://www.producthunt.com/products/japanly-aeo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-16T19:35:56-07:00"
-  },
-  {
-    "id": "a28401478947a885",
-    "title": "CADAM",
-    "url": "https://www.producthunt.com/products/cadam",
-    "summary": "<p> AI Tinkercad </p> <p> <a href=\"https://www.producthunt.com/products/cadam?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T17:16:36-07:00"
-  },
-  {
-    "id": "9fbc140dcabf799f",
-    "title": "Merlin by Encord",
-    "url": "https://www.producthunt.com/products/merlin-by-encord",
-    "summary": "<p> Manage your AI data infrastructure in a single conversation </p> <p> <a href=\"https://www.producthunt.com/products/merlin-by-encord?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-fee…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T03:57:42-07:00"
-  },
-  {
-    "id": "f52b861d5622a02c",
-    "title": "Tine",
-    "url": "https://www.producthunt.com/products/tine-2",
-    "summary": "<p> An AI desktop cursor that does the work for you </p> <p> <a href=\"https://www.producthunt.com/products/tine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=produ…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T18:31:22-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:33:36Z"
   },
   {
-    "id": "7c8eccae59810780",
-    "title": "VELA",
-    "url": "https://www.producthunt.com/products/vela-7",
-    "summary": "<p> Securely execute AI-generated & untrusted code </p> <p> <a href=\"https://www.producthunt.com/products/vela-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=produc…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "8291d8204c85feae",
+    "title": "blafourcade/aidd-release-sandbox",
+    "url": "https://github.com/blafourcade/aidd-release-sandbox",
+    "summary": "Throwaway sandbox: test rolling-release flow (main/next, auto-merge, back-merge). Deletable.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T22:10:39-07:00"
-  },
-  {
-    "id": "35f490bb0f775e92",
-    "title": "Labs AI",
-    "url": "https://www.producthunt.com/products/labs-ai-text-to-speech",
-    "summary": "<p> Turn any text into natural AI voiceovers on iPhone </p> <p> <a href=\"https://www.producthunt.com/products/labs-ai-text-to-speech?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&a…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-05-11T04:18:43-07:00"
-  },
-  {
-    "id": "7e39a1a496adcddf",
-    "title": "Genie Mentions",
-    "url": "https://www.producthunt.com/products/genie-mentions",
-    "summary": "<p> AI that gets you *and* the people in your life, together </p> <p> <a href=\"https://www.producthunt.com/products/genie-mentions?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T20:22:34-07:00"
-  },
-  {
-    "id": "1e15d2345a719f63",
-    "title": "Tiles: Map Your Adventures",
-    "url": "https://www.producthunt.com/products/tiles-map-your-adventures",
-    "summary": "<p> Turn Apple Health workouts into a private route map </p> <p> <a href=\"https://www.producthunt.com/products/tiles-map-your-adventures?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-fe…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev"
-    ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-06T00:10:48-07:00"
-  },
-  {
-    "id": "cfaf3e92690efe81",
-    "title": "Locofy: design-to-code agents",
-    "url": "https://www.producthunt.com/products/locofy-ai",
-    "summary": "<p> Agentic frontend layer between Figma and Cursor & Claude </p> <p> <a href=\"https://www.producthunt.com/products/locofy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
-    "topics": [
-      "ai-game-dev",
       "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-16T19:52:53-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:32:27Z"
   },
   {
-    "id": "1689e2427a299730",
-    "title": "Buddy",
-    "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
-    "summary": "<p> Free Figma agent + Import anything to Figma </p> <p> <a href=\"https://www.producthunt.com/products/buddy-free-figma-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "3c0139b4a4f4f664",
+    "title": "jaclette/hilads",
+    "url": "https://github.com/jaclette/hilads",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-16T05:22:49-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:32:11Z"
   },
   {
-    "id": "31e04b9f56fbd424",
-    "title": "Otty",
-    "url": "https://www.producthunt.com/products/otty",
-    "summary": "<p> A Mac native and beautiful terminal emulator </p> <p> <a href=\"https://www.producthunt.com/products/otty?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthun…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "aa47580ec4456c28",
+    "title": "sj15444444-tech/StoryTime-App",
+    "url": "https://github.com/sj15444444-tech/StoryTime-App",
+    "summary": "Storyboard directors notes tool",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-11T20:33:55-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:31:55Z"
   },
   {
-    "id": "1707533c45a68a38",
-    "title": "Agentic videos by D-ID",
-    "url": "https://www.producthunt.com/products/d-id",
-    "summary": "<p> Interactive videos that talk back </p> <p> <a href=\"https://www.producthunt.com/products/d-id?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-post…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "9422ee6876f8be30",
+    "title": "getagentseal/codeburn",
+    "url": "https://github.com/getagentseal/codeburn",
+    "summary": "See where your AI tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. npx codeburn",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-12T14:22:25-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:31:35Z"
   },
   {
-    "id": "f802603ec9998338",
-    "title": "The City Mesh",
-    "url": "https://www.producthunt.com/products/the-city-mesh",
-    "summary": "<p> Fund your project with a 3D city of sponsors </p> <p> <a href=\"https://www.producthunt.com/products/the-city-mesh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=p…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "77e857227814a9f9",
+    "title": "pygarap/my-awesome-stars",
+    "url": "https://github.com/pygarap/my-awesome-stars",
+    "summary": "A curated list of my GitHub stars! Generated by starred.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-17T07:36:47-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:31:24Z"
   },
   {
-    "id": "ce94f53999c76aac",
-    "title": "Juno",
-    "url": "https://www.producthunt.com/products/juno-16",
-    "summary": "<p> Free, local AI powered Voice to Text w/ live transcriptions </p> <p> <a href=\"https://www.producthunt.com/products/juno-16?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "490fb02e63112cc1",
+    "title": "linny006/skills-tracker",
+    "url": "https://github.com/linny006/skills-tracker",
+    "summary": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-11T12:42:52-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:30:37Z"
   },
   {
-    "id": "4c65da7930661a69",
-    "title": "CashOut",
-    "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
-    "summary": "<p> Block sports betting apps, track how much you saved </p> <p> <a href=\"https://www.producthunt.com/products/cashout-quit-sportsbooks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-fee…",
-    "source_id": "producthunt",
-    "source_name": "Product Hunt",
+    "id": "2ee951415b21a6d2",
+    "title": "linny006/cursor-rules-live",
+    "url": "https://github.com/linny006/cursor-rules-live",
+    "summary": "Live index of cursor-rules files from GitHub, updated every 15 minutes",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
     "topics": [
-      "ai-game-dev"
+      "vibe-coding-commercial"
     ],
-    "fetched_at": "2026-06-19T09:15:45.123512+00:00",
-    "published": "2026-06-15T17:51:21-07:00"
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:30:36Z"
+  },
+  {
+    "id": "6ca5d0babdbf76bc",
+    "title": "shaftoe/awesome-pi-coding-agent",
+    "url": "https://github.com/shaftoe/awesome-pi-coding-agent",
+    "summary": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:30:33Z"
+  },
+  {
+    "id": "5d81d46e32b071a9",
+    "title": "linny006/claude-code-plugin-tracker",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker",
+    "summary": "Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:30:29Z"
+  },
+  {
+    "id": "168db4f4e5aa7160",
+    "title": "linny006/llm-agents-radar",
+    "url": "https://github.com/linny006/llm-agents-radar",
+    "summary": "Live-updating index of LLM agent frameworks shipping on GitHub, refreshed every 15 minutes",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:30:26Z"
+  },
+  {
+    "id": "8a2acc939ad997e2",
+    "title": "PsProsen-Dev/RTXCoreFramework",
+    "url": "https://github.com/PsProsen-Dev/RTXCoreFramework",
+    "summary": "(RTX⚡) Core Framework — Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collaborate in your native language. Break language barriers. Build production-ready software.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-19T10:35:42.514472+00:00",
+    "published": "2026-06-19T10:29:57Z"
   }
 ]

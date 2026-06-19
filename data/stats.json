@@ -6,14 +6,14 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 11,
+      "hits": 27,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
       "hits": 0,
-      "errors": 1,
-      "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/Unity3D/.rss"
+      "errors": 2,
+      "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
     "reddit-unrealengine": {
       "hits": 0,
@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 0,
+      "hits": 20,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,12 +31,12 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 20,
+      "hits": 26,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 12,
+      "hits": 13,
       "errors": 0,
       "last_error": null
     },
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 0,
+      "hits": 20,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -54,7 +54,32 @@
       "hits": 0,
       "errors": 0,
       "last_error": null
+    },
+    "hn-ai-game-tools": {
+      "hits": 2,
+      "errors": 0,
+      "last_error": null
+    },
+    "hn-gamedev": {
+      "hits": 6,
+      "errors": 0,
+      "last_error": null
+    },
+    "reddit-aigamedev": {
+      "hits": 25,
+      "errors": 0,
+      "last_error": null
+    },
+    "hn-cursor-vibe": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
+    },
+    "reddit-sideproject": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     }
   },
-  "last_updated": "2026-06-19T09:15:49.644263+00:00"
+  "last_updated": "2026-06-19T10:36:52.591534+00:00"
 }

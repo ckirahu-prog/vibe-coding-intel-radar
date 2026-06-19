@@ -694,6 +694,486 @@
       "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
       "first_seen": "2026-06-19T09:15:45.123512+00:00",
       "source_id": "producthunt"
+    },
+    "443e87ec0a3ca390": {
+      "url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "cd2a9a77c923ff32": {
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "d6392e1b99c949fd": {
+      "url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "b033e60c4709f0ec": {
+      "url": "https://www.unrealengine.com/news/the-road-to-ue-6",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "789e748f99b6aa2e": {
+      "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "5df66460371d5018": {
+      "url": "https://build-small-hackathon-llm-fishing.hf.space",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "9e3aa322058f3c0e": {
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "0583f3a48b55852a": {
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "556bd0e68c2f49ed": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "cfaec43a13743aff": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e03c627fe639e739": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u97ysa/godot_47_release_lights_camera_action/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "bec64517ee456014": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9x3o1/almost_a_year_of_game_development_3_1_games_and/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "afa326a733aeee49": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9fgv7/my_game_entered_next_fest_with_6000_wishlists_and/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "01233acfe01a100c": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9y7c5/im_a_dev_who_has_been_working_on_my_game_for_2/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "a7eecc2cce952884": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9rzgn/do_you_also_think_my_game_looks_a_bit_oldfashioned/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "1339e650bc759edd": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9ltc5/those_who_have_released_a_free_game_on_steam_how/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "59b134e6ef2aed41": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u97192/why_are_shortterm_jobs_becoming_so_common_in_the/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "2c1f1a75c847b147": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9jw95/where_to_look_for_an_artist_for_a_game/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "9e8f3a1623b196f2": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u8xp4t/all_things_about_ue6_announced_yesterday/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "79ffcc9e8f50bb72": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9hpc3/is_it_better_for_top_5_steam_tags_to_be_uncommon/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "4da5d46ad9828689": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u8gc0p/anyone_else_still_uses_little_to_no_ai_to_code/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "84cb03db55e63036": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u9sh8h/when_does_steam_show_your_game/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d931cf2a461b73a9": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u99jwd/what_type_of_pixel_art_asset_packs_are_you/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "489e16e532793ecb": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1u8cwp1/epic_games_released_a_gamespecific_git_competitor/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d1b3e87684f6eccd": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1shiykx/ai_game_dev_discord/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "4d21a9f97a2e0dc3": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9etqa/ai_pixel_art_workflow/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "28f87a24d9420124": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u946zi/unreal_engine_58_has_al_integration_with_claude/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "5d9ae224c83d1735": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9l6cw/im_building_an_aiassisted_godot_4_space_4x/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "74b2bad78bf7b9ef": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9y8s2/made_a_small_threejs_game_using_only/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "0f64c99e141b443e": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9p7nd/i_started_on_this_mmorpg_in_threejs_3_days_ago/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "cd175e10375fa9ae": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9uv4r/need_your_brainpower_help_me_choose_a_tagline_for/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "f2ee6022f3fe1a73": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u975py/chonky_cat_waddled_into_steam_next_fest/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "591a9ee13a1bbc67": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9yfnb/retro_diffusion_question/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "4e51c0af1abb4b6e": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9mc4l/woke_up_wrote_up_a_design_document_two_days_of/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "738b2c1e740c9bc7": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9y47p/thanks_to_ai_were_all_making_browser_games_wild/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "532baaf21b09b4d4": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9tbwv/i_have_been_adding_regions_with_their_crest_on_my/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "4c3a57a1fd77f93b": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9t2kt/does_ai_have_problems_understanding_3_dimensions/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "61e2784023c63835": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9h31i/cool_games_on_steam_next_fest_made_with_ai/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "ef9ef849db15b7f9": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9elto/roguelike_developed_as_first_ever_game_using/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "1aac034d669a58b2": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9jlbq/game_prototype_part_3_multiplayer/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "0907eb233d0e5936": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9ajmp/list_of_ai_development_tools_with_discount_codes/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "57b3d25e502f441d": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9ibun/cat_dominion/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "36b54ca0887fcb24": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9hk3y/i_made_a_complete_game_with_deep_seek/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "3ce52ad34b50a1b6": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u98uvd/never_knew_how_to_get_into_dd_or_tired_of/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "dc35f61f65738aad": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u98ttk/could_realtime_world_models_make_ugc_minigame/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "db5bd5fd51beb1f0": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9vxcs/early_ai_openworld_prototype_what_would_you/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "be92eece87a6cf7e": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9ksh5/we_back_squad_for_my_new_life_players/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "2a9e5683be64a8f7": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u9vt1g/testing_a_cute_pixel_unicorn_platformer_does_the/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "915f0898081ab925": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1u901yi/devlog_tráiler_for_my_game_bounty_hunters/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "297511e71c28b365": {
+      "url": "https://github.com/Glade-tool/glade-mcp",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "151bab52db5cbf18": {
+      "url": "https://github.com/DY-2026/GameDesignOS",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "290effe47a8d5e84": {
+      "url": "https://github.com/Asara-Technologies/prism-mcp",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b6eacf18d493a6eb": {
+      "url": "https://github.com/cuberhaus/joc_eda",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "35192f88c8101fcb": {
+      "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "d84494f3f935c4ce": {
+      "url": "https://github.com/kevinpbuckley/VibeUE",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "204b324fd09c7629": {
+      "url": "https://github.com/lazyxeon/AstraWeave",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b12f253c7672273b": {
+      "url": "https://github.com/krishsharma-code/krishsharma-code",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "a2c0a866cf4ebc43": {
+      "url": "https://github.com/coleyrockin/Chess-Game",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "508322468137bf7e": {
+      "url": "https://github.com/jame581/GodotPrompter",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b99d161cbad02766": {
+      "url": "https://github.com/indresh404/indresh404",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b43fd90b5573cd37": {
+      "url": "https://github.com/marko-builds/Claude-Code-Dev-Studio",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "f136fa54cb44c9ae": {
+      "url": "https://github.com/simongonzalezdc/GameStory-Lab",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "24df894c736340e1": {
+      "url": "https://github.com/ryonsherman/pygame-rebound",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "4ddfed17e277097b": {
+      "url": "https://github.com/nonlooped/roblox-suite",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "d4e4c6c3fd9c913b": {
+      "url": "https://github.com/mhassan-ali/modern-pacman-mvc",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "3de2adbeddd570d1": {
+      "url": "https://github.com/wellingfeng/FreeUltraCode",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "97d6716eedebcf3f": {
+      "url": "https://github.com/ParthChittalwar/ParthChittalwar",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "6acc0a153071776e": {
+      "url": "https://github.com/Tractatuz/ue-agent-toolkit",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "67e2253c9fc70fb7": {
+      "url": "https://github.com/qFlavius/War8",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "c9972da8f6c9fc9f": {
+      "url": "https://wutangname.online/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "00877ddc1682fd16": {
+      "url": "https://sf-voice.sh",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "9876f6640b65e268": {
+      "url": "https://sync.timetastic.co.uk/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "736015e54c25e26f": {
+      "url": "https://github.com/dipankar/dscode",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "5576e81e299ca882": {
+      "url": "https://github.com/ossianericson/netsentinel",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "653eb11ce7aef65b": {
+      "url": "https://www.uavs.fyi/",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-show"
+    },
+    "1c079178004e6c60": {
+      "url": "https://www.nocobase.com/en/blog/future-of-software-programmers-revenue-doubled",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "7b058e7f1405e90a": {
+      "url": "https://github.com/pulkitxm/claude-directory",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a5d3a50a6bad6bab": {
+      "url": "https://github.com/JSONbored/awesome-claude",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "96609c93810881f5": {
+      "url": "https://github.com/NataliaMw/ouroboros",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "7f0c4fa70fdfb6fa": {
+      "url": "https://github.com/Krishna4532/krishna-portfolio",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0d34b510bf1a1583": {
+      "url": "https://github.com/ckirahu-prog/vibe-coding-intel-radar",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a8f8058a6f25ea66": {
+      "url": "https://github.com/phuonghuster7/vnstock-news-bot",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "818103f02a6f6c9e": {
+      "url": "https://github.com/memforks-dev/memforks",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "31c46bd02e4619b6": {
+      "url": "https://github.com/Dogtheflash/WebMinecraft",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a2c12239515b992c": {
+      "url": "https://github.com/rakafebriansy/tpt-landing-ai-orchestrator",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8291d8204c85feae": {
+      "url": "https://github.com/blafourcade/aidd-release-sandbox",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "3c0139b4a4f4f664": {
+      "url": "https://github.com/jaclette/hilads",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "aa47580ec4456c28": {
+      "url": "https://github.com/sj15444444-tech/StoryTime-App",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9422ee6876f8be30": {
+      "url": "https://github.com/getagentseal/codeburn",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "77e857227814a9f9": {
+      "url": "https://github.com/pygarap/my-awesome-stars",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "490fb02e63112cc1": {
+      "url": "https://github.com/linny006/skills-tracker",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2ee951415b21a6d2": {
+      "url": "https://github.com/linny006/cursor-rules-live",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "6ca5d0babdbf76bc": {
+      "url": "https://github.com/shaftoe/awesome-pi-coding-agent",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5d81d46e32b071a9": {
+      "url": "https://github.com/linny006/claude-code-plugin-tracker",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "168db4f4e5aa7160": {
+      "url": "https://github.com/linny006/llm-agents-radar",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8a2acc939ad997e2": {
+      "url": "https://github.com/PsProsen-Dev/RTXCoreFramework",
+      "first_seen": "2026-06-19T10:35:42.514472+00:00",
+      "source_id": "github-vibe-coding"
     }
   }
 }
