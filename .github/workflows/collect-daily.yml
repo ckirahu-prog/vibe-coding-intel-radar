@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw/ data/seen.json data/stats.json reports/daily/
+          git add data/raw/ data/seen.json data/stats.json data/daily-index/
           if git diff --staged --quiet; then
             echo "No new content to commit."
           else
