@@ -141,9 +141,8 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ steps.detect.outputs.subject }}
           to: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
-          from: '信息雷达 <${{ secrets.MAIL_USERNAME }}>'
+          from: ${{ secrets.MAIL_USERNAME }}
           convert_markdown: true
           content_type: text/html
           body: ${{ steps.detect.outputs.body }}
           priority: normal
-          nodemailerlog: true
