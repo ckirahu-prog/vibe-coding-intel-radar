@@ -16,11 +16,13 @@
 
 ## Instructions（Prompt）
 
-将 [`templates/weekly-prompt.md`](../templates/weekly-prompt.md) 的全文粘贴到 Automation Instructions，或在 prompt 中引用：
+将 [`templates/weekly-prompt.md`](../templates/weekly-prompt.md) 的全文粘贴到 Automation Instructions，**或（推荐）** 只写一行，Automation 每次从 repo 读最新 prompt：
 
 ```
 请阅读 @templates/weekly-prompt.md 并按其中规范执行本周周报任务。
 ```
+
+> 使用 `@` 引用时，须先将 prompt 改动 push 到 GitHub，再点 Run now。
 
 ## 前置条件
 
