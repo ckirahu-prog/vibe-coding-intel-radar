@@ -1,4 +1,60 @@
 {
-  "sources": {},
-  "last_updated": null
+  "sources": {
+    "hn-ai-game": {
+      "hits": 19,
+      "errors": 0,
+      "last_error": null
+    },
+    "reddit-gamedev": {
+      "hits": 11,
+      "errors": 0,
+      "last_error": null
+    },
+    "reddit-unity3d": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/Unity3D/.rss"
+    },
+    "reddit-unrealengine": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
+    },
+    "github-game-ai": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
+    },
+    "gd-ai": {
+      "hits": 27,
+      "errors": 0,
+      "last_error": null
+    },
+    "hn-show": {
+      "hits": 20,
+      "errors": 0,
+      "last_error": null
+    },
+    "hn-solo-revenue": {
+      "hits": 12,
+      "errors": 0,
+      "last_error": null
+    },
+    "producthunt": {
+      "hits": 50,
+      "errors": 0,
+      "last_error": null
+    },
+    "github-vibe-coding": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
+    },
+    "indiehackers": {
+      "hits": 0,
+      "errors": 0,
+      "last_error": null
+    }
+  },
+  "last_updated": "2026-06-19T09:15:49.644263+00:00"
 }

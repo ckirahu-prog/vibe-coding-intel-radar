@@ -1,3 +1,699 @@
 {
-  "urls": {}
+  "urls": {
+    "7b71ac9b071fea59": {
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "ff9d5cd34ade2d96": {
+      "url": "https://kristoff.it/blog/contributor-poker-and-ai/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "77747fdac0870ffa": {
+      "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "6972f12361941b30": {
+      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "0ad9b5ceb57820a0": {
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "4088114639a153f9": {
+      "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "ae54838d0af03c64": {
+      "url": "https://www.nbcnews.com/tech/innovation/ai-boston-childrens-hospital-diagnose-rare-diseases-kids-openai-rcna350387",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "fcdac4401714eb5a": {
+      "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "3f6d183e0c138bc8": {
+      "url": "https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "224b45d38513022e": {
+      "url": "https://ferrix.ai/blog/ai-agents-for-product-managers",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "13b50c9aa3ac22b7": {
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "7344c47ba59f9fe2": {
+      "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "24d72cd91473409b": {
+      "url": "https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "66918379d71c7344": {
+      "url": "https://twitter.com/damnventures/status/2067394719756251468",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "2bfbd11a20434f52": {
+      "url": "https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "6b8c6f70e98e1a0b": {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-holdouts-tech-face-3-095310222.html",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "9d9cedcd54ca2648": {
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "cd32a0b326930ea5": {
+      "url": "https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "4582fa80045efa21": {
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-ai-game"
+    },
+    "5973752d1125325a": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "4df9124c55a0c0ae": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1tq3sv6/our_game_jam_entry_blew_up_and_we_turned_it_into/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "b5c1738d8ffc777c": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u9uned/whats_a_feature_you_spent_days_making_that/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d8865dc542a39443": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u9jw95/where_to_look_for_an_artist_for_a_game/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "b2e11eb59a114a8d": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u8wjs2/is_it_some_kind_of_taboo_to_ask_developers_their/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "729a42cc50157036": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u8xp4t/all_things_about_ue6_announced_yesterday/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e24354c194c35054": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u8gc0p/anyone_else_still_uses_little_to_no_ai_to_code/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "887f178f577ba2cb": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u99jwd/what_type_of_pixel_art_asset_packs_are_you/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "1755c07be47e3bf9": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u8y7xb/whats_one_feature_players_consistently_notice/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "c528de36286f404c": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u991rs/whats_your_game_brainstorming_process/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "91ccaf526a5b63e8": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1u9a6ty/what_is_the_market_like_for_game_designers_level/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "6f0a305f04d19efb": {
+      "url": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "88ca01061aa75c07": {
+      "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "77491d15757de739": {
+      "url": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "f4b51fc2d179a34c": {
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "956a51e80f3a4612": {
+      "url": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "8584d0cc2b82154e": {
+      "url": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "274a3952c7da39f9": {
+      "url": "https://www.gamedeveloper.com/business/rockstar-suffers-legal-blow-in-union-busting-dispute-as-trial-date-set",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "1f52ba486c6bf214": {
+      "url": "https://www.gamedeveloper.com/business/luna-abyss-development-team-laid-off-by-kwalee",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "09acabf5c75deeb9": {
+      "url": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "655acb9b8eb00956": {
+      "url": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "7b039eb7628be9d0": {
+      "url": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "9e1dce2f4c918888": {
+      "url": "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform-to-launch-ads-directly-into-gameplay-",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "88a0a2ee2a9433a1": {
+      "url": "https://www.gamedeveloper.com/business/report-two-former-rare-execs-are-leaving-xbox",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "224671a839c673cc": {
+      "url": "https://www.gamedeveloper.com/console/microsoft-ceo-says-xbox-must-become-sustainable-as-it-reportedly-considers-major-spinoff",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "10f880f18a0a7445": {
+      "url": "https://www.gamedeveloper.com/design/the-art-of-game-writing-in-non-narrative-games-ft-emma-kidwell-and-harrison-pink",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "0c67963c48931c4a": {
+      "url": "https://www.gamedeveloper.com/business/playstack-sold-xbox-announces-business-reset-and-is-generative-ai-poisoning-the-well-patch-notes-55",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "d38f76016199cafa": {
+      "url": "https://www.gamedeveloper.com/business/report-pokemon-go-area-scans-sold-to-military-drone-technology-company",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "668230732b35c10d": {
+      "url": "https://www.gamedeveloper.com/business/xbox-announces-business-reset-amid-reports-of-layoffs-and-studio-closures",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "e915c1762ffa1e67": {
+      "url": "https://www.gamedeveloper.com/business/valve-confirms-it-won-t-restock-steam-gift-cards",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "691886c07d8964d5": {
+      "url": "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "c1f22bdd64ed922d": {
+      "url": "https://www.gamedeveloper.com/production/can-telltale-games-learn-from-its-past-mistakes-",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "78bee05e5b617b39": {
+      "url": "https://www.gamedeveloper.com/business/embracer-owned-vr-developer-vertigo-games-closes-amsterdam-studio",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "3b1549061ca58944": {
+      "url": "https://www.gamedeveloper.com/business/paramount-games-studio-breaks-cover",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "5f4ffba779a700b5": {
+      "url": "https://www.gamedeveloper.com/business/playerunknown-productions-is-laying-off-staff-and-halting-development",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "bc5a98f84fa0ef6b": {
+      "url": "https://www.gamedeveloper.com/business/team17-has-laid-off-members-of-its-marketing-and-communications-department",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "5582aa3a3c58d477": {
+      "url": "https://www.gamedeveloper.com/business/mina-the-hollower-sold-300-000-copies-in-three-days",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "b35b93f615f5ae71": {
+      "url": "https://www.gamedeveloper.com/business/tekken-8-game-director-kohei-ikeda-has-departed-bandai-namco",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "gd-ai"
+    },
+    "cf59b5b1d0067d15": {
+      "url": "https://www.jurniti.com/templates/ecc",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "2e248603718eff9f": {
+      "url": "https://github.com/tc7kxsszs5-cloud/avera",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "0068d946dc3c7d20": {
+      "url": "https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfkkomnmk",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "86c719f5a67dfbdd": {
+      "url": "https://github.com/AscendyProject/redteam",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "9e696ce371c25eb7": {
+      "url": "https://github.com/wolfoo2931/linkedrecords/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "093b9cc8dc583f97": {
+      "url": "https://www.appaca.ai/index.html",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "b1ce80d397d40f9b": {
+      "url": "https://github.com/fragmede/pbi",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "c4e1c09bd27847b9": {
+      "url": "https://www.vulnetix.com/features/package-firewall",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "9035f5153159777c": {
+      "url": "https://foldkit.dev/react/foldkit-vs-react-side-by-side",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "e3e07bba99cc5384": {
+      "url": "https://draper.chat",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "afff43ed1f2efefb": {
+      "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "4c46395b65b5df25": {
+      "url": "https://www.sakha.one",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "3dc172f1fdcb251f": {
+      "url": "https://fliptable.nyc/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "b28a8cffea98f8af": {
+      "url": "https://www.flowylabs.ai/llink",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "ff1510e381d9b329": {
+      "url": "https://github.com/xyTom/coding-tools-mcp",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "e6e7069106bb9d9e": {
+      "url": "https://juice.name/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "f944c5c1eb043512": {
+      "url": "https://www.sqim.dev/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "2221396fd761cf7b": {
+      "url": "https://runhalcyon.com/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "059e02c06fb6f8c0": {
+      "url": "https://iamspeed.dev/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "f960051e7087c4c0": {
+      "url": "https://samuria.online/drift/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-show"
+    },
+    "1027fcbb81e9252a": {
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "555aaf30890e7a75": {
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "d25aea7d9d2fde04": {
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "065efa1745731622": {
+      "url": "https://fortune.com/2026/06/16/openai-financials-leaked-losses-revenue-profit/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "7f4593f0a785fdbe": {
+      "url": "https://grassdx.com/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "7c818137ae789404": {
+      "url": "https://www.orangecrumbs.com/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "8d7d7c9d1a403278": {
+      "url": "https://stackscope.dev/",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "b0f41eb077868d99": {
+      "url": "https://www.matteast.io/spacex-escape-velocity.html",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "cb8f116647ba8457": {
+      "url": "https://trizuliak.com/experiments/hacker-news-waterfall",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "35969baebc784f1a": {
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "347474c3b7241a17": {
+      "url": "https://teardownhq.io",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "020a75c3eeb40630": {
+      "url": "https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "263f25f2abeaf9a6": {
+      "url": "https://www.producthunt.com/products/darkmoon",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "5025d3c88572f3e9": {
+      "url": "https://www.producthunt.com/products/quackscreen",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "84df51ce48865d6f": {
+      "url": "https://www.producthunt.com/products/midjourney",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "f042c56c481fc15d": {
+      "url": "https://www.producthunt.com/products/api-to-mcp",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "682e5a61c22fdd26": {
+      "url": "https://www.producthunt.com/products/snap-deck-hq",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "e2ad3fea654f90bf": {
+      "url": "https://www.producthunt.com/products/blazly-backlinker",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "b4c9946d01788e40": {
+      "url": "https://www.producthunt.com/products/screen-ruler",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "cbcf12c3d9d058fe": {
+      "url": "https://www.producthunt.com/products/just-f-ing-send-it",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "9a2b8110dfd5772b": {
+      "url": "https://www.producthunt.com/products/narration-room",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "6b4383b5f78100fd": {
+      "url": "https://www.producthunt.com/products/zernio",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "2a400eddaa0e08db": {
+      "url": "https://www.producthunt.com/products/ask-ad-manager",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "b36f7116a84b8a9e": {
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "a5d8543bb47bf970": {
+      "url": "https://www.producthunt.com/products/mutter-ai-dictation",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "e9a34a96bf7e72eb": {
+      "url": "https://www.producthunt.com/products/meshpilot",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "da7d4bf895ffdd85": {
+      "url": "https://www.producthunt.com/products/portia-2",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "1aa5da723dac1794": {
+      "url": "https://www.producthunt.com/products/claude-redesigned",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "6ff166208669fc7a": {
+      "url": "https://www.producthunt.com/products/foglamp",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "9c34bdf501028f6f": {
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "bf9754b2331b91ec": {
+      "url": "https://www.producthunt.com/products/pitchbar",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "a8a9d4fc81c9f567": {
+      "url": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "4bec36d415cbad04": {
+      "url": "https://www.producthunt.com/products/unreal-engine",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "ddb0e26648002551": {
+      "url": "https://www.producthunt.com/products/prism-28",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "2b930b78e60d1749": {
+      "url": "https://www.producthunt.com/products/adapt-3",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "401687717c977f42": {
+      "url": "https://www.producthunt.com/products/cliptop",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "6e887bbbdac51406": {
+      "url": "https://www.producthunt.com/products/retool",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "c169ccf8078dbf97": {
+      "url": "https://www.producthunt.com/products/viktor",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "1b8f47444447808e": {
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "59829e4bf2b76d04": {
+      "url": "https://www.producthunt.com/products/elvin",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "6f4a61052487e4bc": {
+      "url": "https://www.producthunt.com/products/upstream-3",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "91a4b795278d4419": {
+      "url": "https://www.producthunt.com/products/jesse-2",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "782cbae1afb73584": {
+      "url": "https://www.producthunt.com/products/honestly",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "cc2ef5ec72b7dbb0": {
+      "url": "https://www.producthunt.com/products/ploy-ai",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "611fc5c645c0e1be": {
+      "url": "https://www.producthunt.com/products/instantdelay",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "af67a8e029bacc63": {
+      "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "b04665fbf26123c8": {
+      "url": "https://www.producthunt.com/products/voiceos",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "9d33f748ef4d7e66": {
+      "url": "https://www.producthunt.com/products/japanly-aeo",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "a28401478947a885": {
+      "url": "https://www.producthunt.com/products/cadam",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "9fbc140dcabf799f": {
+      "url": "https://www.producthunt.com/products/merlin-by-encord",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "f52b861d5622a02c": {
+      "url": "https://www.producthunt.com/products/tine-2",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "7c8eccae59810780": {
+      "url": "https://www.producthunt.com/products/vela-7",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "35f490bb0f775e92": {
+      "url": "https://www.producthunt.com/products/labs-ai-text-to-speech",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "7e39a1a496adcddf": {
+      "url": "https://www.producthunt.com/products/genie-mentions",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "1e15d2345a719f63": {
+      "url": "https://www.producthunt.com/products/tiles-map-your-adventures",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "cfaf3e92690efe81": {
+      "url": "https://www.producthunt.com/products/locofy-ai",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "1689e2427a299730": {
+      "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "31e04b9f56fbd424": {
+      "url": "https://www.producthunt.com/products/otty",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "1707533c45a68a38": {
+      "url": "https://www.producthunt.com/products/d-id",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "f802603ec9998338": {
+      "url": "https://www.producthunt.com/products/the-city-mesh",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "ce94f53999c76aac": {
+      "url": "https://www.producthunt.com/products/juno-16",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    },
+    "4c65da7930661a69": {
+      "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
+      "first_seen": "2026-06-19T09:15:45.123512+00:00",
+      "source_id": "producthunt"
+    }
+  }
 }
