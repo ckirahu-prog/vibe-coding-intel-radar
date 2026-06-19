@@ -7,7 +7,8 @@ import hashlib
 import json
 import re
 import sys
-from datetime import datetime, timezone
+import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
@@ -99,25 +100,44 @@ def classify_topics(
             if match_keywords(text, keywords):
                 matched.add(topic_id)
 
-    # Cross-tag: check other topics' keywords for broader sources
-    for topic_id, keywords in all_topic_keywords.items():
-        if topic_id not in source_topics and match_keywords(text, keywords):
-            matched.add(topic_id)
-
+    # Cross-tag: disabled — avoid Show HN / generic AI news flooding ai-game-dev
     return sorted(matched)
+
+
+def strip_html(text: str) -> str:
+    return re.sub(r"<[^>]+>", " ", text or "")
+
+
+def fetch_with_retry(url: str, headers: dict, retries: int = 3) -> requests.Response:
+    last_err: Exception | None = None
+    for attempt in range(retries):
+        try:
+            resp = requests.get(url, headers=headers, timeout=30)
+            if resp.status_code == 429:
+                time.sleep(2 ** attempt + 1)
+                continue
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            last_err = e
+            time.sleep(2 ** attempt + 1)
+    raise last_err or RuntimeError(f"Failed to fetch {url}")
 
 
 def fetch_rss(source: dict) -> list[dict]:
     headers = {"User-Agent": USER_AGENT}
-    resp = requests.get(source["url"], headers=headers, timeout=30)
-    resp.raise_for_status()
+    url = source["url"]
+    # old.reddit.com is more reliable from CI than www.reddit.com
+    if "reddit.com" in url and "old.reddit.com" not in url:
+        url = url.replace("www.reddit.com", "old.reddit.com")
+    resp = fetch_with_retry(url, headers)
     feed = feedparser.parse(resp.content)
 
     items = []
     for entry in feed.entries[:50]:
         link = entry.get("link") or entry.get("id") or ""
-        title = entry.get("title", "Untitled")
-        summary = entry.get("summary") or entry.get("description") or ""
+        title = strip_html(entry.get("title", "Untitled"))
+        summary = strip_html(entry.get("summary") or entry.get("description") or "")
         published = entry.get("published") or entry.get("updated") or ""
         items.append({
             "title": truncate(title, 300),
@@ -137,15 +157,37 @@ def fetch_github_search(source: dict) -> list[dict]:
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
+    since = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
+    query = source["query"].replace(">7d", f">{since}")
+
     params = {
-        "q": source["query"],
+        "q": query,
         "sort": "updated",
         "order": "desc",
         "per_page": 20,
     }
-    resp = requests.get(f"{GITHUB_API}/search/repositories", headers=headers, params=params, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
+
+    last_err: Exception | None = None
+    data = {}
+    for attempt in range(3):
+        try:
+            resp = requests.get(
+                f"{GITHUB_API}/search/repositories",
+                headers=headers,
+                params=params,
+                timeout=30,
+            )
+            if resp.status_code == 429:
+                time.sleep(2 ** attempt + 1)
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            break
+        except Exception as e:
+            last_err = e
+            time.sleep(2 ** attempt + 1)
+    else:
+        raise last_err or RuntimeError("GitHub search failed")
 
     items = []
     for repo in data.get("items", []):
@@ -254,6 +296,9 @@ def main() -> int:
 
     for source in sources_cfg.get("sources", []):
         source_id = source["id"]
+        # Stagger Reddit requests to reduce 429 rate limits
+        if "reddit" in source_id:
+            time.sleep(2)
         try:
             if source["type"] == "rss":
                 raw_items = fetch_rss(source)
@@ -321,6 +366,7 @@ def main() -> int:
         print("No new items today — skipping report commit.")
         save_json(SEEN_FILE, seen)
         save_json(STATS_FILE, stats)
+        print_summary(stats)
         return 0
 
     RAW_DIR.mkdir(parents=True, exist_ok=True)
@@ -336,7 +382,22 @@ def main() -> int:
     save_json(STATS_FILE, stats)
 
     print(f"Wrote {len(new_items)} items → {raw_path.name}, {report_path.name}")
+    print_summary(stats)
     return 0
+
+
+def print_summary(stats: dict) -> None:
+    sources = stats.get("sources", {})
+    ok = [sid for sid, s in sources.items() if s.get("errors", 0) == 0 and s.get("hits", 0) > 0]
+    empty = [sid for sid, s in sources.items() if s.get("errors", 0) == 0 and s.get("hits", 0) == 0]
+    failed = [sid for sid, s in sources.items() if s.get("errors", 0) > 0]
+    print(f"\n=== Summary: {len(ok)} sources OK, {len(empty)} empty, {len(failed)} failed ===")
+    if failed:
+        for sid in failed:
+            err = sources[sid].get("last_error", "unknown")
+            print(f"  [FAILED] {sid}: {err}")
+    if empty:
+        print(f"  [EMPTY]  {', '.join(empty)}")
 
 
 if __name__ == "__main__":

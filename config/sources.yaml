@@ -36,7 +36,7 @@ sources:
   - id: github-game-ai
     name: "GitHub: game-dev + AI repos"
     type: github_search
-    query: "topic:game-development topic:ai pushed:>7d"
+    query: "topic:game-development ai pushed:>7d"
     topics: [ai-game-dev]
     tier: A
 
@@ -73,7 +73,7 @@ sources:
   - id: github-vibe-coding
     name: "GitHub: vibe coding / built with cursor"
     type: github_search
-    query: '"built with cursor" OR "vibe coding" in:readme pushed:>7d'
+    query: "cursor in:readme vibe pushed:>7d"
     topics: [vibe-coding-commercial]
     tier: A
 
