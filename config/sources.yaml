@@ -1,0 +1,85 @@
+# 信息采集源清单
+# tier: A = 必收录（跳过关键词过滤）, B = 需关键词命中
+# type: rss | github_search
+
+sources:
+  # ── AI 做游戏 ──────────────────────────────────────────
+
+  - id: hn-ai-game
+    name: "HN Search: AI game"
+    type: rss
+    url: "https://hnrss.org/newest?q=AI+game+OR+gamedev+AI&points=3"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: reddit-gamedev
+    name: "Reddit r/gamedev"
+    type: rss
+    url: "https://www.reddit.com/r/gamedev/.rss"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: reddit-unity3d
+    name: "Reddit r/Unity3D"
+    type: rss
+    url: "https://www.reddit.com/r/Unity3D/.rss"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: reddit-unrealengine
+    name: "Reddit r/unrealengine"
+    type: rss
+    url: "https://www.reddit.com/r/unrealengine/.rss"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: github-game-ai
+    name: "GitHub: game-dev + AI repos"
+    type: github_search
+    query: "topic:game-development topic:ai pushed:>7d"
+    topics: [ai-game-dev]
+    tier: A
+
+  - id: gd-ai
+    name: "Game Developer"
+    type: rss
+    url: "https://www.gamedeveloper.com/rss.xml"
+    topics: [ai-game-dev]
+    tier: B
+
+  # ── Vibe Coding 商业化 ─────────────────────────────────
+
+  - id: hn-show
+    name: "HN Show HN"
+    type: rss
+    url: "https://hnrss.org/show"
+    topics: [vibe-coding-commercial]
+    tier: B
+
+  - id: hn-solo-revenue
+    name: "HN Search: solo founder revenue"
+    type: rss
+    url: "https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue&points=5"
+    topics: [vibe-coding-commercial]
+    tier: B
+
+  - id: producthunt
+    name: "Product Hunt"
+    type: rss
+    url: "https://www.producthunt.com/feed"
+    topics: [vibe-coding-commercial]
+    tier: B
+
+  - id: github-vibe-coding
+    name: "GitHub: vibe coding / built with cursor"
+    type: github_search
+    query: '"built with cursor" OR "vibe coding" in:readme pushed:>7d'
+    topics: [vibe-coding-commercial]
+    tier: A
+
+  - id: indiehackers
+    name: "Indie Hackers"
+    type: rss
+    url: "https://www.indiehackers.com/feed.xml"
+    topics: [vibe-coding-commercial]
+    tier: B

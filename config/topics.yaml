@@ -1,0 +1,71 @@
+# 主题定义与关键词过滤规则
+
+topics:
+  ai-game-dev:
+    name: "AI 做游戏"
+    description: "AI 游戏开发工具、工作流、方向与产品思路"
+    keywords:
+      - ai
+      - llm
+      - gpt
+      - claude
+      - procedural
+      - npc
+      - dialogue
+      - generative
+      - machine learning
+      - neural
+      - rosebud
+      - ludo ai
+      - meshy
+      - tripo
+      - elevenlabs
+      - suno
+      - udio
+      - cursor
+      - copilot
+      - unity
+      - unreal
+      - game engine
+      - sprite
+      - texture
+      - 3d model
+      - voice
+      - asset
+      - level design
+      - mcp
+      - genai
+    # B 级源需命中至少 1 个关键词；A 级源跳过关键词过滤
+
+  vibe-coding-commercial:
+    name: "Vibe Coding 商业化"
+    description: "用 AI 编程实现商业化的产品案例与模式"
+    keywords:
+      - vibe coding
+      - built with cursor
+      - cursor
+      - copilot
+      - claude code
+      - ai coding
+      - solo founder
+      - indie hacker
+      - side project
+      - mrr
+      - arr
+      - revenue
+      - launched
+      - shipped
+      - saas
+      - micro saas
+      - bootstrapped
+      - product hunt
+      - show hn
+      - indie
+      - monetize
+      - paying customers
+      - stripe
+      - no-code
+      - ai-built
+
+# 默认归属：当条目来自某主题的专属源时自动打标
+# 跨主题源（如 HN）靠关键词匹配，可双标签

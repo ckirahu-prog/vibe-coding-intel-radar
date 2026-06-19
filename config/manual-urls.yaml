@@ -1,0 +1,8 @@
+# 手动添加的链接（采集脚本优先收录，不受 seen 限制的重采周期）
+# 示例：
+# - url: https://example.com/article
+#   title: "可选标题"
+#   topics: [ai-game-dev]
+#   note: "为什么收录"
+
+urls: []
