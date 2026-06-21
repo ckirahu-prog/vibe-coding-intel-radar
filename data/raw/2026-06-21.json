@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "be14b1da0909dce5",
+    "title": "What game development advice turned out to be completely wrong for you?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubj9qo/what_game_development_advice_turned_out_to_be/",
+    "summary": "I'm curious about the advice that everyone repeats, but didn't work for your specific situation. Maybe it was: &quot;Start small&quot; &quot;Never make a multiplayer game as your first project&quot; &quot;Don't use Blueprints&quot; &quot;Focus on marketing from day one&quot; &quot;Don't build your own systems&quot; What advice ended up being completely wrong for you, and what happened instead? &#…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T07:02:49+00:00"
+  },
+  {
+    "id": "af965d48e4302408",
+    "title": "I released my steam page & demo 1 day before the Steam fest, within a week it went from 0 to 9000 wishlists and sits now in the top 50 most played demos of the fest.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubn4lu/i_released_my_steam_page_demo_1_day_before_the/",
+    "summary": "I've had some success with my most recent game Speak a diplomacy-inspired game where players secretly communicate over the phone while trying to take over the city. It's a project I started 3 months ago, the steam page/demo have been out for a week and the early numbers look promising, 500 concurrent users on the demo, 2 millions views on tiktok/insta and 0 to 9k wishlists in a week. And while th…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:56:51+00:00"
+  },
+  {
+    "id": "81726ea31c8d182f",
+    "title": "We did everything wrong. What now?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubkd82/we_did_everything_wrong_what_now/",
+    "summary": "Two college students, wanted to try our hand in gamedev. Joined a game jam with basically no experience. Did quite well for first timers! Kept working on the game after the jam in our free time. Decided to make a steam page. No delusions about our game being the next big hit, we really just wanted to experience what it's like to create and publish a game from start to finish. Nextfest was coming…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T08:08:42+00:00"
+  },
+  {
+    "id": "0557455a27f8342b",
+    "title": "For Game Developers in the Netherlands",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubk7vs/for_game_developers_in_the_netherlands/",
+    "summary": "Hello everyone, I’m 26 years-old and completed a bachelor’s degree in Chemistry and have been looking for a job for the past year, but unfortunately without any success. There are almost no entry-level positions available, as most employers are looking for candidates with 5–10 years of experience. After many rejections, a period of depression, and a lot of thinking, I decided that I want to pursu…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T08:00:05+00:00"
+  },
+  {
+    "id": "bdc989e7ccfd400b",
+    "title": "Avoiding state drift when syncing logical game state with visuals",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubncob/avoiding_state_drift_when_syncing_logical_game/",
+    "summary": "Let's say you are making a turn based game. Chess is a good example. There is a logical representation of it: a board where each cell is either empty or has a certain chess piece on it. That is it. Players take actions. These actions modify the logical game state. The game state is completely independent of any visuals. You could simulate it on a server without needing any graphics, assets or gam…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:09:35+00:00"
+  },
+  {
+    "id": "599200c83cb0c97d",
+    "title": "Steam Next Fest 2026 - June: Wishlist numbers from a Top #1 or #2 ranked on festival game",
+    "url": "https://old.reddit.com/r/gamedev/comments/1uazyyp/steam_next_fest_2026_june_wishlist_numbers_from_a/",
+    "summary": "Hey everyone, Since my project IRON NEST: Heavy Turret Simulator has been sitting at #1 or #2 ( depending on the day and time ) on Steam Next Fest since the festival began, and I have always been curious about these kinds of numbers myself, I decided to share some stats with you. In roughly the first 5 days of the festival , we gathered 124,622 wishlists . The growth has been increasing almost li…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T15:52:02+00:00"
+  },
+  {
+    "id": "e8fe111e9f5157ce",
+    "title": "Looking for advice for getting back into game dev as a solo developer. Kind of lost a passion for it a while back but I've found myself missing it lately.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubcvz8/looking_for_advice_for_getting_back_into_game_dev/",
+    "summary": "I graduated back in 2019 with a degree in comp sci/ game dev. Didn't really do all too much with the game dev part of my degree and mostly worked software support but did actually get a chance to work as a dev support engineer for some time at a company that worked on mobile games though most of my role involved debugging and root causing issues not any actual game development. I'm still at said…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T01:14:45+00:00"
+  },
+  {
+    "id": "c8df334dfb25023e",
+    "title": "Starting out",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ublyjn/starting_out/",
+    "summary": "I am a new game dev i am good at art and 3D i always wanted to learn to code so i chose the game dev path, i asked my self this question many time the best game dev to learn and also apply the skill in the working field. &#x200b; Which is the best beginner game dev for beginners (unity, unreal engine, godot, game maker) &#32; submitted by &#32; /u/Wolf4Blues [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T09:46:47+00:00"
+  },
+  {
+    "id": "13fd2738ebf184a5",
+    "title": "How do you handle \"level designer's block syndrome\" ?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubl512/how_do_you_handle_level_designers_block_syndrome/",
+    "summary": "Hi. I'm currently working on a zelda-like 3D top down and I'm wondering how you handle level design in a general manner, and how you avoid the &quot;level designer's block&quot;? I have a pretty good idea about how to layout the room to each other for my &quot;dungeons&quot;, but doing the content of individual room feel like a struggle, I tried to do a linear dungeon to properly work on each ind…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T08:56:22+00:00"
+  },
+  {
+    "id": "a0deeb954e774f63",
+    "title": "What is in your opinion best way to balance Incremental RPG growth with live ops Seasons and Events? Total reset or keep the individual progress?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubkxo5/what_is_in_your_opinion_best_way_to_balance/",
+    "summary": "Hey r/gamedev , I'm solo dev and my recent project is incremental rpg. I want to start monthly Seasons soon so I'm fetching for feedback for best way to do it. The core dynamic is wrapped around Prestige System: Play =&gt; Progress Floors =&gt; Get Prestige Points according to your further run. You can exchange it with Ascention for permanent boosts but your progress, resources, upgrades get rese…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T08:43:36+00:00"
+  },
+  {
+    "id": "787addf7cde4abbd",
+    "title": "Major release: bonsai-bt AI behavior trees now have python bindings and live visualisations",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubiyoc/major_release_bonsaibt_ai_behavior_trees_now_have/",
+    "summary": "What the library does If you not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics, game NPCs and any agent that needs predictable, debuggable decision-making. What's new We just introduced python bindings and a live view of the behavior tree. Also, we have added tons of n…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T06:44:55+00:00"
+  },
+  {
+    "id": "4216dd69d02c3f94",
+    "title": "A question about publishing to Steam as a minor.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ubitq8/a_question_about_publishing_to_steam_as_a_minor/",
+    "summary": "For context, I've been working on and off on a game for about 2 years, and in the past 6 months I restarted the development and truly started taking it seriously. I don't expect it to be much of a &quot;success&quot;, but I do know there is an audience out there for it, and it would be a dream to put a game out on Steam. I have the resources and money to do so, it's not a problem for me, but the…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T06:36:40+00:00"
+  },
+  {
+    "id": "6f19f8ff0b3c05e1",
+    "title": "Mod post: open discussion on the future of r/Unity3D",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1tliimb/mod_post_open_discussion_on_the_future_of_runity3d/",
+    "summary": "Hello everyone, the mods here! Some of you may have noticed over these past few months there have been a lot of posts that some may consider ‘low effort’, advertisements, and/or ‘spam’. We’ve seen your concerns and complaints through your posts, comments and ModMails. In the past two months alone we’ve removed well over a thousand posts (including AutoMod). We introduced a new spam filter to help…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-05-23T14:49:16+00:00"
+  },
+  {
+    "id": "dd46c56a27c11afc",
+    "title": "Unity 6.5 is now available",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1u7gor6/unity_65_is_now_available/",
+    "summary": "Howdy everyone! Your friendly neighborhood Community Man Trey here to share that Unity 6.5 is now available ! This is a Supported release too, so it carries the same stability and critical update commitments as our LTS versions. Worth upgrading if you've been waiting. Quite a lot in the release, here’s a taste of what’s in there: Entity Unification : EntityID is replacing InstanceID, which is a s…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-16T15:25:39+00:00"
+  },
+  {
+    "id": "24c05969e45ddb36",
+    "title": "Real-time volumetric mushroom cloud. Custom GPU fluid sim I've been building in Unity (no flipbooks)",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ubhqav/realtime_volumetric_mushroom_cloud_custom_gpu/",
+    "summary": "BrazeFX is a real-time volumetric fire and smoke system for Unity, built entirely around GPU accelerated simulation. Its compute-based solver uses high order advection, precise pressure projection, and vorticity confinement to generate dense, organic fluid motion, while curl noise adds fine-grained turbulence at every scale. The volumetric raymarching renderer supports full single and multiple sc…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T05:33:13+00:00"
+  },
+  {
+    "id": "dec877e150e93801",
+    "title": "Did you know you can just parent a camera to your character's face and slap a render texture in the corner? Look at him. Having the time of his life.",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1uazwku/did_you_know_you_can_just_parent_a_camera_to_your/",
+    "summary": "&#32; submitted by &#32; /u/LesserGames [link] &#32; [comments]",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T15:49:10+00:00"
+  },
+  {
+    "id": "51c5c3adbbe0b2e7",
+    "title": "I’m an indie developer working on a survival horror game called BECROWNED. Just wanted to share some new screenshots and get your thoughts!",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ub352v/im_an_indie_developer_working_on_a_survival/",
+    "summary": "Hey everyone! I’m an indie dev working on a survival horror game called BECROWNED. It blends dark fantasy and industrial horror with retro-style visuals, a strong narrative, brutal combat, dark humor, and a heavy, unsettling atmosphere. Branching paths, NPC fates, and harsh choices all play a role. The game is coming in Fall 2026. A free demo is available on Steam. Wishlists really help 🖤 Would l…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T18:02:54+00:00"
+  },
+  {
+    "id": "b0df4219f2d8d518",
+    "title": "Free Textures/Materials Stone Ground",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ub2k29/free_texturesmaterials_stone_ground/",
+    "summary": "Restarted my regular realistic textures practice after doing the stylized practice. Had some ideas for stone flooring or ground, so it was great to rewired my brain to a realistic mindset. Download https://juliovii.itch.io/materials-stone-floors If you like my work, rating on itch.oi it's always a great way to support me. &#32; submitted by &#32; /u/JulioVII [link] &#32; [comments]",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T17:38:55+00:00"
+  },
+  {
+    "id": "21875394f600569c",
+    "title": "Anyone in here using perfectpoly low poly assets?",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ubgnmx/anyone_in_here_using_perfectpoly_low_poly_assets/",
+    "summary": "I need inspo from you guys, bought the asset since it was in sale and ill be using it learn game development. Need inspiration tho on how you use these assets, shouldve went with the universal pack cause it was apparently a more detailed version it but im stuck with this now &#32; submitted by &#32; /u/Cautious_Dinner_1045 [link] &#32; [comments]",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T04:32:54+00:00"
+  },
+  {
+    "id": "530fcd0389bec184",
+    "title": "Wheel collider \"microsurface\"",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1uasqoa/wheel_collider_microsurface/",
+    "summary": "Lately I've noticed how most of the wheel collider assets treat ground surfaces as flat, so I've been experimenting with &quot;microsurface&quot; collision. In this video I am using the excellent Wheel Controller 3D (not mine) which I modified to add &quot;microsurface&quot; detection and as you can see it also affects bike acceleration and slow down due to terrain bumps. At the moment I am using…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T10:01:35+00:00"
+  },
+  {
+    "id": "d618f7880cb8e5bf",
+    "title": "Booleans are so difficult",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ub34r3/booleans_are_so_difficult/",
+    "summary": "Well then. First make it work, then make it good. That's the saying, right? I don't like that saying. I want it good right away. This time it didn't come out right on the first try either, but something is starting to work. What you see here is my implementation of exact boolean operations on meshes in Unity for my node editor. They're already accurate enough that I can calm down and move on to t…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T18:02:35+00:00"
+  },
+  {
+    "id": "9aa16149d71df3e5",
+    "title": "I'm making a 3D vtuber model, do I have to draw the shadows Or I let Unity do it?",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ublfhp/im_making_a_3d_vtuber_model_do_i_have_to_draw_the/",
+    "summary": "&#32; submitted by &#32; /u/TartareAuxHerbes [link] &#32; [comments]",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T09:13:54+00:00"
+  },
+  {
+    "id": "e84c18ad9b4de73c",
+    "title": "Procedural Nature",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ub2sd5/procedural_nature/",
+    "summary": "I'm working on a grid of 5x5 foliage vignettes to test my procedural grass, rocks, trees, and plants. The foliage is made w/ billboards + camera facing rotation, and trunks/branches are grown with space colonization. Rocks are shaped using various functions like taper, chips, and a smoothing algorithm. Grass color comes from a noise function applied to a tri-color grass material w/ custom shader.…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T17:48:34+00:00"
+  },
+  {
+    "id": "70d1a73fccc78d12",
+    "title": "Unity 3d project wont load",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ubeqw0/unity_3d_project_wont_load/",
+    "summary": "It used to load in about a minute or two but now the project wont load past this point. &#32; submitted by &#32; /u/samferguderson [link] &#32; [comments]",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T02:51:25+00:00"
+  },
+  {
+    "id": "18d25d766e3e395f",
+    "title": "Made a Unity + Blender game trailer looking for feedback on workflow & editing",
+    "url": "https://old.reddit.com/r/Unity3D/comments/1ua1udb/made_a_unity_blender_game_trailer_looking_for/",
+    "summary": "Hi everyone, We recently made a trailer for our game project using Unity for gameplay and Blender for some cinematic/animated parts. We are still improving workflow and would love feedback on things like: Capturing gameplay in a cinematic but clear way Mixing in-engine footage with Blender animations Trailer pacing and editing choices Making sure gameplay is communicated well Song thoughts and op…",
+    "source_id": "reddit-unity3d",
+    "source_name": "Reddit r/Unity3D",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-19T13:20:13+00:00"
+  },
+  {
+    "id": "24a09d00bb541bc3",
+    "title": "bachhoang0606/aseprite-mcp",
+    "url": "https://github.com/bachhoang0606/aseprite-mcp",
+    "summary": "Live-first Aseprite MCP server — drive a running Aseprite session from an AI agent (perception, constrained colour, tilemap tooling).",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:22:00Z"
+  },
+  {
+    "id": "8e9c65af29c522d4",
+    "title": "Dulcineaeuphonic223/sifty",
+    "url": "https://github.com/Dulcineaeuphonic223/sifty",
+    "summary": "Filter unwanted data from datasets using this Python utility.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:03:53Z"
+  },
+  {
+    "id": "73233935adb2589d",
+    "title": "Redgoatfishwhittler671/AgentZet",
+    "url": "https://github.com/Redgoatfishwhittler671/AgentZet",
+    "summary": "Automate game development in Unreal Engine using an AI agent to build projects, edit C++ source files, and manage Blueprints directly within the editor.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:03:18Z"
+  },
+  {
+    "id": "19e86cc24b84d5aa",
+    "title": "aboral-bumper926/anansi",
+    "url": "https://github.com/aboral-bumper926/anansi",
+    "summary": "Scrape data from unstable websites using automated self-healing scrapers, TLS fingerprinting, and Pydantic validation to ensure reliable extraction.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:59:22Z"
+  },
+  {
+    "id": "846dfc090e338f90",
+    "title": "lisxa5747/unreal-angelscript-skills",
+    "url": "https://github.com/lisxa5747/unreal-angelscript-skills",
+    "summary": "Integrate structured AI skill sets into Unreal Engine AngelScript projects to improve coding accuracy and workflow efficiency with vendor-neutral agent support.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:58:49Z"
+  },
+  {
+    "id": "60804d2f08bdbc6c",
+    "title": "lost-ranchhand865/wraith",
+    "url": "https://github.com/lost-ranchhand865/wraith",
+    "summary": "Detect AI code issues with a fast Rust linter for hallucinated APIs, fake packages, secrets, and supply chain risks",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:52:35Z"
+  },
+  {
+    "id": "64a14a6dfcbd7285",
+    "title": "aliraza7925/excalibur",
+    "url": "https://github.com/aliraza7925/excalibur",
+    "summary": "Build a state-of-the-art agent harness with Excalibur, using superior primitives for model onboarding and controlled AI workflows",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:51:29Z"
+  },
+  {
+    "id": "efdc51cbd0f4a04d",
+    "title": "blindfold-lordstable148/unity-shader-agent-skills",
+    "url": "https://github.com/blindfold-lordstable148/unity-shader-agent-skills",
+    "summary": "Build Unity shader skills for mobile GPUs and WebGL with AI-ready guides for writing, reviewing, and optimizing shaders",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:48:05Z"
+  },
+  {
+    "id": "42deefb47da0b9b8",
+    "title": "mouthholeheaviside560/Agent-2-Beta",
+    "url": "https://github.com/mouthholeheaviside560/Agent-2-Beta",
+    "summary": "Build a self-hosted AI agent for coding, terminal tasks, security testing, and persistent memory with Google Gemini",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:47:02Z"
+  },
+  {
+    "id": "4112531caa0e26b1",
+    "title": "Justnessresponse962/ai-dev-framework",
+    "url": "https://github.com/Justnessresponse962/ai-dev-framework",
+    "summary": "Build a spec-first, quality-gated AI dev framework for Claude Code with TDD, sub-agents, and review checkpoints for reliable software delivery",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:46:50Z"
+  },
+  {
+    "id": "916c548c3644d34c",
+    "title": "Heartbreaking-greenhouseeffect508/god-prompt",
+    "url": "https://github.com/Heartbreaking-greenhouseeffect508/god-prompt",
+    "summary": "Transform AI into a production-grade coding assistant with one prompt file that improves verification, workflows, and code quality",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:42:59Z"
+  },
+  {
+    "id": "70b119dee9ffa78c",
+    "title": "Screwtopped-annapavlova802/SparkLabs",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs",
+    "summary": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:42:03Z"
+  },
+  {
+    "id": "4efcca2024bd64e6",
+    "title": "sojongki/-Ultimate-AI-Resources-Prompts-Collection",
+    "url": "https://github.com/sojongki/-Ultimate-AI-Resources-Prompts-Collection",
+    "summary": "Discover curated AI prompts and resources for game development, tools, assets, APIs, tutorials, and communities in one place",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:39:50Z"
+  },
+  {
+    "id": "a677bd8284e0c755",
+    "title": "Teresinatrackless687/GamineAI",
+    "url": "https://github.com/Teresinatrackless687/GamineAI",
+    "summary": "Build AI games, prompts, and tools with GamineAI’s builder, guides, courses, and resources for game creation and learning",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:39:51Z"
+  },
+  {
+    "id": "1bd9781436a6608d",
+    "title": "Unpretentious-swatsquad791/soft-ue-cli",
+    "url": "https://github.com/Unpretentious-swatsquad791/soft-ue-cli",
+    "summary": "Control Unreal Engine 5 from the command line with Python CLI tools for AI agents, Blueprints, actors, screenshots, profiling, and more",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:39:36Z"
+  },
+  {
+    "id": "a4038213bef095f6",
+    "title": "SKYHUBDev/Aivill",
+    "url": "https://github.com/SKYHUBDev/Aivill",
+    "summary": "Build adaptive game villains that learn player behavior and evolve strategies across sessions",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:39:18Z"
+  },
+  {
+    "id": "bdcb7e857d054ae3",
+    "title": "aiseog3121/unity-ai-bridge",
+    "url": "https://github.com/aiseog3121/unity-ai-bridge",
+    "summary": "Enable direct AI control of the Unity Editor for scene inspection, material editing, testing, and performance profiling without extra setup.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:35:13Z"
+  },
+  {
+    "id": "562aaa487755cae0",
+    "title": "hackerass31-design/Autonomix",
+    "url": "https://github.com/hackerass31-design/Autonomix",
+    "summary": "Enable autonomous creation and management of Unreal Engine game projects using AI-driven editing of Blueprints, code, and assets within the editor.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:35:04Z"
+  },
+  {
+    "id": "7525925b179e07af",
+    "title": "mqzli2711/cerul",
+    "url": "https://github.com/mqzli2711/cerul",
+    "summary": "Enable AI agents to search video content by analyzing visual elements, not just spoken words, for deeper video understanding.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T10:34:50Z"
+  },
+  {
+    "id": "5e203a049db9e932",
+    "title": "Show HN: Didon – AI workday reports for productivity analysis",
+    "url": "https://www.didon.app/",
+    "summary": "As an indie engineer, I wanted some real feedback on my productivity, like having an actual external boss. I tried using time trackers (even a physical timer), but they weren't good at tracking everything. So I built Didon, an AI time tracker that watches the screen periodically and generates work logs, then summarizes them into your workday report. Comments URL: https://news.ycombinator.com/item…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 10:46:54 +0000"
+  },
+  {
+    "id": "759fe96103118ee8",
+    "title": "Show HN: ReplyVoice <> global floating button for Android voice dictation",
+    "url": "https://replyvoice.com",
+    "summary": "Article URL: https://replyvoice.com Comments URL: https://news.ycombinator.com/item?id=48617569 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 10:35:36 +0000"
+  },
+  {
+    "id": "2fa83c9ec6354839",
+    "title": "Show HN: Built this tool to solve my marketing content problem",
+    "url": "https://www.clickcast.tech/",
+    "summary": "Article URL: https://www.clickcast.tech/ Comments URL: https://news.ycombinator.com/item?id=48617225 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 09:35:07 +0000"
+  },
+  {
+    "id": "e15c1f4fdf6bae36",
+    "title": "Show HN: Core Rankings for DBLP Profiles",
+    "url": "https://pubtier.com/",
+    "summary": "Article URL: https://pubtier.com/ Comments URL: https://news.ycombinator.com/item?id=48616786 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 08:18:23 +0000"
+  },
+  {
+    "id": "7b814500c8f9ded7",
+    "title": "Show HN: MapDex – A Social Map for Travelers",
+    "url": "https://news.ycombinator.com/item?id=48616623",
+    "summary": "MapDex is a social map for travelers. Users can track places they've visited, save destinations to their bucket list, and explore maps from friends and other travelers. One thing I felt was missing from existing products was meaningful ranking. Instead of relying on a traditional 5-star system where ratings tend to become inflated, MapDex lets users rank destinations against others within the sam…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 07:49:25 +0000"
+  },
+  {
+    "id": "d0cd213b59c5cc23",
+    "title": "Show HN: RedHN: A Reddit-style extension for Hacker News",
+    "url": "https://github.com/fanjin-z/RedHN",
+    "summary": "Article URL: https://github.com/fanjin-z/RedHN Comments URL: https://news.ycombinator.com/item?id=48616467 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 07:21:35 +0000"
+  },
+  {
+    "id": "5555c5fd969bb335",
+    "title": "Show HN: MP3 to Mp4 Converter",
+    "url": "https://www.neuralframes.com/tools/mp3-to-mp4",
+    "summary": "Easy converter from mp3 to mp4, by simply uploading an image. Free to use, no signup Comments URL: https://news.ycombinator.com/item?id=48616361 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 07:00:46 +0000"
+  },
+  {
+    "id": "c7dfa6eff1db6726",
+    "title": "Show HN: Chess-Inspired Roguelike",
+    "url": "https://princechazz.com",
+    "summary": "Article URL: https://princechazz.com Comments URL: https://news.ycombinator.com/item?id=48616304 Points: 7 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:50:31 +0000"
+  },
+  {
+    "id": "79243e3741478e02",
+    "title": "Show HN: Domvault – self-hostable second brain with consent-based note sharing",
+    "url": "https://github.com/dys5315/domvault",
+    "summary": "Hi HN, wanted to translate this into a more human-readable post - please see below and would love any and all feedback! What is it: A second brain you self-host and engine to compound itself and spark new ideas, from your own ideas. Why: ROI on your own knowledge, actually realize the value from your ideas. Down the line I'd love for this to evolve into a wider / shareable concept -- Haven't full…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:37:24 +0000"
+  },
+  {
+    "id": "e9aef91bc710d0bd",
+    "title": "Show HN: Pyor – A desktop PR reviewer for the diffs GitHub chokes on",
+    "url": "https://news.ycombinator.com/item?id=48616239",
+    "summary": "Show HN: Pyor - A better alternative to Github for reviewing PRs since the introduction of AI, the bottleneck for shipping code shifted from producing code to reviewing it, and the PR reviewing experience on Github is lackluster, leaving a lot to be desired. my team now ships too much code and it sits in review for too long, review AI code is not easy and we need a better tool to review code, esp…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:36:41 +0000"
+  },
+  {
+    "id": "b1830e8285d2b881",
+    "title": "Show HN: Notedog – Git-friendly portable Markdown journal, edit from a laptop",
+    "url": "https://notedog.run/",
+    "summary": "Hi. I've created this Android app for a couple of motivations: 1. no need to sync; 2. easy to throw away (no lock-in); 3. works without internet access. The app runs a small web server and allows you to edit your journal with the app UI, and also from browsers on other devices. Since in both cases the changes will be persisted in the phone, no need to sync. You can connect to the editor server by…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:35:47 +0000"
+  },
+  {
+    "id": "514167045a150df8",
+    "title": "Show HN: Quikdown – 17 KB bidirectional Markdown parser and rich-fence editor",
+    "url": "https://github.com/deftio/quikdown",
+    "summary": "Hi HN- This past year I've built and maintained Quikdown, a bidirectional markdown parser and companion editor in pure js, with batteries included fences for rendering rich content. Try it live: https://deftio.github.io/quikdown/pages/edit/ The motivation was working with many different LLM frameworks and wanting to test tool calling and collaborative editing. Often I just wanted a pretty final o…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:34:59 +0000"
+  },
+  {
+    "id": "46405b161caf95b0",
+    "title": "Show HN: shared verified memory for AI agents: one learns, all recall",
+    "url": "https://kage-core.com/",
+    "summary": "Article URL: https://kage-core.com/ Comments URL: https://news.ycombinator.com/item?id=48616216 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 06:32:30 +0000"
+  },
+  {
+    "id": "0f6d8983b8608515",
+    "title": "Show HN: Image Tools Hub – A Curated Directory of AI Image Tools",
+    "url": "https://imgtoolshub.com",
+    "summary": "Article URL: https://imgtoolshub.com Comments URL: https://news.ycombinator.com/item?id=48616001 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 05:42:21 +0000"
+  },
+  {
+    "id": "554742f140ea19ca",
+    "title": "Show HN: Shelve – Native macOS menu bar app that auto-organizes your Downloads",
+    "url": "https://github.com/DanielZ1-tech/shelve",
+    "summary": "Article URL: https://github.com/DanielZ1-tech/shelve Comments URL: https://news.ycombinator.com/item?id=48615915 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 05:21:48 +0000"
+  },
+  {
+    "id": "d0110f8b80e91d24",
+    "title": "Show HN: I made an AI video of alexpotato's comment about his stockbroker dad",
+    "url": "https://getartcraft.com/media/m_xtdewkcnz1ghvsnr5st2sted99p2nr",
+    "summary": "Link to the comment: https://news.ycombinator.com/item?id=48302991 Sorry I made your dad bald... he was bald, right? Comments URL: https://news.ycombinator.com/item?id=48615877 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 05:11:48 +0000"
+  },
+  {
+    "id": "9ecb7d88608693c2",
+    "title": "Show HN: FloatDeck, a floating quick-actions menu for Chrome",
+    "url": "https://chromewebstore.google.com/detail/floatdeck-floating-button/fanagpncolgnoglmhamngmcnadkffmlo",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/floatdeck-floating-button/fanagpncolgnoglmhamngmcnadkffmlo Comments URL: https://news.ycombinator.com/item?id=48615859 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 05:08:45 +0000"
+  },
+  {
+    "id": "afdcfd3b54d7bd0c",
+    "title": "Show HN: Nivroo – AI builds your dropshipping store in 60s and trading terminal",
+    "url": "https://nivroo.com",
+    "summary": "Article URL: https://nivroo.com Comments URL: https://news.ycombinator.com/item?id=48615663 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 04:24:52 +0000"
+  },
+  {
+    "id": "5b9467539cc471cd",
+    "title": "Show HN: Moduna –- Mixpanel for AI Agents",
+    "url": "https://moduna-ai.vercel.app",
+    "summary": "Article URL: https://moduna-ai.vercel.app Comments URL: https://news.ycombinator.com/item?id=48615639 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 04:18:56 +0000"
+  },
+  {
+    "id": "c9553e9e0605570c",
+    "title": "Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions",
+    "url": "https://argybargy.dev",
+    "summary": "Article URL: https://argybargy.dev Comments URL: https://news.ycombinator.com/item?id=48615609 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 04:10:24 +0000"
+  },
+  {
+    "id": "6d3bd03b49986330",
+    "title": "OpenMontage: Turn your AI coding assistant into a full video production studio",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "summary": "Article URL: https://github.com/calesthio/OpenMontage Comments URL: https://news.ycombinator.com/item?id=48616398 Points: 5 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 07:08:27 +0000"
+  },
+  {
+    "id": "d775e16bd1163d6f",
+    "title": "Second Brain – A free, invisible AI interview copilot (Groq and Llama 3)",
+    "url": "https://github.com/hi2brain/second-brain",
+    "summary": "Article URL: https://github.com/hi2brain/second-brain Comments URL: https://news.ycombinator.com/item?id=48615501 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 03:47:43 +0000"
+  },
+  {
+    "id": "33ef2251362a6d4d",
+    "title": "Ask HN: Is Claude Code with Fable 5 worth switching back from Codex?",
+    "url": "https://news.ycombinator.com/item?id=48615488",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48615488 Points: 6 # Comments: 3",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 03:45:02 +0000"
+  },
+  {
+    "id": "d4c1cd606b6b8665",
+    "title": "Show HN: Cc-fleet – run other LLMs as Claude Code workers, your sub drives",
+    "url": "https://github.com/ethanhq/cc-fleet",
+    "summary": "Article URL: https://github.com/ethanhq/cc-fleet Comments URL: https://news.ycombinator.com/item?id=48614868 Points: 3 # Comments: 4",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sun, 21 Jun 2026 01:40:27 +0000"
+  },
+  {
+    "id": "d37c7d506dd99cc6",
+    "title": "Show HN: Agentic coding workflows built on Git worktrees and task evidence",
+    "url": "https://github.com/alex-reysa/glueRun-go",
+    "summary": "Article URL: https://github.com/alex-reysa/glueRun-go Comments URL: https://news.ycombinator.com/item?id=48614286 Points: 9 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sat, 20 Jun 2026 23:58:18 +0000"
+  },
+  {
+    "id": "3334e9daad63ff12",
+    "title": "Show HN: Ember, a native iOS Hacker News reader I built around accessibility",
+    "url": "https://github.com/DatanoiseTV/ember-hackernews",
+    "summary": "I read HN on my phone every day and never really settled on a reader, so I wrote my own and finally tidied it up enough to put out there. It's plain SwiftUI with no third-party dependencies. A few things I spent the most time on: Comments are parsed and drawn as native text instead of being dumped into a web view. Links, italics, quotes and code blocks behave like the rest of the OS, text selecti…",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sat, 20 Jun 2026 17:00:38 +0000"
+  },
+  {
+    "id": "3fd1330924bf6c00",
+    "title": "Indie hackers needed better founder pages, so I made this",
+    "url": "https://www.founder.best",
+    "summary": "Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=48609998 Points: 5 # Comments: 0",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sat, 20 Jun 2026 15:37:21 +0000"
+  },
+  {
+    "id": "b23972da02d0cbb8",
+    "title": "Two production Next.js apps, built solo with Cursor+Claude, $13,945",
+    "url": "https://technicalstrat.com/articles/enterprise-app-vibecode-recipe",
+    "summary": "Article URL: https://technicalstrat.com/articles/enterprise-app-vibecode-recipe Comments URL: https://news.ycombinator.com/item?id=48609008 Points: 5 # Comments: 0",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "Sat, 20 Jun 2026 13:10:48 +0000"
+  },
+  {
+    "id": "42f7722c776a5213",
+    "title": "Cloudback MCP Server",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "summary": "Manage your backups from Claude, Cursor, and VS Code Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-20T13:46:39-07:00"
+  },
+  {
+    "id": "899263d04b34a43b",
+    "title": "DrGekoz/Hermes-IdleViber",
+    "url": "https://github.com/DrGekoz/Hermes-IdleViber",
+    "summary": "Hermes IdleViber is an ambient idle/incremental game that lives in your browser — a cozy pixel-art universe where you click, earn, upgrade, and unlock themed rooms while chiptune music plays and particle effects drift across the screen. The twist? The game is hard-locked to your local Hermes Agent gateway.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:34:03Z"
+  },
+  {
+    "id": "fbfc6d0581c7524e",
+    "title": "Perufitlife/appwrite-security-skill",
+    "url": "https://github.com/Perufitlife/appwrite-security-skill",
+    "summary": "Open-source Appwrite security auditor: detects 'any' role grants, document security misconfig, over-permissive collection permissions. Active probe confirms each leak.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:33:41Z"
+  },
+  {
+    "id": "368ee6683b9f48e6",
+    "title": "Perufitlife/firebase-security-skill",
+    "url": "https://github.com/Perufitlife/firebase-security-skill",
+    "summary": "Open-source Firebase Firestore Rules auditor: detects 'match /{document=**} if true', expired test-mode rules, auth-without-ownership. Active probe sends anonymous GET to confirm leaks.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:33:39Z"
+  },
+  {
+    "id": "448e96d34556618c",
+    "title": "Perufitlife/pocketbase-security-skill",
+    "url": "https://github.com/Perufitlife/pocketbase-security-skill",
+    "summary": "Open-source PocketBase security auditor: detects empty rules, the @request.auth.id != trap, true literals. Active probe confirms leaks live.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:33:36Z"
+  },
+  {
+    "id": "d6f145930c834f48",
+    "title": "Perufitlife/supabase-security-skill",
+    "url": "https://github.com/Perufitlife/supabase-security-skill",
+    "summary": "Open-source Supabase security auditor: detects RLS-disabled tables, public buckets, exposed SECURITY DEFINER functions. Active anonymous probe confirms each leak with the anon key.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:33:33Z"
+  },
+  {
+    "id": "b6e48f36c2f8f7bd",
+    "title": "gaofeng21cn/opl-aion-shell",
+    "url": "https://github.com/gaofeng21cn/opl-aion-shell",
+    "summary": "Thin AionUI shell for the OPL Codex-default runtime",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:31:51Z"
+  },
+  {
+    "id": "45446e4fada3c680",
+    "title": "nagi-studio/nagi-bench",
+    "url": "https://github.com/nagi-studio/nagi-bench",
+    "summary": "One-shot LLM eval cases by NAGI STUDIO - same prompt, different models, runnable artifacts side by side.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:31:40Z"
+  },
+  {
+    "id": "b81aee10925dc8c8",
+    "title": "sankalpaacharya/apple-human-interface-skills",
+    "url": "https://github.com/sankalpaacharya/apple-human-interface-skills",
+    "summary": "give your agent apple's design taste🍎",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:31:39Z"
+  },
+  {
+    "id": "b3880a21189a7424",
+    "title": "elixir-vibe/exograph",
+    "url": "https://github.com/elixir-vibe/exograph",
+    "summary": "Structural Elixir code intelligence and search powered by ExAST, Reach, Ecto, and Postgres/ParadeDB",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:30:42Z"
+  },
+  {
+    "id": "4410c79e9c839e38",
+    "title": "linny006/mcp-servers-live",
+    "url": "https://github.com/linny006/mcp-servers-live",
+    "summary": "Auto-updated index of MCP servers shipping on GitHub, refreshed every 15 minutes",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:30:30Z"
+  },
+  {
+    "id": "e8759fface4e968e",
+    "title": "peterpeterparker/yawa",
+    "url": "https://github.com/peterpeterparker/yawa",
+    "summary": "Yet another web analytics, with MCP",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:30:02Z"
+  },
+  {
+    "id": "29c8062838e825b1",
+    "title": "jursber/VibeCodingLight",
+    "url": "https://github.com/jursber/VibeCodingLight",
+    "summary": "AI 编程状态灯控系统 — 将 Claude Code / Codex 状态映射到物理交通灯",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:29:36Z"
+  },
+  {
+    "id": "52898224d3451270",
+    "title": "Zero0x00/Ai-Security-radar-",
+    "url": "https://github.com/Zero0x00/Ai-Security-radar-",
+    "summary": "Curated List of repositories in AI/ML security Domain",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:29:05Z"
+  },
+  {
+    "id": "c71e37b84e713b61",
+    "title": "usefolklore/folklore",
+    "url": "https://github.com/usefolklore/folklore",
+    "summary": "A decentralized cooperative memory & research layer for AI agents — collectively and cooperatively learning and advancing as a community.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:28:41Z"
+  },
+  {
+    "id": "d8311d84d6e03f43",
+    "title": "hkjang/vibe-coders",
+    "url": "https://github.com/hkjang/vibe-coders",
+    "summary": "AI 코딩 도구를 중간에서 초저지연으로 중계하면서 사용량·프롬프트·토큰·언어·호출 IP·비용(KRW) 을 추적하는 SSE 프록시 게이트웨이입니다",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:26:07Z"
+  },
+  {
+    "id": "82b327d56a106f16",
+    "title": "nguyencongnamit/skills-library",
+    "url": "https://github.com/nguyencongnamit/skills-library",
+    "summary": "SkillShield — open-source security skills library for AI coding assistants. 28 skills, 9 supply-chain ecosystems, 15 MCP tools, Ed25519-signed.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:25:49Z"
+  },
+  {
+    "id": "3cac4168b75de85a",
+    "title": "lesnargitonga/geneat",
+    "url": "https://github.com/lesnargitonga/geneat",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:25:46Z"
+  },
+  {
+    "id": "e6ee0c12d33eceaf",
+    "title": "SeAMKedu/dkk-flightmanager",
+    "url": "https://github.com/SeAMKedu/dkk-flightmanager",
+    "summary": "Drone flight planner for field mapping.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-21T11:33:17.667731+00:00",
+    "published": "2026-06-21T11:24:57Z"
+  }
+]
