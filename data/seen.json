@@ -1974,6 +1974,366 @@
       "url": "https://github.com/SeAMKedu/dkk-flightmanager",
       "first_seen": "2026-06-21T11:33:17.667731+00:00",
       "source_id": "github-vibe-coding"
+    },
+    "c094bef449b38930": {
+      "url": "https://www.theverge.com/games/952765/steam-machine-review",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "12a5d02d8b151218": {
+      "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "88ac45b213562c58": {
+      "url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "d3371f4bd5018cb8": {
+      "url": "https://github.com/skyphusion-labs/vivijure",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "4ed9c3dc7d5f5c2e": {
+      "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "3c0d2377bcdb1679": {
+      "url": "https://news.ycombinator.com/item?id=48632415",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "32d88411932054bd": {
+      "url": "https://motion.so",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "58580b98f6991df0": {
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "acf55adc0fe43eab": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucg6v1/i_can_finally_see_the_truth_and_its_painful/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f92cfe57be4d304e": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucpn4q/lore_vcs_a_gamedevs_perspective/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "14f69b58912bacff": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucipnp/got_my_first_20_wishlists/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "3e39e4716c96c6f7": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ubvvi1/against_wishlist_obsession/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e8bc0f4c1e5fdb7b": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uc72ug/how_hard_would_it_be_to_implement_a_vampire/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "62603aa5c8d0b267": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucnhhh/question_about_requesting_dev_kits/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f92c69a0c148fe68": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucmumd/overlapping_2d_sprites_flickering/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "5b20d1507195c23e": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uclzjd/master_git_worktrees_for_gamedev_in_5_minutes/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "1f83d41f32dc9b6a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucrnmr/this_could_be_a_game_changer_for_game_dev_lore_vcs/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "47b0f72d5478ecf9": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucr7s2/my_biggest_challenges_in_developing_a_game_and/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "9f30806bdb77e2ea": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucdche/what_actually_helped_you_scope_your_first_game/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "890db4ba1a553402": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uci1hb/looking_for_resourceslectures_on_the_pure_theory/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d1e67dd74aadb806": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucqbhw/and_this_is_the_trailer_for_our_malagasy_folklore/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "3823d01dcb189373": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ucpxsn/need_feedback_surrounding_direction/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "6428e85aa124e69b": {
+      "url": "https://github.com/JohnnyChe/lazy-bird",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "1068930c7b87868b": {
+      "url": "https://github.com/xrentnerdukek/torque",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "49bedff02bb233b6": {
+      "url": "https://github.com/wellingfeng/UltraGameStudio",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "77fa702757c9ec09": {
+      "url": "https://github.com/tusharpunde9322/Stealth-Game",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "1edf1d7b465f9862": {
+      "url": "https://github.com/nferdazel/skyward",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "6536abcbeaf7c558": {
+      "url": "https://github.com/joseontiveros/javascript-tetris",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "08dd0c154954bc89": {
+      "url": "https://github.com/voodoofox/unreal-mcp",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-game-ai"
+    },
+    "8db7b44906eb0b01": {
+      "url": "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "gd-ai"
+    },
+    "62224deb668c601e": {
+      "url": "https://mil.ad/blog/2026/kitcat-2.0.html",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "89c414fd44835e4f": {
+      "url": "https://ingestlayer.com",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "dd83a92850b26366": {
+      "url": "https://github.com/agent-data/job-search",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "5912247006ebb2f5": {
+      "url": "https://github.com/block/buzz",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "d0cbedbf401106c4": {
+      "url": "https://github.com/danterolle/loqi",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "6a5fcb78c70233f8": {
+      "url": "https://github.com/kuatsu/react-native-boost",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "fcad78cb9c2aef58": {
+      "url": "https://github.com/tsirysndr/smolsonic",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "fb0627020d979c30": {
+      "url": "https://github.com/dougdonohoe/ddphotos-app",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "7c385f092f51e812": {
+      "url": "https://feeauditor.com",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "3b4d3064f245734c": {
+      "url": "https://github.com/cgopalan/s3fileviewer",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "0c8b757bebdfec0f": {
+      "url": "https://jakedecamp.com/engineering/autonomous-drone-phase-3-real-hardware/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "0c3444099b59460c": {
+      "url": "https://opusmagnumbench.com/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "3c02dfaf8f4de531": {
+      "url": "https://github.com/av29nassh-sketch/PreFlight",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "3710768181df8c95": {
+      "url": "https://github.com/bartaxyz/GitPT",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "00ec7410b6e5d16f": {
+      "url": "https://agentry.run",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "6c711163bb307d95": {
+      "url": "https://github.com/jackulau/ratchet",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "1ae7952f51b971ed": {
+      "url": "https://github.com/telepat-io/otto",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "86949e3d6c0cfec5": {
+      "url": "https://github.com/challenga-org/openlanguage",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-show"
+    },
+    "7f72e98c7ac14a6a": {
+      "url": "https://thenewstack.io/agentjacking-sentry-mcp-attack/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "2e6f11da055559b6": {
+      "url": "https://automaton-media.com/en/news/steam-accounted-for-over-20-of-capcoms-total-revenue-nearly-double-playstations-share-in-the-past-fiscal-year/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "f48ce117015179d4": {
+      "url": "https://github.com/gjczone/pi-shazam",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "73ca883a55da89ad": {
+      "url": "https://github.com/momentiq-ai/dark-factory",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "4c159816e4fce1e3": {
+      "url": "https://github.com/superiorlu/AITreasureBox",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0eefb8131abff201": {
+      "url": "https://github.com/leviathan-news/squid-digest",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "08bcfb987c7ec9ea": {
+      "url": "https://github.com/jasonharmongit/jh-skills",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c5959f0a917a0f3a": {
+      "url": "https://github.com/Vincfud98/Falcon",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f4e0adf84666b0c9": {
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2267a0ad7ca0cab1": {
+      "url": "https://github.com/daintreehq/daintree",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b919fc44c5f0b758": {
+      "url": "https://github.com/karthikeyagoud045-ANU/ultimate-vibe-coder",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9a8ff88a652b7e08": {
+      "url": "https://github.com/rajitsaha/100xprism",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "11f4316143cfda19": {
+      "url": "https://github.com/SocialGouv/iterion",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d894172fe775483e": {
+      "url": "https://github.com/Chat2AnyLLM/awesome-claude-plugins",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b2dde8d2b4d70b66": {
+      "url": "https://github.com/confident-ai/deepeval",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "68551dc8cb2a5ed6": {
+      "url": "https://github.com/kenn-io/agentsview",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "70ab4c513c2018d6": {
+      "url": "https://github.com/iamtheharsh/Evara",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1c0a14fb911f9d1f": {
+      "url": "https://github.com/SalmanShhh/GodotEventSheet",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a0589b954bd1ab8c": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ucpcct/just_hit_73_in_revenue_with_40_users/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "c68aa96bee4c5961": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ucf0pt/i_built_this_trying_to_save_my_marriage_still/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "9762f9e80f1c00cd": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ucph71/i_built_a_selfcare_app_with_an_ai_companion_that/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "2e89278c8e417374": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uci1tx/what_was_the_smallest_proof_signal_that_made_you/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "1544058969f2c7b1": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uco6vv/looking_for_some_microsaas_ideas_web_apps/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "3833a7daca12df80": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ucn37m/i_built_a_macos_ai_copilot_thats_invisible_to/",
+      "first_seen": "2026-06-22T17:57:02.248978+00:00",
+      "source_id": "reddit-sideproject"
     }
   }
 }
