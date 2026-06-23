@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "5e1cd829e24c8691",
+    "title": "Tencent Is Said to Mull Exits from Game Studios Like Marvelous",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets Comments URL: https://news.ycombinator.com/item?id=48642203 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 08:57:25 +0000"
+  },
+  {
+    "id": "c51db4d4d508a05b",
+    "title": "Don't waste Claude limits babysitting AI experiments",
+    "url": "https://heyneo.com/claude-code",
+    "summary": "Article URL: https://heyneo.com/claude-code Comments URL: https://news.ycombinator.com/item?id=48641634 Points: 3 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:42:40 +0000"
+  },
+  {
+    "id": "6a1380872f21010d",
+    "title": "Postmortem: Why is my game so bad?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1udc7dg/postmortem_why_is_my_game_so_bad/",
+    "summary": "Hi everyone, I'm SuperBidi, an indie dev. With a friend of mine we decided to make our game. We released a demo for Steam Next Fest and... we failed miserably. 94 wishlists, we are almong the less wishlisted games. The worst games, actually (let's face it). I won't try to find excuses or blame Steam, AI or aliens. I just worked on a crappy game or crappy concept. It's tough. Having to give up on…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T09:19:52+00:00"
+  },
+  {
+    "id": "0e88ff3e32a6b1fb",
+    "title": "Best game engine for VR games like Half-Life Alyx",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ud7pb7/best_game_engine_for_vr_games_like_halflife_alyx/",
+    "summary": "Any recommendations ? For FPS game engine ? UE 5 or 6 (when released) ? I'm not sure if Cryengine 3 supports VR nowadays or not. Any other known engines for VR games ? Or new innovative engine that are not very well known today ? Armory 3D looks cool with Blender integration not sure about VR games tho with it how easy it is to make one. &#32; submitted by &#32; /u/kasugayaTatsumi [link] &#32; [c…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T05:00:31+00:00"
+  },
+  {
+    "id": "321432c80b778197",
+    "title": "Best free software to use for creating an open world environment?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1udcq32/best_free_software_to_use_for_creating_an_open/",
+    "summary": "I want to try creating an open world style game but am struggling with the actual world. What is the best way to go about building the environment and maps? Including mountains/forests/lakes etc. I primarily use Blender and Unity and have sculpting experience + a Minecraft map reference &#32; submitted by &#32; /u/Opossumwill [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T09:49:59+00:00"
+  },
+  {
+    "id": "8f6ff75541402c34",
+    "title": "Have used Unity new Ui Toolkit, is it more programmers-friendly than the current UGUI ?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1uded3d/have_used_unity_new_ui_toolkit_is_it_more/",
+    "summary": "Hi, In my fulltime job we are still using UGUI (Canvas renderer, +monobehavior components, etc...), but as an engineer i almost rarely deal with the prefabs implementation, animation, etc... usually the workflow is: Build the feature system (data &amp; logic) build the Ui instantiation &amp; initialization flow do a preview with placeholder &quot;ugly&quot; prefabs Ui/Ux designers steps in and st…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:20:36+00:00"
+  },
+  {
+    "id": "75fe563e890651be",
+    "title": "Good software for spritesheet creation?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ud6nsc/good_software_for_spritesheet_creation/",
+    "summary": "I'm making art for a 2d game. I've been using ibisPaint X's animation feature to make the frames, downloading each one individually, and using random websites to turn the images into frames, but ibis only has 2 animation resolutions in the free tier, and they aren't as big as I would like them to be. Does anyone have any (NON PIXEL ART) free alternatives? I'm fine if it has ads or if it doesn't h…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T04:06:29+00:00"
+  },
+  {
+    "id": "3318a6c4f1d575a3",
+    "title": "Best way to approach controller mapping design?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ud0taq/best_way_to_approach_controller_mapping_design/",
+    "summary": "I built a puzzle game with mouse and tap controls in mind first, with plans to add controller input later. Well later is now, and I’m trying to decide the best way to approach the mapping design. How do you all decide what’s a good “A/X” activation vs y/triangle, and other mappings like that? The game in question is called Starglyphs - it’s web only at the moment but the Steam version is in progr…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T23:37:01+00:00"
+  },
+  {
+    "id": "7d04d9eebb11b3d6",
+    "title": "Steam Page Art: How Do?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ud0mji/steam_page_art_how_do/",
+    "summary": "My team and I are approaching the point where we'd like to create a Steam page with a demo. But this is my first time creating a Steam page for a game. If people more experienced in this could offer some advice, it would be greatly appreciated! What all art do we need? What priority should we place on creating that art? Any advice would be greatly appreciated! &#32; submitted by &#32; /u/MissItal…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T23:28:54+00:00"
+  },
+  {
+    "id": "e2c77edd88a243a0",
+    "title": "Is it efficient to learn C# while learning Unity?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ud9s77/is_it_efficient_to_learn_c_while_learning_unity/",
+    "summary": "So, I want to try to learn Unity and C#... Just for some background, I'm not a dev myself, but I want to become one someday (i'm not so young, but I still have hopes to change my career) That said, I have some knowledge with Java and Spring and want to learn C#, but I really don't want to go from the basics of the language, specially when I already know OOP Since I love games, I was thinking abou…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T06:56:34+00:00"
+  },
+  {
+    "id": "461f86363985415d",
+    "title": "Is it just me or are the Anti-AI crowd super obnoxious?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1udcadd/is_it_just_me_or_are_the_antiai_crowd_super/",
+    "summary": "I have nothing wrong with people have differing opinions but it seems like almost all of the anti-ai crowd love to obnoxiously tell you about how anti-ai they are as if their view is the one true view, sort of like the stereotype of vegans that how will you know there's a vegan with you? because they'll tell you about it. The worst part about it is when they tell how you should be developing game…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T09:24:24+00:00"
+  },
+  {
+    "id": "283c1158b5bbc0a0",
+    "title": "I Built an MMORPG with AI in Just 30 Days",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud0bej/i_built_an_mmorpg_with_ai_in_just_30_days/",
+    "summary": "I've always loved MMORPGs in the style of Ragnarok Online. The simple but charming sprites, the grindy progression, the connected maps, the social interactions, and that feeling of being part of a living world always appealed to me. About a month ago, I decided to try a personal experiment. I've been programming for over 20 years and have worked on web applications, games, servers, and multiplaye…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T23:15:47+00:00"
+  },
+  {
+    "id": "609f0360cea19fa0",
+    "title": "Unleash The Avatar - From an Indian Youtuber",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1uda0le/unleash_the_avatar_from_an_indian_youtuber/",
+    "summary": "He claims Most of the work is done with ai - higgsfield,claude,etc. &#32; submitted by &#32; /u/TourSignificant7065 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T07:10:09+00:00"
+  },
+  {
+    "id": "f7a4aaea3c978ec5",
+    "title": "I made a Phantasy Star style'd fan game in C with Claude.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud7ypr/i_made_a_phantasy_star_styled_fan_game_in_c_with/",
+    "summary": "This was my first AI game dev project, originally prototyped in HTML and Java and some CSS. Art was AI generated, this was before i figured out palette swapping and fixing the halo's to get better sprites. I did more with it, but then took a break to work on some other projects I could actually monetize. The engine does work, lay your frames or atlas over it and let it run. &#32; submitted by &#3…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T05:14:12+00:00"
+  },
+  {
+    "id": "61a6793cdbd0d055",
+    "title": "Someone help",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucq7ej/someone_help/",
+    "summary": "I want to build a 3d ish stadium and make make my soccer game a hd-2d like octopath traveler (the image in reference is gpt generated) is someone willing to help? &#32; submitted by &#32; /u/Remote-History-6458 [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T16:57:15+00:00"
+  },
+  {
+    "id": "c105c790078aa5f6",
+    "title": "Test out Nimble Fox for free at the Nimble Game Jam. No MCPs, no code, just vibes 🧡",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1udebbv/test_out_nimble_fox_for_free_at_the_nimble_game/",
+    "summary": "&#32; submitted by &#32; /u/puchi_mentos [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:18:06+00:00"
+  },
+  {
+    "id": "9a9929732120251b",
+    "title": "Vibe-coded a Windows 11 frontend for Hunyuan3D this weekend",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud10hi/vibecoded_a_windows_11_frontend_for_hunyuan3d/",
+    "summary": "I spent the weekend building Galatea, a small Windows 11 desktop app for running a local Hunyuan3D image-to-3D workflow with a more visual interface. It handles image selection, presets, progress logs, WSL setup checks, Blender export, and previews the generated model inside the app. Still rough, but it’s already generating GLB/FBX outputs from images. Sharing a quick video because I’m honestly p…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T23:45:27+00:00"
+  },
+  {
+    "id": "60456decb5aa8581",
+    "title": "Guys im struggling.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1udajvd/guys_im_struggling/",
+    "summary": "So im new to gamedev as a whole but im still trying and its so hard even w AI. Im using I tried to make an mma game but it looks terrible the animations dont sync (used maximo) and the character models look poor. AI isnt really doing much besides just backend stuff and even that its struggling to sync. Can i get any advice on what to do and also any idea on how to learn front end stuff like makin…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T07:42:08+00:00"
+  },
+  {
+    "id": "24cfd4c6786bd4b7",
+    "title": "Elementalist - A Beat Em Up Throwback, made with Claude and Nano Banana/Chat Gpt 5.5",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud88zd/elementalist_a_beat_em_up_throwback_made_with/",
+    "summary": "Lovers of Streets of Rage, Comix Zone, Art of Fighting, Maximum Carnage/Seperation Anxiety, Tmnt, Final Fight and those classic arcade beat em up's, look no further. Coded in native C++ utilizing SDL2 and some of my original remixed music, Elementalist intends to bring elements from fighting games, Mega Man and classic beat em up's for a unique beat em up experience like any other. Featuring a co…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T05:29:38+00:00"
+  },
+  {
+    "id": "129aa40737faef12",
+    "title": "I made 2 games, one with AI Art and one without AI Art. Here are the stats.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucktm1/i_made_2_games_one_with_ai_art_and_one_without_ai/",
+    "summary": "So I made 2 games of the same genre and price. The games are Idle Reincarnator (IR), a game with AI Art, and Cradle of the Dark Brood (CotDB), a game without AI Art. I'll be doing a comparison between the two of them. The stats compared will be Wishlists, Sales, Playtime, and Ratings. TLDR at the bottom. Wishlists Previously, I made a post comparing their wishlists from when their store page were…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T13:37:29+00:00"
+  },
+  {
+    "id": "07e5d4457ac6e4a0",
+    "title": "WCCF SEGA-Inspired Football Manager Game: Development Advice & Support",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1udee28/wccf_segainspired_football_manager_game/",
+    "summary": "Hi everyone, I am trying to recreate a game called WCCF SEGA with Unity and AI ( https://en.wikipedia.org/wiki/World\\_Club\\_Champion\\_Football ) Context: I played this game back in 2005-2006, this was an arcade game that was in the west around 2005-2010 in English. you would collect football player cards, and then you would place them on a sensor pitch which reads the cards and you could then mak…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:22:01+00:00"
+  },
+  {
+    "id": "fae70386f4eb0c6c",
+    "title": "I built a 90s retro-style fantasy computer as a personal hobby project",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud7ifj/i_built_a_90s_retrostyle_fantasy_computer_as_a/",
+    "summary": "&#32; submitted by &#32; /u/KichangKim [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T04:50:39+00:00"
+  },
+  {
+    "id": "f119bddc460ec0e5",
+    "title": "I released Modly v0.4.0 local Chat Mode with Ollama, TripoSplat support, and new AI 3D tools",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucqktq/i_released_modly_v040_local_chat_mode_with_ollama/",
+    "summary": "Hi everyone, I recently released Modly 0.4.0 . For those who don’t know it, Modly is an open-source desktop app for local AI 3D generation. The goal is to make it easier to run open-source 3D generation models locally, through a desktop UI and an extension system. The project is still in beta, but this release adds a few important things. What’s new in 0.4.0 : Chat Mode using Ollama The first ver…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T17:10:52+00:00"
+  },
+  {
+    "id": "e73aee2adc561d56",
+    "title": "Making 2D ORPG alone...with Ai. Showcase: Dualclass!",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucwiab/making_2d_orpg_alonewith_ai_showcase_dualclass/",
+    "summary": "ChatGPT 5.5 is my goat. Any fans of 2D Online Action RPG? Steampage will be out soon! &#32; submitted by &#32; /u/egod [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T20:47:06+00:00"
+  },
+  {
+    "id": "441d771b92c0e4c7",
+    "title": "Building a new generic menu component to make my web game more gamey",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucjz65/building_a_new_generic_menu_component_to_make_my/",
+    "summary": "Hello, here is a short video of an upcoming update of my game in which I showcase the new menu component, pure web (React + Tailwind), but that behave like an actual mmo-lite UI. This is allowing me to build a richer-gamey-like experience and move away from a browser/page based experience. Also some skills (RuneScape like) showcase. The game is free to play and playable already on: https://berrus…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T13:01:56+00:00"
+  },
+  {
+    "id": "f89635f7987efc35",
+    "title": "First game",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucwsy6/first_game/",
+    "summary": "Hi everyone! I'm a game designer experimenting with AI-assisted gamedev. Recently I built a small roguelite/autobattler prototype in Unity and used ChatGPT to generate most of the art assets. It's still an early prototype, but I'd love to hear your feedback. Play here: https://denisayn.itch.io/battle-loop If you try it, I'd be happy to read any comments or feedback on the itch.io page. What AI to…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T20:58:20+00:00"
+  },
+  {
+    "id": "54f401f9ffafe37d",
+    "title": "An interactive story game where every correct or wrong choice leads to a different outcome",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud8gnt/an_interactive_story_game_where_every_correct_or/",
+    "summary": "So the continuation of the story depends on how the user choose the path from the different choices that is presented on the screen. &#32; submitted by &#32; /u/leobesat [link] &#32; [comments]",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T05:41:08+00:00"
+  },
+  {
+    "id": "8a7af3b9609306c2",
+    "title": "what's the ai gamedev thing you geek out about that nobody talks about?",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucp2em/whats_the_ai_gamedev_thing_you_geek_out_about/",
+    "summary": "every single day my feed has another grass clip on X. they usually come with little explanation and yet so much hype... before i start complaining, i work in ai game dev and kind of get why grass owns the timeline. in short: it's a bounded problem. you can figure it out quickly and post a gorgeous self-contained clip.. people can be like &quot;oh I put XYZ hours into the grass alone &quot; arguab…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T16:16:22+00:00"
+  },
+  {
+    "id": "53d4ca2a8162954e",
+    "title": "Built a Small Space Game Prototype",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucp6ja/built_a_small_space_game_prototype/",
+    "summary": "I wanted to explore GPT-5.5 and see how well it works with Three.js , so I started building a small space game prototype. The original idea was simple: a spaceship drifting through space, focused more on movement and atmosphere than gameplay. From there, I kept iterating, added planets and asteroids, and spent some time making the movement feel better. Most of the assets are from Sketchfab for no…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T16:20:33+00:00"
+  },
+  {
+    "id": "39b1eee68772f579",
+    "title": "Since I'm 2 Days out of Releasing Act 2 of my game, might as well post here.",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud5juv/since_im_2_days_out_of_releasing_act_2_of_my_game/",
+    "summary": "I started this journey in October of last year. I was just placing tiles, and learning as I went. Released my game in Early Access in February, advertised a little bit. https://store.steampowered.com/app/4254090/Project__Labyrinth/ Worked on it a lot more, and now I have something closer to my original vision than what's on steam currently. I've learned so much about Bools, Coroutines, making my…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T03:11:43+00:00"
+  },
+  {
+    "id": "f023d8ea6985fd2b",
+    "title": "Browser-based WipEout-style racer, built largely with AI — is it actually fun yet? (honest critique wanted)",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1uct2km/browserbased_wipeoutstyle_racer_built_largely/",
+    "summary": "▶ Play in the browser (no install): https://martingrahn-cmd.github.io/slipstream-vector/ Ten months ago, &quot;program a 3D racing game&quot; felt completely out of reach for me. Now it's past the prototype stage and starting to feel like an actual game — so I want honest eyes on it before I push further. The thing is, you go home-blind as the dev. I've driven these tracks a thousand times and ca…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T18:42:10+00:00"
+  },
+  {
+    "id": "c3a9d168d36c3e0f",
+    "title": "TikTok for games, every post built by describing it to an ai",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ud38zq/tiktok_for_games_every_post_built_by_describing/",
+    "summary": "i've been building whip, and the simplest way to say what it is: TikTok for games. you open the app and scroll a feed, and instead of videos every post is a tiny game you can tap and play right there. a one-thumb reflex thing, a daily guessing game, a dumb little arcade score-chaser. you swipe to the next one the way you'd swipe past a clip. the part that's relevant to this sub: every game in tha…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T01:24:44+00:00"
+  },
+  {
+    "id": "024dce5a10d944a9",
+    "title": "I like playing casual mobile fake money casino games but didn't like ending 0 and forced to pay for coins or watch ads so i built one",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucu0eh/i_like_playing_casual_mobile_fake_money_casino/",
+    "summary": "The process of creating it is so fun and so does playing it, never imagined that i will be able to build a fraction of this and it only costed me $26 to make. It's pretty close to some mobile games i played and it still have so much room to improve It's 100 percent free, no ads, no payment, made just for fun and not a commercial game Tools used: Claude code ChatGPT I just vibecoded it using claud…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T19:16:38+00:00"
+  },
+  {
+    "id": "2d54e3371dd5e7f7",
+    "title": "Meshy vs Tripo vs Rodin vs Hunyuan for game assets: Production data from 200 generations",
+    "url": "https://old.reddit.com/r/aigamedev/comments/1ucirid/meshy_vs_tripo_vs_rodin_vs_hunyuan_for_game/",
+    "summary": "Ran a structured comparison of the four AI 3D tools that come up most for game asset work. Posting the production data because hand-wavy &quot;X is best&quot; posts do not help anyone choosing a tool. Test setup: 100 total assets across the tools, same prompts, measuring generation success, import success, and production-ready rate (usable after under 30 min cleanup). The numbers: Meshy: 94% gene…",
+    "source_id": "reddit-aigamedev",
+    "source_name": "Reddit r/aigamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T12:07:12+00:00"
+  },
+  {
+    "id": "887d32408afa35ec",
+    "title": "hope1026/weppy-roblox-mcp",
+    "url": "https://github.com/hope1026/weppy-roblox-mcp",
+    "summary": "Roblox Studio MCP server & plugin for Claude Code, Cursor, Codex, and Gemini. AI-powered scripts, terrain, assets, lighting, and bidirectional project sync.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:17:31Z"
+  },
+  {
+    "id": "41523cc56f5f1299",
+    "title": "MishaMgla/opencraft1",
+    "url": "https://github.com/MishaMgla/opencraft1",
+    "summary": "Half game, half experiment. World built out of GitHub issues — describe an idea, AI agents ship it live.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:38:47Z"
+  },
+  {
+    "id": "3825cb8f3f89ab62",
+    "title": "ProdaZhang/aigd",
+    "url": "https://github.com/ProdaZhang/aigd",
+    "summary": "AI-assisted game-design methodology: turn a game system into a platform-agnostic handoff spec another AI can build from — with deterministic consistency checkers.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T10:54:34Z"
+  },
+  {
+    "id": "13165e6d15beed1f",
+    "title": "Valve is making it easier to build your own Steam Machine",
+    "url": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
+    "summary": "No reservation? No problem.",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 10:29:07 GMT"
+  },
+  {
+    "id": "378cd69c033cd89f",
+    "title": "Steam Machine pricing starts at $1,049 for 512GB model",
+    "url": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
+    "summary": "The Steam Machine price tag has soared past $1,000 (though not by much).",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Mon, 22 Jun 2026 20:07:34 GMT"
+  },
+  {
+    "id": "053ae0420e487019",
+    "title": "Show HN: Aharness – Enforce coding-agent workflows as state machines on Codex",
+    "url": "https://github.com/Alfredvc/aharness",
+    "summary": "Agents are capable enough for long, autonomous, multi-step work now, if they have the right guardrails.. The failure mode is now process drift and context management. Prompts and skills can describe a process, but they can't enforce it. Aharness turns the process into a runtime. You (your agent) write the workflow as a finite state machine in TypeScript: states define what Codex may do next, type…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 10:52:43 +0000"
+  },
+  {
+    "id": "60f28f7087cabb99",
+    "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+    "url": "https://github.com/shumaiOne/shumai",
+    "summary": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace. I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host. You can deploy Shumai with docke…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 10:02:54 +0000"
+  },
+  {
+    "id": "e2808d718df39c0f",
+    "title": "Show HN: SaaS Pegasus – the original Django boilerplate, now MIT-licensed",
+    "url": "https://github.com/saaspegasus/django-boilerplate",
+    "summary": "Article URL: https://github.com/saaspegasus/django-boilerplate Comments URL: https://news.ycombinator.com/item?id=48642564 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:46:19 +0000"
+  },
+  {
+    "id": "38883355cf8fd4a5",
+    "title": "Show HN: DomainDash – uptime/SSL/domain checks for client sites",
+    "url": "https://domaindash.io",
+    "summary": "I built DomainDash because I needed a service which checks uptime, SSL and domain expiration for the client sites that I run. Also, in my time as a contractor, I've worked for multiple companies who have had serious outages caused by an expired SSL cert that someone has forgotten about (one of them was a FTSE 50 and their ecom went down for like a day). I know there are a lot of existing products…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:43:36 +0000"
+  },
+  {
+    "id": "48e529f94f4fd3c6",
+    "title": "Show HN: I built a PC-part picker that handles compatibility and shortages",
+    "url": "https://pc-cool.com/",
+    "summary": "Article URL: https://pc-cool.com/ Comments URL: https://news.ycombinator.com/item?id=48642491 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:37:12 +0000"
+  },
+  {
+    "id": "f9979d5449c31423",
+    "title": "Show HN: OpenTerm – A tiny, fast SSH client (no login, no cloud, free)",
+    "url": "https://github.com/zhangshuo1991/openterm",
+    "summary": "Article URL: https://github.com/zhangshuo1991/openterm Comments URL: https://news.ycombinator.com/item?id=48642482 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:36:41 +0000"
+  },
+  {
+    "id": "df53118f0cadb08f",
+    "title": "Show HN: VibePantry – Photograph your kitchen, get recipes from what you have",
+    "url": "https://vibepantry.com/",
+    "summary": "I was taking pics of my spice rack and fridge putting it into chatGPT for recipes all the time. So I built an app that visually extracts pics of your groceries and lets you choose some options to generate recipes from what you have. It's deliberately not a SaaS. No accounts, no server, no subscription, no tracking. It's a static PWA and bring-your-own-key: you paste your own Anthropic key, it's s…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:33:55 +0000"
+  },
+  {
+    "id": "aea33974d733ed74",
+    "title": "Show HN: Founder Pass – 6 indie dev tools lifetime for $14 (first 10 only)",
+    "url": "https://xiaohou2503687-design.github.io/shipfast-oss/founder.html",
+    "summary": "Article URL: https://xiaohou2503687-design.github.io/shipfast-oss/founder.html Comments URL: https://news.ycombinator.com/item?id=48642420 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:28:49 +0000"
+  },
+  {
+    "id": "dc1ee5fb118d260c",
+    "title": "Show HN: Algorithm-free video hosting that doesn't recompress your master",
+    "url": "https://longplayplatform.com/",
+    "summary": "Article URL: https://longplayplatform.com/ Comments URL: https://news.ycombinator.com/item?id=48642318 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:15:27 +0000"
+  },
+  {
+    "id": "cd878470f717fb42",
+    "title": "Show HN: Describe a research topic, get a daily-updated ArXiv/S2 dataset",
+    "url": "https://fineset.io",
+    "summary": "Article URL: https://fineset.io Comments URL: https://news.ycombinator.com/item?id=48642288 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:11:24 +0000"
+  },
+  {
+    "id": "fda5760bf25cce31",
+    "title": "Show HN: Enigma Simulator – Encrypt Like WWII",
+    "url": "https://enigma-simulator.waibsite.app/",
+    "summary": "Article URL: https://enigma-simulator.waibsite.app/ Comments URL: https://news.ycombinator.com/item?id=48642239 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 09:02:15 +0000"
+  },
+  {
+    "id": "c86955c770f80ba5",
+    "title": "SHOW HN: Huskmail - A disposable email with private inboxes and trial library",
+    "url": "https://huskmail.xyz",
+    "summary": "Article URL: https://huskmail.xyz Comments URL: https://news.ycombinator.com/item?id=48642093 Points: 3 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 08:40:23 +0000"
+  },
+  {
+    "id": "90afd8da9a81041f",
+    "title": "Show HN: Neural Particle Automata",
+    "url": "https://selforg-npa.github.io/",
+    "summary": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state. While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns. The resulting particle system as a whole can regenerate from damage and exhibits surprising emergent behavior…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 08:31:48 +0000"
+  },
+  {
+    "id": "205f5218707d3b57",
+    "title": "Show HN: SharpSkill, a LeetCode alternative built in 15 spoken languages",
+    "url": "https://sharpskill.dev/en",
+    "summary": "Gm HN, We wanted to bring another angle to the table, so we built SharpSkill (Leetcode Alternative), which allow everyone to train and perform during their technical interviews. 15 different spoken languages available. Comments URL: https://news.ycombinator.com/item?id=48642022 Points: 3 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 08:31:00 +0000"
+  },
+  {
+    "id": "00d5817ba424dd41",
+    "title": "Show HN: Continuum – an open, local-first memory layer for your Mac",
+    "url": "https://github.com/nikhilkagita04/continuum",
+    "summary": "Article URL: https://github.com/nikhilkagita04/continuum Comments URL: https://news.ycombinator.com/item?id=48642006 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 08:29:43 +0000"
+  },
+  {
+    "id": "7dc352c2841b851b",
+    "title": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
+    "url": "https://sean-but-ai.vercel.app/",
+    "summary": "Article URL: https://sean-but-ai.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48641763 Points: 16 # Comments: 10",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:57:16 +0000"
+  },
+  {
+    "id": "44ed93936320f7d7",
+    "title": "Show HN: Treating PowerPoint decks like code",
+    "url": "https://github.com/sirilsengolraj-source/presentation-skill",
+    "summary": "Article URL: https://github.com/sirilsengolraj-source/presentation-skill Comments URL: https://news.ycombinator.com/item?id=48641632 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:42:23 +0000"
+  },
+  {
+    "id": "60e21c1d2b3b5534",
+    "title": "Show HN: Multiserial – a serial terminal for macOS that does not feel ancient",
+    "url": "https://github.com/tpp6me/serial-com-multiplatform",
+    "summary": "I do a fair amount of embedded and hardware work on my mac. The serial tool was always a bother for me. I usually ended up testing on Windows. I built this tool focused on day-to-day bringup, loop back tests, logging and repeatable send flows. it uses Tauri and Rust for speed and a low memory footprint. It is free, open source, MIT license. I have used this on a Mac and built and tested the Linux…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:39:07 +0000"
+  },
+  {
+    "id": "ea8ab51deb5a3708",
+    "title": "Show HN: A simple web studio for generating videos with Seedance models",
+    "url": "https://seadance-video.com/",
+    "summary": "Article URL: https://seadance-video.com/ Comments URL: https://news.ycombinator.com/item?id=48641553 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:31:13 +0000"
+  },
+  {
+    "id": "445600751432064a",
+    "title": "Show HN: We matched full-context recall on ~1% of the tokens (open benchmark)",
+    "url": "https://github.com/compresh/compresh-benchmarks/blob/main/epbench/WRITEUP.md",
+    "summary": "Article URL: https://github.com/compresh/compresh-benchmarks/blob/main/epbench/WRITEUP.md Comments URL: https://news.ycombinator.com/item?id=48641509 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:25:29 +0000"
+  },
+  {
+    "id": "742edb2f0f619d6a",
+    "title": "AI Coding Traps Every Engineering Team Should Know",
+    "url": "https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering",
+    "summary": "Article URL: https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering Comments URL: https://news.ycombinator.com/item?id=48641615 Points: 4 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 07:40:31 +0000"
+  },
+  {
+    "id": "4816c89864438948",
+    "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+    "url": "https://news.ycombinator.com/item?id=48641160",
+    "summary": "After using Claude Code at work for months I wanted to use it on my own projects too. Most probably because my vpn was on I got banned after 1 hour of usage. I got my 120$ back. 1 month later I signed up with vpn off. But this time probably because I used the same credit cart (and that's the only card I can use) they banned me again. Even after I contacted support I got a generic \"we have determi…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 06:33:52 +0000"
+  },
+  {
+    "id": "3f21f517faafc58e",
+    "title": "Show HN: Demand Intelligence and AI Design",
+    "url": "https://dxmax.cc/",
+    "summary": "dxmax ( https://dxmax.cc ) generates multi-page product wireframes from a prompt. Each project is a browsable filesystem of HTML/CSS pages sharing a design system. Your edit prompts lead to targeted patches rather than full-page regenerations. When you start a project you get several design variations, pick one switch between them anytime. Output is editable HTML. Share and edit/prompt with team-…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 06:00:16 +0000"
+  },
+  {
+    "id": "f55e7031825a952a",
+    "title": "Show HN: A private pager for your AI agent loops",
+    "url": "https://ask-a-human.ai",
+    "summary": "Problem Im solving: Im running 30+ fully autonomous agents. In some rare cases they get blocked because they cannot decide what direction to take. So I built a communication channel for them. So in case they get blocked they can ask me anything. The base case should be that no questions should arrive to me. But the more I automate the agents the more edge cases I find. That's why I built the `ask…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "Tue, 23 Jun 2026 04:50:31 +0000"
+  },
+  {
+    "id": "377e5c221cee4b78",
+    "title": "Sipcode",
+    "url": "https://www.producthunt.com/products/sipcode",
+    "summary": "Keep Claude Code's context clean for sharper answers Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-22T17:11:52-07:00"
+  },
+  {
+    "id": "0ca7f4af0f4149b1",
+    "title": "ababushkin/agent-skills-shaper",
+    "url": "https://github.com/ababushkin/agent-skills-shaper",
+    "summary": "Opinionated, battle-tested agentic skills for highly productive product-design-engineering teams",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:43:03Z"
+  },
+  {
+    "id": "dc832650521ad693",
+    "title": "byh3071-cpu/vhk",
+    "url": "https://github.com/byh3071-cpu/vhk",
+    "summary": "Vibe Harness Kit — 바이브코딩 풀사이클 CLI",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:42:43Z"
+  },
+  {
+    "id": "4bbc5caacbcb6aeb",
+    "title": "lazaroweb/o-root-gas",
+    "url": "https://github.com/lazaroweb/o-root-gas",
+    "summary": "FORJA — Plataforma pessoal de governança de sistemas (React + TypeScript + Google Apps Script)",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:42:16Z"
+  },
+  {
+    "id": "419a1218afe463db",
+    "title": "galthran-wq/sloplint",
+    "url": "https://github.com/galthran-wq/sloplint",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:41:54Z"
+  },
+  {
+    "id": "54d82b61a9a53000",
+    "title": "chaitin/MonkeyCode",
+    "url": "https://github.com/chaitin/MonkeyCode",
+    "summary": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:41:43Z"
+  },
+  {
+    "id": "0304b3040177d3a3",
+    "title": "mentiora-ai/loom",
+    "url": "https://github.com/mentiora-ai/loom",
+    "summary": "Agent-first browser automation runtime — deterministic Chromium sessions with replay-equal hash chains, MCP-native tools, and a content-addressed action store.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:41:29Z"
+  },
+  {
+    "id": "aa6597e9c38e0054",
+    "title": "ContextualWisdomLab/VibeSec",
+    "url": "https://github.com/ContextualWisdomLab/VibeSec",
+    "summary": "바이브코딩 앱을 위한 보안 가드레일: AI 개발 도구 규칙, 정적 점검, 리뷰·수정 프롬프트.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:41:16Z"
+  },
+  {
+    "id": "8215ef8406d5b65c",
+    "title": "ken-jo/agent-connector",
+    "url": "https://github.com/ken-jo/agent-connector",
+    "summary": "Deploy one MCP to every agent CLI. Write your server + hooks once with defineConnector() → native config, plugin & marketplace across 42 agent CLIs (Claude Code, Codex, Cursor, Copilot, Gemini, OpenCode, Warp, Zed…). Built-in per-tool token telemetry. Apache-2.0.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:41:13Z"
+  },
+  {
+    "id": "d8ff876dfb1eadf0",
+    "title": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "summary": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:40:49Z"
+  },
+  {
+    "id": "4fd9326d9fb06cd8",
+    "title": "emichaud/django-smallstack",
+    "url": "https://github.com/emichaud/django-smallstack",
+    "summary": "A django starter for internal apps that leverages the include admin theme and components.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:38:14Z"
+  },
+  {
+    "id": "44826cadc8f92de0",
+    "title": "algorismo-au/lanekeep",
+    "url": "https://github.com/algorismo-au/lanekeep",
+    "summary": "Governance guardrails and insights for AI coding agents",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:42Z"
+  },
+  {
+    "id": "08bda6748f783894",
+    "title": "wazionapps/nexo",
+    "url": "https://github.com/wazionapps/nexo",
+    "summary": "NEXO Brain — Shared brain for AI agents. Persistent memory, semantic RAG, natural forgetting, metacognitive guard, trust scoring, 150+ MCP tools. Works with Claude Code, Codex, Claude Desktop & any MCP client. 100% local, open source, free.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:28Z"
+  },
+  {
+    "id": "48dee3e623b407e2",
+    "title": "baixianger/pharos",
+    "url": "https://github.com/baixianger/pharos",
+    "summary": "Your vibe coding project manager — macOS mission control for running AI coding agents (Claude Code, Codex) across your repos.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:17Z"
+  },
+  {
+    "id": "08a770f1ec483db1",
+    "title": "Solizardking/solana-clawd",
+    "url": "https://github.com/Solizardking/solana-clawd",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:13Z"
+  },
+  {
+    "id": "99acda87562a07f0",
+    "title": "PotapenkoEugene/ortho-nix",
+    "url": "https://github.com/PotapenkoEugene/ortho-nix",
+    "summary": "The nix configuration for my work/life system",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:08Z"
+  },
+  {
+    "id": "484e809b3b936129",
+    "title": "bistutzyy/taozhiyy",
+    "url": "https://github.com/bistutzyy/taozhiyy",
+    "summary": "总站",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:37:09Z"
+  },
+  {
+    "id": "98f7ba3332d095b7",
+    "title": "ryanjordan11/od",
+    "url": "https://github.com/ryanjordan11/od",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:36:57Z"
+  },
+  {
+    "id": "92317ad0144149b9",
+    "title": "devank-yadav/glanceos",
+    "url": "https://github.com/devank-yadav/glanceos",
+    "summary": "A calm, glanceable dashboard platform for any screen — self-hosted, black & white, composed like a Notion document. Browser, e-ink, and more.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-06-23T11:42:50.442060+00:00",
+    "published": "2026-06-23T11:36:50Z"
+  }
+]
