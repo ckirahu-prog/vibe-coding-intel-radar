@@ -2744,6 +2744,341 @@
       "url": "https://github.com/devank-yadav/glanceos",
       "first_seen": "2026-06-23T11:42:50.442060+00:00",
       "source_id": "github-vibe-coding"
+    },
+    "6e21a18c39e9b08f": {
+      "url": "https://news.ycombinator.com/item?id=48657403",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "6ba17774588a82d1": {
+      "url": "https://blog.luden.io/ai-agents-in-game-development-real-production-lessons-failed-experiments-and-workshop-101-7d71e64685fa?source=friends_link&sk=d81be01616b705e3f091c4e0b4774ea2",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "c088382e7efb34fc": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ue83m2/is_the_october_2026_steam_next_fest_a_trap_or_a/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "3edf30ac43eb7e66": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ue8zo8/need_unity_devs_refrence_portfolios/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "12598e34c2584cd6": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ue2gvg/construction_plumber_trying_to_pivot_to_fulltime/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e3377a06abee346f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ue168l/asking_for_constructive_criticism_from_my_fellow/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "bf22f1e32b625b63": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udw18p/about_hobby_engines/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "4d6427d8f2cfd565": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udwky0/snes_game_development/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "00ee0bbb5586ddbd": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udvk7v/how_doablepractical_would_it_be_to_create_an/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "0ec9975099a8df83": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ue3b5p/hi_how_should_i_proceed_about_learning_game_dev/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "906c678cf00abc99": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udhfvk/seven_years_writing_horror_in_twine_four_things_i/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "6a2c9d1641ca3470": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udl569/getting_2000_fps_npcs_running_simultaneously_with/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "de266210859ee00a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1udn9iy/how_to_break_into_game_dev_in_canada/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "aa40c5dd6b6c449a": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1udk60l/volumetric_clouds_and_procedural_lightning/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "1475a42d51083951": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue9ht0/blood_everywhere/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "21ba342d0fdbde41": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1udgyof/permanent_oled_burnin_from_unitys_white_top_bar/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "6b1f0e5d3b546f4d": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue7ah4/released_a_new_prefab_painter_for_unity_6/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "c48a55d8b092f1f3": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue4dwa/procedural_dungeon_generator_using_graphbased/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "377d38f07fd80c1e": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1udjaux/very_first_look_environment_in_our_first_game/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "e240f8803ff0d0b4": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue0qtw/why_is_my_player_getting_pushed_back_when/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "52fda8732b33fb2a": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1udwmu4/ive_added_some_of_the_most_requested_features/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "58adca7dbb1cd386": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue86pq/how_do_you_handle_ui_asset_iteration_in_unity/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "edbbbc77dc4a4a1f": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1ue5ny0/input_system_send_messages_or_or_invoke_unity/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "526b9db40b2f1d34": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1udtq73/made_a_dynamic_shadow_system_with_adjustable/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "3c7709323155a520": {
+      "url": "https://github.com/CaptureWalker/behavior-tree-ai-asset-viewer",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "429482234743f201": {
+      "url": "https://github.com/Frosy01/Krita-Ollama-Prompt-Generator",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "7f8cccef06328a6b": {
+      "url": "https://github.com/ikallprtmaa/lucky-2026",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "c7e630020607f36c": {
+      "url": "https://github.com/romel24233/Game-Billiards",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "752ddf343161f6dd": {
+      "url": "https://github.com/B3llzz/lab-snake-reverse",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "4c3c2e6a987368fd": {
+      "url": "https://github.com/PENEEEEE732/AI_pokergame",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "eb6ef377f2cd6cda": {
+      "url": "https://github.com/zajalist/hayba",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "90b878b22bcea5d8": {
+      "url": "https://github.com/FunplayAI/funplay-unity-mcp",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-game-ai"
+    },
+    "1b02301f90580b04": {
+      "url": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "gd-ai"
+    },
+    "06ebc93b601fd20e": {
+      "url": "https://noise.vantezzen.io/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "d0b4595eb66c7f29": {
+      "url": "https://chromewebstore.google.com/detail/fillr-form-filler-test-da/peppngdnnhjpchacodkdadojgnafepdd",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "4c8be3a1e498d2b7": {
+      "url": "https://github.com/adshao/flounder",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "db382d9e481aeba7": {
+      "url": "https://minesweeperpro.com/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "37001598b9fad45a": {
+      "url": "https://launchshots.app/blog/app-store-optimization-complete-guide-2026",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "39abfe95f4827cd0": {
+      "url": "https://github.com/ReturnInfinity/BareMetal-Firecracker",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "9dad88e5d2f5490d": {
+      "url": "https://github.com/sammysltd/makerchecker",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "e2731b7d74f6824d": {
+      "url": "https://github.com/davet47/heddle",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "6dfa620eadb0a285": {
+      "url": "https://github.com/baalimago/clai",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "80749d379dce2a6d": {
+      "url": "https://codeberg.org/borysj/vim-clippy",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "65276508abb11f8e": {
+      "url": "https://libls.org/ai-use",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "2cda1d668d113715": {
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "5060ce8fe0cceff7": {
+      "url": "https://ufoym.com/slicard/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "7e4c35dc1825ea83": {
+      "url": "https://www.realtalktutor.app/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "c163765e4be4842b": {
+      "url": "https://news.ycombinator.com/item?id=48656758",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "0114d34ab645f9fa": {
+      "url": "https://hikarulabs.xyz",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "cdcadce06ba80f48": {
+      "url": "https://github.com/gagarwal304/databridge",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "bc2462b53a2c0779": {
+      "url": "https://rainbreak.franzai.com/",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "3d78c68477b47a92": {
+      "url": "https://github.com/hq6/dk",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-show"
+    },
+    "1fb3b89d12de48f0": {
+      "url": "https://github.com/SaravananJaichandar/world-model-mcp",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "f87650e309416232": {
+      "url": "https://www.producthunt.com/products/stripe",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "producthunt"
+    },
+    "068d305fcfbfb8aa": {
+      "url": "https://github.com/Runa-ctrl/shisha-menu",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f5ad12fe8dc0b56a": {
+      "url": "https://github.com/jalilsedna/market-terminal",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "87b1a14e275d7a80": {
+      "url": "https://github.com/Landsvig1/Vibetrends.dk",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "bf1dc13d4ac150c2": {
+      "url": "https://github.com/notUbaid/Kontxt",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b1baa07f4ceebc60": {
+      "url": "https://github.com/PurpleHaze2320/mcp-ecosystem-scanner",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e346bff54c889a08": {
+      "url": "https://github.com/superuser404notfound/AetherEngine",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "72fa52e657ed61d8": {
+      "url": "https://github.com/bruin-data/ingestr",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5a000494dd593204": {
+      "url": "https://github.com/kingpanther13/Hubitat-local-MCP-server",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "4362c2cff0011638": {
+      "url": "https://github.com/TheMountainBea/vinaal_portfolio",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e63513bc1066514f": {
+      "url": "https://github.com/akillness/jeo-skills",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "dc52166f96658abe": {
+      "url": "https://github.com/linny006/trending-claude-skills",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b459497ce3f0681a": {
+      "url": "https://github.com/VibeDrift/VibeDrift",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d771b2e2ac72b34c": {
+      "url": "https://github.com/buiducnhat/cobrew",
+      "first_seen": "2026-06-24T10:36:40.981426+00:00",
+      "source_id": "github-vibe-coding"
     }
   }
 }
