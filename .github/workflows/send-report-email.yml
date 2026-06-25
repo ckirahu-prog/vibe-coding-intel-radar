@@ -12,12 +12,12 @@ on:
       send_latest:
         description: '手动发送最新报告（daily / weekly / both）'
         required: false
-        default: 'both'
+        default: 'weekly'
         type: choice
         options:
-          - both
-          - daily
           - weekly
+          - daily
+          - both
 
 permissions:
   contents: read
