@@ -6,13 +6,13 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 99,
+      "hits": 105,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
       "hits": 24,
-      "errors": 6,
+      "errors": 7,
       "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
     "reddit-unrealengine": {
@@ -21,17 +21,17 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 80,
+      "hits": 86,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 32,
+      "hits": 33,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 143,
+      "hits": 163,
       "errors": 0,
       "last_error": null
     },
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 114,
+      "hits": 129,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,7 +56,7 @@
       "last_error": null
     },
     "hn-ai-game-tools": {
-      "hits": 15,
+      "hits": 17,
       "errors": 1,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
@@ -67,19 +67,64 @@
     },
     "reddit-aigamedev": {
       "hits": 49,
-      "errors": 5,
+      "errors": 6,
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 14,
+      "hits": 16,
       "errors": 2,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
     "reddit-sideproject": {
-      "hits": 24,
+      "hits": 29,
       "errors": 4,
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
+    },
+    "v2ex-latest": {
+      "hits": 8,
+      "errors": 0,
+      "last_error": null
+    },
+    "v2ex-creative": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "404 Client Error: Not Found for url: https://www.v2ex.com/go/creative/feed"
+    },
+    "v2ex-finance": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "404 Client Error: Not Found for url: https://www.v2ex.com/go/finance/feed"
+    },
+    "sspai": {
+      "hits": 0,
+      "errors": 0,
+      "last_error": null
+    },
+    "36kr": {
+      "hits": 3,
+      "errors": 0,
+      "last_error": null
+    },
+    "huxiu": {
+      "hits": 0,
+      "errors": 1,
+      "last_error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "steam-news": {
+      "hits": 9,
+      "errors": 0,
+      "last_error": null
+    },
+    "itch-new-popular": {
+      "hits": 1,
+      "errors": 0,
+      "last_error": null
+    },
+    "itch-featured": {
+      "hits": 2,
+      "errors": 0,
+      "last_error": null
     }
   },
-  "last_updated": "2026-06-25T10:30:02.442970+00:00"
+  "last_updated": "2026-06-25T16:15:22.309720+00:00"
 }
