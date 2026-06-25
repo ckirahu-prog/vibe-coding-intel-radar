@@ -26,7 +26,7 @@ reports/weekly/YYYY-Www.md（四模块+附录结构）。
 模块 A1–A3、B1、C 禁止联网。
 模块 A4 + B2 联网合计每周 ≤3 次，须在 D3 审计。
 不要 @ .cursor/skills/ 下的任何 skill 文件。
-完成后 commit 并 push 一个文件。
+完成后 commit 并 push 一个文件。必须 push 到 main 分支，不要只留在 cursor/* 分支。
 ```
 
 > 使用 `@templates/weekly-prompt.md` 时，须先将 `templates/` push 到 GitHub，再点 **Run now**。
