@@ -40,6 +40,11 @@ HIGH_VALUE_KEYWORDS = {
         "shipped", "stripe", "bootstrapped", "profit", "paying", "show hn",
         "product hunt", "built with cursor", "vibe coding", "solo founder",
     ],
+    "sideline-pain-opportunity": [
+        "副业", "兼职", "自由职业", "接单", "外包", "个体户", "小微", "对账",
+        "发票", "合同", "报价", "痛点", "吐槽", "有没有", "工具", "月入", "变现",
+        "side hustle", "freelance", "micro saas", "独立开发",
+    ],
 }
 USER_AGENT = "IntelRadar/1.0 (github-actions; info-collector)"
 GITHUB_API = "https://api.github.com"

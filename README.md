@@ -1,26 +1,27 @@
-# AI 游戏 & Vibe Coding 信息雷达
+# AI 游戏 & Vibe Coding 信息雷达 2.0
 
-**GitHub Actions 每日免费采集** + **Cursor Automation 每周六案例周报**，关机可跑，月成本约 Pro 额度的 3–8%。
+**GitHub Actions 每日免费采集** + **Cursor Automation 每周六单文件四模块周报**，关机可跑，月成本约 **$1.5–3.5**。
 
-## 两条主题线
+## 三条主题线
 
-| 主题 ID | 名称 | 周报里写什么 |
-|---------|------|--------------|
-| `ai-game-dev` | AI 做游戏 | 哪些游戏用了 AI、什么技术、什么效果、还能做什么 |
-| `vibe-coding-commercial` | Vibe Coding 商业化 | 解决什么需求、多少收益、用了什么技术 |
+| 主题 ID | 名称 | 周报模块 |
+|---------|------|----------|
+| `sideline-pain-opportunity` | 副业机会 · 痛点 | **模块 A**（中国本土 friction） |
+| `ai-game-dev` | AI 做游戏 | **模块 B**（AI 案例 + 热门题材） |
+| `vibe-coding-commercial` | Vibe Coding 商业化 | **模块 C** |
 
-## 架构（仅周报）
+## 架构（2.0 Final · 单文件）
 
 ```
-每天 08:00  GitHub Actions 采集 → data/raw/ + data/daily-index/（免费）
-周六 09:00  Cursor Weekly Automation → reports/weekly/（案例拆解周报）
+每天 08:00  GitHub Actions 采集 → data/raw/ + data/daily-index/（免费，无 LLM）
+周六 09:00  Cursor Weekly Automation → reports/weekly/YYYY-Www.md（四模块周报）
                     │
-                    └── push 触发 → QQ 邮箱发信
+                    └── push 触发 → QQ 邮箱发信（一份 HTML）
 ```
 
-- **采集**：每天自动抓 RSS/API，存 JSON + 链接索引，**无 LLM**
-- **周报**：周六 Agent 读本周素材，写案例拆解报告，**push 后发 QQ 邮件**
-- **不需要** Daily Automation
+- **采集**：RSS/API + 中文社区/媒体 + Steam/itch，**无 LLM**
+- **周报**：单文件 **A 副业 / B 游戏 / C 商业化 / D 附录**；方法论内嵌 Prompt，**不 @ skills**
+- **联网**：仅 A4 竞品 + B2 题材补全，**合计 ≤3 次/周**（D3 审计）
 
 ## 快速开始
 
@@ -34,7 +35,7 @@ Push 后自动启用。手动触发：**Actions → Daily Intel Collect → Run 
 
 ### 3. 配置 QQ 邮箱推送
 
-[`send-report-email.yml`](.github/workflows/send-report-email.yml) 在 **周报 commit** 后发信。
+[`send-report-email.yml`](.github/workflows/send-report-email.yml) 在 **周报 commit** 后发 **一份** HTML 邮件。
 
 | Secret | 说明 |
 |--------|------|
@@ -51,11 +52,11 @@ Push 后自动启用。手动触发：**Actions → Daily Intel Collect → Run 
 | 字段 | 值 |
 |------|-----|
 | Cron | `0 1 * * 6`（北京时间 **周六 09:00**） |
-| Instructions | `请阅读 @templates/weekly-prompt.md 并按其中规范执行本周周报任务。` |
+| Instructions | 见 automation-draft（**仅** `@templates/weekly-prompt.md`） |
 | 模型 | 最便宜档 |
 | Spend limit | $5/月 |
 
-**你已有周六那条的话**：不用新建，只改 Instructions 为上面一行，push 最新 prompt 后 **Run now** 试跑。
+**Run now 试跑后检查**：单文件 `YYYY-Www.md`、D3 联网 ≤3、A1 有 friction 引用、B2 strict scope。
 
 ### 5. 本地测试采集
 
@@ -64,16 +65,32 @@ pip install -r scripts/requirements.txt
 python scripts/collect.py
 ```
 
+上线约 1 周后查看 [`data/stats.json`](data/stats.json)，长期 0 命中的源可从 `sources.yaml` 删除。
+
 ## 目录结构
 
 ```
 config/           topics.yaml · sources.yaml · manual-urls.yaml
-scripts/          collect.py
+scripts/          collect.py · build_report_email.py
 data/raw/         每日 JSON（周报主要输入）
-data/daily-index/ 每日链接索引（周报辅助输入）
-reports/weekly/   案例拆解周报（Automation 写入）
-templates/        weekly-prompt.md
+data/daily-index/ 每日链接索引
+reports/weekly/   单文件四模块周报
+templates/        weekly-prompt.md · methodology-cheatsheet.md
+docs/             mock-weekly-2.0.md（排版样例）
+.cursor/skills/   本地参考；Automation 不 @
 ```
+
+## 周报结构（单文件）
+
+```
+开篇 · 本周决策（4 bullet，仅此一处）
+模块 A · 副业机会（A1–A4）
+模块 B · 游戏制作（B1–B3）
+模块 C · 商业化（C1–C2）
+附录 D（D1 工具 / D2 词表 / D3 审计 / D4 行动）
+```
+
+样例：[`docs/mock-weekly-2.0.md`](docs/mock-weekly-2.0.md)
 
 ## 定时任务
 
@@ -88,18 +105,18 @@ templates/        weekly-prompt.md
 | 组件 | 成本 |
 |------|------|
 | GitHub Actions 采集 | $0 |
-| Cursor 周报 × 4/月 | ~$0.8–2/月 |
+| Cursor 周报 × 4/月 | ~$1.5–3.5/月 |
 
 ## 常见问题
 
 **Q: 只要周报，平时收什么？**  
-A: 平时只有 GitHub 在默默采集；**周六 9 点** 收一封案例拆解周报。中间不发邮件。
+A: 平时只有 GitHub 在采集；**周六 9 点** 收一封四模块周报。
 
-**Q: 周报很多「未知」？**  
-A: 原文没写游戏名/金额时会标未知。可在 `config/manual-urls.yaml` 手动补高质量链接。
+**Q: 副业模块 A 经常为空？**  
+A: 正常；宁可空不凑数。补 `manual-urls.yaml` 或等中文源命中。
 
 **Q: 没收到邮件？**  
-A: 确认 Weekly Automation 成功 push；或 Actions → Send Report Email → `weekly`；查垃圾箱。
+A: 确认 Weekly Automation 成功 push **一个** `YYYY-Www.md`；或 Actions → Send Report Email → `weekly`。
 
 ## License
 

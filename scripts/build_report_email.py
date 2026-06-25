@@ -22,6 +22,13 @@ EMAIL_CSS = """
   }
   h1 { font-size: 22px; border-bottom: 2px solid #2563eb; padding-bottom: 8px; margin-top: 0; }
   h2 { font-size: 18px; margin-top: 28px; color: #1e40af; }
+  h2.module-heading {
+    margin-top: 36px;
+    padding: 10px 14px;
+    background: linear-gradient(90deg, #eff6ff 0%, #ffffff 100%);
+    border-left: 4px solid #2563eb;
+    border-radius: 0 6px 6px 0;
+  }
   h3 { font-size: 16px; margin-top: 20px; color: #374151; }
   h4 { font-size: 15px; margin-top: 16px; color: #4b5563; }
   p { margin: 10px 0; }
@@ -72,9 +79,14 @@ EMAIL_CSS = """
 
 
 def markdown_to_html(text: str) -> str:
-    return markdown.Markdown(
+    html = markdown.Markdown(
         extensions=["tables", "fenced_code", "nl2br", "sane_lists"],
     ).convert(text)
+    html = html.replace(
+        "<h2>模块 ",
+        '<h2 class="module-heading">模块 ',
+    )
+    return html
 
 
 def build_email_html(paths: list[Path]) -> str:

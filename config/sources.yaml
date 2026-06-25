@@ -104,3 +104,72 @@ sources:
     url: "https://www.reddit.com/r/SideProject/.rss"
     topics: [vibe-coding-commercial]
     tier: B
+
+  # ── 副业机会 · 中文社区（60% 权重目标）────────────────
+
+  - id: v2ex-latest
+    name: "V2EX 最新"
+    type: rss
+    url: "https://www.v2ex.com/index.xml"
+    topics: [sideline-pain-opportunity, vibe-coding-commercial]
+    tier: B
+
+  - id: v2ex-creative
+    name: "V2EX 创意"
+    type: rss
+    url: "https://www.v2ex.com/go/creative/feed"
+    topics: [sideline-pain-opportunity, vibe-coding-commercial]
+    tier: B
+
+  - id: v2ex-finance
+    name: "V2EX 金融"
+    type: rss
+    url: "https://www.v2ex.com/go/finance/feed"
+    topics: [sideline-pain-opportunity]
+    tier: B
+
+  # ── 副业机会 · 中文媒体（40% 权重目标）────────────────
+
+  - id: sspai
+    name: "少数派"
+    type: rss
+    url: "https://sspai.com/feed"
+    topics: [sideline-pain-opportunity, vibe-coding-commercial, ai-game-dev]
+    tier: B
+
+  - id: 36kr
+    name: "36氪"
+    type: rss
+    url: "https://36kr.com/feed"
+    topics: [sideline-pain-opportunity, vibe-coding-commercial]
+    tier: B
+
+  - id: huxiu
+    name: "虎嗅"
+    type: rss
+    url: "https://www.huxiu.com/rss/0.xml"
+    topics: [sideline-pain-opportunity, vibe-coding-commercial]
+    tier: B
+
+  # ── 游戏题材 · Steam / itch（B2 主信号）──────────────
+
+  - id: steam-news
+    name: "Steam News"
+    type: rss
+    url: "https://store.steampowered.com/feeds/news.xml"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: itch-new-popular
+    name: "itch.io New & Popular"
+    type: rss
+    url: "https://itch.io/games/new-and-popular.xml"
+    topics: [ai-game-dev]
+    tier: B
+
+  - id: itch-featured
+    name: "itch.io Featured"
+    type: rss
+    url: "https://itch.io/games/featured.xml"
+    topics: [ai-game-dev]
+    tier: B

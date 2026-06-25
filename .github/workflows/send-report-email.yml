@@ -66,7 +66,11 @@ jobs:
               fi
             fi
             if [ "$SEND_LATEST" = "weekly" ] || [ "$SEND_LATEST" = "both" ]; then
-              LATEST_WEEKLY=$(ls -1 reports/weekly/*.md 2>/dev/null | grep -v gitkeep | sort | tail -1 || true)
+              LATEST_WEEKLY=$(ls -1 reports/weekly/*.md 2>/dev/null \
+                | grep -v gitkeep \
+                | grep -v 'side-hustle' \
+                | sort \
+                | tail -1 || true)
               if [ -n "$LATEST_WEEKLY" ] && [ -f "$LATEST_WEEKLY" ]; then
                 FILES="${FILES}${LATEST_WEEKLY}"$'\n'
                 HAS_WEEKLY=true
@@ -74,7 +78,8 @@ jobs:
             fi
           else
             FILES=$(git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" \
-              | grep -E '^reports/(daily|weekly)/.+\.md$' || true)
+              | grep -E '^reports/(daily|weekly)/.+\.md$' \
+              | grep -v 'side-hustle' || true)
             while IFS= read -r f; do
               [ -z "$f" ] && continue
               echo "$f" | grep -q '^reports/daily/' && HAS_DAILY=true
