@@ -3879,6 +3879,326 @@
       "url": "https://pantaloon-io.itch.io/offbeat",
       "first_seen": "2026-06-25T16:12:24.873900+00:00",
       "source_id": "itch-featured"
+    },
+    "7b4cb58eae2abf11": {
+      "url": "https://news.ycombinator.com/item?id=48683172",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "35b0e74705700017": {
+      "url": "https://github.com/MerqryLabs/ai-crawler-visibility",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "a2c8434da55dec14": {
+      "url": "https://voiceofsandiego.org/2026/06/24/a-charter-school-spent-500000-on-ai-powered-humanoid-robots-was-it-worth-it/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "95b0cfe97d4f786a": {
+      "url": "https://www.seattletimes.com/business/local-business/layoffs-hit-bellevue-based-video-game-studio-behind-destiny-franchise/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "9ba689a1ae6226cb": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ufoq33/anyone_else_get_ai_trauma/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "cb5e2b499a8e77a8": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ug05nf/when_your_art_style_becomes_that_game_copied/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e41e721dcfd235af": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ug2r23/started_my_indie_game_dev_journey_again/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "ddc8962f782fc78c": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ufku7p/what_are_the_best_ways_to_make_ai_not_instantly/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "fefe3426872a2afa": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ug2mql/using_character_creator_5_with_custom_assets/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "8e38a6646b9078ad": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ug1ur8/is_it_worth_making_a_custom_simplified_c_engine/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "331f0aa556997c01": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ug1alh/how_do_you_balance_companion_autonomy_without/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "a0408fff1088f3aa": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ufnet3/is_it_worth_making_a_steam_page_while_your_games/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "083c3489686234ee": {
+      "url": "https://github.com/Yuan-ManX/SparkLabs",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-game-ai"
+    },
+    "8e8fb13fb046e164": {
+      "url": "https://github.com/JustGenius-s/Fogot",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-game-ai"
+    },
+    "8e83b5e42f2d921f": {
+      "url": "https://www.gamedeveloper.com/business/vr-dev-combat-waffle-studios-lays-off-staff",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "gd-ai"
+    },
+    "027f9c5d3a71e328": {
+      "url": "https://github.com/MatteoLeonesi/claim-memory-graph-sdk",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "e9cc27d46c994deb": {
+      "url": "https://www.helios.today/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "2085d2e04c7380b8": {
+      "url": "https://zenodo.org/records/20906443",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "463252f5c178dedd": {
+      "url": "https://nikitph.github.io/motifs/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "6e5cd2af383c8573": {
+      "url": "https://stackzero.revoseek.com",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "22f47e21b344d9e9": {
+      "url": "https://infra-as-a-code.vercel.app",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "dc482599e977b34e": {
+      "url": "https://github.com/JerBouma/FinanceToolkit",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "c107600fb989ccd5": {
+      "url": "https://trumpet.house",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "2305fd961b0ee595": {
+      "url": "https://rss.gurify.com/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "4d18288e38f73b86": {
+      "url": "https://medium.com/@www.ahadprogamer/introducing-omnicore-a-neural-brain-for-your-games-npcs-161273695e8f",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "0aa82325c6acf3a4": {
+      "url": "https://tocarousel.app",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "c4ef206501cfb594": {
+      "url": "https://www.appaca.ai/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "48588af5aafbfee7": {
+      "url": "https://apps.apple.com/us/app/trophikos/id6773508921",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "f8ab3e0caebda2dd": {
+      "url": "https://github.com/varmabudharaju/shotlist",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "3f03c925a3b3f74e": {
+      "url": "https://www.whichllmmodel.com/app/text?local=true",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "5ed40fef52e43d1b": {
+      "url": "https://howmuchgame.com/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "7a6de1679b64bf52": {
+      "url": "https://www.theinstant.cc/pack",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "13fbc59b40d2a679": {
+      "url": "https://ludion.ai/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "8894e013283b67a6": {
+      "url": "https://github.com/CalvinSturm/FastPlay",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "f7feb8fc675a9ed0": {
+      "url": "https://2inch.fm/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "hn-show"
+    },
+    "a66f388cc3d84f90": {
+      "url": "https://www.producthunt.com/products/cubeone",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "producthunt"
+    },
+    "4f5dd5d731675ba2": {
+      "url": "https://github.com/qtm285/tlda",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "341bf65ad4bb2334": {
+      "url": "https://github.com/srobroek/agentic-packages",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ef53c08a0989c9e6": {
+      "url": "https://github.com/handsomestWei/loop-skill",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "cfafae5e59df2cac": {
+      "url": "https://github.com/dctr/keryx",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "52da489fb26bf6c1": {
+      "url": "https://github.com/xeor/homebase",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d2011aa1bb63e8b4": {
+      "url": "https://github.com/simokitafresh/multi-agent-shogun",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "37fa82d418923df7": {
+      "url": "https://github.com/tianemon/EasyMint",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5e5f150b2fc48e9a": {
+      "url": "https://github.com/chainstrument/vibe-course",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c7d40eb22a4a6054": {
+      "url": "https://github.com/gonzoblasco/antigravity-developer-stack",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d07066251c23560c": {
+      "url": "https://github.com/rtk-ai/rtk",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "67856404fda38e7a": {
+      "url": "https://github.com/tmwgsicp/vibe-launch",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "648b4500485ac21c": {
+      "url": "https://github.com/SnailDev/github-hot-hub",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c6550c91d70f68f1": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug00m9/the_age_of_the_solopreneur_stripe_report/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "fe1fa22b13606ad6": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug2ht3/i_built_an_ai_website_audit_tool_and_need/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "25ba7c849298f6c9": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug2ccq/my_first_app_is_live_on_google_play_its_boring_on/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "6a77ee834ca367c5": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug2c6y/i_built_a_browserbased_conductor_for_claude_code/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "155cee3bb29de0ea": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug1sax/i_made_a_traffic_research_tool_that_helps/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "0ce11433da2b5f39": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug18md/anyone_integrate_stripe_and_auth_in_an_ai/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "1e482ad70d7ad345": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ug33w8/i_built_a_free_pushtotalk_voice_typer_so_i_can/",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "f5c755da2d0466ff": {
+      "url": "https://www.v2ex.com/t/1223192#reply0",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "81a6192f43e6c6d7": {
+      "url": "https://www.v2ex.com/t/1223184#reply0",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "0cc9c5ee35291729": {
+      "url": "https://www.v2ex.com/t/1223160#reply0",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "9671565788ce0466": {
+      "url": "https://www.v2ex.com/t/1223153#reply2",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "4048c5f8f1bd57be": {
+      "url": "https://www.v2ex.com/t/1223152#reply4",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "21f7621a6bd113ea": {
+      "url": "https://www.v2ex.com/t/1223150#reply2",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "84f59f9468943384": {
+      "url": "https://www.v2ex.com/t/1223139#reply0",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "7358a9a985a9d41e": {
+      "url": "https://36kr.com/p/3869445453305090?f=rss",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "36kr"
+    },
+    "744861fe282284fc": {
+      "url": "https://36kr.com/newsflashes/3869810957865985?f=rss",
+      "first_seen": "2026-06-26T10:40:17.888283+00:00",
+      "source_id": "36kr"
     }
   }
 }
