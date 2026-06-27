@@ -46,14 +46,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Resolve report files to send
         id: detect
         env:
           PICK_LATEST_MODE: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
           SEND_LATEST: ${{ inputs.send_latest || 'weekly' }}
+          PUSH_BEFORE: ${{ github.event.before }}
+          PUSH_AFTER: ${{ github.sha }}
         run: |
+          REPORT_RE='^reports/(daily|weekly)/.+\.md$'
+
+          filter_reports() {
+            grep -E "$REPORT_RE" | grep -v 'side-hustle' || true
+          }
+
+          pick_latest() {
+            local kind="$1"
+            ls -1 "reports/${kind}"/*.md 2>/dev/null \
+              | grep -v gitkeep \
+              | grep -v 'side-hustle' \
+              | sort \
+              | tail -1 || true
+          }
+
           FILES=""
           SUBJECT="【信息雷达】新报告"
           HAS_DAILY=false
@@ -62,27 +79,35 @@ jobs:
           if [ "$PICK_LATEST_MODE" = "true" ]; then
             echo "Pick-latest mode ($GITHUB_EVENT_NAME): $SEND_LATEST"
             if [ "$SEND_LATEST" = "daily" ] || [ "$SEND_LATEST" = "both" ]; then
-              LATEST_DAILY=$(ls -1 reports/daily/*.md 2>/dev/null | grep -v gitkeep | sort | tail -1 || true)
+              LATEST_DAILY=$(pick_latest daily)
               if [ -n "$LATEST_DAILY" ] && [ -f "$LATEST_DAILY" ]; then
                 FILES="${FILES}${LATEST_DAILY}"$'\n'
                 HAS_DAILY=true
               fi
             fi
             if [ "$SEND_LATEST" = "weekly" ] || [ "$SEND_LATEST" = "both" ]; then
-              LATEST_WEEKLY=$(ls -1 reports/weekly/*.md 2>/dev/null \
-                | grep -v gitkeep \
-                | grep -v 'side-hustle' \
-                | sort \
-                | tail -1 || true)
+              LATEST_WEEKLY=$(pick_latest weekly)
               if [ -n "$LATEST_WEEKLY" ] && [ -f "$LATEST_WEEKLY" ]; then
                 FILES="${FILES}${LATEST_WEEKLY}"$'\n'
                 HAS_WEEKLY=true
               fi
             fi
           else
-            FILES=$(git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" \
-              | grep -E '^reports/(daily|weekly)/.+\.md$' \
-              | grep -v 'side-hustle' || true)
+            echo "Push mode: ${PUSH_BEFORE}..${PUSH_AFTER}"
+            # 整次 push 的文件变更（path filter 可能因 push 内任一 commit 触发，HEAD 未必含 .md）
+            if [ -n "$PUSH_BEFORE" ] && [ "$PUSH_BEFORE" != "0000000000000000000000000000000000000000" ]; then
+              FILES=$(git diff --name-only "$PUSH_BEFORE" "$PUSH_AFTER" | filter_reports)
+            fi
+            if [ -z "$FILES" ]; then
+              FILES=$(git show --name-only --pretty=format: "$PUSH_AFTER" | filter_reports)
+            fi
+            if [ -z "$FILES" ]; then
+              echo "::warning::Push diff 未命中 .md，回退发送最新周报"
+              LATEST_WEEKLY=$(pick_latest weekly)
+              if [ -n "$LATEST_WEEKLY" ] && [ -f "$LATEST_WEEKLY" ]; then
+                FILES="${LATEST_WEEKLY}"$'\n'
+              fi
+            fi
             while IFS= read -r f; do
               [ -z "$f" ] && continue
               echo "$f" | grep -q '^reports/daily/' && HAS_DAILY=true
