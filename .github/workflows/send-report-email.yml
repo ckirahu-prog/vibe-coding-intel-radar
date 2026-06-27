@@ -1,12 +1,15 @@
 name: Send Report Email
 
-# 日报/周报 commit 后自动发 QQ 邮箱；也可手动 Run 发送最新报告
+# 日报/周报 commit 后自动发 QQ 邮箱；周六 10:00 补发最新周报；也可手动 Run
 on:
   push:
     branches: [main]
     paths:
       - 'reports/daily/**'
       - 'reports/weekly/**'
+  schedule:
+    # UTC 02:00 周六 = 北京时间周六 10:00（Weekly Automation 09:00 之后兜底）
+    - cron: '0 2 * * 6'
   workflow_dispatch:
     inputs:
       send_latest:
@@ -48,16 +51,16 @@ jobs:
       - name: Resolve report files to send
         id: detect
         env:
-          MANUAL_MODE: ${{ github.event_name == 'workflow_dispatch' }}
-          SEND_LATEST: ${{ inputs.send_latest || 'both' }}
+          PICK_LATEST_MODE: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
+          SEND_LATEST: ${{ inputs.send_latest || 'weekly' }}
         run: |
           FILES=""
           SUBJECT="【信息雷达】新报告"
           HAS_DAILY=false
           HAS_WEEKLY=false
 
-          if [ "$MANUAL_MODE" = "true" ]; then
-            echo "Manual send mode: $SEND_LATEST"
+          if [ "$PICK_LATEST_MODE" = "true" ]; then
+            echo "Pick-latest mode ($GITHUB_EVENT_NAME): $SEND_LATEST"
             if [ "$SEND_LATEST" = "daily" ] || [ "$SEND_LATEST" = "both" ]; then
               LATEST_DAILY=$(ls -1 reports/daily/*.md 2>/dev/null | grep -v gitkeep | sort | tail -1 || true)
               if [ -n "$LATEST_DAILY" ] && [ -f "$LATEST_DAILY" ]; then
@@ -92,11 +95,12 @@ jobs:
           if [ -z "$FILES" ]; then
             echo "has_files=false" >> "$GITHUB_OUTPUT"
             echo "No report files to send."
-            if [ "$MANUAL_MODE" != "true" ]; then
-              echo "::error::Push 触发了发信 workflow，但未检测到 reports/*.md 变更"
-              exit 1
+            if [ "$PICK_LATEST_MODE" = "true" ]; then
+              echo "::warning::未找到可发送的报告文件（Weekly Automation 可能未成功生成周报）"
+              exit 0
             fi
-            exit 0
+            echo "::error::Push 触发了发信 workflow，但未检测到 reports/*.md 变更"
+            exit 1
           fi
 
           echo "has_files=true" >> "$GITHUB_OUTPUT"

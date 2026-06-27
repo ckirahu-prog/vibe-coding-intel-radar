@@ -98,7 +98,8 @@ docs/             mock-weekly-2.0.md（排版样例）
 |------|------------|----------|
 | 每日采集 | `0 0 * * *` | 08:00 |
 | **每周周报** | `0 1 * * 6` | **周六 09:00** |
-| 发信 | push 到 `reports/weekly/` | 紧随周报 commit |
+| 发信（push 触发） | push 到 `reports/weekly/` | 紧随周报 commit |
+| **发信（周六兜底）** | `0 2 * * 6` | **周六 10:00** 发最新周报 |
 
 ## 成本
 
@@ -116,7 +117,7 @@ A: 平时只有 GitHub 在采集；**周六 9 点** 收一封四模块周报。
 A: 正常；宁可空不凑数。补 `manual-urls.yaml` 或等中文源命中。
 
 **Q: 没收到邮件？**  
-A: 确认 Weekly Automation 成功 push **一个** `YYYY-Www.md`；或 Actions → Send Report Email → `weekly`。
+A: 确认 Weekly Automation 成功 push **一个** `YYYY-Www.md`；或 Actions → Send Report Email → `weekly`；查垃圾箱。若周报已在周中提前生成（如试跑），周六 09:00 可能无新 push——现已加 **周六 10:00 兜底发信**。
 
 ## License
 
