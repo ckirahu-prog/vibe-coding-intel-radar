@@ -4589,6 +4589,351 @@
       "url": "https://jennyvipham.itch.io/error143",
       "first_seen": "2026-06-27T09:18:46.449075+00:00",
       "source_id": "itch-new-popular"
+    },
+    "f91cc26852f26653": {
+      "url": "https://starglyphs.com",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "3ae8c29750982b6a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhmfwd/game_development_wisdom_and_advice_30_interviews/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "118dd68c884fe4fe": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh3mqc/leaving_unreal_engine_for_unity/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "ac1f398f175df0b5": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh913o/what_weve_learned_in_2_months_of_marketing_our/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "668fd7abeb6af01e": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhmqwp/college_game_dev_interview_assignment_help/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d6bf4a9d3f049885": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhsws3/unity2d_sprite_creation_tips/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "625a7042a2ca892a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh0k5u/my_first_steam_launch_was_a_flop_heres_the_9/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "28b8f63a47c6f5ad": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhc6t9/i_built_a_free_browserbased_sprite_pixel_art/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f515c4a83adbcb3b": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhnk9k/bulk_file_transfer_solutions_build_delivery/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "445ebd6abcc1337d": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhd3cy/launching_my_first_indie_demo_midjuly_devs_what/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "087c59f08fc6d40b": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh9p9v/should_i_start_with_practice_in_game_jams_and_the/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "dee459005bff0180": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhad0p/how_important_is_a_steam_cloud_save_support_for/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "65b21f030ef548ad": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhgwvr/rethinking_game_development_a_personal_journey/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "38bc367cec1b4102": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh9tv2/how_can_i_figure_out_the_artstyle_of_my_game/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "0bfd5298e5830953": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhjzbv/how_do_you_get_meaningful_signal_from_a_greybox/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "7fa5643cb8276237": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uhhfkb/what_makes_these_newer_games_look_worse_than/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "fe422f7b17943917": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uh8elt/multiplayer_game_issue/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "dbd947272c306e19": {
+      "url": "https://github.com/Priyanshu-crypto22/Python-Chess-App",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b4892fc128cdc078": {
+      "url": "https://github.com/NeoXider/CoreAI",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-game-ai"
+    },
+    "8c13456ef82dffb9": {
+      "url": "https://usefomo.co",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "b86e89c59e31a937": {
+      "url": "https://beachesofgreece.com",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "45b595d5417b07a7": {
+      "url": "https://suno.com/playlist/8ee4368a-294e-4369-8896-c9eba40768ce",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "44534aec76d4df28": {
+      "url": "https://github.com/ws-rush/lingui-rr",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "08cf64e68c5d7e6d": {
+      "url": "https://github.com/Sarkar-AGI/Core-1",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "1274e4c8db770245": {
+      "url": "https://temataro.github.io/better-graphs/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "dfb350cd305e4cfe": {
+      "url": "https://www.clickcast.tech/template-editor",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "8c94f1309aad15d0": {
+      "url": "https://hackaday.io/project/205963-ultrasonic-3d-motion-capture-orientator",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "4d26d8c24c80aae1": {
+      "url": "https://code.intellios.ai/photo/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "87b6bdf45cf8eaee": {
+      "url": "https://github.com/tam159/next-role",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "07e37ab0ce98932d": {
+      "url": "https://github.com/mskrasnov/FSM",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "1f1bc06d41258238": {
+      "url": "https://www.spinnerrecruit.dev/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "4383664cba90f454": {
+      "url": "https://decomp-academy.dev",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "5e96375c99272923": {
+      "url": "https://stack412.com/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "b303610592a542f7": {
+      "url": "https://github.com/xiang-deng/moumantai",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "8ef5733bccd4537c": {
+      "url": "https://qr.jim.sh/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "11dcc792c3d7c28b": {
+      "url": "https://engye.fuzzyworld.net/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "d536aac45af17ed5": {
+      "url": "https://quizzy.earth/p/0Dpwk5TjHe/fifa-world-cup-2026-predict-the-bracket-live",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-show"
+    },
+    "a6bfdc7d6632dc3d": {
+      "url": "https://news.ycombinator.com/item?id=48705004",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "8e60a83c63a72daa": {
+      "url": "https://github.com/FutronPrime/verity-harness",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "57bbc2400e03171c": {
+      "url": "https://github.com/sidb5/SiteReliability",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "df742b843fecd7d4": {
+      "url": "https://github.com/rosh100yx/outlier",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "bfee56e338c75958": {
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0ecd47c11d61c2e9": {
+      "url": "https://github.com/Sehab121/awesome-openclaw-skills-CN",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8a0ca0b31a890e6a": {
+      "url": "https://github.com/abosouff/best-prompts",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "4a9fdbb3dfb6ac42": {
+      "url": "https://github.com/metasession-dev/DevAudit-Installer",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c7ef9c41a364db29": {
+      "url": "https://github.com/agent-of-empires/agent-of-empires",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "45f4db856df2053d": {
+      "url": "https://github.com/OpenNetCN/clash",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e4e8895a1df6b387": {
+      "url": "https://github.com/Golu0512/ai-guide",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "144d4bb98371d906": {
+      "url": "https://github.com/leanhduy-iuh/notebooklm-mcp-fork",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c61c656236069bf6": {
+      "url": "https://github.com/zonunakht-hub/CodeStacker",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5151df72186b0283": {
+      "url": "https://github.com/vinumahesh22/vibe-brain",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "372f5541ee84fd60": {
+      "url": "https://github.com/ksaraschandra/ksaraschandra",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "bafa49e4e6f7340b": {
+      "url": "https://github.com/Ezeafk/awesome-agent-skills",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "de1080b9e7e18757": {
+      "url": "https://github.com/Thurbeen/thurbox",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "010c312005fc0975": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1ugzuab/morphy_chess_my_side_project_a_chess_game_where/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "8847b7989ada67ac": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uhfnkj/when_will_enough_b2b_ai_saas_slop_be_enough/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "59533d9eeeaa0d6e": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uhr5z5/built_ambient_memory_for_claude_50_users_paying/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "53f80599c7962da3": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uh4hz7/i_built_an_interactive_live_updated_overview_of/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "aa6c5b5a6193dcee": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uht651/side_project_app_that_pings_you_like_bereal_to_do/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "94d2f59839c764ad": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1uhswk1/how_to_send_transactional_emails_from_a_side/",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "68f57b5544ebbcd2": {
+      "url": "https://www.v2ex.com/t/1223461#reply0",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "817f789ccf083921": {
+      "url": "https://www.v2ex.com/t/1223438#reply0",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "94a104864dec204e": {
+      "url": "https://www.v2ex.com/t/1223434#reply14",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "677b449fb9ce23ae": {
+      "url": "https://www.v2ex.com/t/1223411#reply13",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "b1ad81f5ef56e7eb": {
+      "url": "https://www.v2ex.com/t/1223410#reply5",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "be0f47c132ea09dd": {
+      "url": "https://www.v2ex.com/t/1223407#reply5",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "d39441bc9bfae85e": {
+      "url": "https://www.v2ex.com/t/1223406#reply4",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3a865283167fe7b4": {
+      "url": "https://www.v2ex.com/t/1223393#reply13",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6198cd65360e0311": {
+      "url": "https://36kr.com/newsflashes/3872535871853829?f=rss",
+      "first_seen": "2026-06-28T10:12:55.639698+00:00",
+      "source_id": "36kr"
     }
   }
 }
