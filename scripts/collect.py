@@ -6,6 +6,8 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import shutil
+import subprocess
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -48,6 +50,7 @@ HIGH_VALUE_KEYWORDS = {
 }
 USER_AGENT = "IntelRadar/1.0 (github-actions; info-collector)"
 GITHUB_API = "https://api.github.com"
+CLI_TIMEOUT_SEC = 45
 
 
 def load_yaml(path: Path) -> dict:
@@ -238,6 +241,221 @@ def fetch_github_search(source: dict) -> list[dict]:
     return items
 
 
+def source_enabled(source: dict) -> bool:
+    """Sources with enabled: false are skipped (Agent-Reach optional backends)."""
+    return source.get("enabled", True)
+
+
+def run_cli(cmd: list[str], timeout: int = CLI_TIMEOUT_SEC) -> tuple[str, str, int]:
+    """Run external CLI; return stdout, stderr, returncode."""
+    proc = subprocess.run(
+        cmd,
+        capture_output=True,
+        text=True,
+        timeout=timeout,
+        encoding="utf-8",
+        errors="replace",
+    )
+    return proc.stdout or "", proc.stderr or "", proc.returncode
+
+
+def cli_available(name: str) -> bool:
+    return shutil.which(name) is not None
+
+
+def fetch_agent_reach_v2ex(source: dict) -> list[dict]:
+    """V2EX JSON API (Agent-Reach compatible; no login)."""
+    api_kind = source.get("api", "hot")
+    url = f"https://www.v2ex.com/api/topics/{api_kind}.json"
+    resp = fetch_with_retry(url, {"User-Agent": USER_AGENT})
+    payload = resp.json()
+    items = []
+    for topic in payload[:40]:
+        if not isinstance(topic, dict):
+            continue
+        title = topic.get("title") or "Untitled"
+        topic_id = topic.get("id")
+        if not topic_id:
+            continue
+        link = f"https://www.v2ex.com/t/{topic_id}"
+        content = strip_html(topic.get("content") or "")
+        replies = topic.get("replies", 0)
+        summary = truncate(content) if content else f"回复 {replies}"
+        items.append({
+            "title": truncate(title, 300),
+            "url": link,
+            "summary": summary,
+            "published": topic.get("last_modified") or topic.get("created") or "",
+        })
+    return items
+
+
+def fetch_agent_reach_bilibili_search(source: dict) -> list[dict]:
+    """B站搜索 via bili-cli (Agent-Reach upstream). Fails soft if CLI missing."""
+    query = source.get("query", "").strip()
+    if not query:
+        return []
+    if not cli_available("bili"):
+        raise RuntimeError("bili CLI not on PATH (install via Agent-Reach / bili-cli)")
+
+    stdout, stderr, code = run_cli(["bili", "search", query])
+    if code != 0:
+        raise RuntimeError(stderr.strip() or stdout.strip() or f"bili search exited {code}")
+
+    items: list[dict] = []
+    # Try JSON lines first
+    for line in stdout.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("{"):
+            try:
+                row = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            bvid = row.get("bvid") or row.get("BV")
+            title = row.get("title") or row.get("name") or "Bilibili video"
+            url = row.get("url") or row.get("link")
+            if not url and bvid:
+                url = f"https://www.bilibili.com/video/{bvid}"
+            if url:
+                items.append({
+                    "title": truncate(str(title), 300),
+                    "url": str(url),
+                    "summary": truncate(str(row.get("description") or row.get("desc") or "")),
+                    "published": str(row.get("pubdate") or row.get("published") or ""),
+                })
+            continue
+        # Fallback: URL in line
+        url_match = re.search(r"https?://(?:www\.)?bilibili\.com/video/[A-Za-z0-9]+", line)
+        if url_match:
+            title = line[: url_match.start()].strip(" -|\t") or "Bilibili video"
+            items.append({
+                "title": truncate(title, 300),
+                "url": url_match.group(0),
+                "summary": "",
+                "published": "",
+            })
+
+    if not items:
+        raise RuntimeError("bili search returned no parseable results")
+    return items[:20]
+
+
+def fetch_agent_reach_youtube_search(source: dict) -> list[dict]:
+    """YouTube search via yt-dlp (Agent-Reach upstream). Fails soft if CLI missing."""
+    query = source.get("query", "").strip()
+    if not query:
+        return []
+    if not cli_available("yt-dlp"):
+        raise RuntimeError("yt-dlp not on PATH (install via Agent-Reach / yt-dlp)")
+
+    max_results = int(source.get("max_results", 8))
+    search_url = f"ytsearch{max_results}:{query}"
+    stdout, stderr, code = run_cli([
+        "yt-dlp",
+        search_url,
+        "--flat-playlist",
+        "--print",
+        "%(title)s",
+        "--print",
+        "%(webpage_url)s",
+        "--print",
+        "%(upload_date)s",
+    ])
+    if code != 0:
+        raise RuntimeError(stderr.strip() or stdout.strip() or f"yt-dlp exited {code}")
+
+    lines = [ln.strip() for ln in stdout.splitlines() if ln.strip()]
+    items: list[dict] = []
+    i = 0
+    while i + 2 < len(lines):
+        title, url, uploaded = lines[i], lines[i + 1], lines[i + 2]
+        if url.startswith("http"):
+            pub = ""
+            if uploaded and uploaded.isdigit() and len(uploaded) == 8:
+                pub = f"{uploaded[:4]}-{uploaded[4:6]}-{uploaded[6:8]}"
+            items.append({
+                "title": truncate(title, 300),
+                "url": url,
+                "summary": f"YouTube search: {query}",
+                "published": pub,
+            })
+        i += 3
+
+    if not items:
+        raise RuntimeError("yt-dlp search returned no parseable results")
+    return items
+
+
+def fetch_source(source: dict) -> list[dict]:
+    """Dispatch fetch by source type."""
+    stype = source["type"]
+    if stype == "rss":
+        return fetch_rss(source)
+    if stype == "github_search":
+        return fetch_github_search(source)
+    if stype == "agent_reach_v2ex":
+        return fetch_agent_reach_v2ex(source)
+    if stype == "agent_reach_bilibili_search":
+        return fetch_agent_reach_bilibili_search(source)
+    if stype == "agent_reach_youtube_search":
+        return fetch_agent_reach_youtube_search(source)
+    raise ValueError(f"Unknown source type: {stype}")
+
+
+def ingest_raw_items(
+    raw_items: list[dict],
+    source: dict,
+    source_id: str,
+    seen: dict,
+    topic_keywords: dict[str, list[str]],
+    now: datetime,
+) -> tuple[list[dict], int]:
+    """Dedup, classify, and build collector items from raw fetch rows."""
+    new_items: list[dict] = []
+    source_new = 0
+    for raw in raw_items:
+        url = raw.get("url", "")
+        if not url:
+            continue
+        h = url_hash(url)
+        if h in seen.get("urls", {}):
+            continue
+
+        title = raw.get("title", "Untitled")
+        summary = raw.get("summary", "")
+        matched_topics = classify_topics(
+            title, summary,
+            source.get("topics", []),
+            source.get("tier", "B"),
+            topic_keywords,
+        )
+
+        if source.get("tier", "B") == "B" and not matched_topics:
+            continue
+
+        item = {
+            "id": h,
+            "title": title,
+            "url": url,
+            "summary": summary,
+            "source_id": source_id,
+            "source_name": source.get("name", source_id),
+            "topics": matched_topics,
+            "fetched_at": now.isoformat(),
+            "published": raw.get("published", ""),
+        }
+        seen.setdefault("urls", {})[h] = {
+            "url": url,
+            "first_seen": now.isoformat(),
+            "source_id": source_id,
+        }
+        new_items.append(item)
+        source_new += 1
+    return new_items, source_new
+
+
 def record_stat(stats: dict, source_id: str, count: int, error: str | None = None) -> None:
     sources = stats.setdefault("sources", {})
     entry = sources.setdefault(source_id, {"hits": 0, "errors": 0, "last_error": None})
@@ -362,6 +580,7 @@ def generate_daily_index(
 
 
 def main() -> int:
+    dry_run = "--dry-run" in sys.argv
     topics_cfg = load_yaml(TOPICS_FILE)
     sources_cfg = load_yaml(SOURCES_FILE)
     manual_cfg = load_yaml(MANUAL_FILE)
@@ -379,65 +598,34 @@ def main() -> int:
 
     for source in sources_cfg.get("sources", []):
         source_id = source["id"]
+        if not source_enabled(source):
+            print(f"[SKIP] {source_id}: disabled")
+            continue
         # Stagger Reddit requests to reduce 429 rate limits
         if "reddit" in source_id:
             time.sleep(2)
         try:
-            if source["type"] == "rss":
-                raw_items = fetch_rss(source)
-            elif source["type"] == "github_search":
-                raw_items = fetch_github_search(source)
-            else:
-                print(f"Unknown source type: {source['type']}", file=sys.stderr)
+            raw_items = fetch_source(source)
+            if dry_run:
+                print(f"[DRY] {source_id}: would fetch {len(raw_items)} items")
                 continue
 
-            source_new = 0
-            for raw in raw_items:
-                url = raw.get("url", "")
-                if not url:
-                    continue
-                h = url_hash(url)
-                if h in seen.get("urls", {}):
-                    continue
-
-                title = raw.get("title", "Untitled")
-                summary = raw.get("summary", "")
-                matched_topics = classify_topics(
-                    title, summary,
-                    source.get("topics", []),
-                    source.get("tier", "B"),
-                    topic_keywords,
-                )
-
-                # B-tier with no keyword match → skip
-                if source.get("tier", "B") == "B" and not matched_topics:
-                    continue
-
-                item = {
-                    "id": h,
-                    "title": title,
-                    "url": url,
-                    "summary": summary,
-                    "source_id": source_id,
-                    "source_name": source.get("name", source_id),
-                    "topics": matched_topics,
-                    "fetched_at": now.isoformat(),
-                    "published": raw.get("published", ""),
-                }
-                seen.setdefault("urls", {})[h] = {
-                    "url": url,
-                    "first_seen": now.isoformat(),
-                    "source_id": source_id,
-                }
-                new_items.append(item)
-                source_new += 1
-
+            batch, source_new = ingest_raw_items(
+                raw_items, source, source_id, seen, topic_keywords, now,
+            )
+            new_items.extend(batch)
             record_stat(stats, source_id, source_new)
             print(f"[OK] {source_id}: {source_new} new items")
 
         except Exception as e:
-            record_stat(stats, source_id, 0, str(e))
+            if not dry_run:
+                record_stat(stats, source_id, 0, str(e))
             print(f"[ERR] {source_id}: {e}", file=sys.stderr)
+
+    if dry_run:
+        enabled = [s["id"] for s in sources_cfg.get("sources", []) if source_enabled(s)]
+        print(f"\n=== Dry run: {len(enabled)} enabled sources ===")
+        return 0
 
     manual_items = process_manual_urls(manual_cfg, seen, topic_keywords, topic_names)
     new_items.extend(manual_items)

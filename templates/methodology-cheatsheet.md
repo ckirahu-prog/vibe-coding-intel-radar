@@ -43,6 +43,18 @@
 
 ---
 
+## CHEAT-CROSS · 交叉验证与 enrichment 素材
+
+- **单源 A1** 可保留，但必须标「**单源，待交叉验证**」
+- **升级为双源 A1** 须满足：第二独立 URL 出现**同类 friction**（非记者转述、非同一帖转发）
+- 第二源可来自：`data/raw/` 不同平台、`data/enriched/` 中 last30days 摘录、`manual-urls.yaml` 手补链接
+- **enrichment 不能替代原文**：A1 仍须保留首条 verbatim friction ≤40 字 + URL；第二源单独列出
+- enrichment 只作**佐证**，不得用 brief 摘要替代社区原文进 A1
+- 若 enrichment 与首源 friction **不一致** → 保持单源或降级 A2，不得强行合并
+- 周六 Automation **禁止**现场跑 `/last30days` 或 Agent-Reach；只读仓库内已有 `data/enriched/`
+
+---
+
 ## CHEAT-GENRE · 模块 B2 热门题材
 
 - **热门依据必填**：信号类型 + 平台（Steam/itch 为主）+ 日期 + URL；无则不进 B2 主表

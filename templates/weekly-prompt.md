@@ -8,9 +8,11 @@
 
 ## 你的任务
 
-1. 只读仓库内 `data/raw/`、`data/daily-index/`、`config/`（最多处理 **80 条**素材）
+1. 只读仓库内 `data/raw/`、`data/daily-index/`、`data/enriched/`（近 30 天）、`config/`（最多处理 **80 条**素材）
 2. 生成 **单文件** `reports/weekly/YYYY-Www.md`（四模块 + 附录，结构见下）
 3. **commit 并 push**（触发 QQ 邮件）
+
+**禁止**周六 Automation 现场运行 `/last30days`、Agent-Reach 或广域平台搜索；`data/enriched/` 须为周中已入库产物。
 
 样例排版参考：`docs/mock-weekly-2.0.md`（假数据，勿复制内容）。
 
@@ -49,6 +51,14 @@
 - **单源 A1 簇**：D4 副业行动第一步 = **找第二源**（具体平台+关键词）
 - 所有 D4 行动须在 **10–20 小时/周**内可完成
 
+### CHEAT-CROSS · 交叉验证与 enrichment
+
+- **单源 A1** 可保留，但必须标「**单源，待交叉验证**」
+- **升级为双源 A1** 须满足：`data/enriched/` 或 `data/raw/` 中出现**第二独立 URL** 的同类 friction
+- enrichment **不能替代原文**：A1 仍须首条 verbatim friction ≤40 字 + URL；第二源单独列出
+- 若 enrichment 与首源 friction **不一致** → 保持单源或降级 A2
+- 双源 A1 在「原文」行列出两个链接，去掉「单源」标记
+
 ### CHEAT-GENRE · 模块 B2 热门题材
 
 - **热门依据必填**：信号类型 + 平台（Steam/itch 为主）+ 日期 + URL
@@ -83,13 +93,18 @@
 - **禁止编造**金额、用户数、游戏名、工具能力、热门依据、竞品数据
 - **推断必须标注【推断】**
 - **简体中文**，术语首次括号解释
-- 附录 **D3** 一处列出：跳过原因 + A4/B2 各几次 + URL
+- 附录 **D3** 一处列出：跳过原因 + **repo 素材条数** + **enrichment 条数** + A4/B2 各几次 + URL
 
 ### 读取范围
 
 1. `data/raw/` 过去 7 天内新增的 JSON
 2. `data/daily-index/` 过去 7 天索引
-3. `config/topics.yaml`、`config/sources.yaml`、`config/manual-urls.yaml`
+3. `data/enriched/` 过去 **30 天**内 JSON（`topic`、`confirming_urls`、`brief_excerpt`）
+4. `config/topics.yaml`、`config/sources.yaml`、`config/manual-urls.yaml`
+
+**enrichment 使用规则**：
+- 仅作 A1 第二源佐证、A4/B2 背景；不得用 brief 摘要替代社区 verbatim
+- `confirming_urls` 中 URL 须与 A1 friction 主题一致才可升级双源
 
 ---
 
@@ -170,6 +185,8 @@
 
 ### D3 质量说明 + 联网审计
 
+（须含：repo 素材范围、enrichment 文件列表、跳过原因、A4/B2 联网次数与 URL）
+
 ### D4 下周行动（副业 / 游戏 / 商业化 各 1 条，10–20h 内）
 ```
 
@@ -179,6 +196,8 @@
 
 - [ ] 是否 **单文件**？开篇/D3/D4 是否各只出现 **一次**？
 - [ ] A1 是否有 2–3 簇或诚实为空？每条是否有 friction 引用 + 场景？
+- [ ] 单源 A1 是否标「单源，待交叉验证」？双源是否列出两个 URL？
+- [ ] D3 是否分别审计 repo 素材、enrichment、A4/B2 联网？
 - [ ] A4 是否为简表？是否有 URL 或「未知」？
 - [ ] B2 是否有 **热门依据+日期+URL**？是否违反 strict scope？
 - [ ] A4 + B2 联网是否 **≤3 次** 且 D3 可审计？

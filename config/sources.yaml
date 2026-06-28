@@ -1,6 +1,7 @@
 # 信息采集源清单
 # tier: A = 必收录（跳过关键词过滤）, B = 需关键词命中
-# type: rss | github_search
+# type: rss | github_search | agent_reach_v2ex | agent_reach_bilibili_search | agent_reach_youtube_search
+# enabled: false 的源会被跳过（Agent-Reach 增强源默认关闭）
 
 sources:
   # ── AI 做游戏 ──────────────────────────────────────────
@@ -173,3 +174,30 @@ sources:
     url: "https://itch.io/games/featured.xml"
     topics: [ai-game-dev]
     tier: B
+
+  # ── Agent-Reach 可选增强（默认关闭；本地 enabled: true 后需对应 CLI）──
+
+  - id: agent-reach-v2ex-hot
+    name: "V2EX 热帖 API"
+    type: agent_reach_v2ex
+    api: hot
+    topics: [sideline-pain-opportunity, vibe-coding-commercial]
+    tier: B
+    enabled: false
+
+  - id: agent-reach-bili-ai-game
+    name: "B站: AI 游戏搜索"
+    type: agent_reach_bilibili_search
+    query: "AI 游戏开发"
+    topics: [ai-game-dev]
+    tier: B
+    enabled: false
+
+  - id: agent-reach-youtube-ai-gamedev
+    name: "YouTube: AI gamedev"
+    type: agent_reach_youtube_search
+    query: "ai game development tutorial"
+    max_results: 8
+    topics: [ai-game-dev]
+    tier: B
+    enabled: false
