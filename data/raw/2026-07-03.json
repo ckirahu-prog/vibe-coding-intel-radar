@@ -1,0 +1,990 @@
+[
+  {
+    "id": "7a7de962dcd63de0",
+    "title": "Godot says bye bye AI, bans vibe-coded contributions",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344 Comments URL: https://news.ycombinator.com/item?id=48772645 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 08:59:23 +0000"
+  },
+  {
+    "id": "00b697794ce6cd5f",
+    "title": "Can a 4-person studio survive mobile f2p in 2026? Our real numbers: $100k+/month on ads, $30 to buy one US install, 4 months to break even on a player",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulxmis/can_a_4person_studio_survive_mobile_f2p_in_2026/",
+    "summary": "Hi r/gamedev . I'm moleki, one of the two coders on a 4-person team (2 code, 2 art) behind a pirate idle RPG called Bounty Bash. The game has been live for about a year and a half. Real UA numbers almost never get published, so here are ours: retention, cost per install, and payback, including the uncomfortable ones. Retention: the number everything else orbits Over a 90-day window (iOS, mostly p…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T23:08:16+00:00"
+  },
+  {
+    "id": "e12cbf7b29734e52",
+    "title": "No one tells you about game dev psychosis…",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulpjka/no_one_tells_you_about_game_dev_psychosis/",
+    "summary": "I’ll go outside irl and be like “damn the dynamic lighting is off the charts” and I’ll look at a brick wall like “that normal map goes hella hard” &#32; submitted by &#32; /u/adimeistencents [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T17:58:39+00:00"
+  },
+  {
+    "id": "6c741d5e4ac3b191",
+    "title": "When your friends say \"it's fun\" – that's probably the worst signal you can get😂",
+    "url": "https://old.reddit.com/r/gamedev/comments/1um6g8k/when_your_friends_say_its_fun_thats_probably_the/",
+    "summary": "I stopped trusting in-person playtests this week. not because people are lieing. They're just trying to be nice. showed a rough web build to a few friends. they smiled, said the loop felt good, gave soft &quot;yeah this is cool&quot; feedback. felt nice. also completely uselesslol. Put the same build in front of strangers. no download, no install, no one next to me. the diffrence was brutal. most…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T06:19:09+00:00"
+  },
+  {
+    "id": "9161a48481c29512",
+    "title": "Why do we spend so much time studying successful games, but almost none studying failed ones?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1um1byf/why_do_we_spend_so_much_time_studying_successful/",
+    "summary": "Maybe it's just me, but I feel like every successful indie game gets a dozen breakdowns and postmortems, while the ones that fail just quietly disappear. Which is kind of weird, because failure is probably what most of us will experience at some point. Feels like there's a lot we're not learning. &#32; submitted by &#32; /u/ResidentAccording256 [link] &#32; [comments]",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T02:00:50+00:00"
+  },
+  {
+    "id": "6540b137223b5d53",
+    "title": "Over 12 289 games have been released on steam this year (These are Games, not DLC)",
+    "url": "https://old.reddit.com/r/gamedev/comments/1uli0g6/over_12_289_games_have_been_released_on_steam/",
+    "summary": "I check Steam DB every once in a while to see how much stuff that is uploaded to Steam every week. From 1 of January to today July 2 this year, we've had 12 289 games released: https://steamdb.info/stats/gameratings/2026/?displayOnly=Game&amp;max_release=2026-07-02&amp;min_release=2026-01-01&amp;sort=release_asc (Even the DB can't show it all, so you'll have to do two searches.) Why am I telling…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T13:16:32+00:00"
+  },
+  {
+    "id": "e72084790750e201",
+    "title": "Should I stop developing my first game if I no longer enjoy it?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulvewn/should_i_stop_developing_my_first_game_if_i_no/",
+    "summary": "I've been working on my first psychological horror game for a while. It's my first serious game project, and I think I made a mistake from the very beginning. Instead of starting with a few small games to learn, I jumped straight into a much bigger project that I knew would take a long time to finish. As I've learned more about game development, I've realized there are many things I'd now do diff…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T21:38:39+00:00"
+  },
+  {
+    "id": "e1d55972db07df4a",
+    "title": "Need an easy software for rigging and animation",
+    "url": "https://old.reddit.com/r/gamedev/comments/1um28g6/need_an_easy_software_for_rigging_and_animation/",
+    "summary": "So I'm a solo dev and i mainly use pre made assets but I'm making a horror game so i still need to rig and animate the enemy.. I have the 3d model i just need an easy software to rig and animate.. I tried blender but it takes some time to learn everything and because I'm a solo dev it's extremely costly because i still have coding and level designing to go over.. So i would be pleased if anyone c…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T02:44:11+00:00"
+  },
+  {
+    "id": "dcfdf423736b69e0",
+    "title": "Question: why is implementing multithreading usage in games difficult?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulgc7i/question_why_is_implementing_multithreading_usage/",
+    "summary": "Title basically. I am into niche 4X games and enjoy them, but late game performance usually takes a hit, and it basically comes down to the same thing, the game calculations are usually single threaded. I am not versed in game development at all, and only understand very rudimentary basics of computer science, so forgive me if I make dumb analogies, statements, or questions, I am just curious. Fr…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T12:03:55+00:00"
+  },
+  {
+    "id": "320c9767d4f1b7fe",
+    "title": "I'm a character artist and I got tired of feedback like \"looks great\" that tells you nothing. So I built a way to pin critique to the exact spot on a 3D model.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1uly6ii/im_a_character_artist_and_i_got_tired_of_feedback/",
+    "summary": "Every 3D artist knows the two kinds of feedback you actually get: &quot;looks sick&quot; or nothing. And even when someone does try to give a real crit, they're stuck describing a spot in words, &quot;the edge near the jaw, no, lower, by the ear,&quot; while you squint at your own model trying to figure out what they mean. The feedback that would actually make the piece better gets lost in transl…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T23:33:17+00:00"
+  },
+  {
+    "id": "751265e2375e6702",
+    "title": "Making 12 games in 12 months: Month 1 Postmortem",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulsrqg/making_12_games_in_12_months_month_1_postmortem/",
+    "summary": "A month-ish ago, I made this post: https://www.reddit.com/r/gamedev/comments/1u014s6/to_motivate_myself_to_learn_game_development_im/ Basically, to motivate myself to learn gamedev, I decided that for the next 12 months, I would release 1 game each month. They would be of a variety of genres, but all loosely related to metroidvanias, the genre of my dream game. Each month I will make a postmortem…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T19:57:21+00:00"
+  },
+  {
+    "id": "34d17205d5b2c78e",
+    "title": "Want to try digging deeper into 1 of the many aspects of gamedev instead of the whole thing.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ult5hq/want_to_try_digging_deeper_into_1_of_the_many/",
+    "summary": "Ive been learning gamedev on and off for a couple years and i get burnt out so easily and allot of the time it can feel like a task instead of something I want to do but gamejams jave been very fun for me and I think id prefer to dedicate my time to 1 aspect of gamedev (music, 3d art, 2d art, programing etc) and focus on gamejams which I find very fun. Im not sure what aspect to focus though, I'v…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T20:11:40+00:00"
+  },
+  {
+    "id": "fcc5416c3abee4e0",
+    "title": "I made a tool to compare your capsule against existing games. It's free and works in browser.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ultlb3/i_made_a_tool_to_compare_your_capsule_against/",
+    "summary": "I often make tools for myself. Recently decided to start sharing them :) Capsule Compare [itch.io] allows you to upload your capsule art and compare it with existing games in steam-like environment. You can change image sizes (all used by steam) to judge readability, and toggle between different views. It has more options, but they are intuitive and easy to discover by clicking around (it also ha…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T20:28:28+00:00"
+  },
+  {
+    "id": "9125e347b2ba77a3",
+    "title": "First time shipping a game on Steam. Here is what the store page setup actually looks like.",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ullzyr/first_time_shipping_a_game_on_steam_here_is_what/",
+    "summary": "I have been building Shark in a Suit, a 90s law firm management game, for a few months. This week I submitted the store page to Valve for review. Here is what nobody tells you about the Steam setup process. There are about fifteen separate checklists across four different sections of Steamworks. Launch options, depot configuration, store page assets, pricing packages, achievement setup, Steam Clo…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T15:49:52+00:00"
+  },
+  {
+    "id": "c4989315a589b846",
+    "title": "How is the state of the GameDev community right now?",
+    "url": "https://old.reddit.com/r/gamedev/comments/1ulgcvd/how_is_the_state_of_the_gamedev_community_right/",
+    "summary": "I used to be quite active in the gamedev world from around 2019-2024 and the communities were amazing, it felt like everyone was super passionate and sharing their progress on projects and it felt like there was just an overall buzz. I had to take some years away to focus on college and I knew that when I came back that things would be very different and I figured that things would be worse with…",
+    "source_id": "reddit-gamedev",
+    "source_name": "Reddit r/gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T12:04:46+00:00"
+  },
+  {
+    "id": "a2bc6510eab1d1e6",
+    "title": "beckettlab/beckett-godot-mcp",
+    "url": "https://github.com/beckettlab/beckett-godot-mcp",
+    "summary": "Zero-sidecar MCP server inside the Godot editor. AI agents (Claude Code, Cursor) inspect, author, run and SEE your game. GDScript + C#, validate-before-write, no Node.js. Godot 4.2+. Free Lite; Full adds autonomous playtesting.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T09:36:40Z"
+  },
+  {
+    "id": "d517633ca5e9312e",
+    "title": "ProdaZhang/aidd",
+    "url": "https://github.com/ProdaZhang/aidd",
+    "summary": "Brainstorm a feature's design with one AI; hand the checked, platform-agnostic package to another AI to build. Games or apps — one skill, deterministic checkers.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T08:59:29Z"
+  },
+  {
+    "id": "4fb36adf22d2a04e",
+    "title": "Union workers establish hardship fund to support devs impacted by layoffs",
+    "url": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
+    "summary": "Game developers in the United States and Canada will be able to request up to $5,000 through the fund.",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Thu, 02 Jul 2026 10:20:16 GMT"
+  },
+  {
+    "id": "4b0dd9d57b0909e2",
+    "title": "Show HN: Adaptive Feed Reader – read your LinkedIn feed like Hacker News",
+    "url": "https://chromewebstore.google.com/detail/adaptive-feed-reader/pccgfmbmlhangeheghhkkcfchoopnglj",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/adaptive-feed-reader/pccgfmbmlhangeheghhkkcfchoopnglj Comments URL: https://news.ycombinator.com/item?id=48772887 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 09:26:08 +0000"
+  },
+  {
+    "id": "cc7fd7a91b688604",
+    "title": "Show HN: Ordered dithering command-line tool",
+    "url": "https://github.com/scascino4/dither",
+    "summary": "Article URL: https://github.com/scascino4/dither Comments URL: https://news.ycombinator.com/item?id=48772876 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 09:25:06 +0000"
+  },
+  {
+    "id": "e0c9f3dd93ef7ed7",
+    "title": "Show HN: Codex Sidecar – A Local macOS Companion for Codex Desktop",
+    "url": "https://github.com/eshengsky/Codex-Sidecar",
+    "summary": "Article URL: https://github.com/eshengsky/Codex-Sidecar Comments URL: https://news.ycombinator.com/item?id=48772837 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 09:22:00 +0000"
+  },
+  {
+    "id": "8f07e562901a3d50",
+    "title": "Show HN: I turned YouTube into a text-first experience so I could quit it",
+    "url": "https://chromewebstore.google.com/detail/quit-youtube/miopcbpeelainechoghechmlempbeodm",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/quit-youtube/miopcbpeelainechoghechmlempbeodm Comments URL: https://news.ycombinator.com/item?id=48772822 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 09:20:39 +0000"
+  },
+  {
+    "id": "57b878e63d77566a",
+    "title": "Show HN: Scopewalker, an MCP server for codebase complexity metrics",
+    "url": "https://github.com/timohaa/scopewalker-mcp",
+    "summary": "AI agents will happily create 1000+ line source files and add a 20th parameter to a function call, even if there's a rule file telling them not to. So I built Scopewalker: a local MCP server (open source, runs over stdio, and makes no network calls) that gives agents actual numbers to check against. It gives the agent 8 read-only tools: line counts, cognitive complexity/nesting/parameter counts,…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 08:51:07 +0000"
+  },
+  {
+    "id": "c7b666c3eee8bab1",
+    "title": "Show HN: Numbword – a daily word game where letters add up to a target",
+    "url": "https://numbword.com/",
+    "summary": "Article URL: https://numbword.com/ Comments URL: https://news.ycombinator.com/item?id=48772563 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 08:49:09 +0000"
+  },
+  {
+    "id": "686569954dac9f6d",
+    "title": "Show HN: Another attempt to cross the uncanny valley.",
+    "url": "https://theclevr.com",
+    "summary": "Article URL: https://theclevr.com Comments URL: https://news.ycombinator.com/item?id=48772206 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 07:59:16 +0000"
+  },
+  {
+    "id": "4f86d0a11dad3207",
+    "title": "Show HN: I revived a 128MB RAM NAS by building my own control panel",
+    "url": "https://github.com/itprogresscorp/Mini-Bucket",
+    "summary": "Author here. I had an old Netgear Stora MS2000 with 128MB RAM. Modern panels like OpenMediaVault won't even start on it — too heavy. I'm not a programmer, but I can write basic PHP. I just wanted two pages for SMB and NFS — to stop editing configs by hand. A month later, I had 20+ pages: live dashboard, firewall, two-panel file manager, web console, cron, RAID, LVM, SMART, FTP, Rsync, and a plugi…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 07:37:14 +0000"
+  },
+  {
+    "id": "0f1eba484403e623",
+    "title": "Show HN: Opplic AI growth employees for web agencies",
+    "url": "https://opplic.com",
+    "summary": "Hi HN,I am building opplic.com an AI employee that you can hire for each of your client. The idea is simple, if you are an agency and managing 10 clients it becomes hectic to manage all if you are doing alone, you might need to hire a SEO guy but wait, 90k per anuum for a single guy !? Think if you want to hire one for each that's almost a million. Here's where opplic comes into picture, Instead…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 06:35:38 +0000"
+  },
+  {
+    "id": "2a410a7fe2c31d9d",
+    "title": "Show HN: Warmbly – Automate cold email outreach",
+    "url": "https://github.com/warmbly/warmbly",
+    "summary": "I’ve been working on this for just a year, mostly with hand coding. I only started using agents in the last few months. It’s not fully finished yet, but the waitlist is open now. I’m giving 80% off for the first three months to everyone who joins the waitlist. Really hope to see your reviews and hear what you think! Comments URL: https://news.ycombinator.com/item?id=48771562 Points: 1 # Comments:…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 06:27:50 +0000"
+  },
+  {
+    "id": "25d2b2190294da8b",
+    "title": "Show HN: Mobile View – a Chrome extension showing desktop and mobile at once",
+    "url": "https://chromewebstore.google.com/detail/mobile-view-—-mobile-simu/hocbjiaeeijekejepphjihbpogikmofh",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/mobile-view-—-mobile-simu/hocbjiaeeijekejepphjihbpogikmofh Comments URL: https://news.ycombinator.com/item?id=48771216 Points: 2 # Comments: 6",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 05:38:39 +0000"
+  },
+  {
+    "id": "a53405964d21b3c0",
+    "title": "Show HN: HTTPS://HN-Jobs.com",
+    "url": "https://hn-jobs.com",
+    "summary": "Article URL: https://hn-jobs.com Comments URL: https://news.ycombinator.com/item?id=48771151 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 05:29:51 +0000"
+  },
+  {
+    "id": "1e1459db2eaff64b",
+    "title": "Show HN: b10 – for files",
+    "url": "https://github.com/wilds-land/b10",
+    "summary": "note-9.md, note-b10.md Comments URL: https://news.ycombinator.com/item?id=48771147 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 05:29:24 +0000"
+  },
+  {
+    "id": "5701e9d35ee57522",
+    "title": "Show HN: StartupBar – free mutual traffic exchange for founders (Modern WebRing)",
+    "url": "https://startupbar.co/",
+    "summary": "Article URL: https://startupbar.co/ Comments URL: https://news.ycombinator.com/item?id=48771070 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 05:18:08 +0000"
+  },
+  {
+    "id": "5307635962f3e4c1",
+    "title": "Show HN: WyrmRSS – a self-hosted RSS reader with inline YouTube",
+    "url": "https://github.com/kryoseu/WyrmRSS",
+    "summary": "I'm a software engineer and have been working on this for a couple of months, for fun, and thought I'd share it. If you try it, let me know, I'd be stoked! I was inspired by a friend who wanted to escape the algorithms and had built a small, private reader for himself. He wasn't sure he'd ever release it, so I built my own. It's yet another self-hosted RSS reader, I know. I've been trying to buil…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 04:52:52 +0000"
+  },
+  {
+    "id": "245aabad68917fb4",
+    "title": "Show HN: Bedtimeforkids let kids learn while entertain",
+    "url": "https://bedtimeforkids.vercel.app",
+    "summary": "Article URL: https://bedtimeforkids.vercel.app Comments URL: https://news.ycombinator.com/item?id=48770586 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 04:07:32 +0000"
+  },
+  {
+    "id": "9635189d246a215c",
+    "title": "Show HN: I built a declarative layout engine for SVG, Canvas, WebGL",
+    "url": "https://github.com/carnworkstudios/boxwood",
+    "summary": "Hey HN, I built a tiny zero DOM layout engine for vector graphics and custom renderers to resolves nested rows/cols/grids into exact `{x, y, w, h}` boxes, with text measurement, overflow signals, and collision separation. This is to help make SVG, PDF, Canvas responsive. Feedback welcome from anyone building canvas/SVG diagrams, dashboards, node editors, or diagram tools. Comments URL: https://ne…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 03:54:38 +0000"
+  },
+  {
+    "id": "233a1b6baf63670c",
+    "title": "Show HN: Dabs spawns dumb agents in boxes for free",
+    "url": "https://github.com/jjmerino/dabs",
+    "summary": "I see sandboxes are getting cool and common. But I wanted to do so for free and with a local focus. I've been a one person operation lately so cloud based repos seemed a bit overkill and the surface is small enough that it was a fun experiment. If you have any thoughts let me know :) Comments URL: https://news.ycombinator.com/item?id=48770421 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 03:38:01 +0000"
+  },
+  {
+    "id": "ef144f1b4f87b17d",
+    "title": "Show HN: Imagent – agentic image/video/speech generation",
+    "url": "https://github.com/unliftedq/imagent",
+    "summary": "Imagent gives AI agents the ability to generate images, video, and speech as a first-class step in their workflows, behind a single interface that hides the differences between providers and models Comments URL: https://news.ycombinator.com/item?id=48770383 Points: 4 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 03:31:52 +0000"
+  },
+  {
+    "id": "295ee0b424e8964a",
+    "title": "Show HN: Qwicut – A Desktop App to Turn Any Selection into Intelligence",
+    "url": "https://www.qwicut.com",
+    "summary": "Article URL: https://www.qwicut.com Comments URL: https://news.ycombinator.com/item?id=48770346 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 03:24:19 +0000"
+  },
+  {
+    "id": "58cc5c46d6663f01",
+    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+    "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+    "summary": "Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48772443 Points: 64 # Comments: 26",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 08:31:37 +0000"
+  },
+  {
+    "id": "a16d0c497d5317cf",
+    "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+    "url": "https://news.ycombinator.com/item?id=48771515",
+    "summary": "I'm a bit annoyed by the feeling that we're kind of stuck when it comes to using LLMs for programming. I use Claude Code and Codex, but I haven't been able to enter flow state like I can when I hand write code. This is kind of ironic to me since AI should be a bicycle for the mind, but right now it feels like a bicycle that just brakes abruptly every couple minutes. I stop, wait, review, prompt a…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 06:21:44 +0000"
+  },
+  {
+    "id": "a906125fefeba6b1",
+    "title": "Claude Code Settings That Made Me a Faster Software Architect",
+    "url": "https://jsdev.space/claude-code-settings-software-architect/",
+    "summary": "Article URL: https://jsdev.space/claude-code-settings-software-architect/ Comments URL: https://news.ycombinator.com/item?id=48770897 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 04:52:09 +0000"
+  },
+  {
+    "id": "9beb7615ef50c37f",
+    "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+    "url": "https://news.ycombinator.com/item?id=48770319",
+    "summary": "Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file. Why? Because it's terrified of blowing up the context window, so it only reads a fraction of a large file and completely misses the existing functionality. Why are files so bloated in the first plac…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Fri, 03 Jul 2026 03:18:42 +0000"
+  },
+  {
+    "id": "dae6a9bdd42f90d7",
+    "title": "US companies are losing 2.4% of revenue on failed AI projects",
+    "url": "https://www.ciodive.com/news/wasted-tech-spend-AI-governance/824275/",
+    "summary": "Article URL: https://www.ciodive.com/news/wasted-tech-spend-AI-governance/824275/ Comments URL: https://news.ycombinator.com/item?id=48760466 Points: 5 # Comments: 0",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Thu, 02 Jul 2026 12:31:25 +0000"
+  },
+  {
+    "id": "d1364ee37c17c361",
+    "title": "Nvidia offers startup customers chance to swap compute power for revenue share",
+    "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html Comments URL: https://news.ycombinator.com/item?id=48759308 Points: 25 # Comments: 10",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Thu, 02 Jul 2026 10:41:33 +0000"
+  },
+  {
+    "id": "725ae3d528d6b966",
+    "title": "Show HN: Shark Tank but you pitch your idea to indie hackers",
+    "url": "https://indiesharktank.vercel.app/",
+    "summary": "Article URL: https://indiesharktank.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48754114 Points: 9 # Comments: 1",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Wed, 01 Jul 2026 22:43:29 +0000"
+  },
+  {
+    "id": "459d583b312e0a0e",
+    "title": "Vox",
+    "url": "https://www.producthunt.com/products/vox-5",
+    "summary": "Talk to GitHub Copilot out loud Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T17:08:51-07:00"
+  },
+  {
+    "id": "bc4a75713c4c9cd5",
+    "title": "Tamamon",
+    "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+    "summary": "A desktop pet that grows as you code with Claude Code Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T06:57:06-07:00"
+  },
+  {
+    "id": "8055cd72c82777b1",
+    "title": "livendb/liven",
+    "url": "https://github.com/livendb/liven",
+    "summary": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle continuous streams of information—like AI tracking, live sports activities, financial market updates, or device logs—and make that data instantly searchable.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:16:03Z"
+  },
+  {
+    "id": "a3187a4cce8cfd2d",
+    "title": "jrpease/throughline",
+    "url": "https://github.com/jrpease/throughline",
+    "summary": "Throughline — one unbroken line from design to code. A Claude Code plugin that guides you from a blank Figma file to a synced, story-tested component library.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:15:57Z"
+  },
+  {
+    "id": "bcf75a7170d3ed93",
+    "title": "ajyadav013/claude-kit",
+    "url": "https://github.com/ajyadav013/claude-kit",
+    "summary": "The autonomous SDLC for Claude Code that won't pass a gate on an unproven verdict.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:14:08Z"
+  },
+  {
+    "id": "713535f4304a791c",
+    "title": "timmyy123/LLM-Hub",
+    "url": "https://github.com/timmyy123/LLM-Hub",
+    "summary": "Local AI Assistant on your phone",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:12:15Z"
+  },
+  {
+    "id": "379642deb53f3714",
+    "title": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "summary": "Chrome DevTools for coding agents",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:15:29Z"
+  },
+  {
+    "id": "7e70ccec4ea411be",
+    "title": "humaidhahm/opencode-pentester",
+    "url": "https://github.com/humaidhahm/opencode-pentester",
+    "summary": "Full-spectrum security assessment tool for opencode — defensive code audit (17 vulnerability categories) + offensive penetration testing (63 attack categories, 15 agents, 11 domains). AI-powered AppSec, red teaming, and pentesting for vibe-coded apps.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:09:09Z"
+  },
+  {
+    "id": "1300b45717fc75c7",
+    "title": "zpoint/vibe-seller",
+    "url": "https://github.com/zpoint/vibe-seller",
+    "summary": "Multi-store browser-automation framework for cross-border sellers (Ziniao + Chrome). Local-first, BYO LLM.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:08:44Z"
+  },
+  {
+    "id": "e0a2d4ca11071891",
+    "title": "NextChans/clawd",
+    "url": "https://github.com/NextChans/clawd",
+    "summary": "Cute floating cat that shows Claude Code usage on macOS",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:05:43Z"
+  },
+  {
+    "id": "c10c85efc1106289",
+    "title": "JanPokorny/locki",
+    "url": "https://github.com/JanPokorny/locki",
+    "summary": "Locki: AI sandboxing without the taste of sand",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:03:51Z"
+  },
+  {
+    "id": "8f96319f5e8bed0e",
+    "title": "Zandereins/schliff",
+    "url": "https://github.com/Zandereins/schliff",
+    "summary": "Deterministic quality scorer for AI agent instruction files — 8-dimension scoring with security, multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), anti-gaming detection, zero dependencies",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:02:56Z"
+  },
+  {
+    "id": "eed6c992cf172401",
+    "title": "We built a Reddit alternative and it has taken off way faster than we had planned",
+    "url": "https://old.reddit.com/r/SideProject/comments/1ulupcc/we_built_a_reddit_alternative_and_it_has_taken/",
+    "summary": "About a month ago we launched rhyme.com , a Reddit alternative we'd been joking about building for literally years. It stopped being a joke at some point we're spending our days watching signups climb on the dashboard every single day with basically zero traditional marketing, so I figured I'd share what it is and a few things I've learned. Rhyme is topic-first instead of community-first. A few t…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T21:11:14+00:00"
+  },
+  {
+    "id": "2c90962f9fcd6a5b",
+    "title": "I built a generative learning world for kids aged 6-12, launched a beta this week-end, kids are doing the most amazing things in there:",
+    "url": "https://old.reddit.com/r/SideProject/comments/1ulo632/i_built_a_generative_learning_world_for_kids_aged/",
+    "summary": "A 7 year-old using image generation to improvise a game of chess with characters. A 6 year-old observing corals in our lagoon and learning about marine biology. A 7 year-old doing her math homework on multiplications by the beach. A 9 year-old spotted a hidden fossile and started exploring for more. The goal was to build a smart interactive learning world designed to spark and nurture kids curios…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T17:08:52+00:00"
+  },
+  {
+    "id": "446fba38b3d3fa5c",
+    "title": "Adult search engine",
+    "url": "https://old.reddit.com/r/SideProject/comments/1ulh0wy/adult_search_engine/",
+    "summary": "Hi everyone! It’s been over 8 months since I launched and have been actively developing and refining my adult search engine: https://www.nsfwbase.com During this time, I’ve faced quite a few interesting challenges. For example, removing duplicates. By using various techniques and extracting image hashes, I was able to identify over 4 million duplicate videos out of 37 million total. Of course, yo…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-02T12:34:41+00:00"
+  },
+  {
+    "id": "1a1260f729f37306",
+    "title": "run AI coding agents inside local microVMs",
+    "url": "https://old.reddit.com/r/SideProject/comments/1um72ek/run_ai_coding_agents_inside_local_microvms/",
+    "summary": "i built code-airlock, an open-source tool for running AI coding agents inside disposable microVMs the problem I kept running into was the tradeoff between approving every command manually and losing most of the time savings, or disabling command prompts and trusting the agent with my actual machine. I tried the second path too often and regretted it. code-airlock runs the agent inside a disposabl…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T06:54:13+00:00"
+  },
+  {
+    "id": "31b257fd4ad028f5",
+    "title": "I'm coaching my 15 year old through building his first startup",
+    "url": "https://old.reddit.com/r/SideProject/comments/1um5vel/im_coaching_my_15_year_old_through_building_his/",
+    "summary": "Last Monday, my son and I kicked off a summer &quot;Dad Camp&quot;. I took 2 weeks off of work, and the two of us are heads-down each day as he learns how to build a company. Mon: Intro and Inspiration Tue: He decided on what company / product to build and wrote a business plan Wed: He wrote a branding guide, created a logo, and launched a website Thu: He shot a promo video, learned how to edit i…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T05:47:43+00:00"
+  },
+  {
+    "id": "041502a0c56aca7d",
+    "title": "Guys ima working on a small tool idea for meeting transcription but struggling with noisy audio",
+    "url": "https://old.reddit.com/r/SideProject/comments/1um5l8p/guys_ima_working_on_a_small_tool_idea_for_meeting/",
+    "summary": "Been messing around with meeting transcription tools for a side project idea and biggest issue im seeing is still audio quality lol..clean recordings are fine but real world zoom calls with ppl talking over each other or background noise still break most tools idk maybe im expecting too much but I just want something that doesn't fall apart when things get messy curious if anyone here has built a…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T05:32:47+00:00"
+  },
+  {
+    "id": "e20fcee3eca85ef8",
+    "title": "I built a simple interactive checklist app",
+    "url": "https://old.reddit.com/r/SideProject/comments/1um9g3c/i_built_a_simple_interactive_checklist_app/",
+    "summary": "Hi everyone! I've been working on a small side project focused on one thing: interactive checklists. I noticed that most productivity apps are designed for project management, but sometimes people just need a simple checklist they can create, reuse, and complete. Examples: Packing for a trip Moving house Event planning Home maintenance Study routines The project is still in its early stages, and…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T09:14:32+00:00"
+  },
+  {
+    "id": "ea92bc35b89828f7",
+    "title": "Claude Code Dynamic Island on macOS",
+    "url": "https://old.reddit.com/r/SideProject/comments/1umaiqb/claude_code_dynamic_island_on_macos/",
+    "summary": "https://reddit.com/link/1umaiqb/video/8n9m875w2vah1/player Fully free and open source https://github.com/eyadhammouda/pookify &#32; submitted by &#32; /u/Impossible_Step6452 [link] &#32; [comments]",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:15:37+00:00"
+  },
+  {
+    "id": "765054f41c5fbe6c",
+    "title": "I built a public billboard for side projects",
+    "url": "https://old.reddit.com/r/SideProject/comments/1um6mvn/i_built_a_public_billboard_for_side_projects/",
+    "summary": "https://billboardo.com/ - is the webapp for builders, makers to share their projects on a interactive billboard. 1 free do follow link for every project added. &#32; submitted by &#32; /u/jonutz_csgo [link] &#32; [comments]",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T06:29:33+00:00"
+  },
+  {
+    "id": "5a7f61f1a909b7bd",
+    "title": "I built a free AI background remover — try it instantly (no sign-up for first try)",
+    "url": "https://old.reddit.com/r/SideProject/comments/1umah62/i_built_a_free_ai_background_remover_try_it/",
+    "summary": "Hey r/SideProject 👋 I’ve been building EraseBG ([ https://erasebg.com](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html) ) for the past couple of months — a free AI tool to remove backgrounds, objects, and watermarks from images. Just shipped a guest trial flow today, so anyone can test it before signing…",
+    "source_id": "reddit-sideproject",
+    "source_name": "Reddit r/SideProject",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T10:13:21+00:00"
+  },
+  {
+    "id": "627b17371f1d4eb6",
+    "title": "[Qt] 撸了一个面向 Qt Widgets 的 Fluent 风格组件库",
+    "url": "https://www.v2ex.com/t/1224805#reply0",
+    "summary": "vibe coding 做了一个面向 Qt Widgets 的 Fluent 风格组件库，大家来瞅瞅 最近在维护一个开源项目 Fluent-QT ，主要想解决一个问题： 很多 Qt Widgets 项目并不适合迁移到 QML ，但默认 Widgets 的视觉和组件体验又比较传统。所以我做了一个基于 C++17 / Qt Widgets 的 Fluent 风格组件库，希望让现有桌面应用能更容易做现代化界面。 我也做了一个官网，里面可以直接看 Gallery 截图和下载示例应用： 官网： https://calvinhxx.github.io/Fluent-QT/ GitHub： https://github.com/calvinhxx/Fluent-QT 目前支持 Windows / macOS ，包含主题、设计 token 、动画、状态体系和一组常用桌面组件。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T09:24:33Z"
+  },
+  {
+    "id": "c52803a01370668a",
+    "title": "[问与答] Vibe Coding 最大的问题，可能不是代码质量，而是人越来越不懂代码",
+    "url": "https://www.v2ex.com/t/1224796#reply1",
+    "summary": "最近用 Vibe Coding 做了一套 RAG 功能，切片、向量检索、Reranker 、Agent 基本都是 AI 辅助完成的。 功能能跑，也确实解决了问题。 但现在回头看，很多代码细节记不清。只是大概 Review 一下，然后继续执行，那如果面试官追问具体实现，我可能还得重新看代码梳理。 不知道大家有没有类似情况： Vibe Coding 提高了开发效率，但会不会让程序员越来越不熟悉自己写出来的模块？",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T08:51:02Z"
+  },
+  {
+    "id": "3ebf64cb90f3ee5a",
+    "title": "[分享创造] [开源免费] boss-zhipin-scraper: 基于 CDP 的 boss 直聘爬虫",
+    "url": "https://www.v2ex.com/t/1224786#reply2",
+    "summary": "github 地址 https://github.com/eatmoreduck/boss-zhipin-scraper 解决了什么痛点 字体反爬 ：BOSS 直聘列表页的薪资是字体文件加密过的，直接抓 DOM 拿到的是假数据。这个工具走的是搜索 API ，接口本身就返回明文 salaryDesc ，绕过字体那一层。 手动翻页太累 ：想批量看一类岗位、横向对比薪资和技能要求，靠人工翻根本看不全面。 不知道市场行情 ：光看一两个岗位没感觉，想看整体分布（薪资区间、经验/学历要求、高频技能词）。 技术上怎么做的 没有用 Selenium / Playwright ，而是通过 Chrome DevTools Protocol 直接连接本地一个已登录的 Chrome （持久隔离 profile ，不动你主浏览器的 Gmail / GitHub 登录态）： 复用真实登录态调搜索 API ，拿到明文…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T08:24:17Z"
+  },
+  {
+    "id": "4936d9b62ef14062",
+    "title": "[分享发现] 时不时看到有人被线上拍卖公司坑，所以给 v 友提个醒",
+    "url": "https://www.v2ex.com/t/1224779#reply0",
+    "summary": "新手请认准司法拍卖，处置单位是法院，法院和平台都不会额外收取费用，交易程序有保障，虽然曾经也出现过小问题，比如有人会通过虚假诉讼将自己的劣质资产通过法院进行变现，但绝大部分情况下都相对安全许多。其余的拍卖类型可能各有各的坑，这种情况一般不是平台的问题，而是资产处置单位会利用一些方式方法避开平台的审查或者设计一些收费陷阱，比如我见过夸张的还有人敢伪造法律文书蒙骗平台，进行成功挂拍并成功拍卖出去东西的。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T07:57:48Z"
+  },
+  {
+    "id": "886c69ad2be276d1",
+    "title": "[程序员] 我预判，第一波 AI 洪峰已过！",
+    "url": "https://www.v2ex.com/t/1224778#reply45",
+    "summary": "AI coding 趋势终于拐点了！ 我预判，第一波 AI 洪峰已过。 据我观察 4 个方面 : 1 、第三方价格数据(暴跌，需求减少)： GeminiPro 一年会员自动开通 CDK 包绑卡订阅 ¥12 ChatGPT [带 RT ] [ Plus 成品号] ¥15 2 、v 站数据（话题占比下降）： 据观察 V 站上月 AI 话题占比趋近 100%，当前占比也有下降趋势 3 、个人数据： 短期使用量，也明显下跌。不可能永远有新项目，只有初版稳定之后就不会再有暴力 token 需求。 4 、小红书数据： 前段时间-&gt;vibe coding 帖子热度极高。 很多 不懂代码的人 。 偶然有一个/多个想法-&gt;开通 ai 会员(短期)-&gt;生成 app （养猫\\遛狗\\逗娃..） 后面在于推广维护，短期很难再有一个新想法。 看懂趋势比埋头苦干更有价值！ 真的需要， 说说大家的感觉…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T07:54:25Z"
+  },
+  {
+    "id": "611a9e68cc3bdcfa",
+    "title": "[推广] [福利] 全新 AI 模型聚合中转站 Zero Bug 上线 | 开业优惠 | 超低倍率 | 回帖留 ID 送额度.",
+    "url": "https://www.v2ex.com/t/1224769#reply8",
+    "summary": "🌟 我们的核心优势 完全自建 GPT 号池 ：拒绝市面上常见的多手套娃中转。底层直接对接自建的高质量号池，从源头把控质量，高峰期也能保障极速响应和并发稳定性。 新站开业超低倍率 ：试营业期间，全线模型享受极低倍率优惠。主打一个高性价比，无论是个人日常高频对话，还是接入项目跑沉浸式翻译、代码补全，都不会有账单压力。 全场景无缝兼容 ：标准接口，完美适配各类主流客户端、开发工具、以及你手头的各种 Agent 自动化流程。 🎁 V 友专属开业福利 新站上线，最需要的就是各位硬核开发者的真实使用反馈。特意来 V 站发一波开业福利，欢迎大家来薅羊毛测试质量： 🔗 访问注册传送门： 👉 zerobug.fun 👈 📝 回帖送额度 ：注册成功后，请在当前帖子下方回复你的 注册 ID 或 账号名 。 💎 手动空投 ：我会不定时批量为大家手动充值赠送体验额度（诚意给足，绝不挤牙膏），让大家充分体验自建号池…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T07:23:08Z"
+  },
+  {
+    "id": "7552af80f047f394",
+    "title": "[问与答] 因存在植入后门风险，阿里内部全面禁用 Claude Code",
+    "url": "https://www.v2ex.com/t/1224766#reply13",
+    "summary": "自 7 月 10 日起，阿里将全面禁止内部员工在办公环境下使用 Claude Code ，并推荐使用 Qoder 作为替代方案。 这是玩不起了吗",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03T07:16:44Z"
+  },
+  {
+    "id": "3c79ee64dd2e7c6c",
+    "title": "国家金融监督管理总局决定对众邦银行实施接管",
+    "url": "https://36kr.com/newsflashes/3879726705357057?f=rss",
+    "summary": "国家金融监督管理总局、湖北省人民政府关于对武汉众邦银行股份有限公司实施接管的公告。鉴于武汉众邦银行股份有限公司（以下简称众邦银行）出现严重信用风险，为保护存款人和其他客户的合法权益，依照《中华人民共和国银行业监督管理法》和《中华人民共和国商业银行法》有关规定，国家金融监督管理总局决定对众邦银行实施接管。（央视新闻）",
+    "source_id": "36kr",
+    "source_name": "36氪",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "2026-07-03 17:42:05  +0800"
+  },
+  {
+    "id": "83829a00a730f761",
+    "title": "Corefall: Idle Dungeon RPG Playtest [Free] [Role Playing]",
+    "url": "https://idlegear.itch.io/corefall-idle-dungeon-rpg",
+    "summary": "",
+    "source_id": "itch-new-popular",
+    "source_name": "itch.io New & Popular",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-07-03T10:15:13.468064+00:00",
+    "published": "Thu, 02 Jul 2026 16:44:00 GMT"
+  }
+]
