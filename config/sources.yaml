@@ -115,40 +115,22 @@ sources:
     topics: [sideline-pain-opportunity, vibe-coding-commercial]
     tier: B
 
-  - id: v2ex-creative
-    name: "V2EX 创意"
-    type: rss
-    url: "https://www.v2ex.com/go/creative/feed"
+  - id: agent-reach-v2ex-hot
+    name: "V2EX 热帖 API"
+    type: agent_reach_v2ex
+    api: hot
     topics: [sideline-pain-opportunity, vibe-coding-commercial]
-    tier: B
-
-  - id: v2ex-finance
-    name: "V2EX 金融"
-    type: rss
-    url: "https://www.v2ex.com/go/finance/feed"
-    topics: [sideline-pain-opportunity]
-    tier: B
+    tier: A
+    enabled: true
 
   # ── 副业机会 · 中文媒体（40% 权重目标）────────────────
-
-  - id: sspai
-    name: "少数派"
-    type: rss
-    url: "https://sspai.com/feed"
-    topics: [sideline-pain-opportunity, vibe-coding-commercial, ai-game-dev]
-    tier: B
+  # 2026-07 起下线长期 0 命中/超时源：sspai（0 命中）、huxiu（读超时）
+  # v2ex-creative / v2ex-finance 分区 feed 已 404，改用 agent-reach-v2ex-hot 官方 API 替代
 
   - id: 36kr
     name: "36氪"
     type: rss
     url: "https://36kr.com/feed"
-    topics: [sideline-pain-opportunity, vibe-coding-commercial]
-    tier: B
-
-  - id: huxiu
-    name: "虎嗅"
-    type: rss
-    url: "https://www.huxiu.com/rss/0.xml"
     topics: [sideline-pain-opportunity, vibe-coding-commercial]
     tier: B
 
@@ -175,15 +157,8 @@ sources:
     topics: [ai-game-dev]
     tier: B
 
-  # ── Agent-Reach 可选增强（默认关闭；本地 enabled: true 后需对应 CLI）──
-
-  - id: agent-reach-v2ex-hot
-    name: "V2EX 热帖 API"
-    type: agent_reach_v2ex
-    api: hot
-    topics: [sideline-pain-opportunity, vibe-coding-commercial]
-    tier: B
-    enabled: false
+  # ── Agent-Reach 可选增强（默认关闭；需本地 CLI，GitHub Actions 不装）──
+  # agent-reach-v2ex-hot 已上移为常驻源（纯 requests 调 V2EX 官方 JSON API，无需 CLI）
 
   - id: agent-reach-bili-ai-game
     name: "B站: AI 游戏搜索"

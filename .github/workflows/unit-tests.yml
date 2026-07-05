@@ -1,0 +1,28 @@
+name: Unit Tests
+
+on:
+  push:
+    paths:
+      - 'scripts/**.py'
+  pull_request:
+    paths:
+      - 'scripts/**.py'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run unit tests
+        run: python scripts/test_collect_unit.py

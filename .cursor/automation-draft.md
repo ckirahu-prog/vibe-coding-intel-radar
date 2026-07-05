@@ -1,4 +1,4 @@
-# Cursor Automation 配置指南（信息雷达 2.0 Final · 单文件周报）
+# Cursor Automation 配置指南（信息雷达 3.0 · 单文件周报 + 周对周追踪）
 
 在 [cursor.com/automations](https://cursor.com/automations) 配置 **一条** Weekly Automation 即可。
 
@@ -20,7 +20,9 @@
 
 ```
 请阅读 @templates/weekly-prompt.md（含内嵌方法论速查表），
-只读 data/raw/、data/daily-index/、config/ 生成单文件
+优先读 data/weekly-digest/YYYY-Www.json（本周预筛 top-80），
+缺失时回退 data/raw/、data/daily-index/；再读 reports/weekly/ 中上一期报告
+生成上周回顾；结合 config/ 生成单文件
 reports/weekly/YYYY-Www.md（四模块+附录结构）。
 
 模块 A1–A3、B1、C 禁止联网。
@@ -37,6 +39,7 @@ reports/weekly/YYYY-Www.md（四模块+附录结构）。
 
 ```
 每天 08:00  GitHub Actions 采集 → data/raw/ + data/daily-index/（免费，无 LLM）
+周五 22:00  Weekly Digest（免费规则脚本）→ data/weekly-digest/YYYY-Www.json
 周六 09:00  Cursor Weekly Automation → reports/weekly/YYYY-Www.md → QQ 邮箱
 ```
 
@@ -66,7 +69,8 @@ reports/weekly/YYYY-Www.md（四模块+附录结构）。
 1. Repo 已 push，Cursor 已连接该 repo
 2. Dashboard 已开启 on-demand billing
 3. GitHub Actions **Daily Intel Collect** 至少跑过几次（`data/raw/` 有数据；含中文源/Steam/itch）
-4. QQ 邮箱 Secrets 已配置（见 README）
+4. GitHub Actions **Weekly Digest** 已在周五跑过（`data/weekly-digest/YYYY-Www.json` 存在）；缺失时 Automation 会自动回退读 `data/raw/`
+5. QQ 邮箱 Secrets 已配置（见 README）
 
 ---
 

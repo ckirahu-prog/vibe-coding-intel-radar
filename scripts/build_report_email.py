@@ -71,6 +71,16 @@ EMAIL_CSS = """
     color: #6b7280;
     border: 1px solid #e5e7eb;
   }
+  .summary-card {
+    margin: 0 0 20px;
+    padding: 14px 16px;
+    background: #f0f9ff;
+    border: 1px solid #bae6fd;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  .summary-card .summary-stats { color: #0369a1; font-weight: 600; margin-bottom: 6px; }
+  .summary-card .summary-action { color: #1f2937; }
 </style>
 """
 
@@ -82,12 +92,6 @@ BODY_STYLE = (
 
 PIPE_ROW_RE = re.compile(r"^\|.+\|$")
 SEPARATOR_RE = re.compile(r"^\|\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|$")
-
-KV_FIRST_COLS = {
-    "是什么", "关键证据", "为什么重要", "你可以做什么", "原文",
-    "需求", "收益", "技术", "代表游戏", "热门依据", "类型特点",
-    "吸引原因", "为何符合 solo+AI", "单人 scope", "AI 可介入",
-}
 
 
 def _pipe_cols(line: str) -> int:
@@ -103,7 +107,11 @@ def _is_pipe_row(line: str) -> bool:
 
 
 def fix_markdown_tables(text: str) -> str:
-    """Insert GFM table separators; weekly 案例卡片 uses 2-col rows without header."""
+    """Insert a GFM separator row for any pipe-table block missing one.
+
+    3.0 的 weekly-prompt 已要求所有案例卡片自带表头（`| 字段 | 内容 |`），
+    这里只兜底修复"忘记加分隔行"的情况，不再猜测/伪造表头内容。
+    """
     lines = text.splitlines()
     out: list[str] = []
     i = 0
@@ -124,17 +132,6 @@ def fix_markdown_tables(text: str) -> str:
             continue
 
         cols = _pipe_cols(block[0])
-        if cols == 2:
-            first_cells = {
-                block_line.strip().strip("|").split("|")[0].strip()
-                for block_line in block
-            }
-            if first_cells & KV_FIRST_COLS or len(block) >= 2:
-                out.append("| 字段 | 内容 |")
-                out.append("| --- | --- |")
-                out.extend(block)
-                continue
-
         if cols >= 2:
             sep = "| " + " | ".join(["---"] * cols) + " |"
             out.append(block[0])
@@ -194,6 +191,35 @@ def inline_email_styles(html: str) -> str:
     return html
 
 
+STATS_LINE_RE = re.compile(r"^>\s*周期.*$", re.MULTILINE)
+ACTION_LINE_RE = re.compile(r"^-\s*\*\*本周只做\s*1\s*件事\*\*[:：]?\s*(.+)$", re.MULTILINE)
+
+
+def extract_summary_card(text: str) -> str:
+    """手机邮件顶部摘要卡：周期/素材统计 + 本周唯一行动，方便一屏读完。
+    仅在能明确解析到这两行时渲染；解析不到就跳过，不猜测内容。"""
+    stats_match = STATS_LINE_RE.search(text)
+    action_match = ACTION_LINE_RE.search(text)
+    if not stats_match and not action_match:
+        return ""
+
+    parts = ['<div class="summary-card" style="margin:0 0 20px;padding:14px 16px;'
+             'background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;font-size:14px;">']
+    if stats_match:
+        stats_text = stats_match.group(0).lstrip("> ").strip()
+        parts.append(
+            f'<div class="summary-stats" style="color:#0369a1;font-weight:600;'
+            f'margin-bottom:6px;">{stats_text}</div>'
+        )
+    if action_match:
+        parts.append(
+            f'<div class="summary-action" style="color:#1f2937;">'
+            f'👉 本周只做 1 件事：{action_match.group(1).strip()}</div>'
+        )
+    parts.append("</div>")
+    return "".join(parts)
+
+
 def markdown_to_html(text: str) -> str:
     text = fix_markdown_tables(text)
     html = markdown.Markdown(
@@ -215,7 +241,12 @@ def build_email_html(paths: list[Path]) -> str:
                 f'background:#f9fafb;font-size:13px;color:#6b7280;'
                 f'border:1px solid #e5e7eb;">📄 {path.as_posix()}</div>'
             )
-        sections.append(markdown_to_html(path.read_text(encoding="utf-8")))
+        raw_text = path.read_text(encoding="utf-8")
+        if "reports/weekly" in path.as_posix() or "weekly" in path.parts:
+            summary_html = extract_summary_card(raw_text)
+            if summary_html:
+                sections.append(summary_html)
+        sections.append(markdown_to_html(raw_text))
     body = "\n".join(sections)
     return (
         "<!DOCTYPE html><html><head>"

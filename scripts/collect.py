@@ -519,7 +519,7 @@ def generate_daily_index(
     lines = [
         f"# 日报素材索引 {date_str}",
         "",
-        "> 供 Cursor Daily Automation 读取；最终案例拆解日报见 `reports/daily/YYYY-MM-DD.md`",
+        "> 供周六 Weekly Automation 读取（近 7 天累计）；不生成独立日报",
         "",
         f"共 {len(items)} 条新内容",
         "",
@@ -549,7 +549,7 @@ def generate_daily_index(
         else:
             untagged.append(item)
 
-    topic_order = ["ai-game-dev", "vibe-coding-commercial"]
+    topic_order = ["sideline-pain-opportunity", "ai-game-dev", "vibe-coding-commercial"]
     for topic_id in topic_order:
         name = topic_names.get(topic_id, topic_id)
         topic_items = by_topic.get(topic_id, [])
