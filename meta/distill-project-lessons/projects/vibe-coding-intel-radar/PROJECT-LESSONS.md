@@ -251,4 +251,38 @@
 
 ---
 
-*文档版本：2026-06-27 · 追加第九节（周六邮件运维 + W27 验收）*
+## 十、2026-07-06 信息雷达 3.0 复盘
+
+> 来源：commit `7753d91`（3.0：weekly digest prefilter、周对周追踪、源清理）、`README.md` 3.0 架构、`templates/weekly-prompt.md` 3.0 约束、`scripts/digest_weekly.py`、`data/stats.json` 中长期 0 命中/失败源记录，以及本次用户要求「周报信息更全更易读，更符合工具初衷」。
+
+### 给人的心得
+
+#### 产品设计 / 用户体验 / 项目节奏 / 运维判断
+
+- 周报 2.0 已经能生成，但 456 条素材只让 LLM 现场挑 80 条，且 A1 多为「单源，待交叉验证」 -> 根因是把「筛选/聚类/找第二源」都丢给周六低频 LLM [data/prompt] -> 3.0 新增 `scripts/digest_weekly.py`，周五免费把近 7 天 raw 做去重、评分、top-80、跨源 `multi_source` 聚类 -> **经验**：信息产品的 LLM 应该主要做判断与解释，重复、排序、去重、粗聚类尽量先用便宜确定性的规则层完成。边界：规则预筛只能减少噪音，不能替代 A1 的 verbatim friction 审核。
+
+- 2.0 周报每期都是高质量快照，但用户很难看出「上周机会有没有继续、行动有没有结果」 -> 根因是周期产物没有读取上一期状态 [product-design/user-experience] -> 3.0 让 `weekly-prompt.md` 读取上一期 `reports/weekly/` 的「本周决策/A1/A3/D4」，新增「上周回顾」和 A3 趋势标记（新增/持续 N 周/降温） -> **经验**：周期性情报产品不只要回答「本周有什么」，还要回答「上周判断现在怎么样」。边界：首期或历史格式不兼容时要明确写「无可比对」，不能为了连续性编造趋势。
+
+- QQ 邮件 2.0 为兼容无表头案例卡片，在渲染层写了 `fix_markdown_tables` 猜表头逻辑 -> 根因是生成格式不标准，导致呈现层背了结构修复责任 [presentation] -> 3.0 从 prompt 规定所有案例卡片必须带 `| 字段 | 内容 |` 表头，邮件脚本只兜底补 GFM 分隔行，并加顶部摘要卡 -> **经验**：真实客户端可读性要从源格式约束开始，渲染层只做样式和极小兜底，不该猜业务结构。边界：旧历史内容仍可保留兼容兜底，但新内容必须由生成端输出标准结构。
+
+- `data/stats.json` 已暴露 `sspai` 0 命中、`huxiu` 超时、V2EX 分区 feed 404，但 2.0 没把「删源/换源」变成固定运营动作 -> 根因是数据源健康没有纳入版本节奏 [data/ops] -> 3.0 下线长期失效源，启用无需 CLI 的 V2EX 官方 JSON API 源，并在 `PILOT-CHECKLIST.md` 里要求看 digest 的 `multi_source_clusters` -> **经验**：情报工具的质量上限首先由源决定，Prompt 优化之前要先清掉死源、补稳定源。边界：少量偶发失败不应立刻删源，必须看连续命中/错误趋势。
+
+### 给 AI 执行的心得
+
+#### Prompt / 证据 / 工具 / Git-CI-Automation / 失败处理
+
+- `weekly-prompt.md` 2.0 只写「最多处理 80 条」，但没有机械输入文件约束 -> 根因是把预算限制写成自然语言愿望 [prompt/execution] -> 3.0 增加 `data/weekly-digest/YYYY-Www.json` 作为优先输入，`digest_weekly.py --top 80` 先截断，再由 prompt 读 digest -> **经验**：token/条数上限这类执行约束，能用脚本保证就不要只靠 prompt 自律。边界：探索性分析可先口头限量，但进入定时自动化后必须把限制落到文件或 CI。
+
+- 本机 Windows 环境没有可用 Python（只有 Windows Store 占位别名），无法本地跑 `digest_weekly.py` -> 根因是本地运行环境不可控 [execution] -> 3.0 新增 `.github/workflows/unit-tests.yml`，并把 digest 逻辑的聚类/同源不合并/top-N 选择加入 `scripts/test_collect_unit.py` -> **经验**：当本地解释器不可用时，不要降低验证要求；把可运行测试固化进 CI，至少让远程 runner 覆盖关键路径。边界：CI 不能替代需要本地凭证/私网/GUI 的验收。
+
+- 推送 3.0 时远程已有多条 bot 自动采集/周报 commit，本地 push 被拒 -> 根因是共享分支有定时 bot 直推 [git-ci-automation] -> 处理路径是 `git fetch` 查远程新增提交、`git pull --rebase origin main` 无冲突重放、再 push -> **经验**：有 bot 直推的仓库，提交前干净不代表推送前仍干净；push 被拒时先读远程新增 commit，优先 rebase 小范围本地提交。边界：若冲突复杂或本地提交很多，按第 8.3 节经验可改用干净基底 cherry-pick。
+
+### 最高价值下一步
+
+1. 等 `Weekly Digest` 和 `Unit Tests` 两个 GitHub Actions 至少各跑绿一次，确认 3.0 新脚本在远程 Python 环境可执行。
+2. 连续观察 2–4 周 `data/weekly-digest/*.json` 的 `multi_source_clusters`：若仍为 0，说明免费跨源聚类不足，需要补 `manual-urls.yaml` 或开启周中 enrichment。
+3. 生成第一期 3.0 周报后，重点验收「上周回顾」是否真的减少阅读成本，而不是新增一段模板化噪音。
+
+---
+
+*文档版本：2026-07-06 · 追加第十节（3.0 digest 预筛 + 周对周追踪 + 源清理复盘）*
