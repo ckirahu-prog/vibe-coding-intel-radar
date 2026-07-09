@@ -6,12 +6,12 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 280,
+      "hits": 292,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
-      "hits": 58,
+      "hits": 71,
       "errors": 17,
       "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
@@ -21,17 +21,17 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 114,
+      "hits": 115,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 46,
+      "hits": 48,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 412,
+      "hits": 432,
       "errors": 0,
       "last_error": null
     },
@@ -41,12 +41,12 @@
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 72,
+      "hits": 73,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 289,
+      "hits": 302,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -67,7 +67,7 @@
     },
     "reddit-aigamedev": {
       "hits": 73,
-      "errors": 18,
+      "errors": 19,
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
@@ -77,11 +77,11 @@
     },
     "reddit-sideproject": {
       "hits": 84,
-      "errors": 10,
+      "errors": 11,
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 128,
+      "hits": 135,
       "errors": 0,
       "last_error": null
     },
@@ -101,7 +101,7 @@
       "last_error": null
     },
     "36kr": {
-      "hits": 31,
+      "hits": 37,
       "errors": 0,
       "last_error": null
     },
@@ -116,7 +116,7 @@
       "last_error": null
     },
     "itch-new-popular": {
-      "hits": 9,
+      "hits": 10,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 30,
+      "hits": 40,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-07-08T09:16:26.864242+00:00"
+  "last_updated": "2026-07-09T11:24:51.765779+00:00"
 }
