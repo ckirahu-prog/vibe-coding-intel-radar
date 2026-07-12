@@ -20,10 +20,10 @@
 
 ## 你的任务
 
-1. **先按 CHEAT-WEEK 选定本期** `data/weekly-digest/` 中周号最大的 `YYYY-Www.json`（只读这一份 top-80）。仅当某条详情缺 URL/原文句时，再点查对应 `data/raw/` 或 `data/daily-index/`——**禁止通读全部 raw**  
+1. **按 CHEAT-WEEK 定 `W_this`**（有 digest 则用最大 digest 周号；否则用运行日 ISO 周）。只读对应那一份 digest（或该 ISO 周 raw 点查）——**禁止通读全部 raw**；**禁止**被文件名更大的错标周报带跑  
 2. 读 `data/enriched/`（近 30 天）与 `config/`（可扫标题即可）  
-3. 读**上一期**（CHEAT-WEEK 第 4 条：周号严格小于本期的最大一份）；只读 A 跟进台、B/C/D 条目标题、附录上周状态。旧 2.0/3.0 尽力映射，勿编造  
-4. 只写入 CHEAT-WEEK 指定的那一个 `reports/weekly/YYYY-Www.md`  
+3. 读**上一期**（CHEAT-WEEK：文件名周号严格小于 `W_this`，忽略更大周号错标文件）；只读 A 跟进台、B/C/D 条目标题、附录上周状态。旧 2.0/3.0 尽力映射，勿编造  
+4. 只写入 `reports/weekly/{W_this}.md`；周期行必须是该 ISO 周周一～周日  
 5. **commit 并 push** 到 `main`（message 含同一周号）
 
 **禁止**周六现场广域搜索或跑 `/last30days`。  
@@ -44,18 +44,38 @@
 
 C 模块展开顺序：先写满 **C2 游戏引擎**、**C3 画面与内容**，再写 C1；**C4 仅当与游戏/Vibe 小工具发布相关**。内网数据库类 → 附录溢出，不占 C 正文名额。
 
-### CHEAT-WEEK · 周号与连续性（通用，禁止写错周/倒退覆盖）
+### CHEAT-WEEK · 周号与连续性（以 digest / ISO 为准，不跟错名文件跑）
 
-1. **列出候选周号**  
-   - `D_max` = `data/weekly-digest/` 里 `YYYY-Www.json` 的最大周号（先比年、再比周数字）  
-   - `R_max` = `reports/weekly/` 里已有 `YYYY-Www.md` 的最大周号（同样比法；无文件则视为无）  
-2. **定本期 `W_this`**  
-   - 若存在 digest：默认 `W_this = D_max`，主输入用该 digest  
-   - **若 `R_max` 存在且 `R_max > D_max`**：不得回写更旧的 `D_max` 周报。改令 **`W_this = R_max`**，主输入改为该 ISO 周对应日期的 `data/raw/` + `data/daily-index/`（digest 缺失须在附录写明「无 Www digest，回退 raw」）。这样只升级「仓库里最新那一周」，绝不倒退覆盖  
-   - 若无任何 digest：`W_this = R_max`（有旧报则升级最新周）或按「今天」所在 ISO 周新建  
-3. **写哪里**：只生成/覆盖 **`reports/weekly/` + `W_this` 同名** 那一个文件。同一 run **禁止**修改任何其他 `YYYY-Www.md`  
-4. **上一期（衔接）**：周号 **严格小于 `W_this`** 的最大那一份报告（按年+周数值比）。**禁止**用「文件名排序取最新」——写旧周时会误衔更新周。附录首行：`衔接：YYYY-Www`  
-5. 标题、周期行、commit message 中的周号必须与 `W_this` 文件名一致  
+**权威来源（按优先级）：**
+
+1. 有 `data/weekly-digest/YYYY-Www.json` → **`W_this` = 其中周号最大的那份**（先比年、再比 `ww` 数字）。主输入只用这一份 digest。  
+2. 没有任何 digest → **`W_this` = 运行日（或素材窗结束日）的 ISO 周** `YYYY-Www`（与 `digest_weekly.py` 的 `isocalendar` 一致：周一为一周之始）。主输入 = 该 ISO 周 Mon–Sun 的 `data/raw/` + `data/daily-index/`（按需点查，勿通读全年）。
+
+**周期行怎么写：**  
+`周期：周一日期 ~ 周日日期` 必须等于 **`W_this` 那一整个 ISO 周**，不要写成「随便 7 天」或跨周拼凑。例：`2026-W28` → `2026-07-06 ~ 2026-07-12`。
+
+**写哪里 / 禁止做什么：**
+
+- 只生成或覆盖 **`reports/weekly/{W_this}.md`**；同一 run **禁止**改任何其他周文件。  
+- **禁止**因为「仓库里已有更大周号文件名」就把 `W_this` 抬高。文件名大于当前 digest/ISO 的稿，视为**错标或抢跑**，不作为本期目标。  
+- **禁止**无对应 digest 时，用更大周号空跑「未来周」。
+
+**错名 / 抢跑文件（通用处理，不绑死某一周）：**
+
+- 若某 `reports/weekly/YYYY-Www.md` 的 **文件名周号** 与其正文「周期」起止日算出的 ISO 周**不一致**，或文件名周号 **>** 当前 `W_this`（且无同名 digest）：  
+  - **不要**当本期去写/升级；  
+  - **不要**当「上一期」唯一候选（除非其周期确实紧挨本期且你在附录说明「文件名曾错标」）；  
+  - 可在附录一行记下「发现错标文件 `…md`，已忽略」。  
+- 人工归档时可将错标文件移出 `reports/weekly/` 主目录（如 `_archive/`），避免干扰浏览。
+
+**上一期（衔接）：**
+
+- 在 `reports/weekly/*.md` 中选：文件名周号 **严格小于 `W_this`**，且（若正文有周期行）周期不晚于本期周一；取周号最大者。  
+- **忽略**文件名 `> W_this` 的文件。  
+- 附录首行：`衔接：YYYY-Www`（上一期文件名）。无上一期则写首期说明。
+
+**标题与 commit** 中的周号必须与 `W_this` 一致。
+
 ### CHEAT-QUOTA · 条数与总量
 
 | 位置 | 上限 |
@@ -277,7 +297,7 @@ digest 优先；raw **按需点查**；上期按 CHEAT-WEEK；config。
 
 ## 质量检查
 
-- [ ] W_this 按 CHEAT-WEEK（D_max/R_max）选定；只改这一份 md；未倒退覆盖；衔接周号严格小于本期
+- [ ] `W_this` = 最大 digest 周（或无 digest 时的 ISO 周）；周期行=该周周一～周日；未跟错标更大周号跑；衔接周号 &lt; `W_this`
 - [ ] 试一试：无「纯找第二源」；≥1 条 P0 技术或可玩切片；推广帖未进试一试  
 - [ ] C 以游戏引擎/素材为主；弱相关不占 C 正文  
 - [ ] B/C/D 无「接下来怎么看」行；每卡 ≤5 字段  

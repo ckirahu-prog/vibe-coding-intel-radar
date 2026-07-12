@@ -24,8 +24,8 @@
 主线：独立游戏/单人小品 + Vibe Coding 做游戏的技术（引擎 MCP、生图/精灵图、游戏向工具）；其次才是可小做的机会/案例。
 弱相关（API 中转账单、纯 WP 交付、内网数据库网关、职场仲裁等）禁止进「本周试一试」，默认观察/跳过/B3/附录溢出。
 
-周号（必须遵守）：设 D_max=digest 目录最大周，R_max=reports/weekly 已有最大周。本期 W_this 默认=D_max；若 R_max>D_max，则 W_this=R_max（用该周 raw/daily-index，附录注明无对应 digest），禁止回写更旧周。只写 reports/weekly/与 W_this 同名的那一个 md，禁止改其他周文件。上一期=周号严格小于 W_this 的最大报告（不要按文件名「最新」误衔）。
-优先只读对应输入（digest 或 raw 点查）；不要通读全部 raw。
+周号（必须遵守）：W_this= data/weekly-digest 中最大 YYYY-Www（与 digest 文件名一致）；若无 digest 则用运行日 ISO 周。周期行必须是该 ISO 周周一～周日。只写 reports/weekly/{W_this}.md。禁止因仓库里已有更大周号文件名就去写「未来周」；文件名大于 W_this 或文件名与正文周期 ISO 周不一致的，视为错标，忽略不写、不作衔接首选。上一期=文件名周号严格小于 W_this 的最大报告。
+优先只读对应 digest（或该周 raw 点查）；不要通读全部 raw。
 再读上一期（A 跟进台 + 条目标题 + 附录上周状态）。
 
 「本周试一试」≤2：必须是动手推进（安装试用/最小切片）；禁止用「只找第二源」占试一试；至少 1 条是游戏向技术或可玩切片。
@@ -53,6 +53,6 @@ B/C/D 正文禁止联网；附录竞品+D2 补页合计≤3 次并审计。
 | 现象 | 处理 |
 |------|------|
 | 仍跟中转价/WP 当试一试 | 确认已 push 4.0.1 prompt，并更新云端 Instructions |
-| 周号错乱 / 覆盖旧周 | Instructions 含 CHEAT-WEEK；检查 digest 文件名 |
+| 周号错乱 / 抢跑未来周 | 以 digest/ISO 为准；错标 md 移 `_archive/` 或忽略；勿用 R_max>D_max 抬周号 |
 | token 仍很高 | Automations 无法关 Max；靠「只读 digest、点查 raw」降上下文 |
 | 邮件摘要旧格式 | 周报须含 `## A · 本周跟进台` |
