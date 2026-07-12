@@ -109,7 +109,7 @@ def _is_pipe_row(line: str) -> bool:
 def fix_markdown_tables(text: str) -> str:
     """Insert a GFM separator row for any pipe-table block missing one.
 
-    3.0 的 weekly-prompt 已要求所有案例卡片自带表头（`| 字段 | 内容 |`），
+    3.0/4.0 的 weekly-prompt 已要求所有案例卡片自带表头（`| 字段 | 内容 |`），
     这里只兜底修复"忘记加分隔行"的情况，不再猜测/伪造表头内容。
     """
     lines = text.splitlines()
@@ -193,31 +193,110 @@ def inline_email_styles(html: str) -> str:
 
 STATS_LINE_RE = re.compile(r"^>\s*周期.*$", re.MULTILINE)
 ACTION_LINE_RE = re.compile(r"^-\s*\*\*本周只做\s*1\s*件事\*\*[:：]?\s*(.+)$", re.MULTILINE)
+# 4.0 跟进台：从 A 节到下一个 ## 之间的列表项
+FOLLOW_DESK_SECTION_RE = re.compile(
+    r"^##\s*A\s*[·.．]\s*本周跟进台\s*$([\s\S]*?)(?=^##\s|\Z)",
+    re.MULTILINE,
+)
+FOLLOW_ITEM_RE = re.compile(
+    r"^-\s*\*\*(.+?)\*\*[^\n]*?—\s*(.+?)(?:\s*→\s*\[[^\]]+\]\([^)]+\))?\s*$",
+    re.MULTILINE,
+)
+FOLLOW_TIER_RE = re.compile(
+    r"^###\s*(本周试一试|继续观察|先收藏|本周跳过)",
+    re.MULTILINE,
+)
+
+
+def _parse_follow_desk_items(text: str, limit: int = 5) -> list[str]:
+    """Extract follow-desk bullets; prefer 试一试 then 继续观察 then 先收藏."""
+    section = FOLLOW_DESK_SECTION_RE.search(text)
+    if not section:
+        return []
+    body = section.group(1)
+    # Split by tier headings while preserving order preference
+    preferred_order = ("本周试一试", "继续观察", "先收藏")
+    buckets: dict[str, list[str]] = {k: [] for k in preferred_order}
+    current: str | None = None
+    for line in body.splitlines():
+        tier = FOLLOW_TIER_RE.match(line.strip())
+        if tier:
+            name = tier.group(1)
+            current = name if name in buckets else None
+            continue
+        if current is None:
+            continue
+        item = FOLLOW_ITEM_RE.match(line.strip())
+        if not item:
+            continue
+        title = item.group(1).strip()
+        why = item.group(2).strip()
+        # Truncate long "接下来怎么看" tails for the card
+        if "接下来怎么看" in why:
+            # keep full short line; card shows title + first clause
+            pass
+        buckets[current].append(f"<strong>{title}</strong> — {why}")
+    out: list[str] = []
+    for key in preferred_order:
+        for entry in buckets[key]:
+            out.append(entry)
+            if len(out) >= limit:
+                return out
+    return out
 
 
 def extract_summary_card(text: str) -> str:
-    """手机邮件顶部摘要卡：周期/素材统计 + 本周唯一行动，方便一屏读完。
-    仅在能明确解析到这两行时渲染；解析不到就跳过，不猜测内容。"""
+    """手机邮件顶部摘要卡：周期统计 + 跟进台短名单（4.0）。
+
+    解析优先级：
+    1) A 跟进台列表（试一试 / 继续观察 / 先收藏，最多 5 条）
+    2) 旧稿「本周只做 1 件事」（过渡兼容）
+    3) 仅有周期行 → 降级提示打开正文跟进台
+    皆无 → 返回空字符串，不猜测内容。
+    """
     stats_match = STATS_LINE_RE.search(text)
-    action_match = ACTION_LINE_RE.search(text)
-    if not stats_match and not action_match:
+    follow_items = _parse_follow_desk_items(text, limit=5)
+    action_match = ACTION_LINE_RE.search(text) if not follow_items else None
+
+    if not stats_match and not follow_items and not action_match:
         return ""
 
-    parts = ['<div class="summary-card" style="margin:0 0 20px;padding:14px 16px;'
-             'background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;font-size:14px;">']
+    parts = [
+        '<div class="summary-card" style="margin:0 0 20px;padding:14px 16px;'
+        'background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;font-size:14px;">'
+    ]
     if stats_match:
         stats_text = stats_match.group(0).lstrip("> ").strip()
         parts.append(
             f'<div class="summary-stats" style="color:#0369a1;font-weight:600;'
             f'margin-bottom:6px;">{stats_text}</div>'
         )
-    if action_match:
+    if follow_items:
+        parts.append(
+            '<div class="summary-action" style="color:#1f2937;margin-bottom:4px;">'
+            "<strong>本周跟进</strong></div>"
+        )
+        parts.append('<ul style="margin:6px 0 0;padding-left:18px;color:#1f2937;">')
+        for entry in follow_items:
+            parts.append(f"<li style=\"margin:4px 0;\">{entry}</li>")
+        parts.append("</ul>")
+    elif action_match:
         parts.append(
             f'<div class="summary-action" style="color:#1f2937;">'
             f'👉 本周只做 1 件事：{action_match.group(1).strip()}</div>'
         )
+    elif stats_match:
+        parts.append(
+            '<div class="summary-action" style="color:#1f2937;">'
+            "请打开正文看「本周跟进台」。</div>"
+        )
     parts.append("</div>")
     return "".join(parts)
+
+
+_MODULE_H2_RE = re.compile(
+    r"<h2>(模块\s|[ABCD]\s*[·.．]\s*|附录)"
+)
 
 
 def markdown_to_html(text: str) -> str:
@@ -225,10 +304,11 @@ def markdown_to_html(text: str) -> str:
     html = markdown.Markdown(
         extensions=["tables", "fenced_code", "sane_lists"],
     ).convert(text)
-    html = html.replace(
-        "<h2>模块 ",
-        '<h2 class="module-heading">模块 ',
-    )
+    # 3.0「模块 A」与 4.0「A ·」「附录」统一加分区样式
+    def _style_h2(match: re.Match[str]) -> str:
+        return f'<h2 class="module-heading">{match.group(1)}'
+
+    html = _MODULE_H2_RE.sub(_style_h2, html)
     return inline_email_styles(html)
 
 

@@ -1,7 +1,7 @@
 # ⚠️ DEPRECATED — 已废弃
 
-> **信息雷达 2.0 Final** 已合并为 **单文件周报**。  
-> 请改用 [`templates/weekly-prompt.md`](weekly-prompt.md)（含副业模块 A + 内嵌方法论速查表）。  
+> **信息雷达 4.0** 已改为任务型单文件周报。  
+> 请改用 [`templates/weekly-prompt.md`](weekly-prompt.md)（A 跟进台 + B 机会 + C 技术 + D 游戏启发 + 附录）。
 > Automation **不再**读取本文件。
 
 ---

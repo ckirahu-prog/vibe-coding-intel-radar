@@ -1,16 +1,16 @@
-# AI 游戏 & Vibe Coding 信息雷达 3.0
+# AI 游戏 & Vibe Coding 信息雷达 4.0
 
-**GitHub Actions 每日免费采集** + **周五免费预筛聚类** + **Cursor Automation 每周六单文件四模块周报（含上周回顾）**，关机可跑，月成本约 **$1.5–3.5**。
+**GitHub Actions 每日免费采集** + **周五免费预筛聚类** + **Cursor Automation 每周六任务型周报（跟进台 + 技术雷达）**，关机可跑，月成本约 **$1.5–3.5**。
 
-## 三条主题线
+## 三条主题线（采集仍按此分；周报按阅读任务重组）
 
-| 主题 ID | 名称 | 周报模块 |
-|---------|------|----------|
-| `sideline-pain-opportunity` | 副业机会 · 痛点 | **模块 A**（中国本土 friction） |
-| `ai-game-dev` | AI 做游戏 | **模块 B**（AI 案例 + 热门题材） |
-| `vibe-coding-commercial` | Vibe Coding 商业化 | **模块 C** |
+| 主题 ID | 名称 | 进入周报何处 |
+|---------|------|----------------|
+| `sideline-pain-opportunity` | 副业机会 · 痛点 | **B 机会**（用户痛点） |
+| `ai-game-dev` | AI 做游戏 | **C 技术** / **D 游戏启发** |
+| `vibe-coding-commercial` | Vibe Coding 商业化 | **B 案例** |
 
-## 架构（3.0 · 单文件 + 免费预筛 + 周对周追踪）
+## 架构（4.0 · 任务型单文件 + 免费预筛 + 周对周追踪）
 
 ```
 每天 08:00  GitHub Actions 采集 → data/raw/ + data/daily-index/（免费，无 LLM）
@@ -18,9 +18,9 @@
 周中手动  last30days 定向深研 → data/enriched/（1–3 条/周，不进周六现场搜索）
 周五 22:00  Weekly Digest（免费规则脚本）→ data/weekly-digest/YYYY-Www.json
               去重聚类 + 评分选 top-80，跨源同题簇标 multi_source（免联网找第二源）
-周六 09:00  Cursor Weekly Automation → reports/weekly/YYYY-Www.md（四模块周报 + 上周回顾）
+周六 09:00  Cursor Weekly Automation → reports/weekly/YYYY-Www.md（任务型周报）
                     │
-                    └── push 触发 → QQ 邮箱发信（一份 HTML，含顶部摘要卡）
+                    └── push 触发 → QQ 邮箱发信（一份 HTML，顶部摘要卡 = 跟进短名单）
 ```
 
 ### 三种运行模式
@@ -29,13 +29,13 @@
 |------|--------|------|--------|
 | **每日采集** | `collect.py`：RSS + GitHub Search + V2EX API | $0 | 每天自动 |
 | **周五预筛** | `digest_weekly.py`：去重聚类 + 评分选 top-80 | $0 | 每周五自动 |
-| **可选增强** | Agent-Reach 源 / last30days 深研 | 本地 $0；部分渠道需 Cookie | A1 单源待验证、中文源缺口 |
-| **周报合成** | 优先读 digest + A4/B2 有限联网 | ~$0.2–0.5/次 | 周六 Automation |
+| **可选增强** | Agent-Reach 源 / last30days 深研 | 本地 $0；部分渠道需 Cookie | B1 单源待验证、中文源缺口 |
+| **周报合成** | 优先读 digest + 附录竞品/D2 有限联网 | ~$0.2–0.5/次 | 周六 Automation |
 
 - **采集**：RSS/API + 中文社区/媒体 + Steam/itch，**无 LLM**
-- **预筛**：`digest_weekly.py` 机械保证 80 条上限，并做跨源标题聚类——同一事件被 2 个不同来源报道时标记 `multi_source`，供 A1 免联网升级双源
-- **周报**：单文件 **开篇（含上周回顾）/ A 副业 / B 游戏 / C 商业化 / D 附录**；方法论内嵌 Prompt，**不 @ skills**
-- **联网**：仅 A4 竞品 + B2 题材补全，**合计 ≤3 次/周**（D3 审计）；**禁止**周六现场跑 `/last30days` 或 Agent-Reach
+- **预筛**：`digest_weekly.py` 机械保证 80 条上限，并做跨源标题聚类——同一事件被 2 个不同来源报道时标记 `multi_source`，供 B1 免联网升级双源
+- **周报**：单文件 **A 跟进台 / B 机会与案例 / C 技术雷达 / D 游戏启发 / 附录**；人话优先；方法论内嵌 Prompt，**不 @ skills**
+- **联网**：仅附录竞品 + D2 题材补全，**合计 ≤3 次/周**（附录审计）；**禁止**周六现场跑 `/last30days` 或 Agent-Reach
 
 ## 快速开始
 
@@ -70,7 +70,7 @@ Push 后自动启用。手动触发：**Actions → Daily Intel Collect → Run 
 | 模型 | 最便宜档 |
 | Spend limit | $5/月 |
 
-**Run now 试跑后检查**：单文件 `YYYY-Www.md`、D3 联网 ≤3、A1 有 friction 引用、B2 strict scope。
+**Run now 试跑后检查**：单文件 `YYYY-Www.md`、附录联网 ≤3、A 跟进台有档位、B1 有 friction 引用、C 有技术卡、人话可读。
 
 ### 5. 本地测试采集
 
@@ -102,7 +102,7 @@ GitHub Actions **不安装**这些 CLI；缺工具时采集器会跳过并记入
 
 ### 8. 可选：last30days 定向深研（周中手动）
 
-用于 A1「单源，待交叉验证」或 A4/B2 对比题，每周 **1–3 次**，结果写入 `data/enriched/` 供周六周报读取：
+用于 B1「单源，待交叉验证」或附录竞品/D2 对比题，每周 **1–3 次**，结果写入 `data/enriched/` 供周六周报读取：
 
 ```bash
 # 导入已有 brief（markdown），规范化入库
@@ -124,23 +124,23 @@ data/raw/             每日 JSON（原始素材）
 data/weekly-digest/   周五预筛产物：去重聚类 + top-80（周报主要输入）
 data/enriched/        last30days 定向深研产物（可选）
 data/daily-index/     每日链接索引
-reports/weekly/       单文件四模块周报
-templates/            weekly-prompt.md · methodology-cheatsheet.md
-docs/                 mock-weekly-2.0.md（排版样例）
+reports/weekly/       单文件任务型周报（4.0）
+templates/            weekly-prompt.md（4.0 主规范）
+docs/                 mock-weekly-4.0.md（排版样例）；mock-weekly-2.0.md（历史）
 .cursor/skills/       本地参考；Automation 不 @
 ```
 
-## 周报结构（单文件）
+## 周报结构（单文件 · 4.0）
 
 ```
-开篇 · 本周决策（含上周回顾，仅此一处）
-模块 A · 副业机会（A1–A4）
-模块 B · 游戏制作（B1–B3）
-模块 C · 商业化（C1–C2）
-附录 D（D1 工具 / D2 词表 / D3 审计 / D4 行动）
+A · 本周跟进台（试一试 / 继续观察 / 先收藏 / 跳过）
+B · 机会与真实案例（B1 痛点 · B2 案例 · B3 弱信号一句）
+C · Vibe Coding 技术雷达（工具 / MCP / 生图等）
+D · 游戏方向与制作启发
+附录（上周状态 · 溢出 · 竞品 · 审计 · 词表）
 ```
 
-样例：[`docs/mock-weekly-2.0.md`](docs/mock-weekly-2.0.md)
+样例：[`docs/mock-weekly-4.0.md`](docs/mock-weekly-4.0.md) · 设计规格：[`docs/superpowers/specs/2026-07-12-weekly-report-task-framework-design.md`](docs/superpowers/specs/2026-07-12-weekly-report-task-framework-design.md)
 
 ## 定时任务
 
@@ -162,12 +162,12 @@ docs/                 mock-weekly-2.0.md（排版样例）
 ## 常见问题
 
 **Q: 只要周报，平时收什么？**  
-A: 平时只有 GitHub 在采集；**周六 9 点** 收一封四模块周报。
+A: 平时只有 GitHub 在采集；**周六 9 点** 收一封任务型周报（顶部是跟进短名单）。
 
-**Q: 副业模块 A 经常为空？**  
-A: 正常；宁可空不凑数。补 `manual-urls.yaml`、启用本地 Agent-Reach 源，或周中跑 `enrich_last30days.py` 写 `data/enriched/`。
+**Q: B1 机会经常很少 / 为空？**  
+A: 正常；宁可少写不凑数。补 `manual-urls.yaml`、启用本地 Agent-Reach 源，或周中跑 `enrich_last30days.py` 写 `data/enriched/`。
 
-**Q: A1 全是「单源，待交叉验证」？**  
+**Q: B1 全是「单源，待交叉验证」？**  
 A: 先看 `data/weekly-digest/YYYY-Www.json` 里有没有 `multi_source: true` 的簇（同一事件被不同来源报道，可直接作双源）；仍不足再用 `enrich_last30days.py` 或 `manual-urls.yaml` 补第二源。周六 Automation 只读仓库，不会自动深研。
 
 **Q: 没收到邮件？**  
