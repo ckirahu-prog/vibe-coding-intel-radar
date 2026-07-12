@@ -24,9 +24,9 @@
 主线：独立游戏/单人小品 + Vibe Coding 做游戏的技术（引擎 MCP、生图/精灵图、游戏向工具）；其次才是可小做的机会/案例。
 弱相关（API 中转账单、纯 WP 交付、内网数据库网关、职场仲裁等）禁止进「本周试一试」，默认观察/跳过/B3/附录溢出。
 
-优先只读 data/weekly-digest/ 本期 YYYY-Www.json；不要通读全部 raw/daily-index，仅缺原文时点查。
-再读上一期周报（A 跟进台 + 条目标题 + 附录上周状态）。
-输出 reports/weekly/YYYY-Www.md：周号必须与 digest 的 ISO 周对齐；禁止覆盖其他周的旧文件来重跑。
+周号（必须遵守）：设 D_max=digest 目录最大周，R_max=reports/weekly 已有最大周。本期 W_this 默认=D_max；若 R_max>D_max，则 W_this=R_max（用该周 raw/daily-index，附录注明无对应 digest），禁止回写更旧周。只写 reports/weekly/与 W_this 同名的那一个 md，禁止改其他周文件。上一期=周号严格小于 W_this 的最大报告（不要按文件名「最新」误衔）。
+优先只读对应输入（digest 或 raw 点查）；不要通读全部 raw。
+再读上一期（A 跟进台 + 条目标题 + 附录上周状态）。
 
 「本周试一试」≤2：必须是动手推进（安装试用/最小切片）；禁止用「只找第二源」占试一试；至少 1 条是游戏向技术或可玩切片。
 B/C/D 详情用薄卡片（≤5 字段），不要写「接下来怎么看」（只写在 A）。
