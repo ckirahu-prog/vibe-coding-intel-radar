@@ -1,4 +1,4 @@
-# Cursor Automation 配置指南（信息雷达 4.0 · 任务型周报）
+# Cursor Automation 配置指南（信息雷达 4.0.1 · 任务型周报）
 
 在 [cursor.com/automations](https://cursor.com/automations) 配置 **一条** Weekly Automation 即可。
 
@@ -9,31 +9,34 @@
 | 字段 | 值 |
 |------|-----|
 | **名称** | Weekly Intel Report（或你已有的名字） |
-| **描述** | 每周生成 **任务型单文件周报**（A 跟进台 + B 机会 + C 技术雷达 + D 游戏启发 + 附录） |
+| **描述** | 每周生成任务型周报：跟进台 + 机会 + 游戏向技术雷达 + 游戏启发 |
 | **触发** | Cron：`0 1 * * 6`（UTC 周六 01:00 = **北京时间周六 09:00**） |
 | **仓库** | [ckirahu-prog/vibe-coding-intel-radar](https://github.com/ckirahu-prog/vibe-coding-intel-radar) |
 | **分支** | `main` |
-| **模型** | 最便宜档（Flash / Haiku / Composer Fast），**不要用 Opus** |
-| **Spend limit** | Dashboard → Spending 设 **$5/月** |
+| **模型** | **Grok 4.5 Medium**（Automations 固定 Max，无法关闭；勿选 Fast） |
+| **Spend limit** | Dashboard → Spending 设 **$5/月**（可按 Usage 再调） |
 
 ### Instructions（整段粘贴）
 
 ```
-请阅读 @templates/weekly-prompt.md（含内嵌方法论速查表 · 信息雷达 4.0），
-优先读 data/weekly-digest/YYYY-Www.json（本周预筛 top-80），
-缺失时回退 data/raw/、data/daily-index/；再读 reports/weekly/ 中上一期报告
-（优先读 A 跟进台、B1/B2、C 条目标题、附录上周状态；若仍是 2.0/3.0 旧稿则尽力映射），
-结合 config/ 生成单文件 reports/weekly/YYYY-Www.md（任务型结构）。
+请阅读 @templates/weekly-prompt.md（信息雷达 4.0.1），严格按其中 CHEAT 规则生成。
 
-B1/B2/B3、C、D 正文禁止联网。
-附录竞品 + D2 题材补商店页联网合计每周 ≤3 次，须在附录审计。
-遵守条数与总量：A 跟进台 5–7（可更少）、试一试≤2、跳过≤2；B+C+D 展开卡≤15。
-人话优先；专名首次括号解释；禁止「本周只做 1 件事」作为唯一主 CTA。
-不要 @ .cursor/skills/ 下的任何 skill 文件。
-完成后 commit 并 push 一个文件。必须 push 到 main 分支，不要只留在 cursor/* 分支。
+主线：独立游戏/单人小品 + Vibe Coding 做游戏的技术（引擎 MCP、生图/精灵图、游戏向工具）；其次才是可小做的机会/案例。
+弱相关（API 中转账单、纯 WP 交付、内网数据库网关、职场仲裁等）禁止进「本周试一试」，默认观察/跳过/B3/附录溢出。
+
+优先只读 data/weekly-digest/ 本期 YYYY-Www.json；不要通读全部 raw/daily-index，仅缺原文时点查。
+再读上一期周报（A 跟进台 + 条目标题 + 附录上周状态）。
+输出 reports/weekly/YYYY-Www.md：周号必须与 digest 的 ISO 周对齐；禁止覆盖其他周的旧文件来重跑。
+
+「本周试一试」≤2：必须是动手推进（安装试用/最小切片）；禁止用「只找第二源」占试一试；至少 1 条是游戏向技术或可玩切片。
+B/C/D 详情用薄卡片（≤5 字段），不要写「接下来怎么看」（只写在 A）。
+专名首次必须括号人话。附录审计≤12 行。
+B/C/D 正文禁止联网；附录竞品+D2 补页合计≤3 次并审计。
+不要 @ .cursor/skills/。
+完成后 commit 并 push 一个文件到 main，不要只留在 cursor/* 分支。
 ```
 
-> 使用 `@templates/weekly-prompt.md` 时，须先将 `templates/` push 到 GitHub，再点 **Run now**。
+> 须先将最新 `templates/weekly-prompt.md` push 到 GitHub，再 **Run now**。
 
 ---
 
@@ -49,6 +52,7 @@ B1/B2/B3、C、D 正文禁止联网。
 
 | 现象 | 处理 |
 |------|------|
-| 报告仍是旧 A/B/C 副业结构 | 确认已 push 最新 `templates/weekly-prompt.md`（4.0），再 Run now |
-| 邮件摘要仍是「只做 1 件事」 | 确认周报含 `## A · 本周跟进台`；`build_report_email.py` 已更新 |
-| 报告仍是双文件/旧 Part 编号 | Instructions 应只引用 `weekly-prompt.md`；删除 side-hustle 引用 |
+| 仍跟中转价/WP 当试一试 | 确认已 push 4.0.1 prompt，并更新云端 Instructions |
+| 周号错乱 / 覆盖旧周 | Instructions 含 CHEAT-WEEK；检查 digest 文件名 |
+| token 仍很高 | Automations 无法关 Max；靠「只读 digest、点查 raw」降上下文 |
+| 邮件摘要旧格式 | 周报须含 `## A · 本周跟进台` |
