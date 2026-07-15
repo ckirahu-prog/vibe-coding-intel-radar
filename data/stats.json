@@ -6,13 +6,13 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 355,
+      "hits": 366,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
       "hits": 90,
-      "errors": 20,
+      "errors": 21,
       "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
     "reddit-unrealengine": {
@@ -26,27 +26,27 @@
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 51,
+      "hits": 54,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 530,
+      "hits": 550,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 29,
+      "hits": 30,
       "errors": 7,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 75,
+      "hits": 76,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 350,
+      "hits": 362,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -57,7 +57,7 @@
     },
     "hn-ai-game-tools": {
       "hits": 50,
-      "errors": 3,
+      "errors": 4,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
@@ -67,7 +67,7 @@
     },
     "reddit-aigamedev": {
       "hits": 73,
-      "errors": 24,
+      "errors": 25,
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
@@ -76,12 +76,12 @@
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
     "reddit-sideproject": {
-      "hits": 89,
+      "hits": 97,
       "errors": 15,
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 178,
+      "hits": 188,
       "errors": 0,
       "last_error": null
     },
@@ -101,7 +101,7 @@
       "last_error": null
     },
     "36kr": {
-      "hits": 45,
+      "hits": 46,
       "errors": 0,
       "last_error": null
     },
@@ -116,7 +116,7 @@
       "last_error": null
     },
     "itch-new-popular": {
-      "hits": 11,
+      "hits": 12,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 87,
+      "hits": 94,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-07-14T07:24:23.995435+00:00"
+  "last_updated": "2026-07-15T07:30:58.482609+00:00"
 }
