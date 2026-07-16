@@ -11559,6 +11559,511 @@
       "url": "https://samethope.itch.io/storm-grill-steam-demo",
       "first_seen": "2026-07-15T07:29:17.567536+00:00",
       "source_id": "itch-new-popular"
+    },
+    "40106ed208b8bd40": {
+      "url": "https://steelsoft.site/software/DeepCleanAudio_home.html",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "551cdd3a99271262": {
+      "url": "https://old.reddit.com/r/pcmasterrace/comments/1ux13ui/steam_game_cartridges/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "bf32155164474e6f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxu65i/any_tips_as_to_build_a_community_for_my_indie_game/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "51cb1580814bc9e7": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxkenz/what_actually_makes_good_npc_ai/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "5ace12432fad9cd0": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxql7y/is_it_okay_to_make_assets_for_your_dream_game/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "b1d10d037ad05e6f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxvstm/finger_tracking_breaks_after_retargeting_vr/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "2d613ce7a2f38e84": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1ux5ys5/my_music_in_videogames/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f4f6ae4ca7405de5": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxawym/fellow_devs_how_do_you_deal_with_creative_blocks/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f06ad62f0ac7fd53": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxoimq/learn_c_ue_multiplayer/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "9d8eff8c6a4ffec2": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxr5sp/easiest_way_to_import_a_character_model/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "2d494aa150b5445c": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxjzqt/need_help_with_combat_and_stuff/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "aa57309ab538f906": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxolzr/is_it_wrong_to_remake_one_of_your_favorite_games/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "7cb1e464959b7c7c": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1uxokdz/need_help_with_melee_combat_blocking/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "bafc294e2665769d": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxlom1/its_not_a_game_that_i_made_but_its_a_classroom/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "b29161b886468fdb": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxfvdj/ue_58_can_now_turn_aigenerated_3d_characters_into/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "744de8222c1d2c4f": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxeqny/a_tutorial_on_making_seamless_character_animation/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "3ee8d6f3fd2cd41d": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxbbts/building_an_aiassisted_3d_asset_pipeline_for_a/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "256990d6f1ec8ff6": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxo2jd/i_made_an_ai_game_so_good_that_i_got_banned_on/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "c4cb3466d2ef1c2b": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxp9n4/followup_and_a_thankyou_the_feedback_from_this/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "7cfbb76cced27185": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxuzy3/how_i_built_a_blockpuzzle_roguelike_in_2_weeks/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "ed8172b4aa897b13": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxikx6/made_a_stacklands_pvp_autobattler_in_claude_ive/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "1e1c973c5f7469e6": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxjtb9/just_need_one_more_purchase_to_reach_the_payout/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "daf3bf9e79385c6c": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux4th7/making_a_3d_game_using_concept_art_generated_by/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "03b5d0a0c69ffc80": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxhlww/made_a_dance_club_simulator/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "0f234f06cba2f131": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxfivc/how_to_use_ai_generate_a_looping_walk_cycle/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "6481afdefb5fa768": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxsj5z/day_13_of_building_a_free_browser_game_with_ai_i/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "c52556073f26785c": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxhtrw/automated_level_generation_progress/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "3e6ab5860648d1d7": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxrzy4/the_legend_of_maian_free_game/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "2230ed555e9d9373": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux1npb/nvidia_just_opensourced_the_future_of/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "d397b61e58ccf1d4": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxpox1/i_made_a_very_meta_game_where_you_replay_your/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "7dba36dd4e624355": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux50ep/play_now_zombie_slayer/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "20871ca891c39b6a": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux1v5h/what_i_learned_after_posting_my_first_aiassisted/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "cfc7881a7686d0b0": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxboh6/56_sol_three_minigames_for_11_weekly_usage/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "f8793fb08c8a2826": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxloxw/playtesters_needed_3d_voxel_fpsrts_roguelike/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "bfb1f873a0c6f45e": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1uxkqgg/i_built_an_ai_playtester_that_catches_real/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "e6e6d97d504b4410": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux20n1/3d_character_generator_sculpting_software/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "a9fe04c1d08c4f80": {
+      "url": "https://old.reddit.com/r/aigamedev/comments/1ux0sob/the_current_look_of_the_bar_scene_from_the_first/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "reddit-aigamedev"
+    },
+    "a02de5c600259bba": {
+      "url": "https://github.com/brandlll-lee/SolersEngine",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "a07459e776301abb": {
+      "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "724c0539187f2234": {
+      "url": "https://github.com/Vendra35/Unreal-Engine-Learning-Projects",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "f0959f46a898c7c4": {
+      "url": "https://github.com/AitiX/Fastlogs",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "ad4bcec1fef21042": {
+      "url": "https://github.com/sujalvk888/StreetFighter2D-Game",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "02e08d34bd2a4b19": {
+      "url": "https://github.com/hi-godot/godot-ai",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-game-ai"
+    },
+    "5e50dfeb8c1ac3fd": {
+      "url": "https://www.gamedeveloper.com/production/-good-work-is-not-going-to-save-your-job-at-this-company-laid-off-xbox-devs-condemn-microsoft",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "gd-ai"
+    },
+    "42a2b20403768401": {
+      "url": "https://www.npmjs.com/package/@openluxeco/cli",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "5f41096676d496f0": {
+      "url": "https://www.vaultcharts.com/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "eb3fc1ea4804904a": {
+      "url": "https://github.com/kzekiue/kosh/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "3085d88f7bc364ec": {
+      "url": "https://tpmme.me",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "4f5f489bbca99eb1": {
+      "url": "https://suhasbhairav.com/ai-templates",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "4ce3df0cfe8b1750": {
+      "url": "https://github.com/Rupak182/heychat/releases/tag/v0.1.0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "03deef115462806e": {
+      "url": "https://github.com/magik6k/git-remote-iroh",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "0e387406eee8bda8": {
+      "url": "https://pqdsa.com?welcome",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "a8ed7b803688f126": {
+      "url": "https://github.com/astrio-labs/forall",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "e17bbd7fce419c71": {
+      "url": "https://compressor.conutil.com",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "940def493b361273": {
+      "url": "https://github.com/kestermckinney/ProjectNotes",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "6e356ee320aaf827": {
+      "url": "https://github.com/tobiasstrebitzer/keybridge",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "1153bf5f1d11e105": {
+      "url": "https://resultant.tools/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "b69c85d4d9f64530": {
+      "url": "https://github.com/JustMichael-80/MasterVault",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "fdc39d287f039224": {
+      "url": "https://lorislab.fr/throttle/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "d36adbc0b8c82ce9": {
+      "url": "https://github.com/ClouGence/open-cdm",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "003192459a39e125": {
+      "url": "https://tasmap.app/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "927ab16d7290e899": {
+      "url": "https://playonemoreletter.com/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "ca04807e0adde126": {
+      "url": "https://github.com/fabio-ricardo/worldcup-forecasting-model",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "7e588259afdea86d": {
+      "url": "https://github.com/pettijohn/homer-odyssey-tree/",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-show"
+    },
+    "04a0fdfe0c6fe101": {
+      "url": "https://www.youtube.com/watch?v=rqmJk9aIJ6I",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "5f4f3d73388e3553": {
+      "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "b6cc1c6776291d3a": {
+      "url": "https://www.producthunt.com/products/nuvio-2",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "producthunt"
+    },
+    "5571096de880e63b": {
+      "url": "https://github.com/AVADSA25/codec",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "af932e8f8fc768b7": {
+      "url": "https://github.com/Kanishkk-1/sunshine_properties",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "121c04ea62506b6d": {
+      "url": "https://github.com/gmh5225/awesome-game-security",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "bddcc18c1ee53cdc": {
+      "url": "https://github.com/xfgggggd111/-MasterGo-AI-Cursor-",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "7c080469471233fb": {
+      "url": "https://github.com/bbarit/bbarit-agent-oss",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5401b845d3c7630d": {
+      "url": "https://github.com/ducanhlaminh/open-design-vnpay",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2d086d51bb412f1f": {
+      "url": "https://github.com/hiro8ma/agentic-coding",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d0ba6ef633328933": {
+      "url": "https://github.com/ChaoYue0307/awesome-loop-engineering",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "52231137776ce7af": {
+      "url": "https://github.com/nludd25/repomix",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "919fb84ec3335ea6": {
+      "url": "https://github.com/tor2dbear/pia-terminal",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "7640493ae97d041d": {
+      "url": "https://www.v2ex.com/t/1227762#reply0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "ffd54058a3e07da6": {
+      "url": "https://www.v2ex.com/t/1227755#reply1",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e8292001e71ae03f": {
+      "url": "https://www.v2ex.com/t/1227749#reply0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8766b19b0e5e937f": {
+      "url": "https://www.v2ex.com/t/1227742#reply3",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "4838821a189ee0de": {
+      "url": "https://www.v2ex.com/t/1227738#reply0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "104c1e1d064b03f9": {
+      "url": "https://www.v2ex.com/t/1227737#reply0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "72e642f44ffef3fe": {
+      "url": "https://www.v2ex.com/t/1227732#reply3",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "cf12875a2598d9b3": {
+      "url": "https://www.v2ex.com/t/1227731#reply7",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "30c4b9aa8f932cf3": {
+      "url": "https://www.v2ex.com/t/1227723#reply6",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "021fe600dc624908": {
+      "url": "https://www.v2ex.com/t/1227719#reply0",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "88895b299c979130": {
+      "url": "https://www.v2ex.com/t/1227716#reply5",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c64bccf7d8fb9525": {
+      "url": "https://www.v2ex.com/t/1227711#reply48",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "55e92119b78a7405": {
+      "url": "https://www.v2ex.com/t/1227680",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "557d1a7d47966894": {
+      "url": "https://www.v2ex.com/t/1227480",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9733a2fa790430e8": {
+      "url": "https://www.v2ex.com/t/1227483",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "46c95afd0d1ce68e": {
+      "url": "https://www.v2ex.com/t/1227502",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "5ef2ba100ea4613a": {
+      "url": "https://www.v2ex.com/t/1227563",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "dfd01ae83ef2c722": {
+      "url": "https://www.v2ex.com/t/1227602",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ed6521a15b1beaed": {
+      "url": "https://www.v2ex.com/t/1227508",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "0f0dc16fd7d34f57": {
+      "url": "https://www.v2ex.com/t/1227484",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "70fb74eae75ab274": {
+      "url": "https://www.v2ex.com/t/1227609",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f6c8e495073161b6": {
+      "url": "https://www.v2ex.com/t/1227616",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c95ad4e987eee75c": {
+      "url": "https://36kr.com/p/3896755010963333?f=rss",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "36kr"
+    },
+    "c4966bb96f6c5c87": {
+      "url": "https://36kr.com/newsflashes/3897974224455559?f=rss",
+      "first_seen": "2026-07-16T07:36:45.274477+00:00",
+      "source_id": "36kr"
     }
   }
 }
