@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 140,
+      "hits": 146,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,13 +31,13 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 646,
+      "hits": 665,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
       "hits": 30,
-      "errors": 7,
+      "errors": 8,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 411,
+      "hits": 426,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,12 +56,12 @@
       "last_error": null
     },
     "hn-ai-game-tools": {
-      "hits": 57,
+      "hits": 60,
       "errors": 5,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 20,
+      "hits": 21,
       "errors": 3,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
@@ -71,7 +71,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 60,
+      "hits": 65,
       "errors": 8,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 227,
+      "hits": 236,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 136,
+      "hits": 140,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-07-20T10:33:05.741932+00:00"
+  "last_updated": "2026-07-21T01:44:11.540384+00:00"
 }
