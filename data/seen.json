@@ -14914,6 +14914,396 @@
       "url": "https://36kr.com/newsflashes/3908918375732358?f=rss",
       "first_seen": "2026-07-24T01:45:40.930480+00:00",
       "source_id": "36kr"
+    },
+    "bb77eac79c805c13": {
+      "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "673e5039686db61a": {
+      "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "3a46711432f3db16": {
+      "url": "https://overturemaps.org/blog/2026/from-concept-to-prototype-grounding-ai-llms-with-overtures-cross-theme-knowledge-graph/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "86dcee003dbefe1e": {
+      "url": "https://saychef.online",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "a7059fa48dbb549f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5hmbd/one_of_the_most_effective_music_tricks_for_in/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d45cfaee86734746": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5gnji/on_social_media/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "7fe27c8c281efb5b": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5h4d0/should_i_delve_deep_in_unreal_if_im_a_unity_dev/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "f22fc18d3fdfae38": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5sacd/looking_to_exchange_playtests/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "cb30593bb5aed712": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5ro4t/hi_sprite_animation_question/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e5caa3a2b34151ad": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5rkqq/best_sound_effect_tools_for_indie_game_development/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "6a04b315b50a0f8a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v4j1pc/i_finally_found_a_game_engine_that_matches_the/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "8fff786e13ff2103": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5nkoq/is_it_wrong_to_assign_the_value_of_the_variable/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "bd19e44a5a32fc2a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v5ieeo/can_anyone_point_me_in_the_right_direction/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "8991a788257b399a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v57xkp/looking_for_feedback_about_my_steam_page/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "5132a1a2b7839a99": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1v4kgwq/we_spent_2_years_on_one_game_then_our_second_game/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "e72eefeeadd4ad9b": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5ckey/completed_my_gta_san_andreas_inspired_vehicle/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "db5a87b895cc2554": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v57nix/i_made_a_squishy_blob_in_unity_what_should_i_add/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "c4ac8404f0f46ac2": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5o1yt/asset_pack_24_animated_status_effects_for_2d/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "d2be12e6d913fbf3": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v4f77k/so_i_added_procedural_eye_movement_for_pixel_art/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "ebcd69cd1d4973f7": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5rhtx/rhythm_game_ui_problem/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "d02e32681e35fa26": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5nfis/anvil_csg_beta_3_looking_for_a_few_more_testers/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "57abd64bdbfba8b3": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5489m/been_working_on_ragdolls_and_explosives_for_my/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "bd19e0ac6031fb90": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5pucq/custom_toon_shader_update_texture_processor/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "4b8a5702a81f35ef": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v4w1yr/added_characterpositionbased_transparency_to_my/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "e0e6a9a3d459621c": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v59nin/i_added_new_characters_to_my_spiderman_x_benji/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "9dfe90f28231b17e": {
+      "url": "https://old.reddit.com/r/Unity3D/comments/1v5b4qn/ive_been_making_my_own_jrpg_inspired_by_the_games/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-unity3d"
+    },
+    "0d3feee3651eda87": {
+      "url": "https://github.com/omnisenseAi/omnisense_unity3D_plugin_public",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-game-ai"
+    },
+    "4f74a5e14c5dd4ac": {
+      "url": "https://www.codedswitch.com/codebeat",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "c0aca7b464a32722": {
+      "url": "https://oneappplatform.github.io/jolta/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "2d40fbd100e2a06d": {
+      "url": "https://news.ycombinator.com/item?id=49043349",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "3d97cc5cea4a6939": {
+      "url": "https://git.swerdlow.dev/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "7ebf4ebfd6baf4ec": {
+      "url": "https://shownotesgenerator.com/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "329264bf2574c4e6": {
+      "url": "https://onewayinterview.com/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "40be79cfeada0423": {
+      "url": "https://arcade.pirillo.com/comic-chatter.html",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "39258ab4b4f9ec07": {
+      "url": "https://quantisan.github.io/kakeya-game/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "57fa2b3ce117577f": {
+      "url": "https://github.com/samchon/lint-plugin-evidence",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "81440b8e6dcf323e": {
+      "url": "https://news.ycombinator.com/item?id=49042653",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "5328f54a9b3d89f0": {
+      "url": "https://kalytera.dev",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "8a7eb4c16be713b3": {
+      "url": "https://drakeai.app/game/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "d0deac7730518983": {
+      "url": "https://towardsdev.com/runtime-secret-go-1-26s-answer-to-secrets-leaking-in-core-dumps-d884615e971f",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "99f8ee61588eb3d1": {
+      "url": "https://github.com/sakai-sktech/koime",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "d10c8f1dce431160": {
+      "url": "https://github.com/plasma-ai/fractal",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "88551f2d2abc5dbd": {
+      "url": "https://github.com/eliachiarucci/SerTerm",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "9f3d899927b42506": {
+      "url": "https://github.com/apresta/max-studio-tools",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "588f79282b0edf68": {
+      "url": "https://github.com/githubscum/lotor",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "a3a4476dcf8328aa": {
+      "url": "https://mboxreader.com",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "hn-show"
+    },
+    "ec673bd7694d3a65": {
+      "url": "https://github.com/pbakaus/impeccable",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d1157b85be3c4bf2": {
+      "url": "https://github.com/xDarkzx/Audacity-MCP",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "325d8f2855ae90e0": {
+      "url": "https://github.com/StudyDrift/lextures",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1c36c679d4b221a8": {
+      "url": "https://github.com/seligj95/seligj95.github.io",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2b363aed4b61b6e3": {
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8ffd62c8aa789ede": {
+      "url": "https://github.com/steven2358/awesome-generative-ai",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9a39c674839be53d": {
+      "url": "https://github.com/QaAudio/orq",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "81cdd280e11c0f53": {
+      "url": "https://github.com/SathiaAI/graphsmith",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b3131ec5750ae51f": {
+      "url": "https://github.com/SoloJiang/weft",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "36c840be9b42d755": {
+      "url": "https://github.com/DarrenBenson/sdlc-studio",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9ddc94a47688144d": {
+      "url": "https://github.com/Thomashighbaugh/stars",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "71507d822eacd686": {
+      "url": "https://github.com/floklein/git-agents",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9f3ac4dc2840020f": {
+      "url": "https://github.com/gosha70/code-copilot-team",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "dcd5d13638b4af4d": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1v5kmx2/bird_notifications/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "ba3f99cf29217bbc": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1v5fzf1/my_side_project_hit_1_on_show_hn_1k_points_bento/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "1406d06b432032f0": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1v5aqe9/tactical_turnbased_multiplayer_game_for_mobile/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "bda42ad69cf31098": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1v5bnue/im_your_user/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "bdaf1800b113ce11": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1v5sy4p/i_made_a_vibe_coder_because_all_the_vibe_coders/",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "06d2ec5dff69bd51": {
+      "url": "https://www.v2ex.com/t/1229683#reply8",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "16fd5a1d688d00d9": {
+      "url": "https://www.v2ex.com/t/1229674#reply1",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "810fee54282606c2": {
+      "url": "https://www.v2ex.com/t/1229644#reply2",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6c86d23bb9f7ce63": {
+      "url": "https://www.v2ex.com/t/1229632#reply15",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "f1a6e1da7f8d900b": {
+      "url": "https://www.v2ex.com/t/1229539",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "52b56491e0394ea9": {
+      "url": "https://www.v2ex.com/t/1229472",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "4639e1a31fa6dbc5": {
+      "url": "https://www.v2ex.com/t/1229503",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b0065b1c3a6300a3": {
+      "url": "https://www.v2ex.com/t/1229621",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "172b025c07605c2f": {
+      "url": "https://www.v2ex.com/t/1229590",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9bed9b06c5898713": {
+      "url": "https://www.v2ex.com/t/1229501",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c34ee44ab42b7380": {
+      "url": "https://www.v2ex.com/t/1229523",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "24314b3d1aed7c8b": {
+      "url": "https://www.v2ex.com/t/1229462",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "62c66e41d01db284": {
+      "url": "https://www.v2ex.com/t/1229516",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ae3c51b7dfdb3845": {
+      "url": "https://ostsergey.itch.io/gamedev-god",
+      "first_seen": "2026-07-25T01:45:40.618264+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
