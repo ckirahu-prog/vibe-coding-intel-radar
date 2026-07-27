@@ -15684,6 +15684,281 @@
       "url": "https://36kr.com/newsflashes/3910698042643844?f=rss",
       "first_seen": "2026-07-26T01:48:27.432559+00:00",
       "source_id": "36kr"
+    },
+    "b6b6201ee0691d86": {
+      "url": "https://richiejp.com/rust-vs-cpp-llm-coded-model-conversion-from-pytorch",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "8566a9c7797deebf": {
+      "url": "https://github.com/gamedevpl/www.gamedev.pl",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-game-ai"
+    },
+    "25270ed077500e79": {
+      "url": "https://github.com/luzhenqian/overworld",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-game-ai"
+    },
+    "298a15bffa71a8e5": {
+      "url": "https://github.com/APPNEURAL-Studios/game-studio",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-game-ai"
+    },
+    "2e423ba710e73790": {
+      "url": "https://www.claudaholic.com/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "aefc674f427177df": {
+      "url": "https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "bba09be41a8b7313": {
+      "url": "https://github.com/willmeyers/aqua-ui",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "485baceb109c88cd": {
+      "url": "https://github.com/RelativeDB/RelQL",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "bebbed03143e243c": {
+      "url": "https://www.hiitmeup.fit/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "88de5135971cf901": {
+      "url": "https://github.com/orca-gamedev/img2blockbench",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "a69f2308155af8b8": {
+      "url": "https://www.youtube.com/watch?v=ZdMyH3sd62I",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "bd2634d63be5fdcc": {
+      "url": "https://chancey.run",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "4c868e59b8443b6f": {
+      "url": "https://portzero.net/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "379d0565c5c30127": {
+      "url": "https://lowkeyviewer.com/studio/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "c486d73193dee428": {
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "be842f3f3e4ab941": {
+      "url": "https://paper.rewrlution.com",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "81450c5fffb19198": {
+      "url": "https://github.com/pipilot-dev/anyclaude-sdk",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "011ed489eb3ab527": {
+      "url": "https://jaclang.org/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "59ed9cf644f17eec": {
+      "url": "https://ggtranslator.com",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "1f515a047c9fbb34": {
+      "url": "https://github.com/TheLuaOSProject/LuaJITMT/releases/tag/1.0.0-simd",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "731d8adb91d0cdeb": {
+      "url": "https://github.com/ldyeax/macbook2010_nouveau_and_sleep_fixes/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "44798b8487956c1d": {
+      "url": "https://clinicevo.com/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "1ad8f3ce1bcaed83": {
+      "url": "https://lexicon-writer.pages.dev/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "87a837f0f4999598": {
+      "url": "https://epatel.github.io/discrete6502/",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "hn-show"
+    },
+    "e3e76d010b33ec4a": {
+      "url": "https://github.com/mancbj/aidlc-book-baojun",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c64e10f4963fb024": {
+      "url": "https://github.com/chuckiee95/Family-Tree",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e57e1e71b39a502e": {
+      "url": "https://github.com/juyterman1000/entroly",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "14486592a4941a52": {
+      "url": "https://github.com/AlphaBitsCode/konductor-workflow",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5901107a051babff": {
+      "url": "https://github.com/KevinGutowski/Skills",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8fd901bd97fb6737": {
+      "url": "https://github.com/faraday-95/cursor-free-vip",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "fb61a0ca53b593e3": {
+      "url": "https://github.com/SpaceZephyr/creator-buddy",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "4be32f5fa55e8f9f": {
+      "url": "https://github.com/z451047442-debug/agency-agents",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "bba57e964113397a": {
+      "url": "https://github.com/ExoticGamerXD/O-Reilly-s-Food-Court",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8a8302edb8a4b511": {
+      "url": "https://github.com/cambridgetcg/agenttool",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1e9982e4bc308459": {
+      "url": "https://www.v2ex.com/t/1230020#reply0",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a8578af693256f29": {
+      "url": "https://www.v2ex.com/t/1230019#reply0",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c465e9054e2a78b0": {
+      "url": "https://www.v2ex.com/t/1230014#reply1",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e0506be657260e79": {
+      "url": "https://www.v2ex.com/t/1230002#reply17",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "5c6be6595e93c9a7": {
+      "url": "https://www.v2ex.com/t/1230001#reply11",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "28ce1ecdee3d3989": {
+      "url": "https://www.v2ex.com/t/1229987#reply17",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "806e49ebdf0e76d2": {
+      "url": "https://www.v2ex.com/t/1229985#reply7",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "53e71cb4f2a4b4ea": {
+      "url": "https://www.v2ex.com/t/1229978#reply0",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "f63bb6b691c340be": {
+      "url": "https://www.v2ex.com/t/1229970#reply6",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "766b8d4d6fa29ad9": {
+      "url": "https://www.v2ex.com/t/1229967#reply5",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "7c643a4008bc3e76": {
+      "url": "https://www.v2ex.com/t/1229836",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b67a4d030b8564ac": {
+      "url": "https://www.v2ex.com/t/1229915",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "97760d7229eb3289": {
+      "url": "https://www.v2ex.com/t/1229936",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b5f4366e1a54418b": {
+      "url": "https://www.v2ex.com/t/1229854",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "856df7fa1547a1cf": {
+      "url": "https://www.v2ex.com/t/1229996",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "3bbcefe0ba56f24a": {
+      "url": "https://www.v2ex.com/t/1229894",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "15d2b2d54fc35930": {
+      "url": "https://www.v2ex.com/t/1229916",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "aabe8288495d2414": {
+      "url": "https://www.v2ex.com/t/1229891",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "e44c922c00734aff": {
+      "url": "https://www.v2ex.com/t/1229977",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "2169f9affcd3f11d": {
+      "url": "https://www.v2ex.com/t/1229892",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d1182ee0a94a0a86": {
+      "url": "https://dylntsu.itch.io/tocho-flag-tactics",
+      "first_seen": "2026-07-27T01:55:33.065512+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
