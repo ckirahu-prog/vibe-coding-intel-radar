@@ -16264,6 +16264,261 @@
       "url": "https://larkylabs.itch.io/voiceless-elegy",
       "first_seen": "2026-07-28T01:29:36.661584+00:00",
       "source_id": "itch-new-popular"
+    },
+    "89934ce92fb5f062": {
+      "url": "https://www.together.ai/customers/cursor",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "47cf00dfde40eead": {
+      "url": "https://www.gamesindustry.biz/nearly-nine-in-ten-games-industry-workers-believe-genai-use-should-be-disclosed-on-storefronts",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "b6883ac9551b4352": {
+      "url": "https://ae.studio/jobs/pirate",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "fcaa9be7bab2a461": {
+      "url": "https://beakdown.fun/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "e60134d105516480": {
+      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "5424e3114bf7c7ab": {
+      "url": "https://github.com/Thepizzapie/BuildersGate",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "github-game-ai"
+    },
+    "815b8d0c89885cc2": {
+      "url": "https://github.com/BytesFromToby/Polis",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "github-game-ai"
+    },
+    "0730da568d3d67a6": {
+      "url": "https://github.com/codedpro/agentic-game-factory",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "github-game-ai"
+    },
+    "7a6a36314d76a01c": {
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "github-game-ai"
+    },
+    "19d033fdeb507f7b": {
+      "url": "https://github.com/mike-axiom-mir/axm-collaboration-platform",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "github-game-ai"
+    },
+    "4f7596f3d4bfcc45": {
+      "url": "https://www.gamedeveloper.com/business/obituary-taleworlds-co-founder-i-pek-yavuz-has-passed-away",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "gd-ai"
+    },
+    "6fe97a459c604d06": {
+      "url": "https://www.hothand.study/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "0b1cd3cdc6baa499": {
+      "url": "https://chromewebstore.google.com/detail/voicehop-real-time-audio/gpjfekccjgnojplebmaafgbhjggimfio",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "a0b8c42675dd534e": {
+      "url": "https://sleepsignal.app/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "8455df03c946e0c5": {
+      "url": "https://github.com/tomelliot/all-ears",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "96f73cdc578e70a9": {
+      "url": "https://studio.academa.ai/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "8647677d485a07ea": {
+      "url": "https://github.com/cloudflarebase/cloudflarebase",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "c53d9f424c7d29e8": {
+      "url": "https://github.com/kyle-visner/magpie",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "1cc75a10ee465225": {
+      "url": "https://brianhama.com",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "5b11ccde59f33711": {
+      "url": "https://mustuse.ai",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "2c39c249bce9c012": {
+      "url": "https://prove-yourself.sebmellen.com/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "b84c1990e8a515b8": {
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "dc23c7ec2dd7cac7": {
+      "url": "https://github.com/baristaGeek/minions-army-harness",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "2d4d302749294884": {
+      "url": "https://github.com/fe18m/mkpm",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "f2a0c588477b54d3": {
+      "url": "https://list55.enzom.dev/",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "b4a62b660187e4c5": {
+      "url": "https://github.com/softcane/hamza",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "40815145088f0002": {
+      "url": "https://github.com/KanishkNoir/cognikernel",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "fcdc8b4c9731002a": {
+      "url": "https://spacemolt.beehiiv.com/p/to-make-a-pizza-you-must-first-invent-civilization",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "1e2711fe2c76f9de": {
+      "url": "https://app.vyne.finance",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "ed2a77540353bce5": {
+      "url": "https://github.com/prevotai/colmena",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "hn-show"
+    },
+    "34ee6c51e5fe82c3": {
+      "url": "https://www.producthunt.com/products/mcp-billing",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "producthunt"
+    },
+    "447864e25abf2b21": {
+      "url": "https://www.v2ex.com/t/1230584#reply0",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "0dfaed2efdcb65d2": {
+      "url": "https://www.v2ex.com/t/1230576#reply12",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a7304595a828d4ae": {
+      "url": "https://www.v2ex.com/t/1230568#reply3",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "9b3c0336683bf01c": {
+      "url": "https://www.v2ex.com/t/1230560#reply8",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3e1de54d64e20181": {
+      "url": "https://www.v2ex.com/t/1230557#reply4",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "ae318c30e8b33dc0": {
+      "url": "https://www.v2ex.com/t/1230551#reply0",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3d51a7df573e3dd1": {
+      "url": "https://www.v2ex.com/t/1230546#reply4",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6888bb8b189aa32a": {
+      "url": "https://www.v2ex.com/t/1230543#reply13",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "cf87d1dc00cb3b6d": {
+      "url": "https://www.v2ex.com/t/1230539#reply0",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "19f2d046d5d5fb65": {
+      "url": "https://www.v2ex.com/t/1230301",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "4888f10f7ad4d905": {
+      "url": "https://www.v2ex.com/t/1230332",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c1fa0cc90799073b": {
+      "url": "https://www.v2ex.com/t/1230348",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "1040c860fc1d83e0": {
+      "url": "https://www.v2ex.com/t/1230329",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "27d66d90137150f3": {
+      "url": "https://www.v2ex.com/t/1230400",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b82033d544fbedfc": {
+      "url": "https://www.v2ex.com/t/1230336",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "81051a2bc93fa9e2": {
+      "url": "https://www.v2ex.com/t/1230462",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "caa5eb001dcee9c2": {
+      "url": "https://www.v2ex.com/t/1230509",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "6ab84352815c67e9": {
+      "url": "https://www.v2ex.com/t/1230390",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "bba66c1c5a4a997a": {
+      "url": "https://www.v2ex.com/t/1230377",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d26f5b8a347c6144": {
+      "url": "https://36kr.com/p/3915057199535233?f=rss",
+      "first_seen": "2026-07-29T01:29:51.828895+00:00",
+      "source_id": "36kr"
     }
   }
 }
