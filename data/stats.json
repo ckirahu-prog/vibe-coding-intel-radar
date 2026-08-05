@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 225,
+      "hits": 232,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,7 +31,7 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 935,
+      "hits": 954,
       "errors": 0,
       "last_error": null
     },
@@ -41,12 +41,12 @@
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 106,
+      "hits": 109,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 555,
+      "hits": 566,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -57,7 +57,7 @@
     },
     "hn-ai-game-tools": {
       "hits": 87,
-      "errors": 6,
+      "errors": 7,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 341,
+      "hits": 345,
       "errors": 0,
       "last_error": null
     },
@@ -101,7 +101,7 @@
       "last_error": null
     },
     "36kr": {
-      "hits": 78,
+      "hits": 83,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 274,
+      "hits": 283,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-04T01:26:25.120226+00:00"
+  "last_updated": "2026-08-05T01:40:15.238448+00:00"
 }
