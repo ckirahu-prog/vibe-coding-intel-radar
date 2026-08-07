@@ -19379,6 +19379,301 @@
       "url": "https://www.v2ex.com/t/1232170",
       "first_seen": "2026-08-06T01:28:10.169744+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "f8bcdd5fc8418f9d": {
+      "url": "https://tracely-studio.xyz/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "111edf86c5481b9f": {
+      "url": "https://www.youtube.com/watch?v=Qr3VsZYQy4s",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "015e99c3a0b357f8": {
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "23f9f18db6548391": {
+      "url": "https://github.com/jasonfetterman/ObsidianProtocol-Autonomous-Warfare",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-game-ai"
+    },
+    "c14f9f45943988c5": {
+      "url": "https://github.com/NotNull92/hebe-agent-unity",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-game-ai"
+    },
+    "2738469fc97f786a": {
+      "url": "https://github.com/EricSun0218/OpenGameAgent",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-game-ai"
+    },
+    "9d141ac920ff5620": {
+      "url": "https://github.com/adyg2387/bevy-game-test-hub",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-game-ai"
+    },
+    "85b5620bc229b10e": {
+      "url": "https://github.com/LucasAntunesdeAlmeida/Collider",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b4b0461c617f7108": {
+      "url": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "gd-ai"
+    },
+    "2d7e3c0affb9e1ab": {
+      "url": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "gd-ai"
+    },
+    "6900e47d0e4a989f": {
+      "url": "https://github.com/SeanPedersen/vscode-semble",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "6ccff55b4876b50f": {
+      "url": "https://github.com/dachev/plan-review",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "82ccc1064f3056d6": {
+      "url": "https://news.ycombinator.com/item?id=49204650",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "729b27c89c714000": {
+      "url": "https://github.com/Kayvan-Zahiri/asr-age-gap",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "10a41b1fd2fe27a5": {
+      "url": "https://useknowable.ai/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "9930030bb753f603": {
+      "url": "https://draw.how/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "47987c93ba7028a5": {
+      "url": "https://github.com/noambrand/kivun-terminal-wsl",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "a346f76835c8b81a": {
+      "url": "https://news.ycombinator.com/item?id=49204040",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "79c608c0314908fd": {
+      "url": "https://www.korvo.xyz/arf",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "7cbb33ad77f75ec7": {
+      "url": "https://github.com/laikacms/decap-cms",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "12d3454a9f60e963": {
+      "url": "https://voiceduel.com/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "e362418e5742e3c9": {
+      "url": "https://www.greatarrow.ai",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "e7d90489d9356a8b": {
+      "url": "https://scalequest.io/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "c04c2edd02bd7fc0": {
+      "url": "https://number-garden.com/?@THLP@",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "5b1d2ba270cc1080": {
+      "url": "https://codeberg.org/ivanjeka/tmagnet",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "e28fdee916f48284": {
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "a9260ab3cf734b5b": {
+      "url": "https://github.com/GunduLabs/gaze",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "0daf407f9cad4d9a": {
+      "url": "https://pushyourthing.com",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "00c4b11b53bc6e4c": {
+      "url": "https://github.com/karanrajsurya/CatQueue_npm_package",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-show"
+    },
+    "4e4940b02c4751e6": {
+      "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "a94df2bad6a13d9b": {
+      "url": "https://hn-without-ai.vercel.app/",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "16664f89bddb7489": {
+      "url": "https://www.producthunt.com/products/copilotkit",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "producthunt"
+    },
+    "8d02155911f240c1": {
+      "url": "https://github.com/athornton/v7vibeforth",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "84c835e43052dd05": {
+      "url": "https://github.com/bobizhenkeai/star-skill-radar",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e12cc4e9fb25634a": {
+      "url": "https://github.com/Parslee-ai/neo",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2f9d3710b5a6afb2": {
+      "url": "https://github.com/uncledevhq/lenco-payments",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a7aad2b9b550a54b": {
+      "url": "https://github.com/Glenskii/Glenski-Toolkit",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "13e9b6f2c3d29208": {
+      "url": "https://github.com/mahesh-hegde-nutanix/carrier-pigeon",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d52ce26f91414684": {
+      "url": "https://github.com/GassamFlower/vibe_coding_KnowledgeBase-",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "eb957ae5b1d48e80": {
+      "url": "https://www.v2ex.com/t/1232621#reply1",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3140d868355569e0": {
+      "url": "https://www.v2ex.com/t/1232613#reply11",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "47e790f38e7136b1": {
+      "url": "https://www.v2ex.com/t/1232597#reply5",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "d4baf4d50f5a17e7": {
+      "url": "https://www.v2ex.com/t/1232590#reply32",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "ae57224f770aa371": {
+      "url": "https://www.v2ex.com/t/1232582#reply5",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "0568b2d10883b315": {
+      "url": "https://www.v2ex.com/t/1232573#reply16",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "ef50ed0ce614e14b": {
+      "url": "https://www.v2ex.com/t/1232572#reply6",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "eaeaeded6891e02d": {
+      "url": "https://www.v2ex.com/t/1232571#reply10",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "22753812c0f58202": {
+      "url": "https://www.v2ex.com/t/1232568#reply3",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6ea1af1d09b4dfaf": {
+      "url": "https://www.v2ex.com/t/1232564#reply13",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "2be804220a28b916": {
+      "url": "https://www.v2ex.com/t/1232427",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "6c007b729e791f88": {
+      "url": "https://www.v2ex.com/t/1232435",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "33dddc67e7b637c0": {
+      "url": "https://www.v2ex.com/t/1232404",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b35c21603c8ba18a": {
+      "url": "https://www.v2ex.com/t/1232409",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f82beadc4d8a823e": {
+      "url": "https://www.v2ex.com/t/1232497",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f3dba25b4e514560": {
+      "url": "https://www.v2ex.com/t/1232458",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "163eafa08afb5826": {
+      "url": "https://www.v2ex.com/t/1232476",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ce5185b77bed6932": {
+      "url": "https://www.v2ex.com/t/1232413",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "6825ba4be89a9df0": {
+      "url": "https://www.v2ex.com/t/1232397",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "3a884dccfc813a02": {
+      "url": "https://www.v2ex.com/t/1232424",
+      "first_seen": "2026-08-07T02:05:34.144845+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
