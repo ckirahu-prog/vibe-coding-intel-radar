@@ -19989,6 +19989,361 @@
       "url": "https://www.v2ex.com/t/1232614",
       "first_seen": "2026-08-08T00:51:09.416906+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "b0a5eea7e38a39b2": {
+      "url": "https://freebot.dev/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "dbca20864a8426ab": {
+      "url": "https://geosona.com/demake/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "9878ef558c8016aa": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vizciu/i_ruined_my_game_launch_25k_wishlists_with_one/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "29ca54de4dbb2430": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj69vv/steam_game_failed_worth_it_making_it_free/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "60962f1f980ee31f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj9fop/steam_tried_adding_linux_build_of_our_game_but/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "cced93ad4ac5e385": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj819h/which_software_and_what_kind_of_settings_do_you/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "3fb0b856cf33cbb6": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj4jib/self_taught_path/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "50b4fa98db5ba948": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1viyhrk/i_did_a_vlog_on_how_i_approach_systemic_design/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "4bcb020004eb71be": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj7c30/we_spent_weeks_scraping_together_150_wishlists/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "87ab28703c2a0166": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj7eij/getting_ready_to_submit_my_demo_build_to_steam/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "aa9729adc1ce9eed": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vj1or7/we_are_hosting_a_game_jam_with_up_to_20k_in/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "393dcb76e9d731a6": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vjc0x0/roblox_or_steam/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "929d7c6a2ed07edd": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vir15q/two_people_six_months_and_a_lot_of_learning/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "0299bcef7a11e82a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1viuw0u/best_engine_for_this_kind_of_game/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "c087adcbff0dde59": {
+      "url": "https://github.com/AbdulHannan031/gamesmith-ai-game-generator",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "b3343f6a196c10a7": {
+      "url": "https://github.com/Autodidac/EpochEngine",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "7b33e57811768f72": {
+      "url": "https://github.com/rsanandres/aphae",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "17e49d458c056c10": {
+      "url": "https://github.com/SergioSauloDev/ever-kit",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "163b68d76233f22d": {
+      "url": "https://github.com/Nikarikhashree/snooker-game",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "349ae43272f488c7": {
+      "url": "https://github.com/BurakErdemci/gamachine",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "51f6a877887c7416": {
+      "url": "https://github.com/kylemarvin884/Hikari-Studio",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-game-ai"
+    },
+    "9333fdd968327f39": {
+      "url": "https://github.com/Tura-AI/tura",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "4ce6cf2b341741d0": {
+      "url": "https://news.ycombinator.com/item?id=49226838",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "31ae9900c2d440d1": {
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "7708c5379ac210ae": {
+      "url": "https://github.com/ahmedhosssam/vd",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "057c16fc5505a999": {
+      "url": "https://benzi.fly.dev/about",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "57362df55df01f38": {
+      "url": "https://photosynthesis.camera",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "aed7c308d17500dd": {
+      "url": "https://tweet.download/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "6f8ed41dc4327c2f": {
+      "url": "https://github.com/amos-labs/expertcache",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "2bbc17a1e7201bb2": {
+      "url": "https://inertiagraphics.com/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "74a27c047b804ad9": {
+      "url": "https://pallix.in",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "43426ac86df99625": {
+      "url": "https://github.com/carlos-menezes/fullscreener",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "125c22599e35ae1a": {
+      "url": "https://whenshouldigotothebeach.ca/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "aef10bcee978a53f": {
+      "url": "https://github.com/techpivot/terraform-module-releaser",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "36a456649f2252b3": {
+      "url": "https://botsargue.com/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "889b0b252235fda5": {
+      "url": "https://news.ycombinator.com/item?id=49225487",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "2abba9a7d6051f4b": {
+      "url": "https://github.com/dotcomjack/nocturne",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "edadeaf8c62a3ad1": {
+      "url": "https://www.npmjs.com/package/bun-boss",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "f7756f801ba234a8": {
+      "url": "https://outagedeck.com/stack",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "3d644c8f0501ba6c": {
+      "url": "https://classicreload.com/platform/amiga%20os",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "aa1874f397933865": {
+      "url": "https://holycode.cloud",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-show"
+    },
+    "e96dc92d1245b27d": {
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "09f30eac4398ae9a": {
+      "url": "https://github.com/mattpetters/awesome-stars",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "516e9c1a9c52d813": {
+      "url": "https://github.com/8-Sync-Dev/su-code",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e6437ec959ea977e": {
+      "url": "https://github.com/astratagem/stars",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "6cd792efa4781f00": {
+      "url": "https://github.com/terrene-foundation/kailash-coc-rs",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "859093e9b1e26ef8": {
+      "url": "https://github.com/pkallos/wan-monitor",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "63286363425260e9": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1vizpg2/i_turned_kubernetes_practice_into_a_retro/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "730f7bd633e95a11": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1vj0wet/drop_your_side_project_i_have_3_gungillion/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "378b44db6d751cb8": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1vj99pq/swipetovote_app_for_deciding_where_to_eat_finally/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "55e483e4ad96059e": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1vjbh9z/skilly_a_voice_guide_that_points_saas_users_to/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "d7974fae5ca52385": {
+      "url": "https://old.reddit.com/r/SideProject/comments/1viskqn/whats_something_most_new_founders_do_wrong/",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "reddit-sideproject"
+    },
+    "4c3ad254afb413fb": {
+      "url": "https://www.v2ex.com/t/1232985#reply0",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "bf84d9a7fd5e9e4f": {
+      "url": "https://www.v2ex.com/t/1232978#reply2",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a9e1cfe3c1aa30ae": {
+      "url": "https://www.v2ex.com/t/1232973#reply4",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "33a9654f43f5ae51": {
+      "url": "https://www.v2ex.com/t/1232970#reply14",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a1af3bf455797b40": {
+      "url": "https://www.v2ex.com/t/1232968#reply0",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3feb8fe80c2b4c39": {
+      "url": "https://www.v2ex.com/t/1232965#reply37",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "efb3ad6e7e404729": {
+      "url": "https://www.v2ex.com/t/1232964#reply7",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "d1e5daa4ccd543c9": {
+      "url": "https://www.v2ex.com/t/1232963#reply2",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "1c1fc1bfc4e109ba": {
+      "url": "https://www.v2ex.com/t/1232953#reply0",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "37fd9220a1f146fe": {
+      "url": "https://www.v2ex.com/t/1232943#reply7",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "93b5fa21da2c1e65": {
+      "url": "https://www.v2ex.com/t/1232933#reply55",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "0276555e0641679a": {
+      "url": "https://www.v2ex.com/t/1232881",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "66245d5e213f0dea": {
+      "url": "https://www.v2ex.com/t/1232899",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "986358ff3aaa4ef0": {
+      "url": "https://www.v2ex.com/t/1232900",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "78234f6f4caf357a": {
+      "url": "https://www.v2ex.com/t/1232867",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f42690bfe82680b0": {
+      "url": "https://www.v2ex.com/t/1232883",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9f668d5336afac5b": {
+      "url": "https://www.v2ex.com/t/1232921",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "1446d76956ba971b": {
+      "url": "https://www.v2ex.com/t/1232923",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b4cd064f85dfa28e": {
+      "url": "https://www.v2ex.com/t/1232858",
+      "first_seen": "2026-08-09T00:54:16.525249+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }

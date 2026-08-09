@@ -6,13 +6,13 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 515,
+      "hits": 527,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
       "hits": 133,
-      "errors": 29,
+      "errors": 30,
       "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
     "reddit-unrealengine": {
@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 238,
+      "hits": 245,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,7 +31,7 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1012,
+      "hits": 1032,
       "errors": 0,
       "last_error": null
     },
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 599,
+      "hits": 604,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,32 +56,32 @@
       "last_error": null
     },
     "hn-ai-game-tools": {
-      "hits": 90,
+      "hits": 91,
       "errors": 8,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 25,
+      "hits": 26,
       "errors": 5,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
     "reddit-aigamedev": {
       "hits": 97,
-      "errors": 36,
+      "errors": 37,
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 83,
+      "hits": 84,
       "errors": 14,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
     "reddit-sideproject": {
-      "hits": 149,
+      "hits": 154,
       "errors": 20,
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 373,
+      "hits": 384,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 310,
+      "hits": 318,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-08T00:52:00.025704+00:00"
+  "last_updated": "2026-08-09T00:55:06.465124+00:00"
 }
