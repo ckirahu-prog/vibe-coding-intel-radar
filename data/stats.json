@@ -6,13 +6,13 @@
       "last_error": null
     },
     "reddit-gamedev": {
-      "hits": 567,
+      "hits": 582,
       "errors": 0,
       "last_error": null
     },
     "reddit-unity3d": {
       "hits": 142,
-      "errors": 32,
+      "errors": 33,
       "last_error": "Failed to fetch https://old.reddit.com/r/Unity3D/.rss"
     },
     "reddit-unrealengine": {
@@ -21,32 +21,32 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 264,
+      "hits": 265,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 81,
+      "hits": 82,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 1127,
+      "hits": 1147,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 51,
+      "hits": 52,
       "errors": 13,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 118,
+      "hits": 120,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 632,
+      "hits": 639,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,32 +56,32 @@
       "last_error": "HTTPSConnectionPool(host='www.indiehackers.com', port=443): Read timed out. (read timeout=30)"
     },
     "hn-ai-game-tools": {
-      "hits": 98,
+      "hits": 101,
       "errors": 9,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 32,
+      "hits": 33,
       "errors": 7,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
     "reddit-aigamedev": {
       "hits": 121,
-      "errors": 39,
+      "errors": 40,
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 94,
+      "hits": 96,
       "errors": 15,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
     "reddit-sideproject": {
-      "hits": 158,
+      "hits": 168,
       "errors": 22,
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 415,
+      "hits": 422,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 366,
+      "hits": 373,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-14T01:03:33.532669+00:00"
+  "last_updated": "2026-08-15T00:38:18.177807+00:00"
 }
