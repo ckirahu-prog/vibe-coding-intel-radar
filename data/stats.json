@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 266,
+      "hits": 268,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,12 +31,12 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1166,
+      "hits": 1186,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 53,
+      "hits": 54,
       "errors": 13,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 650,
+      "hits": 654,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -72,7 +72,7 @@
     },
     "hn-cursor-vibe": {
       "hits": 98,
-      "errors": 15,
+      "errors": 16,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
     "reddit-sideproject": {
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 432,
+      "hits": 443,
       "errors": 0,
       "last_error": null
     },
@@ -116,7 +116,7 @@
       "last_error": null
     },
     "itch-new-popular": {
-      "hits": 24,
+      "hits": 26,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 383,
+      "hits": 393,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-16T00:39:41.700937+00:00"
+  "last_updated": "2026-08-17T00:38:43.380263+00:00"
 }
