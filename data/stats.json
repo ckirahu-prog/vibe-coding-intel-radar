@@ -21,32 +21,32 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 293,
+      "hits": 297,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 90,
+      "hits": 91,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 1342,
+      "hits": 1361,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 57,
+      "hits": 59,
       "errors": 16,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 127,
+      "hits": 130,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 711,
+      "hits": 716,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,12 +56,12 @@
       "last_error": "HTTPSConnectionPool(host='www.indiehackers.com', port=443): Read timed out. (read timeout=30)"
     },
     "hn-ai-game-tools": {
-      "hits": 113,
+      "hits": 114,
       "errors": 12,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 36,
+      "hits": 37,
       "errors": 9,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 529,
+      "hits": 540,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 465,
+      "hits": 472,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-25T00:39:57.941866+00:00"
+  "last_updated": "2026-08-26T00:39:52.768310+00:00"
 }
