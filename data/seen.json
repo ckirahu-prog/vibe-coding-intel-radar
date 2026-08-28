@@ -26149,6 +26149,346 @@
       "url": "https://www.v2ex.com/t/1237511",
       "first_seen": "2026-08-27T05:41:35.035859+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "b2d896251718d4cf": {
+      "url": "https://twitter.com/gherget/status/2092293494446420010",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "60ef18446756c258": {
+      "url": "https://medium.com/@yalovoy/i-had-claude-and-codex-rewrite-the-same-app-the-one-with-better-architecture-lost-bee522b1ddf8",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "898aaf30a289a0d2": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w0amb8/the_pc_market_is_becoming_more_like_the_mobile/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "cc87e15eae7efd58": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vztqhf/indie_devs_should_be_careful_the_mobile/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "0ebf9a60c1fd2cff": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w0hkpq/anybody_tried_streaming_game_development_on/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "ca385b60337ea78f": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w0iocb/does_anyone_here_use_reaper_for_game_audio/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "d98314dbec86e4d5": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w0f1we/how_do_you_guys_gauge_appeal_or_interest_in_a/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "edca5c18fef7fc5a": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w0jeiu/how_to_market_a_clicker_game/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "5831ab5664309b94": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w080to/a_question_about_npc_being_handled_mostly_by/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "47095c7298f6acbb": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vzlw04/is_it_a_bad_idea_to_disable_my_demo_before_release/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "929e0f7f0a410884": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vzrzyp/yesterday_i_launched_my_game_but_its_not_going/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "33e3b4125642eab7": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1w02rc9/5_years_of_game_dev_the_good_the_bad_and_the/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "ea16b63e32650f09": {
+      "url": "https://old.reddit.com/r/gamedev/comments/1vzyxbh/preparing_for_our_first_steam_fest_demo_and/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "reddit-gamedev"
+    },
+    "19d9a07c96eaa18c": {
+      "url": "https://github.com/qfoldit/UNITY-TOOLBELT",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-game-ai"
+    },
+    "0eb33655980ded8f": {
+      "url": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "gd-ai"
+    },
+    "709861b3591a88d7": {
+      "url": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "gd-ai"
+    },
+    "3c6d7bd9a893236b": {
+      "url": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "gd-ai"
+    },
+    "9194b1765c22f218": {
+      "url": "https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc-expands-into-the-game-industry",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "gd-ai"
+    },
+    "90b67254463fd528": {
+      "url": "https://www.kiipstudy.com",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "f07f2504d54eeab2": {
+      "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "d5f7fbf9aa16d199": {
+      "url": "https://www.intelcue.ai/tools/personal-branding-strategy-builder",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "16c90b62d7d0a22a": {
+      "url": "https://classroomtimers.app",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "be2d138756c5dd1c": {
+      "url": "https://blog.lukesalamone.com/posts/fighting-game-rl/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "e6cf6992afe291c4": {
+      "url": "https://github.com/chansoonlim/mdtensor",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "67dc3ae1b7899f77": {
+      "url": "https://taskusanakirja.com/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "e3143a5c8a59cdbf": {
+      "url": "https://github.com/gojiplus/understudy",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "f250bdbdce2dce5a": {
+      "url": "https://h3max.app/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "574f1b779668ffca": {
+      "url": "https://nodusfallwiki.net/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "5ebd6ccc446e97be": {
+      "url": "https://github.com/IndexFlowing/IndexFlow-core",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "b1de1cea5023f8f5": {
+      "url": "https://chessrabbit.co",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "e84fde8207cff635": {
+      "url": "https://github.com/vseryakov/backendjs",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "1fc764cfb36fa106": {
+      "url": "https://asking.com.br/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "18e4a5c2d17436dc": {
+      "url": "https://meetalphie.com",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "360f01099cb07c63": {
+      "url": "https://app.monity.ai/public/feed",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "c9a4bf926b896313": {
+      "url": "https://leadcode.build/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "2fef54f0a1b4bba7": {
+      "url": "https://github.com/paoloanzn/pi-black",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "f7e7b7f3148c5fbc": {
+      "url": "https://github.com/nikitakarpei/my-yacy-node",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "c01d32d829299306": {
+      "url": "https://marsbase.io/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-show"
+    },
+    "72fd167393b2ba86": {
+      "url": "https://harden.run/blog/aif-research-and-evidence",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "af5a70c363ad8784": {
+      "url": "https://invader.gg/",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "9d458e52652f9c93": {
+      "url": "https://www.producthunt.com/products/google-labs",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "producthunt"
+    },
+    "fa9a79307bafbb5c": {
+      "url": "https://www.producthunt.com/products/aramb",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "producthunt"
+    },
+    "51dc8370cb76673d": {
+      "url": "https://github.com/jbrick2070/comfyui-custom-node-survival-guide",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5832283a0553281d": {
+      "url": "https://github.com/dto-vng/weprompt",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "fe459ceb4d5c3019": {
+      "url": "https://github.com/VampiricCyborg/plumb-cli",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "788883b642403948": {
+      "url": "https://github.com/strale-io/strale",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "cff14b31f9612601": {
+      "url": "https://github.com/joshuahhh/soil",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "5aaf8eff78618691": {
+      "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "6450ebecb29c0cda": {
+      "url": "https://github.com/jafshare/GithubTrending",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9858feae6363daa2": {
+      "url": "https://github.com/jayamitkatariya/tui-resume",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "dafcaa23e66387e3": {
+      "url": "https://github.com/Jakkrich/nexus-devflow",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b9f1ed9b8351b791": {
+      "url": "https://www.v2ex.com/t/1237896#reply4",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e0bbcf860c87bc5a": {
+      "url": "https://www.v2ex.com/t/1237880#reply1",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8bb229b0102e16ec": {
+      "url": "https://www.v2ex.com/t/1237872#reply15",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "54102632142fb84d": {
+      "url": "https://www.v2ex.com/t/1237870#reply0",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c50ccc8051e12808": {
+      "url": "https://www.v2ex.com/t/1237868#reply2",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6b1b6bd20c5784e1": {
+      "url": "https://www.v2ex.com/t/1237864#reply32",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8258a9ede4b9385b": {
+      "url": "https://www.v2ex.com/t/1237859#reply0",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8df1b228f29d527c": {
+      "url": "https://www.v2ex.com/t/1237849#reply0",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "7ea99fff01aa37f4": {
+      "url": "https://www.v2ex.com/t/1237773",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "a8c8ec6e2d164dbc": {
+      "url": "https://www.v2ex.com/t/1237829",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "38fc0ceaeee1a121": {
+      "url": "https://www.v2ex.com/t/1237757",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "1c34e897b155a369": {
+      "url": "https://www.v2ex.com/t/1237700",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d715bb32f2124795": {
+      "url": "https://www.v2ex.com/t/1237798",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c41e55418fca28b2": {
+      "url": "https://www.v2ex.com/t/1237762",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d7816660599e6c37": {
+      "url": "https://www.v2ex.com/t/1237672",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "36f17188a6324a73": {
+      "url": "https://www.v2ex.com/t/1237866",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9e26e32525ccb7e2": {
+      "url": "https://www.v2ex.com/t/1237719",
+      "first_seen": "2026-08-28T07:50:06.174491+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
