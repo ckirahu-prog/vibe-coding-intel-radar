@@ -31,22 +31,22 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1440,
+      "hits": 1459,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
       "hits": 64,
-      "errors": 17,
+      "errors": 18,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 135,
+      "hits": 137,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 763,
+      "hits": 772,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,12 +56,12 @@
       "last_error": "HTTPSConnectionPool(host='www.indiehackers.com', port=443): Read timed out. (read timeout=30)"
     },
     "hn-ai-game-tools": {
-      "hits": 118,
+      "hits": 120,
       "errors": 13,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 38,
+      "hits": 39,
       "errors": 10,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
@@ -71,7 +71,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 120,
+      "hits": 122,
       "errors": 20,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 584,
+      "hits": 595,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 501,
+      "hits": 511,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-08-30T02:22:03.843607+00:00"
+  "last_updated": "2026-08-31T02:16:18.806527+00:00"
 }
