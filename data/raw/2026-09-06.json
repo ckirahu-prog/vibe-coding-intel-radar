@@ -1,0 +1,740 @@
+[
+  {
+    "id": "e68ad533dde997ed",
+    "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+    "url": "https://www.phntmcore.com/",
+    "summary": "I've spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I've built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the option for a boosted mode to reach claude for more demanding tasks. The idea is to have your own loc…",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 21:03:22 +0000"
+  },
+  {
+    "id": "4148f6f0743a222f",
+    "title": "Ask HN: How do you build organic traction as an indie dev?",
+    "url": "https://news.ycombinator.com/item?id=49580353",
+    "summary": "I have recently become a fulltime indie gamedev. While I'm willing to trust myself on technical and creative output, the topic of getting the word out that I might release something interesting and worth people's time seems to have become increasingly daunting. Most popular technical channels like HN / specific sub-reddits require active community participation and \"karma-farming\" just to be able…",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 20:29:31 +0000"
+  },
+  {
+    "id": "4aad8b11edbaa7db",
+    "title": "seungwan-seo/game-ai-news-bot",
+    "url": "https://github.com/seungwan-seo/game-ai-news-bot",
+    "summary": "게임 AI 개발 동향을 매일 텔레그램으로 요약하는 오픈소스 봇",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:05:46Z"
+  },
+  {
+    "id": "87cb2bc43b6b8028",
+    "title": "laurentvv/generator-assets",
+    "url": "https://github.com/laurentvv/generator-assets",
+    "summary": "Headless, modular local AI pipeline: 2D/3D Godot & Blender assets (Flux.1, SDXL, ESRGAN), AI video generation (Wan 2.1/2.2, LTX-2.5, MiniMax-H3) with 4K YouTube masters, and AI music loops (MiniMax-Music3 via audio.cpp) — 100% Vulkan/GGUF, no CUDA, no cloud.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T00:34:44Z"
+  },
+  {
+    "id": "883e9fc1da0427c3",
+    "title": "ostad-ai/RaceTrack-Generator",
+    "url": "https://github.com/ostad-ai/RaceTrack-Generator",
+    "summary": "A professional procedural racetrack design tool with an infinite canvas. Features Perlin noise generation, advanced spline filters, and JSON export. Includes a Python API and Pygame AI demo for game developers.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T00:19:44Z"
+  },
+  {
+    "id": "787e91d21ab9e888",
+    "title": "TravTheDev/SalvageProto",
+    "url": "https://github.com/TravTheDev/SalvageProto",
+    "summary": "A wave-based FPS survival prototype built in Unity and C#, featuring modular combat, enemy AI, physics interactions, and environmental explosives.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T00:09:28Z"
+  },
+  {
+    "id": "dfe963180bdb141e",
+    "title": "monotio/agi",
+    "url": "https://github.com/monotio/agi",
+    "summary": "Create, play and remix authentic AGI adventures with AI. An open-source TypeScript engine and browser authoring tools.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T23:24:17Z"
+  },
+  {
+    "id": "02845a3f5fb973db",
+    "title": "msbytewatch/GameSketch",
+    "url": "https://github.com/msbytewatch/GameSketch",
+    "summary": "Local-first game design tool: 5-pillar idea tree (Markdown+Git), doodle canvas, AI read-API + local copilot. No phone-home.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T22:15:34Z"
+  },
+  {
+    "id": "1c7a5bceda46b315",
+    "title": "KilledByAPixel/LittleJSArcade",
+    "url": "https://github.com/KilledByAPixel/LittleJSArcade",
+    "summary": "Collection of classic arcade style games built with LittleJS Engine",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T21:36:44Z"
+  },
+  {
+    "id": "7baf0069a73b4a98",
+    "title": "Show HN: Cowbull – Wordle-like game where you only get match counts",
+    "url": "https://cowbull.co/",
+    "summary": "CowBull is a word game where you have to find the hidden four-letter word. You make guesses and get back the count of exact letter matches (bulls) and partial matches (cows). It’s a bit like Wordle, but you are not told the exact letters which match, only the count of matching letters. Scoring is based on the number of guesses and time used. There is a single player mode and a multi-player mode (…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sun, 06 Sep 2026 00:37:31 +0000"
+  },
+  {
+    "id": "3cbfb2a5607b682e",
+    "title": "Show HN: CocoCut – A zero-cloud, 1-second video diary engine built with Flutter",
+    "url": "https://cococut.app/en",
+    "summary": "Article URL: https://cococut.app/en Comments URL: https://news.ycombinator.com/item?id=49582167 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sun, 06 Sep 2026 00:29:32 +0000"
+  },
+  {
+    "id": "199453190639b5fa",
+    "title": "Show HN: I made a retro falling block puzzle, with a twist ;)",
+    "url": "https://blocknado.app/marathon",
+    "summary": "I've loved stacker type games for as long as I can remember. But I've always wanted a version with a bit more strategy and puzzle dynamics. Blocknado is a game I've always wanted to play, maybe others will too. Comments URL: https://news.ycombinator.com/item?id=49582075 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sun, 06 Sep 2026 00:16:46 +0000"
+  },
+  {
+    "id": "eeeefe684a0f1aea",
+    "title": "Show HN: OpenMonitor – vendor neutral web monitoring cloud agent",
+    "url": "https://www.openmonitor.website/",
+    "summary": "Article URL: https://www.openmonitor.website/ Comments URL: https://news.ycombinator.com/item?id=49581999 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sun, 06 Sep 2026 00:03:18 +0000"
+  },
+  {
+    "id": "2c9451e474f53075",
+    "title": "Show HN: Midjourney API with webhooks, polling",
+    "url": "https://www.midjourney-api.com",
+    "summary": "Generate AI Images Programmatically Submit prompts, receive image URLs, and integrate Midjourney into any app or workflow. Supports Python, Node.js, and any HTTP client. Comments URL: https://news.ycombinator.com/item?id=49581947 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 23:52:56 +0000"
+  },
+  {
+    "id": "d107f8345665f665",
+    "title": "Show HN: Undercolony - The Ant Colony MMO - You Are an Ant Now",
+    "url": "https://undercolony.com/",
+    "summary": "Article URL: https://undercolony.com/ Comments URL: https://news.ycombinator.com/item?id=49581927 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 23:49:04 +0000"
+  },
+  {
+    "id": "c271216863172716",
+    "title": "Show HN: Vibe code keeps running, even with the lid closed",
+    "url": "https://touchmac.app/en/",
+    "summary": "Hello. Macs are starting to support more and more games. Now, you want to play games not only at home but also on the go. So I developed TouchNow so I can use a virtual game controller to remotely control my Mac when I'm out and about. You can even customize the controller layout for different games. It also supports internet connectivity, not just your home Wi-Fi. It's part of the Apple Ecosyste…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 22:52:12 +0000"
+  },
+  {
+    "id": "cc41014a8f22d1aa",
+    "title": "Show HN: Twinrun – run old and new code on the same inputs, diff the outputs",
+    "url": "https://github.com/prian3003/twinrun",
+    "summary": "Article URL: https://github.com/prian3003/twinrun Comments URL: https://news.ycombinator.com/item?id=49581181 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 22:08:33 +0000"
+  },
+  {
+    "id": "bc1d7675bff787f7",
+    "title": "Show HN: Virtual photoshoot for guys who dislike having their pic taken",
+    "url": "https://vibeflirting.com/",
+    "summary": "Article URL: https://vibeflirting.com/ Comments URL: https://news.ycombinator.com/item?id=49580766 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 21:15:08 +0000"
+  },
+  {
+    "id": "38158d898274639f",
+    "title": "Show HN: Fast Cut Video tool for cutting video for Agents",
+    "url": "https://github.com/modecir/fast-cutvid",
+    "summary": "Hi HN, Build this tool in a couple of hours with OpenAI Codex to scratch an itch. As part of my videos workflows I needed to cut the videos myself since the agent is pretty bad cutting and timing using only the transcription. But using a big app like Premiere or DaVinci Resolve was overkill so I used Astra to build an app tailored to that very task. It will be useful to others with the same probl…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 21:06:05 +0000"
+  },
+  {
+    "id": "13184147c45a13d4",
+    "title": "Show HN: I replaced my portfolio with an AI that knows me",
+    "url": "https://xlogic.sh/",
+    "summary": "I wanted to do something \"new\". I'm not 100% sure if this is really new since I don't really check out other people their portfolio's. It's been on my \"to do\" for a long time to redo my portfolio page. Now with AI coming and stuff, I thought I might as well do it like this. The original content of my previous portfolio (projects, achievements, blog posts) are also still accessible and stuff. I wo…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 21:05:21 +0000"
+  },
+  {
+    "id": "6d50245071c6e8d2",
+    "title": "Show HN: I made a seal Tamagotchi game in Three.js",
+    "url": "https://seal-tamagotchi-zyrmx.reachpad.app",
+    "summary": "Article URL: https://seal-tamagotchi-zyrmx.reachpad.app Comments URL: https://news.ycombinator.com/item?id=49580602 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 20:58:14 +0000"
+  },
+  {
+    "id": "ad3ffb55d459ab32",
+    "title": "Show HN: Merge Wikipedia articles across languages into one page",
+    "url": "https://github.com/gojiplus/wikifuse",
+    "summary": "Article URL: https://github.com/gojiplus/wikifuse Comments URL: https://news.ycombinator.com/item?id=49580502 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 20:48:43 +0000"
+  },
+  {
+    "id": "231dac540dbb71cb",
+    "title": "Show HN: ChatPanel Now Available on Firefox",
+    "url": "https://chatpanel.net/",
+    "summary": "Privacy first AI Agent that integrates with any model provider, any CLI Agent like Codex, Claude and webllm - now available on Firefox, also available on chrome and edge. The best part about this one is all your notes, chats and meetings (yes, it can capture the transcription from your zoom, teams, google meet and webex meetings as you attend from browser) and helps you to search across using cha…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 19:30:01 +0000"
+  },
+  {
+    "id": "1b669d43606d14bb",
+    "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
+    "url": "https://github.com/alpbahadur/interns-review-plugin",
+    "summary": "Dont ever decide on design choices yourself! Always spawn 3 fable agents, ask them to critically adversarily review your work. Write all problem context to a file, and tell them to read that. Get their replies and TREAT THEIR REPLIES AS IF THEY ARE INEXPERIENCED SILLY INTERNS. DO NOT OVERENGINEER, just take note and critically self-eval based on what they said. Comments URL: https://news.ycombina…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 19:27:47 +0000"
+  },
+  {
+    "id": "257e4de7bb1e5962",
+    "title": "Show HN: Red Hat build of Podman Desktop",
+    "url": "https://developers.redhat.com/products/red-hat-build-podman-desktop",
+    "summary": "Any questions, feel free to ask! Thought I'd showcase our build of Podman Desktop. Comments URL: https://news.ycombinator.com/item?id=49579694 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 19:13:36 +0000"
+  },
+  {
+    "id": "c66a24c1d44e31ee",
+    "title": "Show HN: I made DeepSeek a stock prophet in the chat",
+    "url": "https://chat.deepseek.com/share/najhhfle4n4e9brimh",
+    "summary": "Article URL: https://chat.deepseek.com/share/najhhfle4n4e9brimh Comments URL: https://news.ycombinator.com/item?id=49579672 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 19:10:42 +0000"
+  },
+  {
+    "id": "e626584566bda21a",
+    "title": "Show HN: Myjs An accidental pure-Python JavaScript interpreter",
+    "url": "https://pypi.org/project/myjs/",
+    "summary": "Hi HN! byteface here. myjs was a recent accident I'd like to share. Several years ago I began writing DOM API's in Python as a curiosity: https://github.com/byteface/domonic/ Every now and then I do another pass rolling in more features from the MDN pages. I have lots of unit tests but found that porting real code and libraries was a useful test of the DOM compatibility. But I didn't want to poll…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 18:51:56 +0000"
+  },
+  {
+    "id": "ec070c59245cd1db",
+    "title": "Show HN: Genetic Distance Map",
+    "url": "https://p.migdal.pl/genetic-distance-map/",
+    "summary": "I created an interactive map of genetic similarity between populations, based on the Moriopoulos Collection 2025 ( https://genarchivist.net/showthread.php?tid=1449 ). Each data point is a 25-dimensional representation (Global25), and I use Euclidean distance. There is already https://genetic-distance.com/ , where you can look at the closest populations as a table. The vis should come with many ca…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 18:40:59 +0000"
+  },
+  {
+    "id": "b5484924b8ecff1d",
+    "title": "DHH: Programming, AI, Vibe Coding and Linux (Lex Fridman Podcast)",
+    "url": "https://lexfridman.com/dhh-2-transcript/",
+    "summary": "Article URL: https://lexfridman.com/dhh-2-transcript/ Comments URL: https://news.ycombinator.com/item?id=49581986 Points: 5 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sun, 06 Sep 2026 00:01:42 +0000"
+  },
+  {
+    "id": "4e8c78fd50681b9c",
+    "title": "Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency",
+    "url": "https://arxiv.org/abs/2603.14133",
+    "summary": "Article URL: https://arxiv.org/abs/2603.14133 Comments URL: https://news.ycombinator.com/item?id=49581695 Points: 5 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 23:19:29 +0000"
+  },
+  {
+    "id": "44a795850e3c5a06",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 32 # Comments: 14",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 22:15:52 +0000"
+  },
+  {
+    "id": "6d4c513fbc800499",
+    "title": "Ask HN: Airbnbs with AI Photos",
+    "url": "https://news.ycombinator.com/item?id=49579140",
+    "summary": "Wouldn’t this constitute false advertising? It’s becoming too common. If you’re a PM at Airbnb: there are so many SaaS companies to detect AI images. Please. Comments URL: https://news.ycombinator.com/item?id=49579140 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Sat, 05 Sep 2026 18:11:38 +0000"
+  },
+  {
+    "id": "a2e15f1e9b52352a",
+    "title": "GitWarren",
+    "url": "https://www.producthunt.com/products/gitwarren",
+    "summary": "Review code with your coding agents before committing Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-03T22:02:54-07:00"
+  },
+  {
+    "id": "fad990d648faa150",
+    "title": "Fabulu/Mixup",
+    "url": "https://github.com/Fabulu/Mixup",
+    "summary": "Hand-translating console games from disassembly into readable, modifiable JavaScript, not emulation. Every ROM routine becomes a JS function you own, verified frame-by-frame against the real ROM running in an emulator. Batman (Game Boy) complete; Gradius (NES) plays end to end; DoDonPachi DaiOuJou (arcade) in progress. No ROM included.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:51:43Z"
+  },
+  {
+    "id": "7a36a506282d3c24",
+    "title": "iamtweaks/vibecode-scanner",
+    "url": "https://github.com/iamtweaks/vibecode-scanner",
+    "summary": "VibeCheck Scanner - Free Vibe Coding Security Scanner & Solo Founder Tools",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:48:23Z"
+  },
+  {
+    "id": "95b7a30f59a227a0",
+    "title": "educbenininfo-commits/educbenin-info",
+    "url": "https://github.com/educbenininfo-commits/educbenin-info",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:47:21Z"
+  },
+  {
+    "id": "92ac15f38667043c",
+    "title": "tim-hua-01/cc_transcript_viewer",
+    "url": "https://github.com/tim-hua-01/cc_transcript_viewer",
+    "summary": "Zero-dependency local web app for browsing Claude Code session transcripts",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:45:03Z"
+  },
+  {
+    "id": "177d0ff11ed1882e",
+    "title": "hao-ai-lab/FastVideo",
+    "url": "https://github.com/hao-ai-lab/FastVideo",
+    "summary": "A unified inference and post-training framework for accelerated video generation.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:44:00Z"
+  },
+  {
+    "id": "784aacaf903e187a",
+    "title": "[分享创造] 做了个手机 AI 终端，大部分代码是用它自己配合 herdr + Codex 开发的",
+    "url": "https://www.v2ex.com/t/1239772#reply0",
+    "summary": "大家好，分享一下我正在做的 App： Termish 。 它是一个面向手机的远程工作工具，包含 SSH / Mosh 终端、文件管理、远程画面和 AI 工作区，可以在手机上连接自己的开发机，进行 AI Coding 。 这个项目有一点比较特别： Termish 的大部分代码，是我通过 Termish 本身，配合 herdr + Codex 开发的。 我自己用得最多的方式，就是打开 Termish ，连接开发机，进入 herdr ，再使用 Codex 开发这个 App 。 开发环境和 AI 工具运行在远端，手机负责输入、操作和查看结果。Termish 既是正在开发的产品，也是我实际使用的开发工具。 我给它写的一句话介绍是： 远程工作，装进口袋。 为什么想在手机上做 AI Coding ？ 手机屏幕小，输入长代码也不方便，这些限制确实存在。 不过，用 AI Coding 工具开发时，很多操作…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:42:46Z"
+  },
+  {
+    "id": "f62580b9fb41d200",
+    "title": "[程序员] SaaS 产品上架",
+    "url": "https://www.v2ex.com/t/1239768#reply1",
+    "summary": "最近做了一款产品，健身房管理系统，功能算是齐全，要给商户使用，这种上架哪些平台，或者其他方式推广比较好😊，淘宝，多多",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-06T01:18:41Z"
+  },
+  {
+    "id": "2217938c41e11db8",
+    "title": "[OpenAI] gpt6 的 compute use 是否是说，代码写完后，可以让 gpt6 打开客户端 gui，自行按照 plan 来做测试？",
+    "url": "https://www.v2ex.com/t/1239750#reply7",
+    "summary": "",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T16:46:19Z"
+  },
+  {
+    "id": "ae01b217642d6c1d",
+    "title": "[推广] ChatGPT plus/Claude 官方正版订阅代充值,欢迎 V 友咨询",
+    "url": "https://www.v2ex.com/t/1239737#reply0",
+    "summary": "充您自己的帐号，可以续费，不绑定任何 ID 和卡。 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅代充值 135 元/月，半小时内充好，可开正规企业发票。 (正版正价 plus 订阅代充，不需要的话请嘴下留情) GPT pro5x 和 pro20x 订阅也可以代充。 可联系绿色软件：big825 已帮 V 友代充超过 100 例，无任何一例发生售后。 Claude pro 订阅是 155 元/月。 可沉浸式全程自助充值: https://55ai.net",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T14:16:24Z"
+  },
+  {
+    "id": "b8f4db1c99f3886f",
+    "title": "[分享创造] OKVideoMac 0.4.0 发布：一个月后，我把这个 macOS 版 TVBox / 猫影视客户端几乎重做了一遍",
+    "url": "https://www.v2ex.com/t/1239723#reply2",
+    "summary": "大家好，之前开源了一个自己做的 macOS 视频客户端 OKVideoMac 。 第一版出来的时候，其实基本功能已经能用了： TVBox / CatVod 一类配置 CatPawOpen / MiraPlay 一类 Node 源 直播 搜索 详情 收藏 / 历史 libmpv 播放 但自己连续当主力软件用了一个月以后，越来越觉得： “能跑”和“真正好用”之间，还有很长一段距离。 所以过去这一个月，我基本没有继续堆新功能，而是把大量时间花在重新整理 UI 、交互、播放链路、源兼容和底层生命周期上。 现在正式发布 OKVideoMac 0.4.0 （ Build 94 ） 。 先简单介绍一下项目 OKVideoMac 是一个用 Swift / SwiftUI 开发的原生 macOS 视频与直播客户端。 播放器使用 libmpv 。 它不是 Android App 移植，也不是把 TVBox…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T12:54:22Z"
+  },
+  {
+    "id": "bb2e1fe83f0c0af7",
+    "title": "[分享创造] 做了个帮你发现搜索趋势和热点选题的工具，想请 V 友体验",
+    "url": "https://www.v2ex.com/t/1239719#reply5",
+    "summary": "上次在 V2EX 分享 WhatToBuild 后，收到了一些很有价值的反馈。这段时间没有闲着，陆续把产品体验、性能和一些细节重新打磨了一遍。 这次最主要的新功能是 Google Trends 监控页面： https://whattobuild.today/zh/google-trends 目前监控了 100 多个词根，可以用它快速查看关键词的搜索热度趋势，并做一些选题、内容和需求验证的前期判断。 这轮还做了不少体验优化，包括： 订单雷达增加了 DR 以及一些主题维度的标签； 优化筛选功能； 性能优化； 还是非常希望听到真实反馈： 这个 Google Trends 页面对你有没有用？还缺什么功能，或者哪些地方用起来不顺？ 给 V 友继续留了一批 0.1 折优惠券：VXQVBHFFNN9X 如果你用过上次的版本，也很想知道这次的改动有没有解决你当时的痛点。感谢。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "2026-09-05T12:08:05Z"
+  },
+  {
+    "id": "b64d45cf9ce631e3",
+    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+    "url": "https://www.v2ex.com/t/1239673",
+    "summary": "自己搭的站，TokenUs： https://tokenus.net 先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。 价格是官方价的 3.5 折，举两个例子： - DeepSeek V4 Flash：输入 $0.049 / 1M tokens - Kimi K3：输入 $1.05 / 1M tokens （站内最贵的一个） 正常聊一次天（ 2K 输入 + 500 输出）大概 $0.00015 ，5 刀能聊几万次。接 Claude Code 、跑批处理脚本，都够测一阵子了。 福利： 1. 注册送 $0.1 试用额度，不多，但够你白嫖几百次 DeepSeek 试试接口顺不顺手…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788588394
+  },
+  {
+    "id": "5602ad6557afb77c",
+    "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
+    "url": "https://www.v2ex.com/t/1239707",
+    "summary": "## 官网 https://conflux.kami.asia ## Apple Store 地址 https://apps.apple.com/hk/app/id6787873453 ## 特性 1. apple 全家桶，多端 icloud 自动同步数据和配置 2. 支持看弹幕，并且还能发送弹幕（抖音调研中） 3. 云端开播通知，主播开播后，1 分钟内收到推送 4. 自定义弹幕样式、热词显示、屏蔽关键词正则等自定义能力 5. iOS 画中画并支持画中画弹幕 6. iOS 支持 3 套好看的主题 7. macOS 支持新窗口打开，并置顶，摸鱼神器 8. 免费版可以体验核心能力，完整版解锁全部能力 ## 想直接购买懒得等开奖的朋友，也可以直接私信我索要 5 折券，折扣后仅需 2.49 美元 ## macOS 端 ![image]( https://conflux.kami.asia/dan…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788600155
+  },
+  {
+    "id": "fa9b4a34c6172770",
+    "title": "我又又又重构了我的站点",
+    "url": "https://www.v2ex.com/t/1239655",
+    "summary": "接上次帖子，站点重构 /t/1227951 地址： https://www.oolaf.top 1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱） 2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图 之前的： https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp 现在的: https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp 大家看看，还有哪些改进的空间 🙏",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788579789
+  },
+  {
+    "id": "7c3cac0c5bce51a2",
+    "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
+    "url": "https://www.v2ex.com/t/1239687",
+    "summary": "大概率是自己部署的，不清楚量化程度，有 1M 上下文 我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平） 目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时） 但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分 也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿 这个是免费的啊？ 笑，甚至还有个生图模型",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788594147
+  },
+  {
+    "id": "dcc437be62a6c161",
+    "title": "有没有成色好的二手笔记本网店推荐",
+    "url": "https://www.v2ex.com/t/1239638",
+    "summary": "又是上大学，今天有个同事找我推荐，吓，全新的拯救者这么贵，又比去年贵了 3000 。。。京东随便哪个新的都是 1 万以上。 电脑市场很乱，之前自己竟然花 4500 从 PPD 买了一台 thinkpad E15 。再看看那些翻新机带显卡才 3000 左右的价格。买过 2 次 PDD 的 ThinkPad 官翻机旗舰店 ，机器倒是像 99 新，E16 4199/T16 3791,但价格波动很大。 大家有买过成色好，使用稳定的网店嘛。真不应该掺合人家这种买电脑的事情，有问题麻烦多多。无奈钱包票票少。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788573473
+  },
+  {
+    "id": "09433e787a178a30",
+    "title": "外接显示器时，你会把 Mac 打开作为副屏用吗？",
+    "url": "https://www.v2ex.com/t/1239671",
+    "summary": "本来外接两台显示器，但副显示器和桌面音响有点冲突，桌面实在不好摆。 现在改成只接一台显示器，Mac 盒盖使用后，桌面一下整洁了不少。 但不知道为什么，总感觉 Mac 一直盒盖着，有点浪费……",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788588075
+  },
+  {
+    "id": "5f0af4f7121ef715",
+    "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
+    "url": "https://www.v2ex.com/t/1239651",
+    "summary": "1. 每月固定发放的「真金白银」 💾 5 TB 超大云空间：Drive / Gmail / 相册共用，支持家庭共享且文件各自私密。 🎬 1,000 点/月 视频创作积分：用于 Google Flow 和 Whisk ，可生成约 66 条 720p 短视频（基于 Veo/Omni 模型）。 🎵 10,000 点/月 音乐创作积分：独立于视频点数，用于 Lyria 3 音乐生成。 💵 $10/月 GCP 云积分：需在开发者后台手动领取，可直接抵扣官方 Gemini API / Vertex AI 调用费用。 2. 白送的「生态订阅全家桶」 📺 YouTube Premium Lite：大多数视频免广告（不含独立 YouTube Music ）。 🏠 Google Home Premium Standard：30 天摄像头云端录像回放 + 家居 AI 语义检索（原价值约 $10/月）。 ⌚ G…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788577605
+  },
+  {
+    "id": "3eb02ec33385eccf",
+    "title": "一个 MonoRepo 复杂系统的部署问题",
+    "url": "https://www.v2ex.com/t/1239730",
+    "summary": "我搞了一套财税系统，采用的是 MonoRepo 的构建方式。也就是说，在 APPs 目录下有几十个应用。前端全部用的是 Next.js ，后端用的是 FastAPI 。现在的问题是，代码托管在 GitHub ，镜像则通过阿里云的 ACR 来构建。 核心问题是构建速度非常慢。目前有 11 个应用，其中 4-5 个是前端，6-7 个是后端服务, 后续还在增长。问题在于，有时候我可能只修改了其中一个应用，但很难控制每次只自动构建被修改的那一个。 目前我在 GitHub 上构建时，只有一个分支，也就是 main 分支。如果单独构建每个 APP ，通常只需要 1 到 2 分钟。但一旦有十几个 APP ，每次都要全部构建一遍，速度就会越来越慢，而且我的 APP 数量还在不断增加。我在想，有没有办法在保持 GitHub 上只有一个分支的情况下，也能获得比较快速的构建体验？不知道大家在这方面有没有相关的…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788614970
+  },
+  {
+    "id": "405c63b5d42b6299",
+    "title": "几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面",
+    "url": "https://www.v2ex.com/t/1239697",
+    "summary": "今天看到的，有点惊艳到我了 无限庭院： https://infinite-garden.yelin8130.chatgpt.site/ 超级马里奥： https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/ NBA2k: https://huhuhu.page.gd/COURTSIDE26.html Web 三国游戏： https://sanguo-wind-cloud.amery2010.workers.dev/ 植物大战僵尸： https://seth-xh.github.io/pvz/ 瓜体实验室： https://melon-game.jack-514.chatgpt.site/ 小丑牌： https://balatro-v1-1.longyh2333521818.chatgpt.site/ mosswing-quiet-f…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788597941
+  },
+  {
+    "id": "dbc1cfc50d544f95",
+    "title": "难绷，太相信 ai 了😭",
+    "url": "https://www.v2ex.com/t/1239751",
+    "summary": "workbuddy 的混元 3 模型，之前免费期用的还不错，感觉不比其他模型弱，一度让我重拾对混元模型的信任，结果今天调了一上午的 UI ，结果午睡前跑了个命令，一觉起来发现 UI 给我改的面目全非(ﾉ｀⊿´)ﾉ。 让回退，说某个文件删了，他没办法还原，让我自己从备份还原，这就是不看 ai 思考的后果吗🥲",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": 1788627588
+  },
+  {
+    "id": "923869cc30e2a0d1",
+    "title": "Indiepocalypse #80 [$15.00] [Windows]",
+    "url": "https://pizzapranks.itch.io/indiepocalypse-80",
+    "summary": "Issue #80 of a monthly indie game anthology collecting games from 10 developers.",
+    "source_id": "itch-new-popular",
+    "source_name": "itch.io New & Popular",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Tue, 14 Jul 2026 21:03:38 GMT"
+  },
+  {
+    "id": "9df6a827831a0ab6",
+    "title": "Seed The Planet - Playtest [Free] [Adventure]",
+    "url": "https://allanzitos.itch.io/seed-the-planet-demo",
+    "summary": "",
+    "source_id": "itch-new-popular",
+    "source_name": "itch.io New & Popular",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-06T01:51:34.714973+00:00",
+    "published": "Fri, 04 Sep 2026 17:45:44 GMT"
+  }
+]
