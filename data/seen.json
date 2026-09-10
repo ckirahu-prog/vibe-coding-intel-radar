@@ -29779,6 +29779,261 @@
       "url": "https://www.v2ex.com/t/1240549",
       "first_seen": "2026-09-09T02:05:06.285460+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "5dbfbc79f094e702": {
+      "url": "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "14c8cb711086cbde": {
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "7fa6ffb2094aa7fd": {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-game-ai"
+    },
+    "35ac6dcf32b4c45b": {
+      "url": "https://github.com/agents-dev/find-games-last-week-made-with",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-game-ai"
+    },
+    "d7c65bc53849bade": {
+      "url": "https://github.com/Alex-Rachel/TEngine",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-game-ai"
+    },
+    "777ee0890e6aebb8": {
+      "url": "https://github.com/zhulielie/gudao-submit-skill",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-game-ai"
+    },
+    "a7f73e8d794a13b6": {
+      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "gd-ai"
+    },
+    "18c1f9af0de576e3": {
+      "url": "https://github.com/orangishcat/cursed-tetris",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "809e512be5c546af": {
+      "url": "https://pcalen.com/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "010b205e35fd54fb": {
+      "url": "https://ray.run/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "da1dd1937d955834": {
+      "url": "https://github.com/firelock-ai/kin",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "a5b13f69511eecbb": {
+      "url": "https://termrover.sh/blog/herdr-agent-fleet-mobile/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "3b2e38bc3d45b598": {
+      "url": "https://botbin.io/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "c25beb70f3b8e8ed": {
+      "url": "https://ashishsinha1602.github.io/schemagate/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "5a838ad91d4f3e5f": {
+      "url": "https://orc8r.com/docs/quickstart",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "af31de4863c1b4ab": {
+      "url": "https://github.com/dragthelake/ambient-context/releases",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "3e7b3b862b720365": {
+      "url": "https://github.com/arnsri33/embedflow",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "e746d4c9f8e10fc0": {
+      "url": "https://modelmeetsreality.xyz/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "eab703c6f93db36c": {
+      "url": "https://github.com/eyayaw/jobrake",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "31f90d5cd154e23d": {
+      "url": "https://github.com/theonlypal/PCCG-Qwen3-4B-continuation-control",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "18a58e8c7da66147": {
+      "url": "https://actual-plan.com/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "7a2be2374951519f": {
+      "url": "https://cantonpay.online",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "7a1aa9838eafb799": {
+      "url": "https://github.com/hydraterm/hydra-local",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "be6968ec79c097f4": {
+      "url": "https://github.com/just-not-google/BiNeuron",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "3b2224214368d111": {
+      "url": "https://trackd-deanware.netlify.app/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "67ad864549fc166e": {
+      "url": "https://qip.dev/syntax-highlight-comparison",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "6259268d1f8a7c7b": {
+      "url": "https://github.com/joshumax/git2imap",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-show"
+    },
+    "6132071f7b4e5e63": {
+      "url": "https://news.ycombinator.com/item?id=49636239",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "448f1bcb68ce1764": {
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "80da1303a7a281f1": {
+      "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "producthunt"
+    },
+    "5c11376a37d13b3f": {
+      "url": "https://github.com/hajunho/ZeliJudge",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "276c8288595c048e": {
+      "url": "https://github.com/medrees-1000/gradio-practice",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f94d0135f28d077f": {
+      "url": "https://github.com/dedasema/sdd-cli",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2481b46cefe07ea5": {
+      "url": "https://github.com/Autonomous-Z/Coin-tracker",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "acf265ddce5c2094": {
+      "url": "https://github.com/kaushikkishorgupta/kaushik-portfolio",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0324644180e42841": {
+      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c36871aa9e7327f5": {
+      "url": "https://github.com/yzfly/awesome-dsh-skills",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "194bcf105d801357": {
+      "url": "https://www.v2ex.com/t/1240884#reply4",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "7211e56dd9a01c8c": {
+      "url": "https://www.v2ex.com/t/1240881#reply2",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "30cdd48e1fe05306": {
+      "url": "https://www.v2ex.com/t/1240867#reply24",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "2223e25789eb44e6": {
+      "url": "https://www.v2ex.com/t/1240859#reply1",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8a97b822eb44f358": {
+      "url": "https://www.v2ex.com/t/1240858#reply0",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "13ff0e0f685b416c": {
+      "url": "https://www.v2ex.com/t/1240644",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "91555d8bbbc53a30": {
+      "url": "https://www.v2ex.com/t/1240610",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c58eb5185ad8d7c6": {
+      "url": "https://www.v2ex.com/t/1240605",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "efde8f4cf900b49d": {
+      "url": "https://www.v2ex.com/t/1240589",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "172a23b6fd27f9db": {
+      "url": "https://www.v2ex.com/t/1240689",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "31c1c4697406891e": {
+      "url": "https://www.v2ex.com/t/1240649",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "1a1dd5cbff154ffd": {
+      "url": "https://www.v2ex.com/t/1240703",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "0a19d80bd5117f8e": {
+      "url": "https://www.v2ex.com/t/1240607",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "dbaaeac1870adc96": {
+      "url": "https://www.v2ex.com/t/1240624",
+      "first_seen": "2026-09-10T02:01:43.148553+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
