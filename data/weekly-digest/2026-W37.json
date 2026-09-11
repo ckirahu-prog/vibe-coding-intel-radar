@@ -1,0 +1,2205 @@
+{
+  "generated_at": "2026-09-11T23:57:55.375178+00:00",
+  "week": "2026-W37",
+  "period_days": 7,
+  "source_files": [
+    "2026-09-05.json",
+    "2026-09-06.json",
+    "2026-09-07.json",
+    "2026-09-08.json",
+    "2026-09-09.json",
+    "2026-09-10.json",
+    "2026-09-11.json"
+  ],
+  "totals": {
+    "raw_items": 356,
+    "clusters": 356,
+    "multi_source_clusters": 0,
+    "selected": 80
+  },
+  "selected_by_topic": {
+    "AI 做游戏": 30,
+    "副业机会 · 痛点": 25,
+    "Vibe Coding 商业化": 34
+  },
+  "clusters": [
+    {
+      "title": "mcp-tool-shop-org/ai-rpg-stage",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 17,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/mcp-tool-shop-org/ai-rpg-stage"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "mcp-tool-shop-org/ai-rpg-stage",
+          "url": "https://github.com/mcp-tool-shop-org/ai-rpg-stage",
+          "summary": "The studio's visual client seat — a Godot 4 stage that renders ai-rpg-engine's authoritative sim over a JSON-RPC wire.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-08T01:53:19Z"
+        }
+      ]
+    },
+    {
+      "title": "失业三个月多月了，做了两款全栈产品，目前付费收入 100 块都没有，还要继续吗",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 14,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240426"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "失业三个月多月了，做了两款全栈产品，目前付费收入 100 块都没有，还要继续吗",
+          "url": "https://www.v2ex.com/t/1240426",
+          "summary": "先介绍下产品背景，突发奇想，就是一张户型图，生成 3D,生成的 3D 效果一般，复杂的场景就只能简单处理。最近加了 3D 编辑，感觉产品还是不够完善，没有解决用户很大的痛点，有点自嗨，如何推给需要的用户是个很大的问题。 放个产品链接[spatial-ai]( https://spatial-ai.iruns.xyz/)，有没有老铁做独立开发的，一起交流下的 最近也做了另外一款产品[smartmoney]( https://smartmoney.yjtech.xyz/)还在内测阶段，如果可以都做成自己的一个信号交易平台了 哎，最近也在面试，面试少得可怜，一周一个面试的程度，太难了，越面试越不想打工上班了，但无奈家里余粮不够了，又躺不平，真的太难了 有没有需要前端或者全栈的，蹲个坑，十年前端经验，个人在 web3 行业 3 年，最近 3 年，两家都是创业公司，做过一些 0-1 的产品，之前岗…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788869632
+        }
+      ]
+    },
+    {
+      "title": "Ask HN: Why isn't there a cursor for video games development",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 13,
+      "multi_source": false,
+      "urls": [
+        "https://news.ycombinator.com/item?id=49571091"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Ask HN: Why isn't there a cursor for video games development",
+          "url": "https://news.ycombinator.com/item?id=49571091",
+          "summary": "So I was prototyping with claude code and Godot engine, and I thought it was weird that this specific category of AI isn't as big as video gen creative suites. Like theres big names like runway and higgsfield but when it comes to video games there's no major company trying to make a one stop shop using AI to make video games. I'm sure it isn't because of a lack of trying, I'm sure developers thou…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 04 Sep 2026 22:45:49 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Ask HN: How do you build organic traction as an indie dev?",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 13,
+      "multi_source": false,
+      "urls": [
+        "https://news.ycombinator.com/item?id=49580353"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Ask HN: How do you build organic traction as an indie dev?",
+          "url": "https://news.ycombinator.com/item?id=49580353",
+          "summary": "I have recently become a fulltime indie gamedev. While I'm willing to trust myself on technical and creative output, the topic of getting the word out that I might release something interesting and worth people's time seems to have become increasingly daunting. Most popular technical channels like HN / specific sub-reddits require active community participation and \"karma-farming\" just to be able…",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Sat, 05 Sep 2026 20:29:31 +0000"
+        }
+      ]
+    },
+    {
+      "title": "ostad-ai/RaceTrack-Generator",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 13,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/ostad-ai/RaceTrack-Generator"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "ostad-ai/RaceTrack-Generator",
+          "url": "https://github.com/ostad-ai/RaceTrack-Generator",
+          "summary": "A professional procedural racetrack design tool with an infinite canvas. Features Perlin noise generation, advanced spline filters, and JSON export. Includes a Python API and Pygame AI demo for game developers.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-06T00:19:44Z"
+        }
+      ]
+    },
+    {
+      "title": "laurentvv/generator-assets",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 12,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/laurentvv/generator-assets"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "laurentvv/generator-assets",
+          "url": "https://github.com/laurentvv/generator-assets",
+          "summary": "Headless, modular local AI pipeline: 2D/3D Godot & Blender assets (Flux.1, SDXL, ESRGAN), AI video generation (Wan 2.1/2.2, LTX-2.5, MiniMax-H3) with 4K YouTube masters, and AI music loops (MiniMax-Music3 via audio.cpp) — 100% Vulkan/GGUF, no CUDA, no cloud.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-06T00:34:44Z"
+        }
+      ]
+    },
+    {
+      "title": "omnidebuglink/omnidebuglink_unity",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 12,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/omnidebuglink/omnidebuglink_unity"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "omnidebuglink/omnidebuglink_unity",
+          "url": "https://github.com/omnidebuglink/omnidebuglink_unity",
+          "summary": "OmniDebugLink Unity client SDK (UPM) — remote real-device debugging and AI-driven testing over MCP",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-08T00:44:59Z"
+        }
+      ]
+    },
+    {
+      "title": "iamtweaks/vibecode-scanner",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 12,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/iamtweaks/vibecode-scanner"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "iamtweaks/vibecode-scanner",
+          "url": "https://github.com/iamtweaks/vibecode-scanner",
+          "summary": "VibeCheck Scanner - Free Vibe Coding Security Scanner & Solo Founder Tools",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-06T01:48:23Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 做了个帮你发现搜索趋势和热点选题的工具，想请 V 友体验",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 12,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239719#reply5"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 做了个帮你发现搜索趋势和热点选题的工具，想请 V 友体验",
+          "url": "https://www.v2ex.com/t/1239719#reply5",
+          "summary": "上次在 V2EX 分享 WhatToBuild 后，收到了一些很有价值的反馈。这段时间没有闲着，陆续把产品体验、性能和一些细节重新打磨了一遍。 这次最主要的新功能是 Google Trends 监控页面： https://whattobuild.today/zh/google-trends 目前监控了 100 多个词根，可以用它快速查看关键词的搜索热度趋势，并做一些选题、内容和需求验证的前期判断。 这轮还做了不少体验优化，包括： 订单雷达增加了 DR 以及一些主题维度的标签； 优化筛选功能； 性能优化； 还是非常希望听到真实反馈： 这个 Google Trends 页面对你有没有用？还缺什么功能，或者哪些地方用起来不顺？ 给 V 友继续留了一批 0.1 折优惠券：VXQVBHFFNN9X 如果你用过上次的版本，也很想知道这次的改动有没有解决你当时的痛点。感谢。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-05T12:08:05Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Worldfixture – An OSS fake company your software can interact with",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://worldfixture.com/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Worldfixture – An OSS fake company your software can interact with",
+          "url": "https://worldfixture.com/",
+          "summary": "WorldFixture gives you emulated third-party services, object storage, and email, all backed by the same fake company so the data and API responses feel real. So, for example, if your app uses Stripe, Gmail, Slack, and GitHub, you can call the same APIs through WorldFixture and get responses containing data from the fake company. The data is organized so it tells a coherent story across the differ…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Mon, 07 Sep 2026 21:42:13 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://genotype-lang.org/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+          "url": "https://genotype-lang.org/",
+          "summary": "Hey HN! I just shipped the first public version of a new programming language that I have worked on for the past two years. Its goal is to help synchronize types between TS, Rust, and Python (more to come). Two main use cases are the API client libraries and client-server interop, i.e., a TS web app talking to a Rust server. I focused on making it as flexible as possible but always produced idiom…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 08 Sep 2026 22:09:04 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: I built an interactive Harry Potter learning playground for my son",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://casamagia.org/en/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: I built an interactive Harry Potter learning playground for my son",
+          "url": "https://casamagia.org/en/",
+          "summary": "Built this for my son. Started as a collection of Harry Potter book covers and grew into an interactive browser project with covers from 12 countries, small games, spells, daily lessons, and connections to real science. Comments URL: https://news.ycombinator.com/item?id=49617789 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 08 Sep 2026 22:03:02 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[分享发现] 小团队合规减负：处理 <10 万人信息的新规 9/1 已生效，数据出境免三件套",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239877#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享发现] 小团队合规减负：处理 <10 万人信息的新规 9/1 已生效，数据出境免三件套",
+          "url": "https://www.v2ex.com/t/1239877#reply0",
+          "summary": "各位独立开发 / 小团队 V 友： 网信办+公安部 9 月 1 日起施行《小型个人信息处理者个人信息保护简化措施规定》，第一次按数据规模给合规义务分级减负——处理不满 10 万人个人信息的算\"小型处理者\"，义务大幅简化。简单说，个保法 2021 年那套\"一刀切\"的义务体系，现在抓大放小了。 跟我们这种规模直接相关的几条： 隐私政策最低 3 项要素，弹窗/公告即可，不用再抄大厂几十页模板 依托平台经营（小程序、平台店铺）的：声明遵守平台规则 = 免自建规则，平台审计评估直接覆盖（第八条，最实用）。注意做独立 App / 自建站的享受不到这层，还是要按简化版自己写 数据出境当年累计 &lt;10 万人（不含敏感信息）：免安全评估、免标准合同、免认证（第十条，做出海刚需） 合规审计 5 年一次、影响评估填简表；通过保护认证的连审计都免 首违轻微及时改正不予处罚 几个容易踩的坑： 10 万是按\"…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-06T15:40:49Z"
+        }
+      ]
+    },
+    {
+      "title": "agenerela/agenerela",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 10,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/agenerela/agenerela"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "agenerela/agenerela",
+          "url": "https://github.com/agenerela/agenerela",
+          "summary": "AI agents for Unity — let a language model drive NPCs, factions and colonies, constrained to actions you register. Local-first, no cloud required.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-07T01:17:21Z"
+        }
+      ]
+    },
+    {
+      "title": "born-lucky/3d-aim-engine",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 10,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/born-lucky/3d-aim-engine"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "born-lucky/3d-aim-engine",
+          "url": "https://github.com/born-lucky/3d-aim-engine",
+          "summary": "J-Space Aim & Paint — 3D aim trainer and spatial paint studio in Godot 4. Scenario builder, path editor, map builder, Greek alphabet motor lab, headless regression suites.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-07T23:33:54Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Routi Bot – AI bots with their own desktops on your Mac",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/narralabs/routi/"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Routi Bot – AI bots with their own desktops on your Mac",
+          "url": "https://github.com/narralabs/routi/",
+          "summary": "been working on Routi Bot. an open source mac app inspired by Grok Bot. each bot has its own instructions, desktop and can be used with AI provider/model (openai astra, claude fable, deepseek, grok, etc). it also has a profile switcher so you can separate automation between your personal and work profiles. Comments URL: https://news.ycombinator.com/item?id=49617611 Points: 4 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Tue, 08 Sep 2026 21:50:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "shihabshahrier/Godot-Skill",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/shihabshahrier/Godot-Skill"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "shihabshahrier/Godot-Skill",
+          "url": "https://github.com/shihabshahrier/Godot-Skill",
+          "summary": "AI agent skill for Godot 4.3+ GDScript game dev",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-09T00:16:09Z"
+        }
+      ]
+    },
+    {
+      "title": "Alex-Rachel/TEngine",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/Alex-Rachel/TEngine"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "Alex-Rachel/TEngine",
+          "url": "https://github.com/Alex-Rachel/TEngine",
+          "summary": "Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-10T01:21:11Z"
+        }
+      ]
+    },
+    {
+      "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239818"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
+          "url": "https://www.v2ex.com/t/1239818",
+          "summary": "最近 3 周情绪持续低落，今天下午去医院复诊，医生认为我已经有焦虑症+抑郁情绪，但她觉得不算严重，因为我还能吃饭上班，睡眠差但也不至于完全睡不着，就开了抗焦虑的药，让我按时服用，1~2 周后再来复查。 让我陷入焦虑的议题都很宏大，而且没办法解决，所以一直走不出来，以前觉得看电影、刷剧、吃美食、徒步、爬山、骑行、旅游、找朋友/家人聊天这些细水长流的日常，以及以后搬进自己的房子，按自己的喜好装修一个温馨的家，养养自己喜欢的植物，再搞个草缸，平时躲在懒人沙发上打游戏刷剧，找兴趣圈子交朋友，时不时邀请朋友来我家聚会，想想就很幸福，至少三周前我还是这种状态，觉得人生多体验，多做自己喜欢的事，多交志同道合不让自己内耗的朋友，就是幸福，而自己活着就是价值和意义本身，那时我还规划理财、提前退休计划、退休后做超级个体户继续发光发热等，但短短三周就让我陷入绝望，现在我觉得之前那些事情毫无意义和价值，每天都非…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788683852
+        }
+      ]
+    },
+    {
+      "title": "找工作总是挂在一面上，有没有大佬能帮帮忙",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240624"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "找工作总是挂在一面上，有没有大佬能帮帮忙",
+          "url": "https://www.v2ex.com/t/1240624",
+          "summary": "Base 上海，在职社招跳槽，目标 Agent 开发相关岗位。上周开始高强度面试，面了滴滴、顺丰、字节、米哈游、小红书、UCloud ，还有很多中小厂，但是除了一个只有一面的给了 offer 外，其他的无一例外都是一面挂。 虽然我感觉一面时问题也都能答上来，但 hr 就没再继续跟进了。我自己寻思应该是回答问题没有一个很好的框架也可能没提到面试官想要的点，或是深挖简历时面试官觉得项目深度不够吧，但总之因为各种原因所以后续就没有再推进了。 现在情况是除了字节明确发了拒信，其他基本就是 hr 没有很快地去推进了。或者可能系统当中虽然还是在面试中，但问了 hr 也只是说还没有消息，让我等等，应该就是没了 虽现在确实收到很多面试机会，但是 boss 上上海还有外地的对口岗位几乎都被我投过一遍了，找上来的不是小企业，就是外包岗。因为现有公司好歹还是比较大，只是钱太少没啥上升，面试下来也感觉做的内容很…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788924137
+        }
+      ]
+    },
+    {
+      "title": "[推广] 一天上线移除照片路人的小工具 PersonRemover",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239894#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] 一天上线移除照片路人的小工具 PersonRemover",
+          "url": "https://www.v2ex.com/t/1239894#reply1",
+          "summary": "我比较喜欢拍照，但是每次出去玩回来筛选照片时，总会有几张觉得拍得不错，但是旁边漏出个其他游客脸、手，于是做了这款工具。 利用周日一天搞完上线了，现在还有 bug ，不过主体功能已经跑通，欢迎体验： https://personremover.org/ 如果你也有类似的痛点，或者对这个工具感兴趣，欢迎来交流。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-07T00:22:00Z"
+        }
+      ]
+    },
+    {
+      "title": "[职场话题] Ｂｏｓｓ直聘刷到专门针对土木、程序员转岗房地产销售的岗位，心情复杂",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240230#reply2"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[职场话题] Ｂｏｓｓ直聘刷到专门针对土木、程序员转岗房地产销售的岗位，心情复杂",
+          "url": "https://www.v2ex.com/t/1240230#reply2",
+          "summary": "分享下 JD 吧。 还有针对退伍军人、刚毕业大学生的。 JD 写了不少，不能说是废话吧，但总感觉差点意思。 待遇无非就是包不包吃住；有没有五险一金，缴纳比例；工资构成之类，这些倒是不细说。希望租房中介也尽快出个众包模式，可以兼职带看房之类的。 排版可能有点乱，V 友们凑合看下 [程序员转岗] 房产销 8-13K 售零基础可转高薪转型 上海·徐汇区·漕河泾(近 4 号线上海体育场地铁站) 经验不限 大专 ·招聘专员 一、岗位适配人群 专门面向 Java 开发程序员、后端开发、技术岗从业者开放转型通道！不管你是刚入行的初级开发、瓶颈期中级开发，还是厌倦了 996 加班、技术内卷、薪资封顶的技术人员，都可以无缝转岗。无需销售经验，自带技术思维优势，比传统销售上手更快、成交更稳、发展更优质。 二、为什么推荐 Java 程序员转岗房产销售？ 很多 Java 开发者从业多年，面临年龄内卷、加班严重、…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-07T19:19:05Z"
+        }
+      ]
+    },
+    {
+      "title": "TravTheDev/SalvageProto",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/TravTheDev/SalvageProto"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "TravTheDev/SalvageProto",
+          "url": "https://github.com/TravTheDev/SalvageProto",
+          "summary": "A wave-based FPS survival prototype built in Unity and C#, featuring modular combat, enemy AI, physics interactions, and environmental explosives.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-06T00:09:28Z"
+        }
+      ]
+    },
+    {
+      "title": "msbytewatch/GameSketch",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/msbytewatch/GameSketch"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "msbytewatch/GameSketch",
+          "url": "https://github.com/msbytewatch/GameSketch",
+          "summary": "Local-first game design tool: 5-pillar idea tree (Markdown+Git), doodle canvas, AI read-API + local copilot. No phone-home.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-05T22:15:34Z"
+        }
+      ]
+    },
+    {
+      "title": "Seed The Planet - Playtest [Free] [Adventure]",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://allanzitos.itch.io/seed-the-planet-demo"
+      ],
+      "sources": [
+        "itch-new-popular"
+      ],
+      "items": [
+        {
+          "title": "Seed The Planet - Playtest [Free] [Adventure]",
+          "url": "https://allanzitos.itch.io/seed-the-planet-demo",
+          "summary": "",
+          "source_id": "itch-new-popular",
+          "source_name": "itch.io New & Popular",
+          "published": "Fri, 04 Sep 2026 17:45:44 GMT"
+        }
+      ]
+    },
+    {
+      "title": "carpentry-liu/awesome-astra-3d",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/carpentry-liu/awesome-astra-3d"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "carpentry-liu/awesome-astra-3d",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d",
+          "summary": "129 GPT-6 Astra 3D examples: Blender, Three.js, WebGL, CAD, VRM & games. 44 source projects, 55 demos, 58 full videos. AI 3D 案例与可编辑工程。",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-10T01:31:16Z"
+        }
+      ]
+    },
+    {
+      "title": "nlehnhof/multiplayer-sdk",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/nlehnhof/multiplayer-sdk"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "nlehnhof/multiplayer-sdk",
+          "url": "https://github.com/nlehnhof/multiplayer-sdk",
+          "summary": "TypeScript SDK + MCP server that lets AI coding agents bolt real-time multiplayer onto existing games, wrapping PartyKit by default.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-11T00:55:16Z"
+        }
+      ]
+    },
+    {
+      "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://news.ycombinator.com/item?id=49556698"
+      ],
+      "sources": [
+        "hn-solo-revenue"
+      ],
+      "items": [
+        {
+          "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
+          "url": "https://news.ycombinator.com/item?id=49556698",
+          "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're bi…",
+          "source_id": "hn-solo-revenue",
+          "source_name": "HN: solo founder revenue",
+          "published": "Thu, 03 Sep 2026 20:46:09 +0000"
+        }
+      ]
+    },
+    {
+      "title": "现在还适合转码吗？",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240090"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "现在还适合转码吗？",
+          "url": "https://www.v2ex.com/t/1240090",
+          "summary": "我有个女性朋友 30 出头，头部 211 大学毕业，10 年前毕业后进入了最鼎盛期的地产行业，做商业园区的战略/方案（规划投资、招商运营等等）。10 年前头部地产行业的薪资待遇和社会地位，不比移动互联网差。 现在你们也知道地产行业啥情况，她被裁了也不准备继续找地产行业的工作了（也找不到），想问下大龄转码还有可能性吗？ 之前搞规划投资，很多骗政府/基金钱的事干吐了，下辈子想学点硬技术傍身。 反正我是劝她别学从 0 开始学 java ，搞古法编程，直接上 AI coding agent ，vibe coding 。但是她没啥底气，怕这么弄基础太差，想从 0 开始老老实实学基础。我不知道这么学个半年一年，学好 java 全栈出来能不能找到工作 你们有什么建议吗？",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788771962
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Free scanning app with ML crops, front/back pairing, and stitching",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://timelinescan.com/frontback-scanner/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Free scanning app with ML crops, front/back pairing, and stitching",
+          "url": "https://timelinescan.com/frontback-scanner/",
+          "summary": "I built FrontBack Scanner to quickly digitize printed photos. It automatically detects and crops photos using ML, pairs front and back scans to preserve handwritten notes, and stitches oversized photos from multiple scans. Free Mac and Windows app. Everything runs locally, no account needed. Would love feedback from anyone tackling a box of family photos. This is the part of AI coding that excite…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 08 Sep 2026 21:48:53 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Rayrun – one MCP gateway for the whole company",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://ray.run/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Rayrun – one MCP gateway for the whole company",
+          "url": "https://ray.run/",
+          "summary": "Hey HN, First time building SaaS. Don't be too harsh, but I would appreciate your feedback. I have a strong technical background, but never had an opportunity to design as much as a landing page or think about product positioning. If you see something that's an obvious gap, please take a second to leave a comment. Now, the product: I use MCPs. I've worked in teams that use MCPs. Regardless of whe…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Thu, 10 Sep 2026 00:30:57 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: ZestSSH, my capstone SSH client that people started paying for",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://zestssh.com/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: ZestSSH, my capstone SSH client that people started paying for",
+          "url": "https://zestssh.com/",
+          "summary": "Article URL: https://zestssh.com/ Comments URL: https://news.ycombinator.com/item?id=49650482 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Thu, 10 Sep 2026 21:36:29 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Natively – comms for agents built by agents",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://natively.io"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Natively – comms for agents built by agents",
+          "url": "https://natively.io",
+          "summary": "i have more agents than i have real humans who report to me now. as a serial founder/builder/domain hoarder, i have 5+ projects ongoing at all times and in the AI era, i can spin up a team of agents to work on them simultaneously. so at this point, across my businesses, i have some flavor of a gas city/company-wide ai harness for each along with instinct personally and it seems every SaaS app has…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Thu, 10 Sep 2026 19:53:56 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 找不到支持 Linux 的 Jellyfin/ Emby 客户端？只好自己做了一个",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239882#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 找不到支持 Linux 的 Jellyfin/ Emby 客户端？只好自己做了一个",
+          "url": "https://www.v2ex.com/t/1239882#reply1",
+          "summary": "背景交代一下：平时主力系统是 Linux ，业余最大的爱好就是折腾折腾自建影音，服务器上跑着 Jellyfin 和 Emby 。播放器这块，很多年前就习惯了 MPV ，自己一点点调教了着色器、画质脚本和键位，用顺手了真换不掉。 但长期以来一直有个挺膈应人的痛点： 在桌面端（尤其是 Linux 下），想找个既顺眼、又符合日常使用习惯的客户端，实在太难了。官方客户端不是很好用，自动跳过片头片尾和自动匹配字幕功能几乎没有，而且根本用不上我本地现成的 MPV 配置和各种脚本。 找了一圈没发现完全称心如意的，索性发挥程序员的传统艺能—— 自己造轮子 ，于是就有了 JellyPilot 。 它到底是个啥玩意？ 说白了非常简单：它就是一个原生跨平台（ Linux/macOS/Windows ）的媒体客户端， 只负责连接 Jellyfin/Emby 选片浏览，点击播放直接拉起你本地调教好的独立 MPV…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-06T16:58:05Z"
+        }
+      ]
+    },
+    {
+      "title": "[投资] 没劲的下半场，另外我再吐槽一下这个 513180 这个指数基金，我是真的好奇指数基金你能这么个跌？打开一看就是绿。有没有推荐的板块啊各位大佬们。",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240279#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[投资] 没劲的下半场，另外我再吐槽一下这个 513180 这个指数基金，我是真的好奇指数基金你能这么个跌？打开一看就是绿。有没有推荐的板块啊各位大佬们。",
+          "url": "https://www.v2ex.com/t/1240279#reply1",
+          "summary": "",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-08T01:54:39Z"
+        }
+      ]
+    },
+    {
+      "title": "omnidebuglink/omnidebuglink_godot",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/omnidebuglink/omnidebuglink_godot"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "omnidebuglink/omnidebuglink_godot",
+          "url": "https://github.com/omnidebuglink/omnidebuglink_godot",
+          "summary": "OmniDebugLink client SDK for Godot 4 — remote debugging and AI-driven testing",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-08T00:46:57Z"
+        }
+      ]
+    },
+    {
+      "title": "LeadMagic/gtm-skills",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/LeadMagic/gtm-skills"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "LeadMagic/gtm-skills",
+          "url": "https://github.com/LeadMagic/gtm-skills",
+          "summary": "GTM agent skills for Claude Code, Codex, and GitHub Copilot: sales, marketing, SEO, RevOps, and customer research playbooks with templates.",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-07T01:47:35Z"
+        }
+      ]
+    },
+    {
+      "title": "amirfish1/claude-command-center",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/amirfish1/claude-command-center"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "amirfish1/claude-command-center",
+          "url": "https://github.com/amirfish1/claude-command-center",
+          "summary": "One local dashboard for every Claude Code, Codex, Cursor, Antigravity, and Kilo Code session on your Mac. Spawn in parallel, ship in parallel. Open source, MIT.",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-07T01:41:08Z"
+        }
+      ]
+    },
+    {
+      "title": "KDB-USJP/TrigramVCS",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/KDB-USJP/TrigramVCS"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "KDB-USJP/TrigramVCS",
+          "url": "https://github.com/KDB-USJP/TrigramVCS",
+          "summary": "This is the public Repo for the Trigram VCS Vibe Coding System.",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-08T01:56:00Z"
+        }
+      ]
+    },
+    {
+      "title": "matheme-justyn/ai-zpd",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/matheme-justyn/ai-zpd"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "matheme-justyn/ai-zpd",
+          "url": "https://github.com/matheme-justyn/ai-zpd",
+          "summary": "我的個人 vibe coding 專案模板，使用 OpenCode 進行 AI 協作開發",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-09T01:58:14Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] Claude API 中转 1.9 折起，新人送 10 美元",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241212#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] Claude API 中转 1.9 折起，新人送 10 美元",
+          "url": "https://www.v2ex.com/t/1241212#reply1",
+          "summary": "看过不少 Claude 中转服务，价格都不太透明。aicoding.inc 直接把折扣放明面：1.9 折、2.9 折、4.9 折三档，按实际消耗走，后台每笔都能查。 数万用户跑了大半年，企业客户也有 200 多家。支持 Claude Code 、Cursor 完整功能，国内直连不用梯子，支付也是国内渠道。 新人加社群送 10 美元额度，先试试线路质量和计费是不是真的清楚。 https://aicoding.inc",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-11T01:22:20Z"
+        }
+      ]
+    },
+    {
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/Staatsgeheim/MathKernel"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel Comments URL: https://news.ycombinator.com/item?id=49592366 Points: 36 # Comments: 5",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Mon, 07 Sep 2026 00:21:01 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Generative AI Using Linuxulator and eGPU on FreeBSD",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Generative AI Using Linuxulator and eGPU on FreeBSD",
+          "url": "https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/",
+          "summary": "Article URL: https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/ Comments URL: https://news.ycombinator.com/item?id=49651575 Points: 2 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Thu, 10 Sep 2026 23:32:46 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://ring.com/pages/appstore/video-wall-live"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen",
+          "url": "https://ring.com/pages/appstore/video-wall-live",
+          "summary": "Hi HN, I’m the developer of Video Wall Live. I’m sure everyone has seen those “Video Walls” on big TV screens used by security at stores and other commercial establishments, in order to get a single view of all cameras at once. Seeing one of these setups got me thinking - this would be great to have in my house. I have Ring cameras (hardwired PoE, came with the house). I have TVs. I have smart TV…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sat, 05 Sep 2026 01:08:49 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Personal Context MCP",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://lanes.sh/showcase/personal-context-mcp"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Personal Context MCP",
+          "url": "https://lanes.sh/showcase/personal-context-mcp",
+          "summary": "Article URL: https://lanes.sh/showcase/personal-context-mcp Comments URL: https://news.ycombinator.com/item?id=49571566 Points: 4 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 23:55:02 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://openspender.com/agent-to-agent"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+          "url": "https://openspender.com/agent-to-agent",
+          "summary": "Article URL: https://openspender.com/agent-to-agent Comments URL: https://news.ycombinator.com/item?id=49571563 Points: 6 # Comments: 1",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 23:54:31 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://moadim.io/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Moadim.io – A scheduler for agents",
+          "url": "https://moadim.io/",
+          "summary": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send yo…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 23:50:29 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://timervana.net/browse"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+          "url": "https://timervana.net/browse",
+          "summary": "Hi HN, I’m the creator of TimerVana. It's not just \"another timer app\". The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine multiple timers…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 22:47:59 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Time Wizard",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://huggingface.co/jadidbourbaki/time-wizard"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Time Wizard",
+          "url": "https://huggingface.co/jadidbourbaki/time-wizard",
+          "summary": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a tiny 450M model from Liquid AI to match GPT-5.6 Sol and beat Fable 5.1 on this task. Here’s my fine-tuned open model called Time Wizard. Comments URL: https://news.ycombinator.com/item?id=49570829 Points: 2 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 22:10:39 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Mongotar – Files to Prompt, and Back",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/sebastiancarlos/mongotar"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Mongotar – Files to Prompt, and Back",
+          "url": "https://github.com/sebastiancarlos/mongotar",
+          "summary": "Article URL: https://github.com/sebastiancarlos/mongotar Comments URL: https://news.ycombinator.com/item?id=49570825 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 22:10:16 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Fast rust-based repository launcher for your code projects",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://santiagodevelopment.com/p/2026/9/4/repo-zoo"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Fast rust-based repository launcher for your code projects",
+          "url": "https://santiagodevelopment.com/p/2026/9/4/repo-zoo",
+          "summary": "Article URL: https://santiagodevelopment.com/p/2026/9/4/repo-zoo Comments URL: https://news.ycombinator.com/item?id=49570623 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 21:47:34 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Marketplace for finding craft fairs and vendor events",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.boothscout.com"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Marketplace for finding craft fairs and vendor events",
+          "url": "https://www.boothscout.com",
+          "summary": "Article URL: https://www.boothscout.com Comments URL: https://news.ycombinator.com/item?id=49569940 Points: 3 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 20:38:20 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Set Game for iOS",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://apps.apple.com/us/app/setle/id6801995128"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Set Game for iOS",
+          "url": "https://apps.apple.com/us/app/setle/id6801995128",
+          "summary": "Article URL: https://apps.apple.com/us/app/setle/id6801995128 Comments URL: https://news.ycombinator.com/item?id=49569915 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 20:36:39 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://tesoro.help/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+          "url": "https://tesoro.help/",
+          "summary": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality. The number of communication channels are just insane: - email - Google Docs - Canvas - PDFs - School Messenger - the official school website - 5 different other websites that they d…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 20:29:35 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://playmotodle.com/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+          "url": "https://playmotodle.com/",
+          "summary": "A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think! Comments URL: https://news.ycombinator.com/item?id=49569729 Points: 2 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 04 Sep 2026 20:19:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[酷工作] 技术老登自救群｜数据标注、具身智能视频、技术点评，中年技术人互助群",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239597#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[酷工作] 技术老登自救群｜数据标注、具身智能视频、技术点评，中年技术人互助群",
+          "url": "https://www.v2ex.com/t/1239597#reply0",
+          "summary": "建个群，主要帮帮那些底子好、技术强，但暂时待业在家的中老登们。 最近陆续收到不少企业家的需求：数据标注、具身智能第一人称视频，也有个人想做类似视频，或者想学做某类视频，正好可以对接给大家，赚点实际收入。 这些活儿不是纯耗时间的简单任务。像数据标注需要专业判断，教做视频得有实操经验，技术文章点评、科技类公众号留言这些也得有技术功底，多少有点门槛，不是随便拉个人就能干。 群主要干两件事： 对接有技术门槛的需求，让大家凭本事赚点实在收入； 分享 AI 、技术最新的变现玩法。 入群希望你是： · 真需要帮助、确实待业的老登； · 进群备注“城市+技能”，方便后续匹配需求； · 最好有技术底子，能接得住这些活。 ![二维码]( https://imgdb.io/i/bVigMQk.png )",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-04T15:17:21Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 做了一个专门找“真正全球远程职位”的小网站，欢迎拍砖",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239587#reply2"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 做了一个专门找“真正全球远程职位”的小网站，欢迎拍砖",
+          "url": "https://www.v2ex.com/t/1239587#reply2",
+          "summary": "大家好，最近做了一个很小的远程职位网站： https://realjobworkfromhome.com/?utm_source=v2ex&amp;utm_medium=community&amp;utm_campaign=launch 起因是我在找远程工作时，经常遇到一个问题：职位标题写着 Remote ，点进去才发现只招美国、欧洲某些国家，或者要求固定时区重叠。 所以这个网站不追求职位数量，主要聚焦一种岗位：招聘信息中没有国家、地区或指定时区限制，理论上可以从世界各地申请。 目前有这些功能： - 按职位名称和公司搜索 - 按开发、产品、设计、市场等分类筛选 - 展示薪资、合同类型和截止时间（原始职位提供时） - 直接跳转到雇主招聘页面申请 - 每周邮件精选 网站是英文的，因为目标用户是全球求职者。技术上使用 Astro 做静态生成，职位和公司都有独立页面。 我不想把它包装成“最大的远…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-04T13:49:24Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] ChatGPT plus/Claude 官方正版订阅代充值,欢迎 V 友咨询",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239737#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] ChatGPT plus/Claude 官方正版订阅代充值,欢迎 V 友咨询",
+          "url": "https://www.v2ex.com/t/1239737#reply0",
+          "summary": "充您自己的帐号，可以续费，不绑定任何 ID 和卡。 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅代充值 135 元/月，半小时内充好，可开正规企业发票。 (正版正价 plus 订阅代充，不需要的话请嘴下留情) GPT pro5x 和 pro20x 订阅也可以代充。 可联系绿色软件：big825 已帮 V 友代充超过 100 例，无任何一例发生售后。 Claude pro 订阅是 155 元/月。 可沉浸式全程自助充值: https://55ai.net",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-05T14:16:24Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 做了一个搜索 Twitter/X 书签的小工具，欢迎交流",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239903#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 做了一个搜索 Twitter/X 书签的小工具，欢迎交流",
+          "url": "https://www.v2ex.com/t/1239903#reply0",
+          "summary": "最近把自己长期保存的 Twitter/X 内容重新整理了一遍，做了个轻量的书签搜索工具 Twibird 。它的核心不是再做一个社交客户端，而是把已经保存的帖子当作个人知识库来找。 目前比较关注这几个使用场景： 按关键词找回保存过的帖子和线程 在研究、产品和内容工作中重新利用旧资料 让不断增长的书签更容易组织和回看 我比较想了解的是：大家保存了很多帖子以后，通常是靠 X 自带搜索、浏览器历史，还是会另外维护 Notion / Readwise 之类的索引？你们最希望书签搜索先解决全文检索、标签，还是按来源和时间筛选？ 如果你也有类似需求，可以看看官网： https://twibird.com 这是一个还在持续打磨的小产品，欢迎分享你们处理书签和个人知识库的工作流。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-07T00:57:49Z"
+        }
+      ]
+    },
+    {
+      "title": "外包为什么在大家眼里这么不堪",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239824"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "外包为什么在大家眼里这么不堪",
+          "url": "https://www.v2ex.com/t/1239824",
+          "summary": "本人没有读过大学，学历非全日制大专和非全日制本科，运维相关工作，工作接近 7 年，一共在三个公司待过，进过乙方大厂，都是驻场甲方工作。论技术我不比别人差，非外包工作我也找过，面试都能过，有四份工作都是下 offer 后交资料或者背调被 pass 了。我这个学历是不是只有干外包的命了，我本人对外包倒是不太介意，工资给够就行",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788685005
+        }
+      ]
+    },
+    {
+      "title": "[汽车] 小米澎程系列杀疯了！",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240249#reply85"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[汽车] 小米澎程系列杀疯了！",
+          "url": "https://www.v2ex.com/t/1240249#reply85",
+          "summary": "N70 20.99W 起 N90 Max 26.99W 起 N90 Max 探索版 29.99W 起 升顶帐篷，纯平大床，超长纯电续航、一键成床、9L 大冰箱、热泵空调。 这个造车思路真的吊打传统车企，给 BYD 一辈子也想不出来“婚纱旅拍”这种宣传方案，这是真的痛点。 有点想把 钛 7 换澎程了，唉。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-08T00:47:53Z"
+        }
+      ]
+    },
+    {
+      "title": "从未有过的失业危机袭来了，怎么办",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240069"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "从未有过的失业危机袭来了，怎么办",
+          "url": "https://www.v2ex.com/t/1240069",
+          "summary": "完了，最近是真的有点失业危机感了。 快 10 年的老开发，以前 AI 再怎么火，我其实都没太焦虑。无非就是开发效率提高了，原来一天写完的东西现在半天写完，感觉本质上还是开发在用工具。 但最近公司发生的一些事情，让我感觉好像不是这么回事了。 我们 IT 部门的几个领导，最近也开始玩 Cursor 了。 一开始就是拿一个很小的工单系统练手，结果玩着玩着还真给搞出来了。 开发环境搭建、代码生成、问题排查这些基本都让 Agent 自己搞，领导就一直跟 Cursor 交互。甚至连 Jenkins 发版都搞了个 Skill ，测试环境直接让 Agent 自己发。 他们用 Cursor 也挺猛，号都是自己淘宝买的成品号，一个月能干好几个。 最关键的是，他们搞出来的东西还真不是那种完全没法看的 Demo 。 比如工单首页、各种统计页面、查询功能之类的，至少从表面看起来还真有模有样。 然后上周刚开完月度汇…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788772123
+        }
+      ]
+    },
+    {
+      "title": "[职场话题] 第一次发现裁员离自己并不遥远",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240579#reply4"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[职场话题] 第一次发现裁员离自己并不遥远",
+          "url": "https://www.v2ex.com/t/1240579#reply4",
+          "summary": "昨天下午还在工位上干活的时候，组长突然把我旁边的同事叫走了，我同事当时还在写代码呢，和组长在一个小屋里面谈了一会出来之后又过了两个小时左右，又被+2 给叫走了，然后到了晚上六点半我吃完饭回来发现他桌子上放着一个工作交接单，桌子上所有个人物品都收拾走了，这个时候才知道他发现已经走人了。从谈话签字到走人中间只间隔三个小时左右，这速度好快，我一直觉得我这个同事能力挺强的，只要他不想走肯定不会被裁，平时业务上我有啥不懂的都问他，结果他突然被裁，我自己也有点焦虑了，指不定哪天突然就没工作了",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-09T01:55:55Z"
+        }
+      ]
+    },
+    {
+      "title": "[问与答] 今年 27,已经走到了人生分岔路口，想直降 90%收入从外地辞职工作回老家躺平做小本生意",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240575#reply2"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[问与答] 今年 27,已经走到了人生分岔路口，想直降 90%收入从外地辞职工作回老家躺平做小本生意",
+          "url": "https://www.v2ex.com/t/1240575#reply2",
+          "summary": "背景是这样的，家里有做供应链兼售卖的生意，但前几周发大水把货物都泡发了，亏损了很多成本钱。抵的上我打工好几年积攒的工钱。 加上个人事业情感，一直不顺利，工作强度 996,桃花数每年几乎为 0 。觉得命运就是如此造物弄人，不如看开点直接辞职回家养老。个体户不仅省去租房费，还能换来睡眠自由和精神自由。个人物欲和情欲都没什么追求，只想好好休息。 曾经也怀揣着奋斗致富的梦想，但是被很多意料之外的不可抗力浇灭热情了。近期看了很多成功者的例子，我只能说有天赋和眼界的人活该发财。上天没有眷顾到的人，好好躺平才是快乐。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-09T01:51:33Z"
+        }
+      ]
+    },
+    {
+      "title": "吐槽一下现在的键盘设计....",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240336"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "吐槽一下现在的键盘设计....",
+          "url": "https://www.v2ex.com/t/1240336",
+          "summary": "首先,我承认我的指法可能不算精准, 但是肯定算普通人里 top 级别的了. 以前主要用的 Flico 的机械键盘,87 的,也买过一些 75,64 之类的, 最近买了几个不同样式的键盘, nyphy, keychron, iqunix, 怒喵, lofree 等, 我感觉都不好用. 几个严重影响我手感的问题: 1. 最大的问题是 Backspace, 我写代码经常要 backspace 取消, 现在基本上很难找到一个 Backspace 是在这个区域最右上的, 大部分会在右边和上面还各有一排,经常敲错,虽然 backspace 已经很大了. 2. 右 shift 按键, 我还是习惯 shift 比较长的设定, 这样和我再打一些符号和 shift+enter 等的时候,更容易敲,但是现在的键盘,大部分右 shift 很短,很容易敲成他它右边的方向上按键,比如我用 cli,一个上就让我打的内…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1788838247
+        }
+      ]
+    },
+    {
+      "title": "[iPhone] Apple Watch S12，送一台",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241195#reply9"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[iPhone] Apple Watch S12，送一台",
+          "url": "https://www.v2ex.com/t/1241195#reply9",
+          "summary": "前言 感谢大家一直以来对 VirPulse 的支持与关注，这次我们准备了一份特别的惊喜—— 一台全新未拆封的 Apple Watch S12 ，送给一位幸运用户！ 由 Apple 官网购买，价值 3,399 元 ，提供发票，全国包邮，中奖者无需承担任何领奖费用。 怎么参与？ 符合活动条件的真实付费 Pro 会员，可在 VirPulse 首页进入活动，完成资格校验并报名。 下载 App 不等于报名成功，请以 App 内显示的报名结果为准。 报名截止： 9 月 30 日 10:00 开奖时间： 9 月 30 日 18:00 以上均为北京时间，2026 年。 参与资格、抽奖方式及领奖说明，都整理在下面这张图里，请在参与前完整阅读。 联系我们 有疑问，可以扫描规则图底部的企业微信二维码联系我们。 期待与你一起分享这份惊喜。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-10T23:38:19Z"
+        }
+      ]
+    },
+    {
+      "title": "程序员未来会怎么样? 我们的护城河感觉已经干涸了",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1240910"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "程序员未来会怎么样? 我们的护城河感觉已经干涸了",
+          "url": "https://www.v2ex.com/t/1240910",
+          "summary": "在想一个问题： ``` 用 AI 写代码快一年多了，很多日常开发基本都是丢给 AI 解决了, 基本都是等待它解决问题。 我感觉，未来 1 ～ 2 年程序员这个职业不会消失，但人数会明显减少。 ``` 尤其是这几类： 1. CRUD 、接口、后台管理这类重复开发 2. 初级程序员 3. 外包、驻场、纯需求执行型开发 4. 只熟悉框架和语法，但业务能力比较弱的人 以后可能会变成： - 一个比较强的开发，配合 AI ，干一个团队的活 我现在比较疑惑的是： ``` 如果代码越来越不值钱，那程序员最后真正值钱的到底是什么？ 是业务理解、架构设计、需求拆解、排查问题，还是别的？ ``` 也想听听大家真实的判断： - 你觉得未来 2 年程序员的境况会如何? - 最先被淘汰的是哪一批 (感觉现在前端已经消失了)？ - 如果不会淘汰我们，你觉得 AI 最终替代不了程序员的核心原因是什么？ - 最好别聊太远…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1789005887
+        }
+      ]
+    },
+    {
+      "title": "monotio/agi",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/monotio/agi"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "monotio/agi",
+          "url": "https://github.com/monotio/agi",
+          "summary": "Create, play and remix authentic AGI adventures with AI. An open-source TypeScript engine and browser authoring tools.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-05T23:24:17Z"
+        }
+      ]
+    },
+    {
+      "title": "Immersive-commons/benchcade",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/Immersive-commons/benchcade"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "Immersive-commons/benchcade",
+          "url": "https://github.com/Immersive-commons/benchcade",
+          "summary": "Benchcade: an in-person AI game-building benchmark. Models build the same game from a strict brief; humans play the versions blind on an arcade cabinet and vote (Elo).",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-09T02:00:37Z"
+        }
+      ]
+    },
+    {
+      "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+          "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+          "summary": "Veteran sports commentator John Buccigross claims EA showed him the tech using his voice for in-game commentary in NHL 27.",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "Tue, 08 Sep 2026 18:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Making a GBA game with GPT-6 Astra",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Making a GBA game with GPT-6 Astra",
+          "url": "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra",
+          "summary": "Article URL: https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49613152 Points: 13 # Comments: 2",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Tue, 08 Sep 2026 17:06:14 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[程序员] 公司要报销 pro 20X 了，发票的问题如何解决呢",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239611#reply7"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[程序员] 公司要报销 pro 20X 了，发票的问题如何解决呢",
+          "url": "https://www.v2ex.com/t/1239611#reply7",
+          "summary": "你们是直充还是其它渠道呢。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-04T22:27:56Z"
+        }
+      ]
+    },
+    {
+      "title": "[Codex] 有可以开发票的 GPT pro 充值方案吗？",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1239913#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[Codex] 有可以开发票的 GPT pro 充值方案吗？",
+          "url": "https://www.v2ex.com/t/1239913#reply1",
+          "summary": "公司能报销，同事选择的都是中转站的方案，那个可以开发票。 我想把 gpt 充到自己账号上。",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-07T01:30:13Z"
+        }
+      ]
+    },
+    {
+      "title": "oalanicolas/alanstudio-framework",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 4,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/oalanicolas/alanstudio-framework"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "oalanicolas/alanstudio-framework",
+          "url": "https://github.com/oalanicolas/alanstudio-framework",
+          "summary": "Alan Studios Framework — harness thin para criar e evoluir games com IA. Não é um motor.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-09T01:27:56Z"
+        }
+      ]
+    },
+    {
+      "title": "GPT-6 Astra on Vercel AI Gateway",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://vercel.com/ai-gateway/models/gpt-6-astra"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "GPT-6 Astra on Vercel AI Gateway",
+          "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+          "summary": "Article URL: https://vercel.com/ai-gateway/models/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49571548 Points: 3 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 04 Sep 2026 23:51:38 +0000"
+        }
+      ]
+    },
+    {
+      "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://twitter.com/vercel_dev/status/2095957372850389186"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+          "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
+          "summary": "Article URL: https://twitter.com/vercel_dev/status/2095957372850389186 Comments URL: https://news.ycombinator.com/item?id=49569267 Points: 2 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 04 Sep 2026 19:40:25 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://sageling.ai/"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+          "url": "https://sageling.ai/",
+          "summary": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, I don't wanna pay a bunch of money for it, and the $20 plans run out real fast. 2. I'm dealing with…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 04 Sep 2026 19:30:31 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.phntmcore.com/"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+          "url": "https://www.phntmcore.com/",
+          "summary": "I've spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I've built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the option for a boosted mode to reach claude for more demanding tasks. The idea is to have your own loc…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Sat, 05 Sep 2026 21:03:22 +0000"
+        }
+      ]
+    },
+    {
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 97 # Comments: 114",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Mon, 07 Sep 2026 18:24:32 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Full feature ECS game engine for TypeScript",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/oasys-works/oecs"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Full feature ECS game engine for TypeScript",
+          "url": "https://github.com/oasys-works/oecs",
+          "summary": "I've been working on this project for 11 months. This started with me making a game on the browser and a study on the ECS engine. However, I found that I needed a lot more performance and so the hunt began for a solution. I present to you a version I'm finally happy with. It's got all the features you'd need to make complex games and the architecture that has minimal GC pressure. Please try it ou…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Wed, 09 Sep 2026 01:00:15 +0000"
+        }
+      ]
+    }
+  ]
+}
