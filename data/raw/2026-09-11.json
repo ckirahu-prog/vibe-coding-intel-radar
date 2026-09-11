@@ -1,0 +1,544 @@
+[
+  {
+    "id": "7c5ace3b28038c96",
+    "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
+    "url": "https://boldagents.co",
+    "summary": "Article URL: https://boldagents.co Comments URL: https://news.ycombinator.com/item?id=49651788 Points: 5 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Fri, 11 Sep 2026 00:03:56 +0000"
+  },
+  {
+    "id": "ef5eb7d516fdbf74",
+    "title": "Generative AI Using Linuxulator and eGPU on FreeBSD",
+    "url": "https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/",
+    "summary": "Article URL: https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/ Comments URL: https://news.ycombinator.com/item?id=49651575 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:32:46 +0000"
+  },
+  {
+    "id": "fc74f29287a07fc1",
+    "title": "nlehnhof/multiplayer-sdk",
+    "url": "https://github.com/nlehnhof/multiplayer-sdk",
+    "summary": "TypeScript SDK + MCP server that lets AI coding agents bolt real-time multiplayer onto existing games, wrapping PartyKit by default.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T00:55:16Z"
+  },
+  {
+    "id": "8836fff0ac0563cc",
+    "title": "Show HN: TIL in AI",
+    "url": "https://buildyard.ai/til",
+    "summary": "Article URL: https://buildyard.ai/til Comments URL: https://news.ycombinator.com/item?id=49652235 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Fri, 11 Sep 2026 01:00:20 +0000"
+  },
+  {
+    "id": "6440e470206abee5",
+    "title": "Show HN: Botbin.io – Pastebin for AI agent artifacts with MCP",
+    "url": "https://botbin.io/?mcp=true",
+    "summary": "Article URL: https://botbin.io/?mcp=true Comments URL: https://news.ycombinator.com/item?id=49652200 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Fri, 11 Sep 2026 00:56:02 +0000"
+  },
+  {
+    "id": "f6cf23c381102cb1",
+    "title": "Show HN: Learn programming by building something you want",
+    "url": "https://codeset.ai/",
+    "summary": "Article URL: https://codeset.ai/ Comments URL: https://news.ycombinator.com/item?id=49651917 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Fri, 11 Sep 2026 00:20:38 +0000"
+  },
+  {
+    "id": "ad1e107f5bb8edfd",
+    "title": "Show HN: Temporal Parser – A compiler-style parser for date/time strings",
+    "url": "https://lxcid.com/tools/temporal-playground/",
+    "summary": "Article URL: https://lxcid.com/tools/temporal-playground/ Comments URL: https://news.ycombinator.com/item?id=49651719 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:55:07 +0000"
+  },
+  {
+    "id": "a453acfe099711ea",
+    "title": "Show HN: Reviving my $15,000 browser arcade with Astra",
+    "url": "https://eggverse.co/",
+    "summary": "Back in 2021, I put roughly $15,000 into a project called Anbu. The original idea was a decentralized cloud gaming platform, but I scaled it down to what I could afford with no cofounders... a browser arcade where people could play games with friends. I designed the platform myself in Figma, hand-drew the original art and logos, and commissioned development, pixel art, music, sound effects and so…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:43:01 +0000"
+  },
+  {
+    "id": "1cab9ddeb629b710",
+    "title": "Show HN: Socks Proxy for AI Agents",
+    "url": "https://x402socks.com/",
+    "summary": "I've built a socks5 proxy especially for AI agents, currently there are exit points in east and west US, central EU and east Asia. The payment for the service is settled by the X402 protocol, with USDC on circle/base. You can also purchase access via crypto on the webpage for humans, but the key focus is for autonomous agents. Comments URL: https://news.ycombinator.com/item?id=49651636 Points: 2…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:42:40 +0000"
+  },
+  {
+    "id": "b556cee3b40dc184",
+    "title": "Show HN: PRBar see your open GitHub PR count in macOS menu bar",
+    "url": "https://github.com/sburl/prBar",
+    "summary": "Article URL: https://github.com/sburl/prBar Comments URL: https://news.ycombinator.com/item?id=49651510 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:26:05 +0000"
+  },
+  {
+    "id": "54c80c77a7654130",
+    "title": "Show HN: Papiers.ai, a new workspace for reading and research",
+    "url": "https://papiers.ai/",
+    "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 23:07:33 +0000"
+  },
+  {
+    "id": "88b25e4f0d988ec9",
+    "title": "Show HN: Cadenya – An Agent Runtime",
+    "url": "https://www.cadenya.com/",
+    "summary": "My name is Robert, and I'm the founder of Cadenya, an agent runtime. Cadenya is not like other managed solutions. Instead, it uses your API or MCP servers as the tools in your agentic loop, which also is managed. Cadenya is also agnostic to the model provider. Wire up OpenRouter, or any OpenAI compatible endpoint, and it will use it for inference. It also supports agent variations - where Cadenya…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 22:52:18 +0000"
+  },
+  {
+    "id": "582217bdcb28377b",
+    "title": "Show HN: Papiers.ai, a new workspace for reading and research",
+    "url": "https://twitter.com/sighjith/status/2098147463114932696",
+    "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 22:42:17 +0000"
+  },
+  {
+    "id": "88bfa60d2ba2a767",
+    "title": "Show HN: Vector transfer project, replicate vectors/metadata across databases",
+    "url": "https://github.com/Polign/vector-transfer",
+    "summary": "Article URL: https://github.com/Polign/vector-transfer Comments URL: https://news.ycombinator.com/item?id=49651027 Points: 3 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 22:31:44 +0000"
+  },
+  {
+    "id": "72b604b029f3cb7c",
+    "title": "Show HN: ZestSSH, my capstone SSH client that people started paying for",
+    "url": "https://zestssh.com/",
+    "summary": "Article URL: https://zestssh.com/ Comments URL: https://news.ycombinator.com/item?id=49650482 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 21:36:29 +0000"
+  },
+  {
+    "id": "a7bafa43ed5ee9ab",
+    "title": "Show HN: An interactive 3D Pattern Language made with Astra",
+    "url": "https://livedin.co.uk/design-patterns/",
+    "summary": "Article URL: https://livedin.co.uk/design-patterns/ Comments URL: https://news.ycombinator.com/item?id=49650474 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 21:35:32 +0000"
+  },
+  {
+    "id": "b9014194855b04fc",
+    "title": "Show HN: Stitchwink – Cross-stitch pattern making with AI",
+    "url": "https://stitchwink.com",
+    "summary": "My wife has been cross stitching since she was a child and I wanted to make a tool where she could generate her own custom patterns: https://stitchwink.com/ You can try chatgpt or other AI tools but the problem is that they don't create real patterns. They look good at first glance but it's not actually a physically realizable pattern when you look at the details. The way it works is pretty simpl…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 21:15:34 +0000"
+  },
+  {
+    "id": "543b03db6b660dd7",
+    "title": "Show HN: CodePress – Save $50k+ a month on Cloud Agents",
+    "url": "https://codepress.dev/",
+    "summary": "Since agents have taken companies + enterprise by storm, we've been working on workflows to get the most out of agents that get work done. Along the way, we built our own agent cloud where we ping these agents from any surface we work in, like GitHub or Slack. This lets us run tons of agents at a time, and as everyone knows, running agents like this could add up in inference cost! So we built som…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 20:31:00 +0000"
+  },
+  {
+    "id": "23b9979c0e5bb09d",
+    "title": "Show HN: Charter – Operate production-safe agents that run on your own infra",
+    "url": "https://github.com/boundflow/charter",
+    "summary": "Even though everyone is talking about AI agents doing everything for them at work, many companies still aren't using autonomous agents to automate real operational work internally. Usually it's because of the complexity of bootstrapping an agent from scratch that’s production-safe (won’t spend all your company’s budget, burn through compute costs because it runs too often, or call a tool that bre…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 20:30:46 +0000"
+  },
+  {
+    "id": "ce13120eb5e3a051",
+    "title": "Show HN: WordPress security skills for coding agents",
+    "url": "https://github.com/wpultimatesecurity/WordPress-Security-Skills",
+    "summary": "Article URL: https://github.com/wpultimatesecurity/WordPress-Security-Skills Comments URL: https://news.ycombinator.com/item?id=49649733 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 20:28:15 +0000"
+  },
+  {
+    "id": "3d8d564d0f3c3a5c",
+    "title": "Show HN: I created a list of projects with embeds",
+    "url": "https://embedcatalog.com",
+    "summary": "Hi HN! I created a pet project that I’d like to share with you. It’s a project catalog, but it has a cool feature. It generates badges for each project that you can add to your website or readme, and they will work. Right now, there aren’t many badges, but I plan to add a few more (I just don’t know which ones yet). I would be very grateful if you could share some ideas in the comments about what…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 20:22:16 +0000"
+  },
+  {
+    "id": "11b14abd0311695d",
+    "title": "Show HN: Natively – comms for agents built by agents",
+    "url": "https://natively.io",
+    "summary": "i have more agents than i have real humans who report to me now. as a serial founder/builder/domain hoarder, i have 5+ projects ongoing at all times and in the AI era, i can spin up a team of agents to work on them simultaneously. so at this point, across my businesses, i have some flavor of a gas city/company-wide ai harness for each along with instinct personally and it seems every SaaS app has…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 19:53:56 +0000"
+  },
+  {
+    "id": "00ebe5c205eda76d",
+    "title": "Show HN: Shine – a terminal Markdown previewer and docs linter",
+    "url": "https://github.com/Nithish-Yenaganti/shine",
+    "summary": "Article URL: https://github.com/Nithish-Yenaganti/shine Comments URL: https://news.ycombinator.com/item?id=49649351 Points: 1 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "Thu, 10 Sep 2026 19:53:33 +0000"
+  },
+  {
+    "id": "f6e210526268605b",
+    "title": "AntoineToussaint/lazybox",
+    "url": "https://github.com/AntoineToussaint/lazybox",
+    "summary": "A reactive PR inbox in your terminal — events flow to you, each task a session with an embedded agent terminal.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T02:00:15Z"
+  },
+  {
+    "id": "170ec27e59bce070",
+    "title": "mariapaularm/EcoTrack",
+    "url": "https://github.com/mariapaularm/EcoTrack",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:59:02Z"
+  },
+  {
+    "id": "907385cc7334cdc5",
+    "title": "qhkly/webclaw",
+    "url": "https://github.com/qhkly/webclaw",
+    "summary": "webcode",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:54:31Z"
+  },
+  {
+    "id": "dd36a1b8a5d7933f",
+    "title": "BaiShuanghao/my_arXiv_daily",
+    "url": "https://github.com/BaiShuanghao/my_arXiv_daily",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:54:09Z"
+  },
+  {
+    "id": "674a422f68bc72d5",
+    "title": "ChanceYu/front-end-rss",
+    "url": "https://github.com/ChanceYu/front-end-rss",
+    "summary": ":orange_book: 根据 RSS 订阅最新前端技术文章并自动分类",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:47:17Z"
+  },
+  {
+    "id": "030ebc0e9013ddee",
+    "title": "ChristianAlfonsoRomeroMartinez/Configuraci-n-del-Ecosistema-y-Primer-Vibe-",
+    "url": "https://github.com/ChristianAlfonsoRomeroMartinez/Configuraci-n-del-Ecosistema-y-Primer-Vibe-",
+    "summary": "SWNT",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:44:36Z"
+  },
+  {
+    "id": "39ebfa51f82d3b83",
+    "title": "[程序员] 程序员的春天来了",
+    "url": "https://www.v2ex.com/t/1241220#reply1",
+    "summary": "agent 时代 公司开始招人了 程序员，懂编程，懂业务，拥抱 AI, vibe coding 能力强。 公司做 ai agent 开发，主打的是 私有化部署 有兴趣的可以 邮箱联系： dividi_z@163.com",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:38:22Z"
+  },
+  {
+    "id": "9fd8e0ff07292470",
+    "title": "[问与答] ChatGPT 个人账号云端会储存 Codex CLI 和客户端对话记录吗？",
+    "url": "https://www.v2ex.com/t/1241219#reply3",
+    "summary": "ChatGPT 个人账号云端会储存 Codex CLI 和 Codex 客户端对话记录吗，还是都储存在本地上？ 如果储存在云端，哪里可以查看和导出数据呢？ 主要考虑隐私问题，ChatGPT 账号不是自己注册的",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:37:13Z"
+  },
+  {
+    "id": "ca84babe7ef222a0",
+    "title": "[推广] Claude API 中转 1.9 折起，新人送 10 美元",
+    "url": "https://www.v2ex.com/t/1241212#reply1",
+    "summary": "看过不少 Claude 中转服务，价格都不太透明。aicoding.inc 直接把折扣放明面：1.9 折、2.9 折、4.9 折三档，按实际消耗走，后台每笔都能查。 数万用户跑了大半年，企业客户也有 200 多家。支持 Claude Code 、Cursor 完整功能，国内直连不用梯子，支付也是国内渠道。 新人加社群送 10 美元额度，先试试线路质量和计费是不是真的清楚。 https://aicoding.inc",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-11T01:22:20Z"
+  },
+  {
+    "id": "3d51026ffb2e961f",
+    "title": "[iPhone] Apple Watch S12，送一台",
+    "url": "https://www.v2ex.com/t/1241195#reply9",
+    "summary": "前言 感谢大家一直以来对 VirPulse 的支持与关注，这次我们准备了一份特别的惊喜—— 一台全新未拆封的 Apple Watch S12 ，送给一位幸运用户！ 由 Apple 官网购买，价值 3,399 元 ，提供发票，全国包邮，中奖者无需承担任何领奖费用。 怎么参与？ 符合活动条件的真实付费 Pro 会员，可在 VirPulse 首页进入活动，完成资格校验并报名。 下载 App 不等于报名成功，请以 App 内显示的报名结果为准。 报名截止： 9 月 30 日 10:00 开奖时间： 9 月 30 日 18:00 以上均为北京时间，2026 年。 参与资格、抽奖方式及领奖说明，都整理在下面这张图里，请在参与前完整阅读。 联系我们 有疑问，可以扫描规则图底部的企业微信二维码联系我们。 期待与你一起分享这份惊喜。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": "2026-09-10T23:38:19Z"
+  },
+  {
+    "id": "043bafa6e6ffda78",
+    "title": "如何充值 chatgpt？ 救救孩子吧",
+    "url": "https://www.v2ex.com/t/1240984",
+    "summary": "首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。 上个月，注册了一个新的 apple id ，这个 apple id 可能触发了风控。现在必须要求绑定美区账号对应的地址的信用卡。 当然我是不可能有这张信用卡的（中国人，没出过国）。 现在这个美国 apple id 都无法在 apple store 中下载免费软件。 目前 Google Pay 还没试过，因为没有安卓设备。 这里求助各位大帅哥大美女们，还有什么其他可行的方案吗？",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789013355
+  },
+  {
+    "id": "98bb8ff1e81bbc16",
+    "title": "现在教师节收礼已经这么明目张胆了吗",
+    "url": "https://www.v2ex.com/t/1240939",
+    "summary": "小孩在幼儿园，昨天老师就直接和小孩子们说明天教师节了你们准备送老师什么礼物。 今天听其他家长说送各种京东卡盒马卡蟹卡化妆品之类五花八门的。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789008928
+  },
+  {
+    "id": "7cb367fb32f488a4",
+    "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
+    "url": "https://www.v2ex.com/t/1241018",
+    "summary": "自用 API 中转站分享，注册自动送：**$1 ，留下用户 ID 再送 $10**。 用户 ID ，在**左上角 LOGO 旁边**查看。 付费用户，升级为更优惠的 SVIP**限时倍率 0.02**，赠送余额会折算成倍率差对应余额。 **活动时间截至**：2026/9/11 00:00:00 目前**支持注册邮箱后缀**：qq ，163 ，gmail **网站**： https://aiask.me/ 这半年里，我们始终坚持：**稳定优先、服务优先、相对有性价比** 完善了文档与服务网关，并有客服可以远程协助配置。整体服务体验还算不错，退款也很快。 **TG：**@aiask_me",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789020809
+  },
+  {
+    "id": "d44df803cadfa60b",
+    "title": "AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）",
+    "url": "https://www.v2ex.com/t/1240959",
+    "summary": "默认版本就含主动降噪了，999 元 加 150 元获得： - 更长续航（ 4 小时 -> 5 小时） - 耳机柄调节音量 - 无线充电盒 下单了 1149 的版本，18 号去店里取，希望戴着舒服",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789010477
+  },
+  {
+    "id": "ecd551add9db9787",
+    "title": "程序员未来会怎么样? 我们的护城河感觉已经干涸了",
+    "url": "https://www.v2ex.com/t/1240910",
+    "summary": "在想一个问题： ``` 用 AI 写代码快一年多了，很多日常开发基本都是丢给 AI 解决了, 基本都是等待它解决问题。 我感觉，未来 1 ～ 2 年程序员这个职业不会消失，但人数会明显减少。 ``` 尤其是这几类： 1. CRUD 、接口、后台管理这类重复开发 2. 初级程序员 3. 外包、驻场、纯需求执行型开发 4. 只熟悉框架和语法，但业务能力比较弱的人 以后可能会变成： - 一个比较强的开发，配合 AI ，干一个团队的活 我现在比较疑惑的是： ``` 如果代码越来越不值钱，那程序员最后真正值钱的到底是什么？ 是业务理解、架构设计、需求拆解、排查问题，还是别的？ ``` 也想听听大家真实的判断： - 你觉得未来 2 年程序员的境况会如何? - 最先被淘汰的是哪一批 (感觉现在前端已经消失了)？ - 如果不会淘汰我们，你觉得 AI 最终替代不了程序员的核心原因是什么？ - 最好别聊太远…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789005887
+  },
+  {
+    "id": "f970ede1f95aeb5f",
+    "title": "ai 编程目前依然是普通人最好的杠杆",
+    "url": "https://www.v2ex.com/t/1240993",
+    "summary": "和投资、实体生意、打工相对比 投资你可能需要盯盘，需要经常关注一些行业资讯 实体生意成本太重，风险很大 打工，以时间换钱，加班越多，去医院的概率越大。 目前，ai 编程目前依然是普通人最好的杠杆 我用 ai 编程做了十几个网站，虽然只有 3 个有稳定营收，但都是被动收入，成本可控，还都是线上生意。 还不需要购买服务器，使用 cf 全家桶就可以很快搭建一个网站。 而且现在 ai 模型这么强大，想要复刻一个同行网站，简直闭着眼就能做。 就比如，gpt image 2.5 已经上线了，找找 api ，完全可以做一个套壳站赚点小钱。 还能收点美刀，何乐不为？ 这个帖子发到程序员节点， 是因为我知道大部分程序员技术很牛，但做的东西都是闭门造车，没有从市场角度出发 你们相信吗？ 评论区见。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789015311
+  },
+  {
+    "id": "9fb7b7d79f67d39b",
+    "title": "你们觉得现在用哪个技术栈还重要吗？",
+    "url": "https://www.v2ex.com/t/1240932",
+    "summary": "你们觉得现在技术栈还重要吗？ 如选型时，AI 可能更擅长 React ，但是国内过往技术环境来说 Vue 可能更流行，你们现在会选择哪个？",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789008288
+  },
+  {
+    "id": "b61772145a90d327",
+    "title": "一直有个疑问，感觉用 cursor 的人很少",
+    "url": "https://www.v2ex.com/t/1241125",
+    "summary": "身边人大多都是 codex ，少量 ClaudeCode ，cursor 除了我自己以外我就只知道 1 个人在用，论 v2 上讨论热度，cursor 也是几乎查无此人，好像只有我一个人用的非常爽。 我自己是 60 美刀订阅，公司报销正好覆盖（公司内部主要是 codebuddy ，不爱用的人有 500 块钱报销额度），我给我老婆也搞了个 cursor20 美刀的订阅日常办公用（非程序员）。 我现在用量大概是这样的，opus5 做 plan ，grok4.6 extrahigh 做执行，工作量大概是一天忙到没空摸鱼的程度，先不论 cursor 的 other model 的消耗，就 cursor model 的消耗我 1 天才 1%，几乎等于用不完，就 cursor grok4.6 extra high 的能力来说，我觉得是非常好用的，配合 skill 和 agent.md ，工作上的东西基…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-09-11T01:59:48.321486+00:00",
+    "published": 1789037092
+  }
+]
