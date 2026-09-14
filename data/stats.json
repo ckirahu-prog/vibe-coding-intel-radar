@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 351,
+      "hits": 352,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,7 +31,7 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1711,
+      "hits": 1731,
       "errors": 0,
       "last_error": null
     },
@@ -41,12 +41,12 @@
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 142,
+      "hits": 143,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 879,
+      "hits": 887,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -56,14 +56,14 @@
       "last_error": "HTTPSConnectionPool(host='www.indiehackers.com', port=443): Read timed out. (read timeout=30)"
     },
     "hn-ai-game-tools": {
-      "hits": 139,
+      "hits": 141,
       "errors": 16,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
       "hits": 48,
-      "errors": 13,
-      "last_error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=gamedev+OR+indie+game+OR+game+engine&points=5 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fedefe78d70>, 'Connection to hnrss.org timed out. (connect timeout=30)'))"
+      "errors": 14,
+      "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
     "reddit-aigamedev": {
       "hits": 121,
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 689,
+      "hits": 695,
       "errors": 0,
       "last_error": null
     },
@@ -116,7 +116,7 @@
       "last_error": null
     },
     "itch-new-popular": {
-      "hits": 31,
+      "hits": 32,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 626,
+      "hits": 635,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-09-13T02:03:03.518564+00:00"
+  "last_updated": "2026-09-14T02:18:45.567346+00:00"
 }
