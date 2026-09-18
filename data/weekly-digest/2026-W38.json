@@ -1,0 +1,2201 @@
+{
+  "generated_at": "2026-09-18T23:58:39.753425+00:00",
+  "week": "2026-W38",
+  "period_days": 7,
+  "source_files": [
+    "2026-09-12.json",
+    "2026-09-13.json",
+    "2026-09-14.json",
+    "2026-09-15.json",
+    "2026-09-16.json",
+    "2026-09-17.json",
+    "2026-09-18.json"
+  ],
+  "totals": {
+    "raw_items": 360,
+    "clusters": 360,
+    "multi_source_clusters": 0,
+    "selected": 80
+  },
+  "selected_by_topic": {
+    "AI 做游戏": 30,
+    "副业机会 · 痛点": 24,
+    "Vibe Coding 商业化": 33
+  },
+  "clusters": [
+    {
+      "title": "4fatesstudios/project-warden",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 17,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/4fatesstudios/project-warden"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "4fatesstudios/project-warden",
+          "url": "https://github.com/4fatesstudios/project-warden",
+          "summary": "Turn-based RPG built in Unity featuring procedural environments, custom developer tools, and experimental local AI-driven character dialogue.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-16T01:00:15Z"
+        }
+      ]
+    },
+    {
+      "title": "wgt19861219/godot-mcp-enhanced",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 16,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/wgt19861219/godot-mcp-enhanced"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "wgt19861219/godot-mcp-enhanced",
+          "url": "https://github.com/wgt19861219/godot-mcp-enhanced",
+          "summary": "Enhanced MCP server for Godot 4.5-4.7: 33 tools / 199 actions, 3-layer architecture (headless + editor + game bridge), secure sandbox, recording & frame-verify, cross-version CI.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-13T01:45:53Z"
+        }
+      ]
+    },
+    {
+      "title": "[商业模式] 80 亿美金货车企业 Palantir FDE 破局项目分享",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 16,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242275#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[商业模式] 80 亿美金货车企业 Palantir FDE 破局项目分享",
+          "url": "https://www.v2ex.com/t/1242275#reply0",
+          "summary": "感悟：AI 落地就得想 Palantir FDE 这样干。 嘉宾：Palantir 软件工程师 Ankit 、Trinity Industries 首席执行官 Jean Savage ，从业务侧讲痛点和落地诉求 Trinity 是北美最大的铁路货车租赁车队所有者之一：造车、养车，也给客户做数字化服务。车队约 14 万辆，租赁资产规模约 80 亿美元。双方已经合作过几个项目，这次专门演示 AI FDE 要解决的问题 货车在北美各地跑，维修要遵守 美国铁路协会的互换维修、成本和标准工时规则。Trinity 每个月会收到成千上万条维修记录 / 发票，要核对：价格对不对、工时对不对、有没有重复计费。按 AAR 规定，发现问题只有 6 个月 纠错窗口，趋势异常往往抓不及时。若收回内部做，要拉 6 个团队，大约要一年，人手不够。 一年多前他们在换一套用了 25 年 的管理系统（后文称 AMS ）。外…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-15T15:54:41Z"
+        }
+      ]
+    },
+    {
+      "title": "LikeMyProject/YourAIFramework",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 14,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/LikeMyProject/YourAIFramework"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "LikeMyProject/YourAIFramework",
+          "url": "https://github.com/LikeMyProject/YourAIFramework",
+          "summary": "Your AI Framework - a general-purpose Unity game framework (C#, Unity 6000.5+) with LLM-driven AI as an OPTIONAL module: module center, event bus, data tables, asset management, localization, audio, networking, entities, hot update. AI is an add-on, never a prerequisite. Zero core dependencies.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-18T01:52:07Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] 2026 最强中转站 国际站已上线！",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 14,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242568#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] 2026 最强中转站 国际站已上线！",
+          "url": "https://www.v2ex.com/t/1242568#reply0",
+          "summary": "🚀 2026 年最强 AI 中转站 https://ai-kele.kukuai.fyi 彻底告别翻墙+封号烦恼，月省几千不是梦！ 你还在为这些 AI 痛点抓狂吗？ •想用 GPT-6 / Claude-fable-5 ，却被墙挡住，延迟高、容易封号？ •海外信用卡绑定失败，充值动辄受阻？ •API 调用成本太高，小项目直接亏本？ •想批量转卖 AI 服务赚钱，却找不到靠谱上游？ https://ai-kele.kukuai.fyi 来了！ 国内热门 AI API 中转站，一站式解决以上所有问题，已成为无数开发者、企业和副业党的救星！ 📷 核心优势一览 1. 国内直连 · 零翻墙 无需任何科学上网工具，延迟低至毫秒级，稳定如本地调用，封号风险大幅降低，适合长期高频使用。 2. 支付超友好」 支持支付宝、微信等本土支付，一键充值。批量采购价格更低，转卖盈利空间巨大！ 3. 模型全覆盖 ·…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-17T00:44:04Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Demorta – Create interactive demos. Don't just describe your product",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 13,
+      "multi_source": false,
+      "urls": [
+        "https://demorta.com/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Demorta – Create interactive demos. Don't just describe your product",
+          "url": "https://demorta.com/",
+          "summary": "Show your product. Don't just describe it. I built Demorta to make it easier for SaaS founders and product teams to create interactive demos of their products. Capture your SaaS as HTML or screenshots and turn it into a shareable interactive demo , that you could later embed easily into your website or share it with customers . Comments URL: https://news.ycombinator.com/item?id=49689726 Points: 1…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sun, 13 Sep 2026 23:13:33 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Picxel – Turn reference images into pixel-art game assets",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/See-Sol-Lab/Picxel"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Picxel – Turn reference images into pixel-art game assets",
+          "url": "https://github.com/See-Sol-Lab/Picxel",
+          "summary": "Picxel helps indie game developers redraw references as recognizable game assets. GPT interprets the subject and directs the redraw; local algorithms turn the result into a precise pixel grid. Developed and tested primarily with GPT in Codex. Export transparent 32×32, 64×64 or 128×128 PNGs, with up to 16 colors per sprite. Use single-image reveal previews or batches of up to 20 images, in an Engl…",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Wed, 16 Sep 2026 13:02:02 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+          "url": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
+          "summary": "Hey everyone, This is my first time posting on Show HN, so hello there. Back in March, I launched my first app on the App Store. It was a notes app that uses Apple's on-device foundation model to organize your notes for you, and I called it Fog. And boy did I learn a lot. Looking at the notes app category and how saturated it currently is, I wanted to try something different. Privacy is #1, so no…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sat, 12 Sep 2026 00:53:26 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 独立开发又折腾了个 AI 视频小站， V 友登录送一次生成",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241453#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 独立开发又折腾了个 AI 视频小站， V 友登录送一次生成",
+          "url": "https://www.v2ex.com/t/1241453#reply0",
+          "summary": "最近又折腾了个小站： https://referencetovideo.net 主要是做 reference to video 。 起因是我自己最近一直在玩 AI 视频，发现现在不少模型已经不只是文生视频、图生视频了，开始可以塞参考图、参考视频、音频进去。 但每家支持的东西又不太一样，用起来挺乱的。 所以就想干脆做个站，把这些东西放到一个地方。 现在大概就是： 上传图片 / 视频 / 音频 写 prompt 选模型 生成视频 目前还比较早期，边做边改。 我自己比较常用的场景是： 拿人物图继续生成视频 产品图做广告 拿一段视频参考动作或者镜头 几种素材混着用 技术栈还是比较常规： Next.js PostgreSQL Stripe Vercel 再接一些视频模型 API 这次也给 V 友留了点福利。 注册登录送一次免费生成次数 ，不用付费，可以直接试一下。 地址： https://refe…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-11T15:31:09Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://petrelvoyage.com/app"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+          "url": "https://petrelvoyage.com/app",
+          "summary": "For my solo food pilgrimage to the Basque Country, I pre-arranged flights in/out of Bilbao, Guggenheim Museum tickets, Michelin Guide restaurant reservations, bus tickets to San Sebastian and Saint-Jean-de-Luz, walking food tours and hotel reservations in each city, and a long list of pintxo spots to hit with notes on each one's food specialty. Most of this was poorly organized (manually) in my p…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sun, 13 Sep 2026 21:47:09 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Pinocchio: Harness for Verifiable Work",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://pinocchio.goedelmachines.com"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Pinocchio: Harness for Verifiable Work",
+          "url": "https://pinocchio.goedelmachines.com",
+          "summary": "Hey HN, we've been trying to solve LLM Hallucinations. So we built Pinocchio. Pinocchio is a research preview for AI outputs with provenance and verification built in. Give it a task and source material. For numerics, the values used in the computation are carried directly from the source rather than regenerated by the model across reasoning steps. Pinocchio records the computations and derivatio…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sun, 13 Sep 2026 19:12:51 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Helping agents break out of their sandboxes in a monitorable way",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://sparrowsystems.co/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Helping agents break out of their sandboxes in a monitorable way",
+          "url": "https://sparrowsystems.co/",
+          "summary": "Article URL: https://sparrowsystems.co/ Comments URL: https://news.ycombinator.com/item?id=49734386 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Wed, 16 Sep 2026 23:22:24 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 自动追番工具更新：适配 OpenList 和 NAS 迅雷，还推出了支持弹幕、漫画、小说的 TV 客户端",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242867#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 自动追番工具更新：适配 OpenList 和 NAS 迅雷，还推出了支持弹幕、漫画、小说的 TV 客户端",
+          "url": "https://www.v2ex.com/t/1242867#reply0",
+          "summary": "项目简介 这是我为了满足个人追番追剧 + 看弹幕需求做的本地媒体库管理工具，之前在 V 站 发帖 分享过。 没看过之前帖子的朋友，可以把它理解成一个可高度定制的资源聚合与媒体库管理工具：通过可视化工作流接入数据源，支持影视、漫画、小说的搜索预览，支持自动下载、入库刮削和 Web 端直接播放。 本体更新 由于最近忙着开发电视端和折腾其它项目，本体没怎么更新，主要是优化了下载体验： 支持配置 NAS 迅雷和 OpenList 作为下载器。可通过 OpenList 对接网盘离线下载，完成后自动把文件拉回本地。 下载器加了简易配置，选择预设后直接填写必要参数，也保留了 YAML 编辑。 支持在媒体库页面给整部番剧匹配各集弹幕。 Web 端弹幕支持重复合并、正则过滤。 TV 客户端 另外就是这段时间还做了一个原生 Android TV 客户端，和本体不同，纯 Vibe Coding 开发，也是我首…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-18T02:00:49Z"
+        }
+      ]
+    },
+    {
+      "title": "[程序员] 请问注销美国公司通过什么方式比较好",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 11,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242856#reply2"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[程序员] 请问注销美国公司通过什么方式比较好",
+          "url": "https://www.v2ex.com/t/1242856#reply2",
+          "summary": "原因 去年看到网上很多人在讨论独立开发、出海做产品，自己也想着动手尝试一下，于是做了一个 AI 相关订阅的网站。 因为网站需要接入支付，今年 1 月份的时候通过 Stripe Atlas 注册了一家美国 Delaware LLC ，主要也是为了方便接入 Stripe 收款。 折腾了大半年，网站虽然一直在维护，但真正付费的用户少得可怜，收入基本覆盖不了各种成本。考虑到后续还涉及公司维护、报税以及其他合规成本，感觉继续保留公司的意义已经不大，所以最近打算把公司注销掉。后续准备接入其他不需要注册公司的支付方式代替 目前看了一下，Stripe Atlas 本身也提供公司注销相关的服务，不过价格不算便宜。 想请教一下 V 站有类似经历的朋友： 大家注销 Delaware LLC 一般都是通过什么方式处理的？是直接使用 Stripe Atlas 的注销服务比较省心，还是找第三方代理更合适？ 另外，如…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-18T01:35:57Z"
+        }
+      ]
+    },
+    {
+      "title": "holokat/AetherFX",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 10,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/holokat/AetherFX"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "holokat/AetherFX",
+          "url": "https://github.com/holokat/AetherFX",
+          "summary": "AI-native game VFX: effects authored by agents over MCP, a local studio with a GPU viewer, a deterministic engine, and an MIT-licensed effect library.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-18T00:53:18Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 10,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/khuynh22/agent-dev-team"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
+          "url": "https://github.com/khuynh22/agent-dev-team",
+          "summary": "Article URL: https://github.com/khuynh22/agent-dev-team Comments URL: https://news.ycombinator.com/item?id=49677601 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sat, 12 Sep 2026 21:54:35 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 10,
+      "multi_source": false,
+      "urls": [
+        "https://nowdex.app/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+          "url": "https://nowdex.app/",
+          "summary": "Hi HN, I've been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time. Most of the tools I found for this live on the desktop or in the menu bar. What I really wanted was to pull out my phone and see how much I had left, especially when I'm away from my computer. I ended up building Nowdex for this. The main thing is the iPhone widget…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Mon, 14 Sep 2026 22:10:15 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Hopera, a free musical soothing rhythmic game",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://jgthms.com/hopera/"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Hopera, a free musical soothing rhythmic game",
+          "url": "https://jgthms.com/hopera/",
+          "summary": "I built this small musical game in Lua, with the LÖVE 2d engine. I initially tried building it in Unity but it was more complicated than expected. I use LÖVE because it allowed to draw every pixel as I wanted. It's free to play on iOS, Android, and even the web. Comments URL: https://news.ycombinator.com/item?id=49660111 Points: 27 # Comments: 0",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Fri, 11 Sep 2026 15:30:08 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/pausan/agenttik"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+          "url": "https://github.com/pausan/agenttik",
+          "summary": "Hi! I've been reading HN daily for almost 16 years. Really glad this community exist. This is my first Show HN, so I hope you find this tool useful/interesting. During my summer holidays I started playing with latest AI models on personal projects. At one point I started working in parallel with the same project and tried different approaches. The one that worked best for me was to clone the repo…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Tue, 15 Sep 2026 23:24:53 +0000"
+        }
+      ]
+    },
+    {
+      "title": "tri-kkk/TrendSoccer",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/tri-kkk/TrendSoccer"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "tri-kkk/TrendSoccer",
+          "url": "https://github.com/tri-kkk/TrendSoccer",
+          "summary": "Cursor, Figma, Claude Vibe Coding to Flutter",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-15T02:20:04Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://scry.io/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+          "url": "https://scry.io/",
+          "summary": "Meet Scry, a 500 TB NVMe internet index well organized in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there's capacity, the service is free for non-commercial use. --- Hello. It's 2026, we're training simulated fruit fly brains to play Beat Saber, do we still have to…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Thu, 17 Sep 2026 23:15:57 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 我开发了一个导航站，欢迎大家来踢馆",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241759#reply8"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 我开发了一个导航站，欢迎大家来踢馆",
+          "url": "https://www.v2ex.com/t/1241759#reply8",
+          "summary": "之前分享了一个做了导航站的帖子，没想到被大家一顿吐槽，当然了，吐槽说明我做的不好，还有进步空间，我也听劝。 UI 方面我做了重大改变，之前缺失太花哨了，这次改为清爽一点的风格 经典广告位，也是被大家吐槽的一点，我觉得做网站没有广告位就是脱裤子放屁，我还是坚持做的，有没有人投放那是另外一回事。 慢的问题：我解决不了，只有钱能解决，奈何我没钱啊。 好了，送上链接： https://www.wenjingxiezuo.com/ 原帖： https://www.v2ex.com/t/1240258?p=1#reply91",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-14T01:33:33Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] [开源] Sirius： LLM 自我驱动的币安 U 本位合约交易机器人（提示词对决策影响非常大）",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242040#reply5"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] [开源] Sirius： LLM 自我驱动的币安 U 本位合约交易机器人（提示词对决策影响非常大）",
+          "url": "https://www.v2ex.com/t/1242040#reply5",
+          "summary": "https://github.com/heider-x/sirius 币安 U 本位合约，Python 。自己看行情、自己下单、自己调仓、自己补保护单，人只在飞书收成交确认、账户总览和安全告警。 架构思路 就一条： LLM + TOOLCALLS 的自我驱动 。往下拆四层： 1. 决策层（ brain ） 一个有界循环，最多 64 步，调工具、看返回、再调。连续 3 次调同一个工具直接掐断。它唯一的输出是一句话总结和工具调用，没有其他权力。 2. 执行层（ tools ，37 个） 分两类。行情类只读、可并行；下单类串行，且每个写操作里都嵌着硬约束——杠杆上限、保证金模式、单笔名义上限，开仓没有 STOP 直接拒绝并返回结构化错误。LLM 想绕？绕不过，入口就一个。 3. 账本层（ sync ，独立逻辑） 订单/成交/资金费每分钟落库，FIFO 重算，和交易所三路对账。故意和决策层解耦：…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-15T01:43:40Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] [分享创造] 苦于 Windows/Mac 缺少好用的 Screen Studio 替代？我用 Tauri + Rust 做了一款桌面录屏剪辑工具 Click to Reel（文末留 Gmail 送 VIP）",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242272#reply11"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] [分享创造] 苦于 Windows/Mac 缺少好用的 Screen Studio 替代？我用 Tauri + Rust 做了一款桌面录屏剪辑工具 Click to Reel（文末留 Gmail 送 VIP）",
+          "url": "https://www.v2ex.com/t/1242272#reply11",
+          "summary": "大家好！ 如果你做过产品演示、教程视频或开源项目展示，大概率被 macOS 上的 Screen Studio 惊艳过——自动镜头平滑跟随、优雅的阴影和圆角、背景渐变，几乎不需要剪辑经验就能做出高级感满满的 Demo 。 但对于经常使用 Windows 的开发者，或者想要在双端都有统一体验的朋友，市面上一直缺少趁手的工具。要么是笨重复杂的专业剪辑软件，要么是只有基础录制功能的传统录屏。 为了解决这个痛点，我开发了 Click to Reel ：一款专注让产品演示和技术分享“一键高级感”的跨平台桌面录屏后期应用。 🎥 演示效果(gif 转录看起来比较卡，实际很流畅) ✨ 核心功能亮点 1. 🎙️ 本地离线一键转录与智能字幕（基于 Whisper.cpp ） 100% 本地离线运行 ：内置优化过的 Whisper 引擎，在你的本地硬件上极速推理， 音频无需上传任何第三方云端 ，商业敏感内容和隐…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-15T15:23:31Z"
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] Youtube 视频转成文字的阅读的小工具，优化了一些用户体验",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 9,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242827#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] Youtube 视频转成文字的阅读的小工具，优化了一些用户体验",
+          "url": "https://www.v2ex.com/t/1242827#reply1",
+          "summary": "前文： 一个将 Youtube 视频转成文字的阅读的小工具 ～ 欢迎大家体验呀 几天前，分享 Youtube 转文章的小工具，看了一些 V 友们 尝试使用都遇了下面的问题: 无法处理无字幕的视频 视频解析速度慢 只能解析成中文文章 本次，通过添加 asr 解析音频文件、分片数据处理完实时显示、 提供多语言支持，优化掉了上面的三个问题。 欢迎新老 V 友们 再次体验～～ 也欢迎大家吐槽呀 体验地址： Englife",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-17T19:43:33Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://clawfight.ai/agents.md"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+          "url": "https://clawfight.ai/agents.md",
+          "summary": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space. This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became complet…",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Fri, 11 Sep 2026 13:54:17 +0000"
+        }
+      ]
+    },
+    {
+      "title": "jstoops/ashring",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/jstoops/ashring"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "jstoops/ashring",
+          "url": "https://github.com/jstoops/ashring",
+          "summary": "ASHRING is a first-person arena duel: you vs one computer rival, in a closed kiln of steel, ember light, and cover. Built using Cursor AI.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-13T01:50:09Z"
+        }
+      ]
+    },
+    {
+      "title": "InfiniteLoopRD/lovepilot",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/InfiniteLoopRD/lovepilot"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "InfiniteLoopRD/lovepilot",
+          "url": "https://github.com/InfiniteLoopRD/lovepilot",
+          "summary": "LovePilot - MCP server for playing LÖVE2D games in real time: introspect state, simulate input, screenshots, live Lua execution, hot-reload, and push state updates.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-14T01:36:10Z"
+        }
+      ]
+    },
+    {
+      "title": "XX Fulfillment Center (Demo) [Free] [Simulation] [Windows]",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://twinchariot.itch.io/xx-fulfillment-center-demo"
+      ],
+      "sources": [
+        "itch-new-popular"
+      ],
+      "items": [
+        {
+          "title": "XX Fulfillment Center (Demo) [Free] [Simulation] [Windows]",
+          "url": "https://twinchariot.itch.io/xx-fulfillment-center-demo",
+          "summary": "Can you find your own happiness amid the speeding conveyor belts and ever-growing list of rules?",
+          "source_id": "itch-new-popular",
+          "source_name": "itch.io New & Popular",
+          "published": "Wed, 05 Nov 2025 10:58:37 GMT"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/alex-zaporozhan/leo"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+          "url": "https://github.com/alex-zaporozhan/leo",
+          "summary": "I'm the builder of LEO, and this is not a packege or a service. It's a engineering framework of the rules for Cursor or ClaudeCode, helping to build enorm AI Native projects, 300 000 + lines of code (I understand that is not the quality gate, but - zero TODO, cyclomatic complexity 368 schema constrants, 77 row-level-security policies, 120+ alembic migrations, 3900+ tests, 10 200+ functions and mo…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Wed, 16 Sep 2026 00:47:27 +0000"
+        }
+      ]
+    },
+    {
+      "title": "kelm-lulu/Fps-Creator",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/kelm-lulu/Fps-Creator"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "kelm-lulu/Fps-Creator",
+          "url": "https://github.com/kelm-lulu/Fps-Creator",
+          "summary": "Download FPS Creator — a 3D game editor for Windows, perfect for developing your own FPS shooter with a free download. Create levels using prefabricated elements and customize textures, lighting, and AI enemies. Install and start in minutes.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-17T00:57:13Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/MichaelPGifford/claude-read-aloud"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading",
+          "url": "https://github.com/MichaelPGifford/claude-read-aloud",
+          "summary": "When I'm working all day sometimes my eyes get tired and I don't read Claude's replies fully and understand them. So I made Claude Read Aloud to read Claude's replies for me. It's very helpful for when I'm running on low energy and I think it can also be helpful for people who are visually impaired. It's kind of soothing to hear sometimes. My Claude Code plugin reads claude code's replies out lou…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 11 Sep 2026 21:50:29 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: No_human – The AI coding factory that you can TRUST",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/no-human-ai/no_human"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: No_human – The AI coding factory that you can TRUST",
+          "url": "https://github.com/no-human-ai/no_human",
+          "summary": "Article URL: https://github.com/no-human-ai/no_human Comments URL: https://news.ycombinator.com/item?id=49677527 Points: 1 # Comments: 1",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sat, 12 Sep 2026 21:45:17 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/swobuforge/swobu"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
+          "url": "https://github.com/swobuforge/swobu",
+          "summary": "Swobu is a local TUI switchboard for Codex, Claude Code, PI, you name it. With stateful, provider-independent session lineage and model-name-based routing across way too many heterogeneous LLM providers. The same route can be shared and revoked over end-to-end HTTPS with another machine, a friend or your phone. Hell, you can even make an LLM mesh with one Swobu swobing remote Swobus. Anyway. One…",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sun, 13 Sep 2026 22:12:51 +0000"
+        }
+      ]
+    },
+    {
+      "title": "pwoodman/the-code-sheriff",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/pwoodman/the-code-sheriff"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "pwoodman/the-code-sheriff",
+          "url": "https://github.com/pwoodman/the-code-sheriff",
+          "summary": "Open-source quality gates for vibe coding: format, lint, security, impact, coverage, and AI review inside the agent loop (MCP + oracle). MIT.",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-14T02:11:44Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/cookiy-ai/sell-sessions-skill"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
+          "url": "https://github.com/cookiy-ai/sell-sessions-skill",
+          "summary": "Article URL: https://github.com/cookiy-ai/sell-sessions-skill Comments URL: https://news.ycombinator.com/item?id=49720176 Points: 1 # Comments: 1",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 15 Sep 2026 23:18:50 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Clarveo – See the trading patterns costing you money",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://clarveo.app"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Clarveo – See the trading patterns costing you money",
+          "url": "https://clarveo.app",
+          "summary": "Started with the simple idea to have my own trading journal and vibe code something..turned out to a full fledged SaaS coach for daytraders. Comments URL: https://news.ycombinator.com/item?id=49718473 Points: 2 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 15 Sep 2026 20:29:34 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/MeetVys/inkling"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
+          "url": "https://github.com/MeetVys/inkling",
+          "summary": "Article URL: https://github.com/MeetVys/inkling Comments URL: https://news.ycombinator.com/item?id=49718056 Points: 1 # Comments: 2",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Tue, 15 Sep 2026 19:59:54 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Learn Claude Code – Interactive Mindmap",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://mikenikles.com/blog/learn-claude-code"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Learn Claude Code – Interactive Mindmap",
+          "url": "https://mikenikles.com/blog/learn-claude-code",
+          "summary": "Article URL: https://mikenikles.com/blog/learn-claude-code Comments URL: https://news.ycombinator.com/item?id=49733761 Points: 1 # Comments: 1",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Wed, 16 Sep 2026 22:13:46 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 8,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/itskie/friday"
+      ],
+      "sources": [
+        "hn-cursor-vibe"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+          "url": "https://github.com/itskie/friday",
+          "summary": "Article URL: https://github.com/itskie/friday Comments URL: https://news.ycombinator.com/item?id=49731353 Points: 9 # Comments: 3",
+          "source_id": "hn-cursor-vibe",
+          "source_name": "HN: Cursor / vibe coding",
+          "published": "Wed, 16 Sep 2026 18:55:09 +0000"
+        }
+      ]
+    },
+    {
+      "title": "AdrienAvalon/AdrienAvalon",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/AdrienAvalon/AdrienAvalon"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "AdrienAvalon/AdrienAvalon",
+          "url": "https://github.com/AdrienAvalon/AdrienAvalon",
+          "summary": "Linux, automation and software projects by Adrien Cros: Avash, system tools, AI research and Unreal Engine experiments.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-11T22:58:23Z"
+        }
+      ]
+    },
+    {
+      "title": "[酷工作] remote 高级 Flutter 开发（安卓）/Flutter 高级研发工程师 (AI 赋能/高能效方向)/Flutter 前端开发",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241436#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[酷工作] remote 高级 Flutter 开发（安卓）/Flutter 高级研发工程师 (AI 赋能/高能效方向)/Flutter 前端开发",
+          "url": "https://www.v2ex.com/t/1241436#reply1",
+          "summary": "高级 Flutter 开发（安卓） 20K ～ 30K 岗位职责 负责以 Flutter 为主的移动应用开发与维护，兼顾 Android / iOS 原生能力对接与端上适配，保障代码质量和版本稳定； 负责音视频播放核心链路的开发与优化：播放器接入与封装、多 CDN 播放线路动态切换与容灾、清晰度切换、首帧与卡顿优化、弱网播放策略； 负责视频缓存、边下边播及缓存加解密方案的落地，结合 防盗链（ Referer / 签名鉴权） 保障播放流畅性与内容安全； 独立完成 App 从打包、签名到各应用市场上架的全流程，并协助完成 App Store 提审及发布； 熟悉各应用市场审核规则，能够快速定位并处理拒审、下架、兼容性等突发问题； 同时维护多款 App ，合理安排版本迭代、测试、打包及上架节奏，提升批量发布效率； 熟练使用 Cursor 、Claude Code 等 AI Coding 工具辅助…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-11T13:00:55Z"
+        }
+      ]
+    },
+    {
+      "title": "funny-vibes/agent-vibes",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/funny-vibes/agent-vibes"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "funny-vibes/agent-vibes",
+          "url": "https://github.com/funny-vibes/agent-vibes",
+          "summary": "Unified Agent Gateway — Enables Claude Code CLI and Cursor IDE to use free AI backends (Antigravity, Codex) through protocol translation",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-13T01:51:25Z"
+        }
+      ]
+    },
+    {
+      "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241496"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
+          "url": "https://www.v2ex.com/t/1241496",
+          "summary": "现在的`DeepSeek V4.1 Flash` 很像 GPT5.4 的时候，根本不知道在说些什么, 总会造一些不存在的词, 经常使用不常用且特殊的语法，输出内容繁杂。 感觉只适合用来做调用工具完成一次性工作, 不适合项目规划、分析代码和解读文档这类工作。 例如逆向一个嵌入式固件、安装 ASR 模型来本地语音识别都完成得很好。 只要任务的最终产出不是文字就好用, 一旦产出的内容是文字需要人去看时就很痛苦。",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1789181707
+        }
+      ]
+    },
+    {
+      "title": "semantic-craft/iOS-vibebuddy",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 7,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/semantic-craft/iOS-vibebuddy"
+      ],
+      "sources": [
+        "github-vibe-coding"
+      ],
+      "items": [
+        {
+          "title": "semantic-craft/iOS-vibebuddy",
+          "url": "https://github.com/semantic-craft/iOS-vibebuddy",
+          "summary": "Track Claude Code, Codex and Grok Build tasks, observe Grok Bot, and check Cursor usage across Mac, iPhone & Apple Watch. Optional voice and summaries. Free, local-first, MIT.",
+          "source_id": "github-vibe-coding",
+          "source_name": "GitHub: vibe coding / built with cursor",
+          "published": "2026-09-14T02:17:19Z"
+        }
+      ]
+    },
+    {
+      "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/XNet-NGO/aiope"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
+          "url": "https://github.com/XNet-NGO/aiope",
+          "summary": "Article URL: https://github.com/XNet-NGO/aiope Comments URL: https://news.ycombinator.com/item?id=49667587 Points: 3 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Sat, 12 Sep 2026 01:11:18 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Report: Steam now requires Australian users to verify their age with credit cards",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "Report: Steam now requires Australian users to verify their age with credit cards",
+          "url": "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards",
+          "summary": "Multiple people now claim that Valve has implemented proof-of-age verification for Australian Steam users to access games classified as R18+.",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "Thu, 10 Sep 2026 09:24:59 GMT"
+        }
+      ]
+    },
+    {
+      "title": "4fatesstudios/echoes-of-hubris",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/4fatesstudios/echoes-of-hubris"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "4fatesstudios/echoes-of-hubris",
+          "url": "https://github.com/4fatesstudios/echoes-of-hubris",
+          "summary": "Unreal Engine 5 Metroidvania featuring C++ gameplay systems, combat, inventory, movement, and enemy AI.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-16T00:58:58Z"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: deadSPEAKER, inc. – horror comedy puzzle game",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://run.world/lthrjckrjckr/deadspeaker-inc"
+      ],
+      "sources": [
+        "hn-gamedev"
+      ],
+      "items": [
+        {
+          "title": "Show HN: deadSPEAKER, inc. – horror comedy puzzle game",
+          "url": "https://run.world/lthrjckrjckr/deadspeaker-inc",
+          "summary": "hi, HN this is a horror-puzzle-comedy game i made for the run.world 'back to work' game jam. it's based on a worldbuilding project i developed based on a dream my brother had where he was working a call center job, & keenly aware the caller on the other end of the line had died a long time ago, so helping her troubleshoot remotely was going to be extra challenging the game was assembled entirely…",
+          "source_id": "hn-gamedev",
+          "source_name": "HN: gamedev",
+          "published": "Tue, 15 Sep 2026 19:20:15 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/zachsaw/graphify-csharp"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+          "url": "https://github.com/zachsaw/graphify-csharp",
+          "summary": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 6 # Comments: 2",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Sat, 12 Sep 2026 00:16:10 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: OmaGem – A Ruby DSL for Configuring and Managing Omarchy Linux",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/azzenabidi/OmaGem"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: OmaGem – A Ruby DSL for Configuring and Managing Omarchy Linux",
+          "url": "https://github.com/azzenabidi/OmaGem",
+          "summary": "Article URL: https://github.com/azzenabidi/OmaGem Comments URL: https://news.ycombinator.com/item?id=49666934 Points: 2 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 11 Sep 2026 23:41:08 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: A fruit fly connectome playing Super Mario Bros at 60 FPS",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://kaarelkaarelson.github.io/fly-super-mario/"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: A fruit fly connectome playing Super Mario Bros at 60 FPS",
+          "url": "https://kaarelkaarelson.github.io/fly-super-mario/",
+          "summary": "Article URL: https://kaarelkaarelson.github.io/fly-super-mario/ Comments URL: https://news.ycombinator.com/item?id=49666828 Points: 1 # Comments: 1",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 11 Sep 2026 23:27:41 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Clone any voice from a short audio clip and generate speech",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "http://npm.im/clone-voice"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Clone any voice from a short audio clip and generate speech",
+          "url": "http://npm.im/clone-voice",
+          "summary": "Article URL: http://npm.im/clone-voice Comments URL: https://news.ycombinator.com/item?id=49666487 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 11 Sep 2026 22:48:58 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Show HN: Bypassing Transformer Softmax via Static Contraction",
+      "topics": [
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/PJHkorea/jax-softmax-bypass"
+      ],
+      "sources": [
+        "hn-show"
+      ],
+      "items": [
+        {
+          "title": "Show HN: Bypassing Transformer Softmax via Static Contraction",
+          "url": "https://github.com/PJHkorea/jax-softmax-bypass",
+          "summary": "Article URL: https://github.com/PJHkorea/jax-softmax-bypass Comments URL: https://news.ycombinator.com/item?id=49666335 Points: 1 # Comments: 0",
+          "source_id": "hn-show",
+          "source_name": "HN Show HN",
+          "published": "Fri, 11 Sep 2026 22:36:47 +0000"
+        }
+      ]
+    },
+    {
+      "title": "[推广] 橙枢 AI： GPT / Claude API， 1 元起充，价格、状态和扣费都可以自己核对",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241466#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] 橙枢 AI： GPT / Claude API， 1 元起充，价格、状态和扣费都可以自己核对",
+          "url": "https://www.v2ex.com/t/1241466#reply0",
+          "summary": "先说明一下利益关系：我是橙枢 AI 的运营者，这是一篇放在推广节点的商业推广。 之前发过两次帖子，当时主要写的是注册赠送和分组倍率。现在站内模型、线路和计费都重新整理过了，旧帖里的赠送活动和部分模型、倍率已经过期。这次不再用赠送活动吸引注册，直接把目前提供什么、怎么验证、价格怎么算以及有哪些限制说明白。 站点主要面向需要 GPT / Claude API 的开发者，可用于支持自定义 Base URL 的客户端、脚本和内部工具。统一入口是： https://api.cxbl.top/v1 GPT 模型提供 OpenAI 兼容的 Chat Completions 和 Responses 入口； Claude 模型可使用 OpenAI 兼容入口，也支持 Messages 接口。 目前主要提供哪些模型 我不准备在这里贴几十个模型名，只列几个比较容易选的： 使用场景 可选模型 快速问答、摘要、分类…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-11T18:51:19Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] Pro 20x 快到时间订阅的可以找我提前订阅 过期变 Free 了就没办法升级了",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241463#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] Pro 20x 快到时间订阅的可以找我提前订阅 过期变 Free 了就没办法升级了",
+          "url": "https://www.v2ex.com/t/1241463#reply0",
+          "summary": "首先我是做网站 GPT 代充的 但是我都是一卡一充 没有一卡多用过 渠道也绝对放心 找我开的我全部都带官方售后 掉订阅了都质保退款剩余天数的钱 如果你自己本身就是自己订阅的 那自己订阅就可以了 不用找我 如果是本来你就是找别人做 Chatgpt 代充的 可以试试来我这里问价 绝对会比你那个人报价要低要划算 因为我是源头 V：geminieth 网站： AI-airdrop.com",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-11T18:22:58Z"
+        }
+      ]
+    },
+    {
+      "title": "[送码]在手机端 AI 编程最佳应用： Octrix",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241311"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "[送码]在手机端 AI 编程最佳应用： Octrix",
+          "url": "https://www.v2ex.com/t/1241311",
+          "summary": "# 用户群体是谁？ AI 编程发展到现在，在手机上编程已经不是什么新鲜事了，像 Codex 的手机客户端进行远程控制编程就非常好用。 为什么做这个 APP 呢？是因为我发现并不是所有人都用 Codex ，他们可能是用 CodeX 接入国产模型（比如 Kimi 、DeepSeek 等等），这些不支持使用 Codex 官方的手机 APP 进行远程控制。 为了实现远程控制，大家往往会在手机上使用终端去处理。但在手机上用终端是一个非常反人类的操作，体验特别差，这就是我开发这个软件的核心点所在。 # 工作原理 这个软件的核心工作原理很简单： 1. 在 Mac 上起一个服务模拟 TUI ，这样就有了跟各种 AI agent 进行通信的能力（支持 Codex 、Cloud Code 等十余款 CLI 工具） 2. 通过一个后端中转服务，把手机和 Mac 进行通信与配对绑定 这样在手机端就是一个聊天对话…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1789105717
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] 开源自荐：做了个开发用的中枢，一台机器把公网访问、科学上网、AI 代理、多机器服务发现包了一下",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241622#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] 开源自荐：做了个开发用的中枢，一台机器把公网访问、科学上网、AI 代理、多机器服务发现包了一下",
+          "url": "https://www.v2ex.com/t/1241622#reply0",
+          "summary": "我想解决我自己作为程序员的几个老痛点：1 ）跨公网访问自己的机器 2 ）要科学访问 3 ）要 AI 代理 4 ）多个机器找起来很麻烦。 每个单拎出来都有轮子，但凑一起就是一坨配置，换台机器再来一遍。所以我做了个方便开发用的中枢，一台常开的 Linux 盒子（ N100 就行）跑 hub ，要控制的 linux 服务器装 agent （可以面板上 SSH 安装），其他要用服务的电脑装 client 就行。然后这个 hub 配上 client 解决了这些问题： 多个网络出口。 一个断了另一个可以顶上。同时 hub 可以直接配成 WiFi 提供点、旁路网关、单臂路由，或者双网口的机器如 N100 可以配成透明路由模式。 多代理模式。 暂时不支持 Clash 那样 chain ，因为很麻烦而且我追求低延时。 overlay 和本地路由的兼容。 上面这两个叠加在一起会让远程访问的网络路由变得很麻烦…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-12T23:53:09Z"
+        }
+      ]
+    },
+    {
+      "title": "[程序员] 记录一下最近 2 个月做 Ozon 工具和一次未开始就散掉的合作",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241612#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[程序员] 记录一下最近 2 个月做 Ozon 工具和一次未开始就散掉的合作",
+          "url": "https://www.v2ex.com/t/1241612#reply1",
+          "summary": "2026 年 7 月初，萍萍给我打了个微信语音。 她是我发小方斌以前的同事，前几年我们去杭州时认识的。电话里她向我打听中转站和 AI 图片生成的事，说她和江苏的一个“表哥”合作，搞了个 Ozon 精铺的上架工具，跑得不错。我当时没太深聊，俄罗斯跨境电商这块我确实没碰过。 方斌前些年一直做房产销售，这几年行情低迷，我们常聚在一起琢磨新出路。那天我顺嘴把萍萍做的事跟他提了一句。 他们都在襄阳，离得近。方斌很感兴趣，隔两天就跑去见了萍萍。又过了两天，方斌打来电话，声音透着兴奋：这软件需求很大，他也跟着发了两天短视频，居然真收了几个付费客户。 只是原工具问题太多，图片动不动就生成失败，客户天天群里开骂。 方斌把软件发了过来。其实就是一个普通的 Chrome 扩展，得手动拖进浏览器安装，还得用户自己配各种 API Key ，门槛极高。生图逻辑走的是中转站的同步请求，网络稍有波动直接超时报错。 “这…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-12T16:11:38Z"
+        }
+      ]
+    },
+    {
+      "title": "[创业组队] 有想做自媒体的同学一起入群交流吗",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241576#reply1"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[创业组队] 有想做自媒体的同学一起入群交流吗",
+          "url": "https://www.v2ex.com/t/1241576#reply1",
+          "summary": "我最近在写一个公众号， 对于建立属于自己的商业价值进行了分析，发现很重要的一件事就是建立自己的影响力，以下是我的思考： 1.首先是成为别人愿意求助的人，从解决身边人的实际问题开始（如工具使用、人际关系处理），这是影响力的地基。当然也需坚守边界，正视自身价值，避免无底线付出变成“老好人”。 2.主动争取跨领域合作，接触不同圈层，理解其他行业的运行模式。信息差，也就是别人不知道而你知道的信息，越多，创作选题越丰富，人生的选择权也越大。 3.我希望把对某类话题的沉淀整理成公开内容。这不仅能倒逼自己将碎片化思考梳理成完整逻辑，更能降低他人的信任成本，关注者天然认同你的观点，后续沟通效率极高。 如果你也认同我，愿意与更多的人一同交流、成为朋友，欢迎加群， https://share.note.youdao.com/s/1VaHYlkE",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-12T11:35:30Z"
+        }
+      ]
+    },
+    {
+      "title": "[DNS] 分享一套开源的 Clash 系防 DNS 与 WebRTC 泄露配置",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241564#reply15"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[DNS] 分享一套开源的 Clash 系防 DNS 与 WebRTC 泄露配置",
+          "url": "https://www.v2ex.com/t/1241564#reply15",
+          "summary": "平时使用各类客户端时，发现很多机场默认订阅或通用配置都存在两个容易被忽视的隐私问题： DNS 泄露 ：域名解析未能做到严格隔离，导致本地真实 ISP 的 DNS 出口直接暴露在检测网站上。 WebRTC 泄露 ：浏览器或即时通讯工具通过 STUN 协议向外探测，轻松穿透代理拿到国内真实公网 IP 。 为此，我整理并长期维护了一套针对 Mihomo / Clash Meta 官方内核的开源配置规则，主要做了以下优化与解决： 核心改进 彻底解决 DNS 泄露 ：采用 Fake-IP 模式 + 国内外安全 DoH 分流（阿里 / 腾讯 DoH 负责大陆域名，Cloudflare / Google DoH 负责国外解析），兼顾国内访问速度与海外绝对隐私。 彻底解决 WebRTC 泄露 ：针对 STUN 探测端口与域名关键词采用 REJECT-DROP 静默丢弃策略，彻底截断浏览器探测通道。 iO…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-12T10:12:57Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] ChatGPT plus/Claude 官方正版订阅代充值，小团队批量充值服务",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241766#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] ChatGPT plus/Claude 官方正版订阅代充值，小团队批量充值服务",
+          "url": "https://www.v2ex.com/t/1241766#reply0",
+          "summary": "ChatGPT plus/Claude 官方正版订阅代充值 充您自己的帐号，可以续费 OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 GPT Plus 订阅代充值 120 元/月，自助充值，可开正规企业发票。 GPT pro5x 690 和 pro20x 续费 20x 1250 。新开 ios 渠道 20x 服务 稳定可靠，不需要自己折腾卡省心省事。 可沉浸式全程自助充值:https://tangguo.app/",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-14T01:45:10Z"
+        }
+      ]
+    },
+    {
+      "title": "[推广] 🎁新的一周 住宅 IP 送福利！流量免费领",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241761#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[推广] 🎁新的一周 住宅 IP 送福利！流量免费领",
+          "url": "https://www.v2ex.com/t/1241761#reply0",
+          "summary": "Zooproxy ▌全能代理方案 住宅 IP / 数据中心 IP 双引擎 | 99.9% 网络连通率 | 无限流量配额 | 全协议支持 (Http (s)/Socks5) 三大核心 IP 服务： 动态住宅 IP：$0.42/GB ，不限 IP 数量 静态 ISP 独享 IP：$0.9/IP/ 周，不限流量 无限流量：全新端口无限套餐：$0.38 / 端口 / 天，流量全免，不限 IP ✅ 全场景适配：电商监控 / 舆情分析 / 广告验证 / SEO 优化等 200 + 业务场景 ✅ 无缝集成：支持 Python/Java 等主流开发语言，提供 API 接口与 其他工具包 ✅ 7×24 小时技术支持：专属客户经理 1 对 1 服务，平均问题响应时间＜ 15 分钟 🎁动态住宅 CDK 分享 NRDC-HHDM-2KYS FL8M-23AH-9TYM EWC5-KNW8-RZCF NPET-N…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-14T01:35:53Z"
+        }
+      ]
+    },
+    {
+      "title": "有没有什么工具，可以远程让 codex 干活？",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1241635"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "有没有什么工具，可以远程让 codex 干活？",
+          "url": "https://www.v2ex.com/t/1241635",
+          "summary": "就是我经常用 /goal 运行一些长时间的任务，一般都要半个小时到一个小时一上。我也不可能一直在家里等着它，完事再部署下个任务。 所以现在有没有可以让我出门后，在手机上就能下达下个任务的工具？ 谢谢各位。",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1789269695
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] [开源] 做了一个 React Native 热更新平台 Pakta，支持多渠道管理、独立灰度和差分更新，覆盖 Android、iOS、HarmonyOS",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242046#reply3"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] [开源] 做了一个 React Native 热更新平台 Pakta，支持多渠道管理、独立灰度和差分更新，覆盖 Android、iOS、HarmonyOS",
+          "url": "https://www.v2ex.com/t/1242046#reply3",
+          "summary": "大家好，分享一下我正在做的项目： Pakta ，一个面向 React Native 的热更新平台。 它包含客户端 SDK 、CLI 发布工具和 Web 管理后台，覆盖 Android 、iOS 、HarmonyOS ，也支持集成原生模块的 Expo 开发构建和生产构建。 做这个项目，主要是想把热更新从“上传一个包”变成一套完整、可控的发布流程。 当应用有多个分发渠道、线上同时存在几个原生版本时，一次更新往往需要回答这些问题： 这次修复应该发给哪些渠道、哪些原生版本？ 能不能先在一个渠道小范围验证，其他渠道保持不动？ 同一份更新内容，能不能复用，分别控制发布比例？ 更新出问题后，怎样停止继续下发，或者回滚？ Pakta 围绕这些问题，把 更新内容 和 投放策略 分开管理。 同一个热更新包，可以有不同的发布节奏 举个例子，同一份更新可以这样投放： 渠道 原生版本 发布比例 华为 1.0.0…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-15T01:51:10Z"
+        }
+      ]
+    },
+    {
+      "title": "老婆太颓废了",
+      "topics": [
+        "副业机会 · 痛点",
+        "Vibe Coding 商业化"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity",
+        "vibe-coding-commercial"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242123"
+      ],
+      "sources": [
+        "agent-reach-v2ex-hot"
+      ],
+      "items": [
+        {
+          "title": "老婆太颓废了",
+          "url": "https://www.v2ex.com/t/1242123",
+          "summary": "我和爱人在 2023 年结婚，双方都是计算机行业。她前端我数据。 ai 发展对前端影响非常大，从 24 年底她的工作就不太稳定，25 年上半年基本没有上班（中间零星两三份工作加一起有一个月左右）。25 年下半年找到一个工作，但是加班比较频繁，她一直找我吐槽，我便督促她学习新的知识转行，不要继续前端了，但是她一直以工作忙等理由推辞，时间久了也就不了了之。 25 年底怀孕了，然后她说公司一直加班且有人在公司抽烟，想辞职在家养胎，我考虑再三后同意了。不过和她说好了要抽空学习，后面找一个别的稳定工作，她也答应了。 怀孕期间，我多次和她沟通让学习，但是她每次都和我吵架，一直往后拖。到现在宝宝已经出生两个多月了，依然不学习，每次说到找工作，就说我以后随便找个工作干、我去捡破烂、我去电子厂云云。以我对她的了解，这些都不可能。 我们两个家里都是农村的，全靠自己打拼，家里没办法给什么帮助。我的想法是不要求…",
+          "source_id": "agent-reach-v2ex-hot",
+          "source_name": "V2EX 热帖 API",
+          "published": 1789449439
+        }
+      ]
+    },
+    {
+      "title": "[分享创造] ［开源］谁在读取你的 .env？先过 Touch ID：一个完全本地的 macOS 文件系统",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242599#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[分享创造] ［开源］谁在读取你的 .env？先过 Touch ID：一个完全本地的 macOS 文件系统",
+          "url": "https://www.v2ex.com/t/1242599#reply0",
+          "summary": "我受不了那种在命令前套一层 wrapper： secret-tool run -- psql ... # .envrc export DATABASE_URL=\"$(op read 'op://Private/dev/DATABASE_URL')\" 这种方式在终端里能用，但每个入口都必须主动配合。换成 IDE 、GUI 数据库客户端、后台服务或者 AI Agent ，又要重新想怎么注入；原本能直接运行的命令，也都变成了某个工具的子命令。 我想要的体验更简单： Secret 就是普通文件。原来的工具和命令完全不改，直接打开就能用。 所以做了 Floria ，一个用于密钥和配置的 macOS 本地文件系统。 工具看到的仍然是普通文件或 SSH Agent ； Floria 在文件被读取时动态生成内容。 大致原理 Floria 通过 macFUSE 挂载一个文件系统。Secret 平时以密文保…",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-17T02:01:13Z"
+        }
+      ]
+    },
+    {
+      "title": "[程序员] 自动化设备定制平台 - 创业方向, 抛砖引玉",
+      "topics": [
+        "副业机会 · 痛点"
+      ],
+      "topic_ids": [
+        "sideline-pain-opportunity"
+      ],
+      "score": 6,
+      "multi_source": false,
+      "urls": [
+        "https://www.v2ex.com/t/1242597#reply0"
+      ],
+      "sources": [
+        "v2ex-latest"
+      ],
+      "items": [
+        {
+          "title": "[程序员] 自动化设备定制平台 - 创业方向, 抛砖引玉",
+          "url": "https://www.v2ex.com/t/1242597#reply0",
+          "summary": "刚听到一个朋友做自动化设备, 缩小规模了, 其实我看他生意还可以, 但是很多成本都被工程师/外包吃掉. 我在想, 这会不会是个创业方向? 或者说已经有类似平台在了? 就是做个平台, 集中进行视觉等大模型培训和定向优化. 软件/界面都是积木化的(无代码), 然后对应界面加上内置的功能. 通过引入适配的各种硬件供应商的来实现最终用户(开发者)实现低成本的软件界面和硬件在线编排配置后, 直接应用. 这个会不会是下一个 AI 干掉行业,也就是自动化设备制造方向?",
+          "source_id": "v2ex-latest",
+          "source_name": "V2EX 最新",
+          "published": "2026-09-17T02:00:02Z"
+        }
+      ]
+    },
+    {
+      "title": "Valve's Steam Frame pricing starts at $1,059",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "Valve's Steam Frame pricing starts at $1,059",
+          "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
+          "summary": "Valve is also rolling out a developer kit for VR developers targeting its new headset.",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "Mon, 14 Sep 2026 18:04:06 GMT"
+        }
+      ]
+    },
+    {
+      "title": "GodotCon",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 5,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.comconference.godotengine.org"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "GodotCon",
+          "url": "https://www.gamedeveloper.comconference.godotengine.org",
+          "summary": "",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "2026-07-21T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "title": "Little-Tree-Studio/Slide-Studio",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 4,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/Little-Tree-Studio/Slide-Studio"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "Little-Tree-Studio/Slide-Studio",
+          "url": "https://github.com/Little-Tree-Studio/Slide-Studio",
+          "summary": "AI 原生 Galgame 可视化编辑器，使用 Python、React 和 TypeScript 构建。",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-13T01:41:07Z"
+        }
+      ]
+    },
+    {
+      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
+          "url": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+          "summary": "Article URL: https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come Comments URL: https://news.ycombinator.com/item?id=49666327 Points: 3 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 11 Sep 2026 22:36:03 +0000"
+        }
+      ]
+    },
+    {
+      "title": "How AI Is Changing Audio Restoration in 2026",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://audioconverterai.io/blog/ai-audio-restoration"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "How AI Is Changing Audio Restoration in 2026",
+          "url": "https://audioconverterai.io/blog/ai-audio-restoration",
+          "summary": "Article URL: https://audioconverterai.io/blog/ai-audio-restoration Comments URL: https://news.ycombinator.com/item?id=49665879 Points: 2 # Comments: 1",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Fri, 11 Sep 2026 21:49:10 +0000"
+        }
+      ]
+    },
+    {
+      "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
+          "url": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
+          "summary": "Rockstar has accused a group of former workers of defaming the studio on Discord—but what does that term actually mean in a legal sense?",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "Fri, 11 Sep 2026 13:27:31 GMT"
+        }
+      ]
+    },
+    {
+      "title": "Ask ChatGPT or Gemini the same \"best X\" twice, ~1/3 of the answer changes",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/jjoseph18/ai-recommendation-consistency"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Ask ChatGPT or Gemini the same \"best X\" twice, ~1/3 of the answer changes",
+          "url": "https://github.com/jjoseph18/ai-recommendation-consistency",
+          "summary": "Article URL: https://github.com/jjoseph18/ai-recommendation-consistency Comments URL: https://news.ycombinator.com/item?id=49689865 Points: 2 # Comments: 2",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Sun, 13 Sep 2026 23:31:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://news.ycombinator.com/item?id=49689696"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+          "url": "https://news.ycombinator.com/item?id=49689696",
+          "summary": "I am a member of my university's game development club, which puts me around lots of talented programmers as well as artists of all kinds, and I've observed that just about everyone disapproves of AI. The sentiment is especially strong among younger people coming into the club. By \"disapproves\", I mean they refuse to allow AI-generated content in games and see AI use in general as something like…",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Sun, 13 Sep 2026 23:09:37 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.youtube.com/watch?v=it7TAwjwH5E"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
+          "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
+          "summary": "Article URL: https://www.youtube.com/watch?v=it7TAwjwH5E Comments URL: https://news.ycombinator.com/item?id=49720322 Points: 3 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Tue, 15 Sep 2026 23:37:21 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/"
+      ],
+      "sources": [
+        "hn-ai-game-tools"
+      ],
+      "items": [
+        {
+          "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+          "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
+          "summary": "Article URL: https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49719891 Points: 3 # Comments: 0",
+          "source_id": "hn-ai-game-tools",
+          "source_name": "HN: AI game tools",
+          "published": "Tue, 15 Sep 2026 22:46:21 +0000"
+        }
+      ]
+    },
+    {
+      "title": "matt22/blackjack",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://github.com/matt22/blackjack"
+      ],
+      "sources": [
+        "github-game-ai"
+      ],
+      "items": [
+        {
+          "title": "matt22/blackjack",
+          "url": "https://github.com/matt22/blackjack",
+          "summary": "Blackjack game with CLI and (coming soon) web versions that supports custom rules, bettings, stats, human and AI players.",
+          "source_id": "github-game-ai",
+          "source_name": "GitHub: game-dev + AI repos",
+          "published": "2026-09-16T01:09:47Z"
+        }
+      ]
+    },
+    {
+      "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+      "topics": [
+        "AI 做游戏"
+      ],
+      "topic_ids": [
+        "ai-game-dev"
+      ],
+      "score": 3,
+      "multi_source": false,
+      "urls": [
+        "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media"
+      ],
+      "sources": [
+        "gd-ai"
+      ],
+      "items": [
+        {
+          "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "summary": "'If you care about the work you’re making and the result of what you make here, you’ll feel really valued. If you don’t, you will feel slave-driven.'",
+          "source_id": "gd-ai",
+          "source_name": "Game Developer",
+          "published": "Tue, 15 Sep 2026 18:05:13 GMT"
+        }
+      ]
+    }
+  ]
+}
