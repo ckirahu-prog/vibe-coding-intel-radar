@@ -31,12 +31,12 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1828,
+      "hits": 1848,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 70,
+      "hits": 71,
       "errors": 23,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
@@ -46,7 +46,7 @@
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 925,
+      "hits": 931,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 740,
+      "hits": 745,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 680,
+      "hits": 690,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-09-19T02:11:39.641412+00:00"
+  "last_updated": "2026-09-20T02:18:49.942203+00:00"
 }
