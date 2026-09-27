@@ -31,37 +31,37 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 1959,
+      "hits": 1978,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 72,
+      "hits": 75,
       "errors": 27,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 162,
+      "hits": 163,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 971,
+      "hits": 981,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "indiehackers": {
       "hits": 0,
-      "errors": 9,
+      "errors": 10,
       "last_error": "404 Client Error: Not Found for url: https://www.indiehackers.com/feed.xml"
     },
     "hn-ai-game-tools": {
-      "hits": 158,
+      "hits": 160,
       "errors": 20,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
-      "hits": 55,
+      "hits": 56,
       "errors": 17,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=gamedev+OR+indie+game+OR+game+engine&points=5"
     },
@@ -71,7 +71,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 148,
+      "hits": 150,
       "errors": 29,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 800,
+      "hits": 812,
       "errors": 0,
       "last_error": null
     },
@@ -116,7 +116,7 @@
       "last_error": null
     },
     "itch-new-popular": {
-      "hits": 35,
+      "hits": 36,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 741,
+      "hits": 750,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-09-26T02:31:55.514620+00:00"
+  "last_updated": "2026-09-27T02:27:33.665239+00:00"
 }
