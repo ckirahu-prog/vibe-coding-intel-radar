@@ -26,38 +26,38 @@
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "gd-ai": {
-      "hits": 126,
+      "hits": 127,
       "errors": 0,
       "last_error": null
     },
     "hn-show": {
-      "hits": 1997,
+      "hits": 2017,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
-      "hits": 75,
+      "hits": 77,
       "errors": 28,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 164,
+      "hits": 168,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 990,
+      "hits": 1004,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "indiehackers": {
       "hits": 0,
-      "errors": 11,
+      "errors": 12,
       "last_error": "404 Client Error: Not Found for url: https://www.indiehackers.com/feed.xml"
     },
     "hn-ai-game-tools": {
       "hits": 160,
-      "errors": 21,
+      "errors": 22,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
     "hn-gamedev": {
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 818,
+      "hits": 825,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 757,
+      "hits": 767,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-09-28T02:32:26.756826+00:00"
+  "last_updated": "2026-09-29T03:14:58.783223+00:00"
 }
