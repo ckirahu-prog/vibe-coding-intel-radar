@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 391,
+      "hits": 393,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,32 +31,32 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 2057,
+      "hits": 2075,
       "errors": 0,
       "last_error": null
     },
     "hn-solo-revenue": {
       "hits": 78,
-      "errors": 28,
+      "errors": 29,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 172,
+      "hits": 174,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 1022,
+      "hits": 1028,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "indiehackers": {
       "hits": 0,
-      "errors": 14,
+      "errors": 15,
       "last_error": "404 Client Error: Not Found for url: https://www.indiehackers.com/feed.xml"
     },
     "hn-ai-game-tools": {
-      "hits": 161,
+      "hits": 165,
       "errors": 22,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
@@ -71,7 +71,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/aigamedev/.rss"
     },
     "hn-cursor-vibe": {
-      "hits": 152,
+      "hits": 156,
       "errors": 30,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=cursor+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+%22AI+coding%22&points=3"
     },
@@ -81,7 +81,7 @@
       "last_error": "Failed to fetch https://old.reddit.com/r/SideProject/.rss"
     },
     "v2ex-latest": {
-      "hits": 830,
+      "hits": 834,
       "errors": 0,
       "last_error": null
     },
@@ -111,7 +111,7 @@
       "last_error": "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=30)"
     },
     "steam-news": {
-      "hits": 12,
+      "hits": 13,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 786,
+      "hits": 795,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-10-01T03:03:16.900092+00:00"
+  "last_updated": "2026-10-02T03:05:43.547887+00:00"
 }

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "e4719c51c6b26045",
+    "title": "Show HN: I made a bullet heaven game no one seems showing intresting",
+    "url": "https://store.steampowered.com/app/5170580/Blend_Hunter_Smoothie_Bullet_Heaven/",
+    "summary": "I spend my time money (coding agent, buying 3D models and vfx) on this buttlet haeven game. I finally post my demo around 20 days ago, but only 16 poeple played the demo... and got 17 wishlist. Can some one here try it and leave me some feedback plz. Comments URL: https://news.ycombinator.com/item?id=49928860 Points: 2 # Comments: 2",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:11:12 +0000"
+  },
+  {
+    "id": "674262d286f369d0",
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "url": "https://github.com/kitao/pyxel",
+    "summary": "Hi HN, I'm the creator of Pyxel, a free, MIT-licensed retro game engine for Python. I've been developing it since 2018, and it recently passed 18,000 stars on GitHub. Pyxel includes pixel art, tilemap, sound, and music editors, so you can create a game's visuals and audio as well as write its code in Python. The engine itself is implemented in Rust. Games run on Windows, macOS, Linux, and the web…",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:26:35 +0000"
+  },
+  {
+    "id": "6c7c8b05d261e4c5",
+    "title": "Cancel Your Subscription: a free browser game",
+    "url": "https://www.fundrstudio.com/games/cancel-your-subscription/",
+    "summary": "Article URL: https://www.fundrstudio.com/games/cancel-your-subscription/ Comments URL: https://news.ycombinator.com/item?id=49927872 Points: 5 # Comments: 1",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 22:35:37 +0000"
+  },
+  {
+    "id": "ad95574a466f906b",
+    "title": "New War of the Worlds Game",
+    "url": "https://store.steampowered.com/app/4295070/War_Of_The_Worlds_Trilogy/",
+    "summary": "Article URL: https://store.steampowered.com/app/4295070/War_Of_The_Worlds_Trilogy/ Comments URL: https://news.ycombinator.com/item?id=49927737 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 22:21:07 +0000"
+  },
+  {
+    "id": "e27c810e13e9b344",
+    "title": "rivendale/opensource",
+    "url": "https://github.com/rivendale/opensource",
+    "summary": "Build from open source instead of from scratch: license-checked catalogs of games and engines, and of open-source software beyond games (self-hosting, local AI, MCP, media, documents, learning, privacy and more), with build playbooks and AI tooling guides.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T02:51:10Z"
+  },
+  {
+    "id": "5a067e4850db88e3",
+    "title": "AG064/aurum-studio",
+    "url": "https://github.com/AG064/aurum-studio",
+    "summary": "Local game-development workspace for people and AI agents. Headless MCP workflows, Godot 4.7, Rust extensions, gameplay verification, and Windows packaging.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T02:47:45Z"
+  },
+  {
+    "id": "e4d8b107d295b2fb",
+    "title": "Show HN: Visi – Excel as a CLI",
+    "url": "https://github.com/albert-yu/visi",
+    "summary": "This project doesn't solve a burning problem for me, but it's more of a curiosity-driven experiment asking one question: with LLMs and fuzzing, how close can I get to a 100% Excel-compatible spreadsheet engine? After working on this for a couple of months, it seems to be pretty close now (and in some cases, more accurate than Excel). Recent fuzzing runs have been unable to find discrepancies with…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 02:09:29 +0000"
+  },
+  {
+    "id": "29c7c6156ced170b",
+    "title": "Show HN: Simply @dotlink in ChatGPT web,space or dot to access local files,tools",
+    "url": "https://github.com/abird-ai/dotlink/",
+    "summary": "Built dotlink to give chatgpt codex abilities, letting chatgpt web, the new dots and spaces, build and run tools and access files directly in your local machine. Been using it for a while, when I'm out of codex limits or giving chatgpt controlled access to several machines without installing chatgpt app. So thought I'll package it for others to use. It’s a single statically linked lightweight Rus…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:55:23 +0000"
+  },
+  {
+    "id": "2646fe400188800a",
+    "title": "Show HN: A userspace only nwing client for Tailscale nw",
+    "url": "https://github.com/krishnakumar4a4/tail-userspace",
+    "summary": "Serving and Proxying entirely in userspace. No system wide VPN installation. No privilege escalation. Menu bar and CLI app for macos with plans to add other platforms. Its a custom and unofficial implementation. Use cases: - Setup obsidian live syncing across all your devices using userspace networking. - Access your home nextcloud/OMV service from anywhere - etc Comments URL: https://news.ycombi…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:52:25 +0000"
+  },
+  {
+    "id": "10686d56dd24a9bd",
+    "title": "Show HN: Sovereign-NB: Sub-microsecond bare-metal neural engine in Rust (UEFI)",
+    "url": "https://github.com/msndsn123a/Sovereign-NB",
+    "summary": "Article URL: https://github.com/msndsn123a/Sovereign-NB Comments URL: https://news.ycombinator.com/item?id=49928885 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:16:11 +0000"
+  },
+  {
+    "id": "7205666c319c97e7",
+    "title": "Show HN: Agent team runtime with concrete lifecycle management",
+    "url": "https://github.com/ringlochid/oh-my-subagents",
+    "summary": "Article URL: https://github.com/ringlochid/oh-my-subagents Comments URL: https://news.ycombinator.com/item?id=49928838 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:08:06 +0000"
+  },
+  {
+    "id": "f66dfe8c16b6ec05",
+    "title": "Show HN: QLCodePreview, syntax highlighting in Finder's Quick Look",
+    "url": "https://konstruukt.com/projects/qlcodepreview/",
+    "summary": "In 2012 I forked QLColorCode, a Quick Look plugin, to add the Drupal file types I worked with every day at the time. I kept that fork going for about a decade. Apple deprecated the whole .qlgenerator format that used some time ago. On current macOS the old code previewer just doesn't load, and you can't port it either as it colored code by shelling out to external tools, while the modern replacem…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 01:03:56 +0000"
+  },
+  {
+    "id": "4c0dda885d8e8248",
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "url": "https://stillwet.art/",
+    "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 00:27:56 +0000"
+  },
+  {
+    "id": "2c013adc7641796a",
+    "title": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
+    "url": "https://github.com/rijuld/soothsay",
+    "summary": "Article URL: https://github.com/rijuld/soothsay Comments URL: https://news.ycombinator.com/item?id=49928435 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 00:04:39 +0000"
+  },
+  {
+    "id": "893894becec49eed",
+    "title": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
+    "url": "https://github.com/manavmishra/ZeroSlop",
+    "summary": "Article URL: https://github.com/manavmishra/ZeroSlop Comments URL: https://news.ycombinator.com/item?id=49928432 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Fri, 02 Oct 2026 00:04:16 +0000"
+  },
+  {
+    "id": "7be381a355fae9f1",
+    "title": "Show HN: Bun-install – Global CLI installer for Bun with local monorepo support",
+    "url": "https://github.com/joeycumines/bun-install",
+    "summary": "Hey HN, This is a CLI tool I initially built as a convenient and reliable way to install executable(s) from a local monorepo workspace into Bun's global package store. I had a local monorepo with workspace dependencies that needed to be installed as a whole. The commands aren't bundled, and I didn't want to manually manage dependencies. (If you want to try it out, https://github.com/open-pencil/o…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:57:50 +0000"
+  },
+  {
+    "id": "f3f131fa57a3b682",
+    "title": "Show HN: Grist, open source coding harness",
+    "url": "https://grist.lol/",
+    "summary": "I built a coding harness on top of the new Opencode v2, it started with the the idea of using the new jev model for routing easy tasks to cheaper models such as deepseek and hard tasks to models such as Opus 5.5. In total in separated it into 4 rungs - easy, medium, hard and frontier. Two more layers compound the savings: the Sol-Pi methodology based on the recently published paper which uses act…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:37:11 +0000"
+  },
+  {
+    "id": "0fddb4555d0e8b2f",
+    "title": "Show HN: Shootsolo – a free camera app for filming yourself without a crew",
+    "url": "https://shootsolo.com/",
+    "summary": "Article URL: https://shootsolo.com/ Comments URL: https://news.ycombinator.com/item?id=49928188 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:23:01 +0000"
+  },
+  {
+    "id": "444d614371ed48b9",
+    "title": "Show HN: I built a better way to browse and filter the NYT's 100 Best TV Shows",
+    "url": "https://100besttvshows.madebyaqua.com/",
+    "summary": "I made a simple web page to help me choose what to watch from The New York Times’ 100 Best TV Shows of the 21st Century. You can quickly see what each show is about, filter by genre, and filter by streaming service, so you can subscribe to one service at a time and watch everything you want there before moving to the next. Comments URL: https://news.ycombinator.com/item?id=49928113 Points: 2 # Co…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:09:24 +0000"
+  },
+  {
+    "id": "ed52b45469014301",
+    "title": "Show HN: Proteus – Can DeepSeek Harness evolve itself to handle audio?",
+    "url": "https://proteus-evolve.github.io/dsh-self-improvement.html",
+    "summary": "Article URL: https://proteus-evolve.github.io/dsh-self-improvement.html Comments URL: https://news.ycombinator.com/item?id=49928092 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:05:57 +0000"
+  },
+  {
+    "id": "9dee16245d90e2f0",
+    "title": "Show HN: Pair.nvim – Agent assistance while staying in the codebase",
+    "url": "https://github.com/sampsn/pair.nvim",
+    "summary": "I like coding with agents, but I missed being hands-on with the code. I noticed my knowledge of the codebase regressing. I built Pair to keep the conversation, research assistance, and code speed while giving me more control over what gets written and where. See this blog post for my train of thought and inspiration for this plugin: https://gabrielsampson.com/blog/there-has-to-be-an-in-betwee...…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:04:12 +0000"
+  },
+  {
+    "id": "28f9b26925e81215",
+    "title": "Show HN: Proteus – A framework for harnesses that evolve their own source",
+    "url": "https://github.com/proteus-evolve/Proteus",
+    "summary": "Article URL: https://github.com/proteus-evolve/Proteus Comments URL: https://news.ycombinator.com/item?id=49928073 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 23:03:36 +0000"
+  },
+  {
+    "id": "c332b9dcc54d431d",
+    "title": "Show HN: PhreshOS – OS for Web Apps",
+    "url": "https://github.com/PhreshOS/system",
+    "summary": "I'd like to share my experience building this system with you. It's an operating system for web applications, and it took me about six months to develop this model. The idea is that every time I build a web tool, I need to design the infrastructure, including authentication and communication. If it's a WebSocket, it's even more complicated; I need another port for each application. I couldn't fin…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 22:55:02 +0000"
+  },
+  {
+    "id": "4f666271f2bf12e1",
+    "title": "Show HN: Local-first video intelligence for Mac – find by text, visual, or audio",
+    "url": "https://orcah.app/",
+    "summary": "Article URL: https://orcah.app/ Comments URL: https://news.ycombinator.com/item?id=49927561 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 21:59:46 +0000"
+  },
+  {
+    "id": "c1763b6e4a9f9c2e",
+    "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+    "url": "https://github.com/graphene-data/graphene",
+    "summary": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now? Almost. They just need a context/semantic layer to ensure query correctness and some kind of artifact for publishing findings and visualizations. We built an open source project called Graphene that provides these tools: - Semantic layer that’s more token-efficient than YAML, more determ…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 21:29:52 +0000"
+  },
+  {
+    "id": "d911ff91163f6c4c",
+    "title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "url": "https://rhun.app/",
+    "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with s…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 20:32:18 +0000"
+  },
+  {
+    "id": "c2cddce9b3a8c7d3",
+    "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+    "url": "https://premortem.site",
+    "summary": "Article URL: https://premortem.site Comments URL: https://news.ycombinator.com/item?id=49926691 Points: 7 # Comments: 7",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 20:30:02 +0000"
+  },
+  {
+    "id": "62ca039a245b548e",
+    "title": "Getting started with Claude Code mods",
+    "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+    "summary": "Article URL: https://claude.dev/blog/getting-started-with-claude-code-mods/ Comments URL: https://news.ycombinator.com/item?id=49926243 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 19:48:39 +0000"
+  },
+  {
+    "id": "a0ded06696495c2f",
+    "title": "Yedric.ai",
+    "url": "https://www.producthunt.com/products/yedric-ai",
+    "summary": "Let users control your SaaS with natural language Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-09-18T07:46:27-07:00"
+  },
+  {
+    "id": "9673fbe990dcb8c4",
+    "title": "OpenCompanion",
+    "url": "https://www.producthunt.com/products/opencompanion",
+    "summary": "Start, watch and answer AI coding CLIs from one desktop app Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-09-29T19:23:34-07:00"
+  },
+  {
+    "id": "9c0974f90acd4686",
+    "title": "VitaminDB/synshell",
+    "url": "https://github.com/VitaminDB/synshell",
+    "summary": "A Wayland desktop environment in Rust, split like KDE Plasma: a smithay compositor (tiling and floating layouts, IPC), a shell with panels, a macOS-style dock, launcher, notifications and lock screen, System Settings, a file manager and a screenshot tool. UI on syngui, one live-reloaded config.toml, 14 themes.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T03:04:54Z"
+  },
+  {
+    "id": "c04e2b29a82cea4b",
+    "title": "duonget/test-architect",
+    "url": "https://github.com/duonget/test-architect",
+    "summary": "The Open-Source Quality Engineering Skill for AI Coding Agents.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T03:04:51Z"
+  },
+  {
+    "id": "d9ed23f875c9324c",
+    "title": "brick-layout-designer/collaborative-brick-layout-designer",
+    "url": "https://github.com/brick-layout-designer/collaborative-brick-layout-designer",
+    "summary": "Collaborative Brick Layout Designer — real-time multi-user web editor for LEGO-style brick layouts. Self-hosted via Docker.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T03:04:27Z"
+  },
+  {
+    "id": "9cf220ba258ab266",
+    "title": "Merci-chao/userChrome.js",
+    "url": "https://github.com/Merci-chao/userChrome.js",
+    "summary": "Firefox userChrome.js scripts: Multi Tab Rows, History Submenus II, Page Title in URL Bar, and more...",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T03:04:15Z"
+  },
+  {
+    "id": "76365fc28f477896",
+    "title": "ruvnet/ruvnet",
+    "url": "https://github.com/ruvnet/ruvnet",
+    "summary": "ruvnet.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T03:01:44Z"
+  },
+  {
+    "id": "cf276b2f6fd2ca64",
+    "title": "sirsc104-debug/wardenchat",
+    "url": "https://github.com/sirsc104-debug/wardenchat",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-02T02:58:54Z"
+  },
+  {
+    "id": "88d409137fc24155",
+    "title": "[推广] Azalea Photo：把手机照片原图备份到你自己的硬盘、NAS 或对象存储",
+    "url": "https://www.v2ex.com/t/1246069#reply3",
+    "summary": "做了一个照片备份工具 Azalea Photo ，想分享给有类似痛点的人。 它解决什么问题 手机相册越来越大，但\"照片放哪\"一直很别扭： iCloud 开了「优化 iPhone 储存空间」后，本地原图会被替换成占位图，想拿回原图得联网下载； Google Photos 有压缩，而且数据在别人手里； Immich / Nextcloud 这类自托管方案不错，但需要一直养一台服务器。 Azalea 的思路很简单： 备份介质由你自己选，原图直接写进去，我们的服务器不存任何一张照片。 支持的后端 腾讯云 COS / 阿里云 OSS / Amazon S3 （访问密钥只存在设备钥匙串里，不上传给我们） USB / 移动硬盘 / SSD （ macOS 走安全域书签，Android 走 SAF + OTG ） Samba NAS （局域网） 几个比较在意的细节 写入的是 原始文件 ，不是\"优化\"后的…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-01T16:22:59Z"
+  },
+  {
+    "id": "f093bb78b79c4771",
+    "title": "[酷工作] 招聘｜后端开发工程师（ PHP + Go）",
+    "url": "https://www.v2ex.com/t/1246063#reply0",
+    "summary": "目前在做一个持续运营中的互联网产品，现招聘一名后端开发工程师，主要负责服务端功能开发、接口维护以及后续业务迭代。 项目已经有稳定的业务和基础架构，不是从零开始搭项目，希望找一位能够长期参与项目、独立解决问题的后端。 一、技术栈 目前主要使用： * PHP * Go * MySQL * Redis * Linux * RESTful API * Git 有实际线上项目经验即可，不要求所有技术都精通。 二、工作内容 1. 负责后端 API 开发及维护 2. 负责现有业务功能迭代 3. 参与数据库设计及接口优化 4. 处理线上 Bug 和异常问题 5. 根据产品需求完成新功能开发 6. 配合前端、客户端进行接口联调 7. 对系统稳定性、性能和安全性进行持续优化 三、岗位要求 * 2 年以上后端开发经验 * 熟悉 PHP ，有实际线上项目经验 * 熟悉 Go ，有 Go 项目经验优先 * 熟悉…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-01T15:14:54Z"
+  },
+  {
+    "id": "05146e273d69d15d",
+    "title": "[求职] [远程 / 苏州] 8 年多开发经验，找全栈或 AI 应用开发的机会",
+    "url": "https://www.v2ex.com/t/1246048#reply0",
+    "summary": "大家好，最近在看新的工作机会，想在这里发个帖子试试。 有 8 年多开发经验，做过金融业务、AI 对话产品和办公场景的应用，也有国内互联网公司和外企的工作经历。公司和个人信息先略去，感兴趣的话可以单独提供完整简历。 主要用 Node.js 、Nuxt 和 Next.js 做全栈开发。做过贷款、支付、保险相关业务，负责过 SSR 应用和接口开发，也参与过基于 ELK + Node.js 的日志系统搭建。AI 产品方面，做过 Next.js 整体架构、登录和数据库设计、大模型接入，以及流式生成内容的表格渲染。 日常会用 Codex 、Cursor 、Claude 辅助开发、排查问题和跑 E2E 测试，也会把重复流程整理成 Skills 和定时任务。比较喜欢把一个功能从需求到上线完整做下来。 工作之外，对设计工具、组件库和交互动画也挺有兴趣，做过设计工具插件和浏览器插件，维护过开源组件库。看到做…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-01T12:47:27Z"
+  },
+  {
+    "id": "405567a445c715d4",
+    "title": "[推广] 做跨境之后，我才分清收钱和花钱",
+    "url": "https://www.v2ex.com/t/1246042#reply1",
+    "summary": "做线上业务时，你可能遇到两个完全不同的问题： 客户想用一种货币付你，你需要另一种——这是兑换的问题。 轮到你付 AI 工具、SaaS 或其他线上账单，商户要的是卡——这是付款的问题。 所以能收到钱和能完成付款，其实要分开看。 测试完 REYVO 后面发现了 JPM.us (just power money)不是摩根大通公司做虚拟币与法币之间的转换。 它们是需求上的互补，不代表两个账户里的余额会自动互通。 如果你正在找方案，先写下三件事，比先问“哪张卡最好用”更有帮助： ① 钱现在在哪里、是什么币种？ ② 最后要付给谁，对方接受什么方式？ ③ 这笔钱是个人用，还是业务支出？ 先把需求说明白，再核对产品支持的路径、资格和费用。别先开户，后发现不是自己需要的功能。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "2026-10-01T11:42:22Z"
+  },
+  {
+    "id": "9abf8aa35b1803e8",
+    "title": "ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码",
+    "url": "https://www.v2ex.com/t/1246024",
+    "summary": "今天把 [ClipSeek]( https://clipseek.ai/) 的 Windows 版本上架到 Microsoft Store 了，折腾了一阵，总算顺利过审了。 ClipSeek 是一款注重隐私、完全本地运行的 AI 素材搜索工具，它支持通过自然语言或参考图片，找到视频和照片中的特定画面。 它内置了 MCP Server ，可以让 Claude 、Codex 、Cursor 等 AI Agent 直接搜索、整理、预览并导出你素材库中的内容。 视频介绍：[YouTube]( https://www.youtube.com/watch?v=RspNakVhJkg) 微软商店地址：[ClipSeek]( https://apps.microsoft.com/detail/xp9mfvx3jbss2r?cid=DevShareCLPCB) 今天在下方回复的朋友，都会送出永久激活码，同…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790845580
+  },
+  {
+    "id": "e703f869ef992ba4",
+    "title": "主力邮箱还是得选国内邮箱",
+    "url": "https://www.v2ex.com/t/1246060",
+    "summary": "近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790865748
+  },
+  {
+    "id": "8e1ab310c948da64",
+    "title": "[横琴｜澳资初创｜ AI Agent] 寻找技术联合创始人，前期零薪， 16%股权（4 年归属）",
+    "url": "https://www.v2ex.com/t/1246029",
+    "summary": "​ [联合创始人 & CTO 招募] 云端中立 AI Agent 消费智能体 ​一、 我们是谁 & 要做什么？ ​Meta 发布的 Muse 已经证实了移动端 UI Agent 的巨大前景。然而，国内淘宝、微信、京东、拼多多等生态高度封闭与严格风控，导致大厂（受广告业务绑架）无法做出真正“站在消费者立场、跨平台中立比价与自动履约”的产品。 ​我们正在打造一款 Cloud-First （云端优先）的移动端 AI 消费助手 App 。用户仅需发送一张图片或一句指令，云端 Agent 集群即可在数秒内完成跨平台数据抓取、优惠算法折算与品质风控过滤，帮用户一键找到全网实付最低价并辅助下单。 ​二、 你的核心挑战（ CTO 职责） ​我们需要一位能够亲自动手打仗、具备大厂级工程能力的技术合伙人： ​云端架构搭建：基于 Serverless + Playwright / Browserless 构建…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790900449
+  },
+  {
+    "id": "cd04348219c59738",
+    "title": "有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用",
+    "url": "https://www.v2ex.com/t/1246062",
+    "summary": "总感觉有人干了....",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790867395
+  },
+  {
+    "id": "28eccfce95b4e91c",
+    "title": "[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘",
+    "url": "https://www.v2ex.com/t/1245993",
+    "summary": "Mac 插上 Windows 用的 NTFS 移动硬盘，文件能看，但拷不进去。Linux 用的 ext4 盘插上去，Mac 干脆不认。Forma Drive 就是解决这件事的。 装好以后，这些格式的硬盘在访达里都能直接读写。 - Windows 常用的 NTFS - Linux 常用的 ext4 、Btrfs 、XFS - U 盘和相机卡常用的 exFAT 、FAT32 不用重新格式化，拷文件、改名、删除都和用 Mac 自己的硬盘一样。大文件拷贝速度快，过程也稳定。 ![Forma Drive 读写 NTFS 、ext4 等格式的硬盘]( https://downloads.safafish.com/image/formadrive/zh/01-multiformat.50fb9223.webp) 还有几件插移动硬盘时常碰到的事，也一起做了。 1. **硬盘没安全弹出。** 在 Wind…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790831493
+  },
+  {
+    "id": "a6203f8b97c57c11",
+    "title": "节假日不休， 6.1sol,6astra， onnet 5-5h,Opus 5-5 保持稳定不降智，不降智倍率低至 0.19，欢迎天才程序员来蹬，回复送测试额度。",
+    "url": "https://www.v2ex.com/t/1246002",
+    "summary": "节假日不休，保持稳定不降智，为天才程序员护航。 吉吉 ai https://www.jiji.cc 用户突破 1.2 万 社群超 5000 人 全网首家主打 Codex 不降智的中转站。 时刻保持满血纯血能打的状态。 针对官方的调控降智机制，我们独家科研出的焚诀黑科技，能有效的解决各种模型降智，流口水弱智等现象，让天才程序员 100%满血航行无阻。 回复送测试鸡蛋。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790836745
+  },
+  {
+    "id": "4336b9d61b25ed01",
+    "title": "时隔 3 年，终于更新了个人主页",
+    "url": "https://www.v2ex.com/t/1246052",
+    "summary": "https://dejavu.moe/",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790860454
+  },
+  {
+    "id": "0f902682da9c62da",
+    "title": "没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
+    "url": "https://www.v2ex.com/t/1245998",
+    "summary": "最近体验了下 Meta 的 Muse ，它会给每个用户分配一台独立的 Linux 虚拟机，让 Agent 在里面写代码、跑脚本和处理任务。 机器给的配置还行，系统是 Ubuntu 24.04 （ 2 核 CPU 、8G 内存、100G 磁盘），不过有两个限制： 1. **没有公网 IP**：外部无法直接访问； 2. **闲置会自动关机**：任务结束或空闲一段时间后，虚拟机就会被回收。 不过好在系统里的 `/home/hatch/workspace` 目录是持久化的。稍微折腾一下，不仅能把它打造成一台可以随时从公网访问的 Linux VPS ，还能顺手借用其高质量出口代理上网。 --- ### 怎么把它变成可用的公网 VPS ？ 思路其实很简单：**放持久化目录 + 内网穿透 + 定时保活**。 1. **环境持久化**：因为虚拟机重启后根目录会被重置，所以所有的工具、脚本和数据一定要放在…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790833410
+  },
+  {
+    "id": "bace46fc8c4dcf40",
+    "title": "Anthropic 开始给 Claude 用户送实体周边了",
+    "url": "https://www.v2ex.com/t/1246001",
+    "summary": "Anthropic 开始给 Claude 用户送实体周边了 用户进入 [Claude Dev]( http://claude.dev/) 网站并打开 terminal 后，输入 `/plushies`，即可进入 Claude 毛绒玩具的登记领取流程；如果想领取贴纸，则可以输入 `/stickers`。 毛绒玩具和贴纸均为免费领取，不需要购买商品；活动采用“送完即止”（ while supplies last ）的库存规则，每人限领一份，并要求参与者年满 18 岁。毛绒玩具为随机款式，无法指定具体造型。配送则限定在 Brilliant 能够提供物流服务的地区。 群友：已封号的邮箱同样能领 (转自 在花 https://t.me/zaihuapd/44144 ） ![]( https://i.imgur.com/WhCoLYa.jpeg)",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": 1790836104
+  },
+  {
+    "id": "564762ebf63fe3b6",
+    "title": "Team Fortress 2 Update Released",
+    "url": "https://store.steampowered.com/news/285134/",
+    "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Scream Fortress XVIII has arrived! Featuring 5 new community maps: HolyHell, Scarypass, Trainsawlaser, Medi-Evil, and Scaredy-Cat Added the Haunted Hoard Case Contains 23 new community-created cosmetic items that make up the Haunted Hoard Collection…",
+    "source_id": "steam-news",
+    "source_name": "Steam News",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-02T03:04:48.990461+00:00",
+    "published": "Thu, 01 Oct 2026 12:04:00 -0700"
+  }
+]
