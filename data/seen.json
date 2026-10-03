@@ -35679,6 +35679,236 @@
       "url": "https://store.steampowered.com/news/285134/",
       "first_seen": "2026-10-02T03:04:48.990461+00:00",
       "source_id": "steam-news"
+    },
+    "32023900b443069d": {
+      "url": "https://www.newgrounds.com/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "f6cf006fbdea0d5a": {
+      "url": "https://github.com/login",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "d47ace933c962cd7": {
+      "url": "https://github.com/CodingQuests/godot-enemy-ai",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-game-ai"
+    },
+    "830bc6f692e362d6": {
+      "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "gd-ai"
+    },
+    "d195354c153028df": {
+      "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "85558ac02fa5531a": {
+      "url": "https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "86a2703b2ae1dbe2": {
+      "url": "https://rivendell.dmitrybrant.com/farfuture/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "df17e64c1ef8b5c8": {
+      "url": "https://mu.mormon.garden",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "590dfe8a6ee38cce": {
+      "url": "https://github.com/danthegoodman1/s3-accelerator",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "52fb0e85e6c8ab3b": {
+      "url": "https://television.run/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "cadbb4d47c2f103f": {
+      "url": "https://reddix.co/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "a56051d482766464": {
+      "url": "https://www.interviewbasecamp.com/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "6d4d9a4163343e5d": {
+      "url": "https://teacherplanner.ai",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "83d77defe0852f79": {
+      "url": "https://linkship.net",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "cd6fab1fea00fd89": {
+      "url": "https://github.com/thesubtlety/agent-scrub",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "f68f782cfd3dc1d3": {
+      "url": "https://huggingface.co/kouhxp/gutsy",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "ff3aaa4e5c02364a": {
+      "url": "https://ricardoborges.github.io/rcompose/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "18267801bc18a96c": {
+      "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "48e39ad226d3dcf6": {
+      "url": "https://gitea.coracle.social/coracle/pi-nostr",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "2f9af2d5a60cde9a": {
+      "url": "https://github.com/mateolafalce/iron-within",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "950bab91e23cd7d0": {
+      "url": "https://har-analyzer.onlinetool.workers.dev/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "b055d859a704e6a1": {
+      "url": "https://github.com/MaxwellVolz/hn_whos_hiring",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "55184089ec79b57a": {
+      "url": "https://github.com/ChrystianSchutz/ThreadShelf",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "hn-show"
+    },
+    "b443199b5957d8fb": {
+      "url": "https://www.producthunt.com/products/moxie-2",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "producthunt"
+    },
+    "158702bf1a8dcb45": {
+      "url": "https://github.com/anishthite/collaborative-new-tab",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2328c9c1df50a6a3": {
+      "url": "https://github.com/TheArchitectit/agent-guardrails-template",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d265039427fb07f5": {
+      "url": "https://github.com/will-rice/autoresearch-papers",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "fadc15812ed7271c": {
+      "url": "https://github.com/duyet/agentstate",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d5bd10d9eaf2a42a": {
+      "url": "https://github.com/sizhe233/oh-my-pi",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "84a3b843d77fae5b": {
+      "url": "https://www.v2ex.com/t/1246214#reply1",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "153693c11f547aed": {
+      "url": "https://www.v2ex.com/t/1246212#reply1",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "03a6f234532019a5": {
+      "url": "https://www.v2ex.com/t/1246199#reply0",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "b16a8646c221c738": {
+      "url": "https://www.v2ex.com/t/1246197#reply0",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "34512b40637d58c4": {
+      "url": "https://www.v2ex.com/t/1246196#reply4",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c3d544f4bbb70af7": {
+      "url": "https://www.v2ex.com/t/1246191#reply9",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "b5674add1c398870": {
+      "url": "https://www.v2ex.com/t/1246170#reply17",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3ec970fe20ae99da": {
+      "url": "https://www.v2ex.com/t/1246103",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "dd41660f2922a0fa": {
+      "url": "https://www.v2ex.com/t/1246146",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "52460d74202a07b6": {
+      "url": "https://www.v2ex.com/t/1246122",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "a71bfa084e396421": {
+      "url": "https://www.v2ex.com/t/1246157",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b1a6e3acd5980c29": {
+      "url": "https://www.v2ex.com/t/1246174",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8887718844fb60ad": {
+      "url": "https://www.v2ex.com/t/1246209",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f389266d33979168": {
+      "url": "https://www.v2ex.com/t/1246099",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "703be3ac0c5de4d5": {
+      "url": "https://www.v2ex.com/t/1246158",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "33ca38b11655a311": {
+      "url": "https://store.steampowered.com/news/285419/",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "steam-news"
+    },
+    "bd79a5a48d897553": {
+      "url": "https://pizzapranks.itch.io/indiepocalypse-81",
+      "first_seen": "2026-10-03T02:51:21.480809+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
