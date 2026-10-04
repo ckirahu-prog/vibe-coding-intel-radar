@@ -1,0 +1,791 @@
+[
+  {
+    "id": "906f29140bd4b8a4",
+    "title": "coderback/Thespis",
+    "url": "https://github.com/coderback/Thespis",
+    "summary": "Thespis: an AI/ML toolkit for game developers. First module: Thespis Cast, NPC minds that remember, believe and act offscreen.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:18:04Z"
+  },
+  {
+    "id": "9e6ebb12b086b4c6",
+    "title": "dcc-mcp/dcc-mcp-godot",
+    "url": "https://github.com/dcc-mcp/dcc-mcp-godot",
+    "summary": "Godot 4 MCP editor adapter for AI agents to author scenes, scripts, UI and 2D games, inspect runtime state and run playtests through typed tools in the DCC-MCP ecosystem.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T02:34:24Z"
+  },
+  {
+    "id": "466360c391685595",
+    "title": "Show HN: A free FAQ and appointment booking API for small businesses",
+    "url": "https://callchatsyn.com/developers",
+    "summary": "Article URL: https://callchatsyn.com/developers Comments URL: https://news.ycombinator.com/item?id=49949851 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sun, 04 Oct 2026 01:57:42 +0000"
+  },
+  {
+    "id": "ceffa06885158c67",
+    "title": "Show HN: Second Strike, a 200-player world war on a 3D globe in the browser",
+    "url": "https://secondstrike.io/",
+    "summary": "Article URL: https://secondstrike.io/ Comments URL: https://news.ycombinator.com/item?id=49949340 Points: 5 # Comments: 3",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sun, 04 Oct 2026 00:36:47 +0000"
+  },
+  {
+    "id": "cc71ce5fa30ef192",
+    "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
+    "url": "https://viralwiz.co",
+    "summary": "Article URL: https://viralwiz.co Comments URL: https://news.ycombinator.com/item?id=49949190 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sun, 04 Oct 2026 00:13:07 +0000"
+  },
+  {
+    "id": "8ee6b2fe8941cfb1",
+    "title": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+    "url": "https://getjpm.sh/",
+    "summary": "Article URL: https://getjpm.sh/ Comments URL: https://news.ycombinator.com/item?id=49949172 Points: 6 # Comments: 3",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sun, 04 Oct 2026 00:11:58 +0000"
+  },
+  {
+    "id": "0122b2596dc61bcd",
+    "title": "Show HN: I built a vibe coded website checker for leaked secrets",
+    "url": "https://digitup.dev",
+    "summary": "Article URL: https://digitup.dev Comments URL: https://news.ycombinator.com/item?id=49949097 Points: 4 # Comments: 4",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sun, 04 Oct 2026 00:03:07 +0000"
+  },
+  {
+    "id": "ad892444cae662b4",
+    "title": "Show HN: AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later",
+    "url": "https://agentiloop.ai/",
+    "summary": "Agent! originally appeared on Hacker News last April. A lot has changed since there. Recently a new feature has been developed called Auto-Pilot. It is given a goal and will not stop until the goal is reached. Think of it as tasks on steroids. What Agent does is create multi tasks. Each task is referred to as a Cycle. By default Auto-Pilot triggered by /auto [goal] do not have a time frame. Agent…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 23:27:51 +0000"
+  },
+  {
+    "id": "f4fb09e7f31767ea",
+    "title": "Show HN: PeerYeet – P2P file transfer or fail",
+    "url": "https://peeryeet.com/",
+    "summary": "I wanted a p2p file transfer site that didn't require you to create an account or login, didn't require you to upload your files and either established a webrtc p2p connection or just failed (no TURN relay). You're data never hits the peeryeet server. For the hackernews audience I'll mention my other requirements: a single binary, written in C, super efficient so I can run the whole service on a…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:59:06 +0000"
+  },
+  {
+    "id": "b46029fc9f8a3a1a",
+    "title": "Show HN: I built an inverse kinematics robot arm you can play with",
+    "url": "https://www.kanishksachdev.com",
+    "summary": "Article URL: https://www.kanishksachdev.com Comments URL: https://news.ycombinator.com/item?id=49948576 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:56:27 +0000"
+  },
+  {
+    "id": "155138f575ae0f9a",
+    "title": "Show HN: Docker Desktop Alternative for WSLC in Rust",
+    "url": "https://github.com/ricardoborges/rcdesktop",
+    "summary": "WSL2 significantly simplifies the workflow on Windows 11, but I still needed to create a Compose setup (rcompose) and a GUI for convenience, like Rancher or Docker Desktop. Comments URL: https://news.ycombinator.com/item?id=49948544 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:51:08 +0000"
+  },
+  {
+    "id": "ff6c7f79c574fb30",
+    "title": "Show HN: Cliproxy-rs, a Rust port of the CLIProxyAPI LLM subscription proxy",
+    "url": "https://github.com/vayungodara/cliproxy-rs",
+    "summary": "Article URL: https://github.com/vayungodara/cliproxy-rs Comments URL: https://news.ycombinator.com/item?id=49948441 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:36:03 +0000"
+  },
+  {
+    "id": "05abede1fe8f2b6d",
+    "title": "Show HN: ML News – ML-Focused Hacker News Projection with RSS",
+    "url": "https://mlnews.online/",
+    "summary": "I was motivated by Reddit's RSS announcement [0], needed a replacement for r/MachineLearning [0] https://news.ycombinator.com/item?id=49912499 Comments URL: https://news.ycombinator.com/item?id=49948326 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:17:37 +0000"
+  },
+  {
+    "id": "33f5307b863bc178",
+    "title": "Show HN: Swami Samarth Bhakti Seva – Fast, 100% Offline Devotional on Playstore",
+    "url": "https://play.google.com/store/apps/details?id=io.kodular.patilkomal6679.Shree_Swami_Samarth&hl=en_US",
+    "summary": "Article URL: https://play.google.com/store/apps/details?id=io.kodular.patilkomal6679.Shree_Swami_Samarth&amp;hl=en_US Comments URL: https://news.ycombinator.com/item?id=49948325 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:17:33 +0000"
+  },
+  {
+    "id": "c6084ff70528fc8d",
+    "title": "Show HN: Focus Tool for ADHD",
+    "url": "https://git.talksik.com/FlowyLabs/adhd",
+    "summary": "We live in a noisy digital world. For anyone with adhd, doing one thing at a time is the key. NOT using fancy todo managers. Win one intention at a time instead of planning, prioritizing, and juggling 100s of things. This tool is a free, open-source application to help you stay on track. You set an intention before you work, and a big, fat overlay stays in your periphery to keep you on track. Wri…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 22:16:56 +0000"
+  },
+  {
+    "id": "428da5782da298a2",
+    "title": "Show HN: A blind listening test: can you hear our audio watermark?",
+    "url": "https://2afc.parseval.net/?src=show-hn",
+    "summary": "Article URL: https://2afc.parseval.net/?src=show-hn Comments URL: https://news.ycombinator.com/item?id=49947858 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 21:15:49 +0000"
+  },
+  {
+    "id": "4d1ac56214cc8abd",
+    "title": "Show HN: NetworkX and pyarrow = 6-7x memory savings",
+    "url": "https://github.com/networkx/networkx/discussions/8933",
+    "summary": "Writes will be slower though. That's the trade-off for all columnar tech in general. You can enjoy the savings for a read-only network and switch to classic networkx when you need to write. Comments URL: https://news.ycombinator.com/item?id=49947816 Points: 4 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 21:10:58 +0000"
+  },
+  {
+    "id": "18c96afacbf020ba",
+    "title": "Show HN: Approvegate – Deploy approvals enforced in your pipeline, not in Jira",
+    "url": "https://approvegate.io/",
+    "summary": "Article URL: https://approvegate.io/ Comments URL: https://news.ycombinator.com/item?id=49947808 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 21:10:27 +0000"
+  },
+  {
+    "id": "ef59874fe545018a",
+    "title": "Show HN: Mermaidiff – git diff for behavior, PRs as sequence diagrams",
+    "url": "https://github.com/osmangoninahid/mermaidiff",
+    "summary": "Article URL: https://github.com/osmangoninahid/mermaidiff Comments URL: https://news.ycombinator.com/item?id=49947787 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 21:07:50 +0000"
+  },
+  {
+    "id": "68e2a5e5f8312ada",
+    "title": "Show HN: [Open-source] Sign JSON and send it as a business document",
+    "url": "https://json-doc.com/",
+    "summary": "Hi there. I used to work in international trade, and encountered many situations where people create a PDF from a system, send it to another party, and the other party parses the PDF to input into their system. As AI agents become first principles to deal with the documents, I believe the extra document creation and parsing step will become unnecessary. So I created a JSON viewer, where you can s…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 20:57:46 +0000"
+  },
+  {
+    "id": "3467b04d364f9cda",
+    "title": "Show HN: Play an RL self-play policy in Pokemon Gen 3 Randbats in the browser",
+    "url": "https://zkingston.com/advsim/",
+    "summary": "Article URL: https://zkingston.com/advsim/ Comments URL: https://news.ycombinator.com/item?id=49947568 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 20:41:49 +0000"
+  },
+  {
+    "id": "06ec6af13cf24004",
+    "title": "Show HN: Four LLMs play 20 questions for real money, live",
+    "url": "https://aquarium.money/twenty",
+    "summary": "Hi HN, I wanted to explore how AI models behave when they have their own money. So I gave 4 frontier models their own USDC and had them compete in games of 20 questions. Anyone can watch live. Each round, one model takes a turn picking the secret word, and the others interrogate it in a group chat. Every move costs money: 10 cents to ask a question, $1.00 for a wrong guess, and a right guess take…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 20:29:18 +0000"
+  },
+  {
+    "id": "936e1ad9328a8671",
+    "title": "Is library building obsoleted by AI coding?",
+    "url": "https://news.ycombinator.com/item?id=49947975",
+    "summary": "Huge open source projects have been successful by building upon dozens to hundreds of small libraries that encapsulate functionality and complexity. AI coding uses these libraries to quickly build applications. With the latest round of model releases I am seeing that AI can now generate the functionality of almost any library in-line as it generates the application. When building took a long time…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 21:29:13 +0000"
+  },
+  {
+    "id": "942f4c6f2bdd091c",
+    "title": "Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+    "url": "https://github.com/taylormatematica-beep/repoguard",
+    "summary": "Article URL: https://github.com/taylormatematica-beep/repoguard Comments URL: https://news.ycombinator.com/item?id=49946607 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 18:37:10 +0000"
+  },
+  {
+    "id": "b5a4f3e7d982ac94",
+    "title": "Show HN: Claude Code Routine Session Cleanup Skill",
+    "url": "https://github.com/naw103/claude-routine-cleanup",
+    "summary": "Claude Code's scheduled tasks (routines) leaves a session behind on every run and in the desktop app you can only delete them one at a time. We had 618 open sessions in just one routine. The skill plans the clean up (keeps the newest N and protect any sessions where you typed a reply - optional) and then has Claude delete through the apps own session tool, 25 per call each behind an approval card…",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "Sat, 03 Oct 2026 18:20:21 +0000"
+  },
+  {
+    "id": "3474825c1b905eae",
+    "title": "Thanor AI",
+    "url": "https://www.producthunt.com/products/thanor-ai",
+    "summary": "Make your AI-built sites look expensive and not like slop Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-09-30T15:07:19-07:00"
+  },
+  {
+    "id": "0c830c2469f15ef0",
+    "title": "Deskcord.chat",
+    "url": "https://www.producthunt.com/products/deskcord-chat",
+    "summary": "A widget to chat with customers from your Discord server Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-07-17T02:11:13-07:00"
+  },
+  {
+    "id": "f0c7caee95f4b04d",
+    "title": "MacCam",
+    "url": "https://www.producthunt.com/products/maccam",
+    "summary": "The camera app Apple never shipped for the Mac Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-09-25T04:00:07-07:00"
+  },
+  {
+    "id": "b270f6f5f99b1810",
+    "title": "Singularity",
+    "url": "https://www.producthunt.com/products/singularity-2",
+    "summary": "Run AI coding agents in parallel, one ticket at a time Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-01T06:12:28-07:00"
+  },
+  {
+    "id": "2571ca81601cbb2f",
+    "title": "Crowny!",
+    "url": "https://www.producthunt.com/products/crowny-2",
+    "summary": "Claude Code, Codex, music, your day & 20+ apps in your notch Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-01T00:14:59-07:00"
+  },
+  {
+    "id": "73e34f2261c7f49d",
+    "title": "EmilioBlacksmith/portfolio",
+    "url": "https://github.com/EmilioBlacksmith/portfolio",
+    "summary": "3D portfolio with Nextjs and react three fiber",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:20:04Z"
+  },
+  {
+    "id": "d9980bd74371ee3a",
+    "title": "flourcode/sidefrog",
+    "url": "https://github.com/flourcode/sidefrog",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:18:19Z"
+  },
+  {
+    "id": "53fd969737def391",
+    "title": "tddworks/ClaudeBar",
+    "url": "https://github.com/tddworks/ClaudeBar",
+    "summary": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:17:13Z"
+  },
+  {
+    "id": "beef767476532531",
+    "title": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "summary": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:16:38Z"
+  },
+  {
+    "id": "49591b64e0ffab7e",
+    "title": "halfmoon82/vibe-guide-automation",
+    "url": "https://github.com/halfmoon82/vibe-guide-automation",
+    "summary": "Vibe Guide & Automation - installable V2 agent development workflow",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:14:23Z"
+  },
+  {
+    "id": "40efbbeb47504e3b",
+    "title": "fny/autobahn",
+    "url": "https://github.com/fny/autobahn",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:12:15Z"
+  },
+  {
+    "id": "707ce40f9def5bb2",
+    "title": "thomasnguyen/ourspaces-app",
+    "url": "https://github.com/thomasnguyen/ourspaces-app",
+    "summary": "Group chats forget. Spaces remember. — Convex All Gas hackathon",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:11:45Z"
+  },
+  {
+    "id": "154393aab748de80",
+    "title": "[独立开发者 👨‍💻] 全程 flash 模型： DeepSeek、GLM、Hy4 写了个小程序，顺便记录下国内独立开发的坑",
+    "url": "https://www.v2ex.com/t/1246349#reply0",
+    "summary": "模型用得比较杂：DeepSeek-V4-flash / V4.1-flash 占 60%，GLM5.3 flash 20%，Hy4 15%，剩下就是其他模型。 最直观的感受就是快。常规需求基本可以无脑一直让它跑。但稍微复杂点、或者我自己需求没写清楚的，还是得来回改好几轮。 这两天拿公司免费的 Claude Opus 5.5 试了两次类似任务，体感确实指哪打哪，提示词写得随意点它也能接住。差距还是有的，但 flash 快是真舒服。 成品长这样： 功能不复杂：门店信息查询 + 日常维护。 但真正费人的部分不在代码。下面几条都是我踩过的坑： 个人主体没有「社交」类目，而且审核看代码、不看后台。 第一次提审就被打回：「涉及用户自行生成内容的发布/分享/交流，属社交范畴，个人主体未开放」。后台类目填什么都没用，审核员只认你代码里实际有没有 UGC 。最后把用户能发内容的口子全砍掉、改成平台代发才过…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T03:03:52Z"
+  },
+  {
+    "id": "c235c5c9fa0913af",
+    "title": "[酷工作] 非常不错的运维兼职",
+    "url": "https://www.v2ex.com/t/1246348#reply1",
+    "summary": "我这里常年有一些维护的活,分为软件和硬件. 1. 硬件: 主要是处理一些服务器,PC 的故障,需要上门. 都非常简单,重点是要上门处理,很多单位是保密单位,这种需要身份信息提前报备才能上门,各类工单都有,对应不同的价格. 2. 软件: 这个大家最有兴趣, 因为可以远程处理,主要涉及一些操作系统,中间件,数据库等的故障处理和安装. 干这个只能给大家增加一些外快,肯定是发不了大财的,有兴趣的可以联系我,可以做上门单的注明城市和自己可以作什么,只做软件的,注明自己的能力就行. VX: eWVsdnhpYW9nZQo=",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T02:58:27Z"
+  },
+  {
+    "id": "6acd99acdee59548",
+    "title": "[宽带症候群] 面向低尾延迟的多中转路径传输：一种不追求带宽聚合的多路径方案",
+    "url": "https://www.v2ex.com/t/1246340#reply0",
+    "summary": "面向低尾延迟的多中转路径传输：一种不追求带宽聚合的多路径方案 免责声明 ：本文内容完全由 AI 生成，文中所有内容均为 A\\ 的幻觉，不代表任何事实或建议。请勿将本文任何内容用于违反任何国家或地区法律法规及公序良俗的用途。 摘要 在带宽普遍过剩的今天，代理网络的主要体验瓶颈已从吞吐转向尾延迟：单个中转节点的间歇性排队与假死，会直接表现为交互卡顿。现有代理客户端的选路机制均工作在连接粒度，依赖周期性探测，无法在毫秒到秒级掩盖单路径故障；学术界与商业界的低尾延迟多路径系统则普遍依赖 UDP 或内核 MPTCP ，无法用于只有 TCP 中转可用的环境。本文提出一种思路：经由多个相互独立的中转节点同时维持长连接，在其上运行轻量的传输层，以\"晚绑定、对冲重发、慢路径隔离\"为调度原则，将多路径用于压低尾延迟而非叠加带宽。配合两家中转机场与一台自建落地机（独享出口 IP ，避免机场共享 IP 被污染）…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T01:36:50Z"
+  },
+  {
+    "id": "9fc3d45f3d6c9f23",
+    "title": "[OpenAI] macOS 上 ChatGPT 客户端长期无法使用",
+    "url": "https://www.v2ex.com/t/1246331#reply12",
+    "summary": "自从 OpenAI 把 ChatGPT 和 Codex 二合一后，我就再没办法用 macOS 客户端了…… 我平时其实用 Chat 功能的频次远高于用 Agent ，但诸多原因导致客户端的 Chat 功能我无法使用： 1.Classic 客户端有个无法用 thinking 的 bug ，而我常用 thinking ； 2.新版二合一客户端最初无法更新 chat 的历史记录，更新到 8 月的时候，历史记录稳定了，但我长期无法正常上传附件，偶尔能上传成功，但绝大部分是失败，所以难以稳定使用。 最近新版还更新了 UI ，即用一个很窄的侧边入口+正常 sidebar+正文窗口的模式，但不知为何我无法进入这个正常 UI ，还停留在老 UI ，且左上角的入口变成了 ChatGPT Work/Codex ，Chat 模式没了……这下好了，完全不可用了。我尝试注销用户后再登录会回到新 UI 并能找回 C…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-04T00:04:50Z"
+  },
+  {
+    "id": "304dfb3556fdaf25",
+    "title": "[分享创造] 给 Touch Bar 做了个新用途：直接看 Codex / Claude Code 是在工作，还是已经做完",
+    "url": "https://www.v2ex.com/t/1246327#reply1",
+    "summary": "大家好，前几天在这里分享过 DockTouchBar 。这次做了一个面向 AI 编程的 Vibe 版本，新增智能体工作状态显示，想分享给还在用带 Touch Bar 的 Mac 的朋友。 AI 在另一个窗口里写代码时，想知道它还在跑还是已经结束，常常要切回去看一眼。所以我把这个状态放到了 Touch Bar 上，低头就能看到。 GIF 演示直链 智能体工作时，所在 App 的图标会变成一个像素风小屏幕，播放字符雨；做完后显示 OK ，点一下可以清除提示。多个工具一起用时，可以从各自图标看谁还在忙。 配对也尽量做得简单： 设置 → 配对智能体 → 复制提示词 ，粘贴给你的智能体。它会自检，通过自己的 hook 或长期指令规则接入，验证通过后出现在列表里。接入前提示词会要求它备份配置；有些工具还需要你确认信任 hook 。 目前在我自己的 Mac 上试过 Claude Code 、Codex…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T22:40:51Z"
+  },
+  {
+    "id": "f4e3a3f13596346e",
+    "title": "[分享创造] 做了一个 rap 视频生成器，可以上传照片生成 rap 视频。",
+    "url": "https://www.v2ex.com/t/1246323#reply0",
+    "summary": "做了一个 rap 视频生成器，可以上传照片生成 rap 视频。 1 、上传 2 张人物图片，可以是你和好哥们的，可以是你和你女朋友的； 2 、输入主题：给暗恋对象整活，吐槽什么事情，祝朋友生日快乐等等； 3 、AI 直接生成你化身地下 Rapper 、自带薄肌质感、手势到位的说唱视频。 核心功能： 图片角色绑定 + Rap 动作/音唇同步生成 https://rapvideoai.com/ 赶快来试试吧！",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T18:07:38Z"
+  },
+  {
+    "id": "4d2a5c12eaeb3d87",
+    "title": "[分享创造] 写了 8 年代码，终于明白“说唱是男人最好的医美”",
+    "url": "https://www.v2ex.com/t/1246321#reply1",
+    "summary": "最近\"薄肌\"火了，我想说\"薄肌\"什么的弱暴了，说唱才是男人最好的医美。 趁着国庆摸鱼，我搓了个站点： https://rapvideoai.com/ 简单粗暴： 1 、上传一张两张图片，可以是你和好哥们的，可以是你和你女朋友的； 2 、输入主题：给暗恋对象整活，吐槽什么事情，祝朋友生日快乐等等； 3 、AI 直接生成你化身地下 Rapper 、自带薄肌质感、手势到位的说唱视频。 核心功能： 图片角色绑定 + Rap 动作/音唇同步生成 原本是做给自己整活的，发给几个同组同事看，他们纷纷把自己老板的照片塞进去唱“今晚我不加班”，效果极度拔群。 你也想体验一下从“大厂螺丝钉的”一秒爆改成“说唱圈黄毛”，欢迎来玩玩提点意见： https://rapvideoai.com 质疑黄毛，理解黄毛，成为黄毛，赶快试试吧！",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T17:35:39Z"
+  },
+  {
+    "id": "be3fb7f06058132e",
+    "title": "[远程工作] USACO 竞赛编程讲师（远程，华盛顿州）",
+    "url": "https://www.v2ex.com/t/1246319#reply0",
+    "summary": "职位简介 我们正在招募一名积极热情、具备扎实算法竞赛背景的 USACO （美国计算机奥林匹克竞赛）竞赛编程讲师，以远程兼职的形式加入我们的团队，为北美 K–12 学生提供高质量的算法与竞赛编程指导。 作为团队的一员，你将帮助学生系统学习算法、数据结构和编程技巧，指导他们解决具有挑战性的竞赛题目，培养逻辑思维、独立解决问题的能力，并为 USACO 等算法竞赛做好准备。 我们希望你不仅具备优秀的编程能力和算法竞赛经验，还热爱教学，善于将复杂的算法概念讲解清楚，并能够根据学生的不同水平提供有针对性的指导。如果你对教育科技和 AI 辅助学习产品的开发也感兴趣，未来还有机会参与相关产品和学习工具的设计与建设。 工作职责 根据学生的年龄、编程基础和竞赛目标，设计和准备算法、数据结构及竞赛编程课程。 为学生讲解 USACO 涉及的核心知识点、常见算法、解题思路和编程技巧。 通过实际编程练习、经典竞赛题…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T17:09:32Z"
+  },
+  {
+    "id": "df1114f4535ce25d",
+    "title": "[推广] GPT 自助充值， Plus129¥/ Pro5x 689¥/ Pro10x 1249¥",
+    "url": "https://www.v2ex.com/t/1246314#reply0",
+    "summary": "最近我们也增加了 ChatGPT 代充服务 ，有需要的小伙伴可以看看。 目前支持： ChatGPT 会员代充 支持开发票 在线下单 购买链接： https://store.guozhiyanji.cn/ 非黑产，正规渠道，挣的菲区差价，有效期内质保，掉订阅按天赔付。 有问题也可以直接回帖或者加绿色软件 REFZMTUwMjEy 交流。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T15:33:11Z"
+  },
+  {
+    "id": "ae44b7a8ca9dcf6f",
+    "title": "[Cursor] 收 cursor auto",
+    "url": "https://www.v2ex.com/t/1246310#reply0",
+    "summary": "收一个 auto 号，要求有邮箱密码，邮箱无绑定，cursor 账号可接手机验证码",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T14:58:58Z"
+  },
+  {
+    "id": "a0258cea15ebe2eb",
+    "title": "[酷工作] [招聘] 海外运营客服",
+    "url": "https://www.v2ex.com/t/1246303#reply1",
+    "summary": "招聘岗位：运营客服 招聘人数：2 工作职责： 1:玩家咨询：处理账号、登录、充值、活动、游戏规则，结算疑问等游戏问题，保证回复时效及服务满意度。 2:玩家维护：提供基础服务，玩家情绪安抚，收集玩家意见及建议。 3:数据整理：统计客户的高频问题/活动反馈/玩家建议/游戏 Bug 。记录数据，反馈后跟进解决进度，并做好记录和月底总结。 要求： 1:打字速度 60 字/分钟以上 2:熟练使用 Office 办公软件 3:能服从管理，接受轮班制度 有互联网客服经验优先。 工作地点：海外 联系：telegram: bWFydGlua2V5aQ== (Base64) 邮箱：ZGltaW5nY2hhbkBnbWFpbC5jb20= (Base64)",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T14:31:37Z"
+  },
+  {
+    "id": "040a8ea65bf99d86",
+    "title": "[分享创造] [魔力工作台] 一个开源版 workbuddy 替代品",
+    "url": "https://www.v2ex.com/t/1246295#reply6",
+    "summary": "我做了一个开源版 workbuddy 替代品，你可能会问，类似的产品海了去了，重复造轮子有什么意义？ 缘起 事情是这样的 我在一家 AI 公司就职产品经理工作，就我用这个行业真实业务的视角，以及我接触到的一些东西来看我觉得他很有机会 公司业务说白了就是卖 token 而组成公司收入的主要客户实际上是搞蒸馏，这种客户我觉得并不优质 因为这不产生价值，是军备竞赛，一旦 AI 泡沫破灭，市场没有了钱，军备竞赛终止，公司业绩会大幅缩水，所带来的连锁反应是非常恐怖的 不过也在转型，在做企业客户，转型二字说来容易，赚钱真的是太难了，企业直客就两个特点，没钱、事多 企业用 AI 本身的目的就是为了降本增效，让他花大把的钱买 token 肯定要考虑是否值得 我们公司员工不限量使用任何大模型，成本价的情况下一个月最高的能用到五六千块 rmb ，平均使用也有 1500 左右，这个价格去企业里推，很少有公司愿…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T12:56:15Z"
+  },
+  {
+    "id": "8b3a501a83583215",
+    "title": "[职场话题] 大家有什么离开码农岗位能保持一定稳定收入的事业？",
+    "url": "https://www.v2ex.com/t/1246294#reply12",
+    "summary": "都说码农被裁员一定不会直接滴滴/外卖/跑腿，而是经历一段时间的找工作、一段时间的独立开发、一段时间的 AI 创收、一段时间的实体创业，最后才是滴滴/外卖/跑腿？ 我先说下我身边的： 有人写番茄小说，前期温饱都难解决，字数上去加上题材还行，不全职的情况目前每个月有七千多以上； 有人在跑腿，刚开始一周五六百左右，习惯后目前一天下来保底能有两百多的样子； 有人和朋友开了小餐馆，主要是炒菜/粉面等，目前月均亏损三千左右； 有人通过 AI 结合 3D 打印，再制作一些手办等小玩意，收入未知； 我了解的都非常普通，有好的门路可能也不会和我分享，也想看看各位大佬有没有能分享的一些门路，互相讨论。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T12:55:37Z"
+  },
+  {
+    "id": "2a6a4ed354ab844b",
+    "title": "[AI SaaS 产品推荐] 10 月 1 日完成开发，看看我的新产品能跑多远",
+    "url": "https://www.v2ex.com/t/1246293#reply1",
+    "summary": "我是一个前前端，之前几乎没怎么开发过手机端客户端，做独立开发这两年接触了很多 app 开发，每次开发 app 的时候提交都让我头疼，尤其是每次做 预览图，已经成为我的一个劝退原因，我经常会因为畏惧多语音的重复制作预览图而放弃多语言的发布。即使在 AI 已经可以很好地帮我处理多语言的情况下。 所以我最近着手开发了一款 APP STORE 的 Sreenshoot 的模板编辑软件，网址是 https://appscreenshoot.com ，我计划未来支持 MCP 的调用，可以让 Codex 直接远程调用网站提供的模板，多语言都可以自动完成，让 Codex 来操作 Simulator 自动截屏多语言的屏幕，这样可以节省大量的人力。 目前网站完全免费，欢迎试用，留言建议我会及时采纳。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T12:50:59Z"
+  },
+  {
+    "id": "742645aa11f12f53",
+    "title": "[Apple] iPhone 18 Pro 屏下 Face ID 识别率下降，开局输入密码",
+    "url": "https://www.v2ex.com/t/1246292#reply8",
+    "summary": "iPhone 18 Pro 屏下 Face ID 识别率感觉有所下降，不像自媒体说的解锁率一致。 人脸重录过 系统升级过 大角度转头重录过 眼镜佩戴录入过。 没贴防窥膜，就普通钢化膜。 Apple Watch S12 联动解锁的开关也开了，但是这功能仅限面部遮挡情况下。 最后解锁率还是相较以前的手机低。 经常开屏就是密码，感觉小白鼠感有点拉满。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": "2026-10-03T12:49:39Z"
+  },
+  {
+    "id": "fb221cf5a646cfdb",
+    "title": "历经千辛万苦终于用上了 opus5.5.",
+    "url": "https://www.v2ex.com/t/1246282",
+    "summary": "现在想在国内订阅上、并且不封号实在是太难了。 0. 第零步订阅一个好用的 vpn ，最好是家宽，稳定的美国 ip 。 1. 第一步注册一个 google 账号。 2. 申请一张招行的 visa 卡 3. 下载一个安卓模拟器，使用 google play 订阅 4. 此时订阅完成以后，会提示需要过 kyc 5. 使用中国护照通过 kyc 6. 使用。目前正常用了两天 该说不说，opus5.5 聊天是真的体贴，一到晚上就提醒我早点睡觉。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791036978
+  },
+  {
+    "id": "2681455fb50f4fc4",
+    "title": "微信输入法安装的时候强制要管理员权限",
+    "url": "https://www.v2ex.com/t/1246278",
+    "summary": "正常吗 https://i.v2ex.co/mlVqkMyK.jpeg",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791027248
+  },
+  {
+    "id": "4fba918fd1e79a51",
+    "title": "闲来无事，梳理了下自己最近的 ai 订阅",
+    "url": "https://www.v2ex.com/t/1246264",
+    "summary": "1. 5 个 openai 的 team 席位订阅，月消费 45 刀（保持） 2. 1 个 claude pro ，月消费 20 刀（保持） 3. 火山云 coding plan pro ，目前特价 50 元/月，下个月恢复原价 200 就不续订了 4. 2 个 kimi 老 199 套餐，月消费 398 元/月，这个月不续订了 5. 之前订阅的 opencode go 5 刀，5 刀优惠没了，暂时也没续订了 6. deepseek 平台里充的还有 40 块钱 7. 老马家的 grok 上了 grok heavy 年付，7100 （保持） 之后就是续费着 oai 的和 claude 的了。然后看哪家有活动再偶尔开一个月尝尝鲜。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791018462
+  },
+  {
+    "id": "07e375189c1caf9f",
+    "title": "Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
+    "url": "https://www.v2ex.com/t/1246247",
+    "summary": "付费 pro 和 ultra 用户可以使用；已经收到通知了；不知道能有多少额度； Pro 账号的含金量提升了；",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791011406
+  },
+  {
+    "id": "800f5e0564027344",
+    "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
+    "url": "https://www.v2ex.com/t/1246258",
+    "summary": "想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？ 1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓） 2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓） 3 、百分百放在真实家庭里的家宽环境。 4 、按月起，包一台机器，远程连接。 5 、价格可能在人民币 500 起每月，无其他费用。 6 、可能会慢慢开放当地银行卡代付款购买订阅业务。 ------- 如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需求",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791016497
+  },
+  {
+    "id": "6d8c0af8746a4ef9",
+    "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
+    "url": "https://www.v2ex.com/t/1246251",
+    "summary": "回复 18",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791012714
+  },
+  {
+    "id": "b491c252df0c6e0c",
+    "title": "国庆参加表哥的婚礼，让我有点不同的人生感悟",
+    "url": "https://www.v2ex.com/t/1246308",
+    "summary": "前几天参加了我表哥的婚礼。 婚礼这个场合挺特别的。它跟葬礼不一样，跟医院里小孩出生也不一样，但它也能让人看到人生的不同阶段。那天在场的人，有外甥、有侄女，有几个刚大学毕业的表兄弟，有他们的父母，有父母辈的父母。老的、小的、刚起步的、已经走了一半的，全在一个空间里。 我坐在那儿，看着看着，就有点感慨。 有的人在为自己的小孩烦恼，烦恼他们能不能有出息，将来能不能照顾好自己，能不能幸福，能不能早点抱上孙子。再往上，父母的父母，又在想自己还能陪孩子、陪孙子多久。好像每个阶段都有每个阶段的愁。 但你说，有烦恼，也会有幸福吧。这个我也知道。 只是我有时候会觉得很矛盾：这真的是我想要的幸福吗？周围人都结婚了，我就也要结吗？我也说不太清楚。就感觉周围的人好像都完成了主线任务，而我进度落后了一大截。其实我自己对这个事情没有那么在意，但周围的人都在做，你就好像是被推到了舞台正中央，聚光灯打在你的头顶上，你必…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791079181
+  },
+  {
+    "id": "4acfaa050b10eb75",
+    "title": "公司让开发个某书刷阅读系统",
+    "url": "https://www.v2ex.com/t/1246332",
+    "summary": "公司一直租的别人系统，国庆前说要让我模仿那个系统自行开发一个刷帖系统。 说开发出来以后提成 3k ，基本从零开始开发，但是需要的功能和需求比较明确，设备和账号说是都准备好了。但是总感觉被坑了",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-04T03:21:14.867782+00:00",
+    "published": 1791072430
+  }
+]
