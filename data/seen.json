@@ -36209,6 +36209,296 @@
       "url": "https://www.v2ex.com/t/1246332",
       "first_seen": "2026-10-04T03:21:14.867782+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "cf635256c33b7404": {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "f422ce3ee92c1ec4": {
+      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "31d75fa8712fb787": {
+      "url": "https://github.com/Classevelabs/rai",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "6ea5c750c570a40c": {
+      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "c2bef1c1c410da7d": {
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "4db2f220299515e9": {
+      "url": "https://github.com/Mutantcat-Working-Group/AIPixel",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-game-ai"
+    },
+    "0473265bf232216e": {
+      "url": "https://github.com/LonLes-ltd/ai-game-maker-privacy",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-game-ai"
+    },
+    "17673a0f2ec34150": {
+      "url": "https://github.com/HuanMoovo/ludo-atlas",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-game-ai"
+    },
+    "90eed6f4815460c2": {
+      "url": "https://github.com/SummerEngine/summer",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-game-ai"
+    },
+    "a846a6a1ddd75c67": {
+      "url": "https://andyfischer.dev/blog/introducing-candle/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "3677f09ee3e9de08": {
+      "url": "https://random-topic.com",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "c03618d4fc5c981d": {
+      "url": "https://github.com/fusor-rs/hypercmd",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "8c640cb88a9d6473": {
+      "url": "https://orrery.ryboso.me/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "4bfbb26eb3c103ab": {
+      "url": "https://github.com/atgreen/evergreen",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "2ac0010c9cfda167": {
+      "url": "https://poteto-frontier.vercel.app/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "4d8bd989294c99d0": {
+      "url": "https://joinfaded.com/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "d998462135a7f09c": {
+      "url": "https://www.editui.app/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "bce1b527fa57e7f5": {
+      "url": "https://soulor.app/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "32f9889c7cca0143": {
+      "url": "https://store.steampowered.com/app/5077320/TapRacer/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "18520460f8cbe0d3": {
+      "url": "https://xetodus.com/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "d09bd324cf3f43b4": {
+      "url": "https://twitter.com/emerald_d3v/status/2106885158360195426",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "d4703e6929639a82": {
+      "url": "https://redactpdf.ai",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "06e002d57013ce60": {
+      "url": "https://shlexball.com/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "3e41568dd789fb3f": {
+      "url": "https://shorter.dev",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "a22170cacac4578b": {
+      "url": "https://gmaterni.github.io/wikijs/wikijs.html",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "96b32fb4cfa03719": {
+      "url": "https://play.google.com/store/apps/details?id=com.sqftcalc.app&hl=en_US",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "a8fa2c562070be88": {
+      "url": "https://www.sortbot.io",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "04d171dff737586d": {
+      "url": "https://counter.maricakes.de/",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-show"
+    },
+    "ad90f0c89b677504": {
+      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "cf9a17e8c858d596": {
+      "url": "https://www.producthunt.com/products/cursor-remote-lite",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "producthunt"
+    },
+    "c08ec2b468a48f44": {
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "producthunt"
+    },
+    "5b8ee58e3c5f60e8": {
+      "url": "https://www.producthunt.com/products/clair-3",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "producthunt"
+    },
+    "04778bd53bb5f7c2": {
+      "url": "https://github.com/FallGameDev/clicker",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a8167ff84b8765e3": {
+      "url": "https://github.com/Grandiras/ATProto.NET",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "27fddb87266cef33": {
+      "url": "https://github.com/meabhisheksoni/skill",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ef30fbd54241a932": {
+      "url": "https://github.com/saworbit/didi",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "de34f4e51dd935be": {
+      "url": "https://github.com/theaerotoad/qmdpy",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "dae52706115bda14": {
+      "url": "https://github.com/FreePeak/xdev",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "40fe8b49d595adaa": {
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "84a2091bc868d024": {
+      "url": "https://github.com/ZataZhang/ZataTree",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "edaa352030b7290f": {
+      "url": "https://www.v2ex.com/t/1246466#reply0",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e8b5687e7063e1fc": {
+      "url": "https://www.v2ex.com/t/1246463#reply0",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "edc4b56dfaf77711": {
+      "url": "https://www.v2ex.com/t/1246457#reply0",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "9c71a39e15e0e0d5": {
+      "url": "https://www.v2ex.com/t/1246447#reply0",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "269018d68a56fae6": {
+      "url": "https://www.v2ex.com/t/1246443#reply3",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "7a008637698848ff": {
+      "url": "https://www.v2ex.com/t/1246437#reply1",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "1423fd05f0243c2a": {
+      "url": "https://www.v2ex.com/t/1246421#reply51",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "d980295cb6540ede": {
+      "url": "https://www.v2ex.com/t/1246411#reply4",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "03b42ddde3311ba7": {
+      "url": "https://www.v2ex.com/t/1246355",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "5cb9cac81d1d4f14": {
+      "url": "https://www.v2ex.com/t/1246403",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "85143494f9ded811": {
+      "url": "https://www.v2ex.com/t/1246360",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "a47a6c3af098e994": {
+      "url": "https://www.v2ex.com/t/1246350",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "904eb01b67833874": {
+      "url": "https://www.v2ex.com/t/1246367",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ccf7a0dadad9a34d": {
+      "url": "https://www.v2ex.com/t/1246441",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "1d270815b8bfe0e3": {
+      "url": "https://www.v2ex.com/t/1246425",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9e2a8d75366f1c52": {
+      "url": "https://www.v2ex.com/t/1246361",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d5b91c580a27f546": {
+      "url": "https://www.v2ex.com/t/1246440",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "75d7266432bb933c": {
+      "url": "https://yofiasi.itch.io/barista",
+      "first_seen": "2026-10-05T02:57:58.108179+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
