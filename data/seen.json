@@ -39504,6 +39504,256 @@
       "url": "https://www.v2ex.com/t/1249023",
       "first_seen": "2026-10-16T02:10:27.831003+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "b2517428dfe27939": {
+      "url": "https://app.simplystream.com/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "9d15b37f27808196": {
+      "url": "https://github.com/Isthimius/Gondwana",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "a44e8963cec69147": {
+      "url": "https://nptel.ac.in/courses/106108004",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "ac3180a1fad3b699": {
+      "url": "https://bigwalk.game/xbox/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "460f3e19972c2439": {
+      "url": "https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "84fcb9358910eb59": {
+      "url": "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "bb7e239447ece2ea": {
+      "url": "https://github.com/erkan612/GMSmartAgent",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-game-ai"
+    },
+    "06873d1a8c0e7d42": {
+      "url": "https://netsat.space",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "410ae70aa0cfae08": {
+      "url": "https://thingstodoapi.com/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "b2d8bf32e6e5df92": {
+      "url": "https://fakeipedia.org",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "82f84e03b32c25c7": {
+      "url": "https://ivokeys.com/listen/cannonball-adderley-barefoot-sunday-blues/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "23f501c38a7f2971": {
+      "url": "https://github.com/FramY2/ctxwise",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "339e3b4ae8fcc0b6": {
+      "url": "https://ozilai.net/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "a3e0984a586846b8": {
+      "url": "https://roadster.pavlin.dev",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "8839ba78c339d28f": {
+      "url": "https://pomoflow.pages.dev/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "adce55cbafd62538": {
+      "url": "https://csfor.fun/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "3af7b0839d5d7a71": {
+      "url": "https://tvexplorer.live/channel",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "04cab0412d65343f": {
+      "url": "https://rabin-a.github.io/mcp-router/#benchmark",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "d1ba9c921bb2a467": {
+      "url": "https://github.com/nrndev/pogi",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "a7a63e070f280300": {
+      "url": "https://github.com/blank-slate-labs/coastmath",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "81ef485607ae576d": {
+      "url": "https://tensorpix.ai/usecases/real-estate-video-maker",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "e3f0d8a240d7060d": {
+      "url": "https://github.com/donutbrowser/donutbrowser",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "67fb525ebb5639c5": {
+      "url": "https://github.com/rahimnathwani/sill-android",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "996025c543b8b99d": {
+      "url": "https://stoke.money",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "9cbe9c9ecbfc6748": {
+      "url": "https://github.com/Moshik21/weatherdeck",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "3cad625a3a3a3b87": {
+      "url": "https://github.com/devYRPauli/putaway",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-show"
+    },
+    "5a0f9e17c20efeb4": {
+      "url": "https://www.ctvnews.ca/canada/article/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "3a513a846e6c8380": {
+      "url": "https://www.producthunt.com/products/atelier-9",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "producthunt"
+    },
+    "37bf9e8730e43c25": {
+      "url": "https://www.producthunt.com/products/calenteri",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "producthunt"
+    },
+    "6b0e46053cfa03de": {
+      "url": "https://www.producthunt.com/products/sparrow-10",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "producthunt"
+    },
+    "1a9f653dd72286c9": {
+      "url": "https://github.com/zranitm/docviewer",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "da0a54e65ed607fa": {
+      "url": "https://github.com/RonaldLandaeta/page_dippea",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "98756c59edfc6c82": {
+      "url": "https://github.com/sureshkumar20133151-arch/3d-portfolio",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9e8e0464f4b2a375": {
+      "url": "https://github.com/plattnum/cera",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ecbbf2b11e95e7f2": {
+      "url": "https://github.com/easygl1der/supervisor-skills-plus",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "05a5d6dad9cb4e68": {
+      "url": "https://github.com/Jgracier/ClikCode",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0e4f6609ef278a59": {
+      "url": "https://github.com/jeremylanes/git-claw",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "da58bc18587ebdf5": {
+      "url": "https://github.com/Quriosity-agent/articles",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "23fe12b90739c0e2": {
+      "url": "https://github.com/TheCraigHewitt/bruh",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "df1617763d2f052c": {
+      "url": "https://www.v2ex.com/t/1249515#reply0",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "0f5fe32251b1ede1": {
+      "url": "https://www.v2ex.com/t/1249502#reply10",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "62c684d24be3eedb": {
+      "url": "https://www.v2ex.com/t/1249475#reply1",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "5c0b3b1a88c5df6f": {
+      "url": "https://www.v2ex.com/t/1249464#reply0",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a4490eecbba5cc8f": {
+      "url": "https://www.v2ex.com/t/1249294",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b4778509b2add3ca": {
+      "url": "https://www.v2ex.com/t/1249321",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "567709286f5f4d01": {
+      "url": "https://www.v2ex.com/t/1249270",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "e0991c19738d2473": {
+      "url": "https://www.v2ex.com/t/1249287",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c6835d37c6421e43": {
+      "url": "https://www.v2ex.com/t/1249305",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d117db350513b263": {
+      "url": "https://www.v2ex.com/t/1249260",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b261c69e6da0677a": {
+      "url": "https://www.v2ex.com/t/1249389",
+      "first_seen": "2026-10-17T02:04:02.777472+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }

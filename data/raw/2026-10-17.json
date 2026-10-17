@@ -1,0 +1,659 @@
+[
+  {
+    "id": "b2517428dfe27939",
+    "title": "Publish Unreal games to the web with a single prompt",
+    "url": "https://app.simplystream.com/",
+    "summary": "Article URL: https://app.simplystream.com/ Comments URL: https://news.ycombinator.com/item?id=50124437 Points: 6 # Comments: 2",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 20:47:20 +0000"
+  },
+  {
+    "id": "9d15b37f27808196",
+    "title": "Show HN: Gondwana, a code-first C#/.NET game engine with WebGL",
+    "url": "https://github.com/Isthimius/Gondwana",
+    "summary": "Gondwana is a 2D/2.5D game engine for C#/.NET 8 that I’ve been building over the past 16 months, using SkiaSharp for rendering. I've spent my career creating web and distributed apps and that has influenced the engine's development, so it will feel very familiar to anyone with a similar background. The engine is deliberately code-first in its implementation but still includes visual authoring too…",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 20:01:59 +0000"
+  },
+  {
+    "id": "a44e8963cec69147",
+    "title": "Mathematical Foundations of Generative AI, IISc Bangalore",
+    "url": "https://nptel.ac.in/courses/106108004",
+    "summary": "Article URL: https://nptel.ac.in/courses/106108004 Comments URL: https://news.ycombinator.com/item?id=50123268 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 19:27:14 +0000"
+  },
+  {
+    "id": "ac3180a1fad3b699",
+    "title": "Untitled Goose Game Studio's Newest Isn't on Xbox Because of BDS Movement",
+    "url": "https://bigwalk.game/xbox/",
+    "summary": "Article URL: https://bigwalk.game/xbox/ Comments URL: https://news.ycombinator.com/item?id=50122721 Points: 13 # Comments: 0",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 18:51:58 +0000"
+  },
+  {
+    "id": "460f3e19972c2439",
+    "title": "Brutal A free C# framework that helped RimWorld make its own engine",
+    "url": "https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/",
+    "summary": "Article URL: https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/ Comments URL: https://news.ycombinator.com/item?id=50099794 Points: 5 # Comments: 0",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Thu, 15 Oct 2026 06:00:16 +0000"
+  },
+  {
+    "id": "84fcb9358910eb59",
+    "title": "Show HN: Factory DS, A Factorio-Like Game for the Nintendo DS",
+    "url": "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/",
+    "summary": "Hi HN, I'm Ronan. I love the Nintendo DS but ran out of games that kept me hooked, so I tried porting the kind of game I play today: a factory game in the spirit of Factorio, on a 67 MHz ARM9 with 4 MB of RAM. I had never written code for the DS, and I built it with Claude Code. I wrote the specs, the design and the balancing, and Claude wrote most of the C. The post goes through how that worked,…",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Tue, 13 Oct 2026 18:42:48 +0000"
+  },
+  {
+    "id": "bb7e239447ece2ea",
+    "title": "erkan612/GMSmartAgent",
+    "url": "https://github.com/erkan612/GMSmartAgent",
+    "summary": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T01:25:15Z"
+  },
+  {
+    "id": "06873d1a8c0e7d42",
+    "title": "Show HN: Netsat, a shared internet virtual satellite you can use to learn DSP",
+    "url": "https://netsat.space",
+    "summary": "Receiving and decoding satellites is (in my opinion) one of the coolest things you can do with a radio. The problem is that it has a steep learning curve. Protocols are complicated, signals are hard to catch and track, and requires an investment in equipment just to get started. Netsat is an internet stream that simulates the experience of receiving a satellite signal with an SDR. I simplified th…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Sat, 17 Oct 2026 00:44:29 +0000"
+  },
+  {
+    "id": "410ae70aa0cfae08",
+    "title": "Show HN: Things to Do API",
+    "url": "https://thingstodoapi.com/",
+    "summary": "I built an api/mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area. I've been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls / web search, but slow. you can scrape on demand too, but i wanted a faster data set and…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 23:58:34 +0000"
+  },
+  {
+    "id": "b2d8bf32e6e5df92",
+    "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+    "url": "https://fakeipedia.org",
+    "summary": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write artic…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 23:52:04 +0000"
+  },
+  {
+    "id": "82f84e03b32c25c7",
+    "title": "Show HN: I built a virtual pianist with his own performance style",
+    "url": "https://ivokeys.com/listen/cannonball-adderley-barefoot-sunday-blues/",
+    "summary": "Article URL: https://ivokeys.com/listen/cannonball-adderley-barefoot-sunday-blues/ Comments URL: https://news.ycombinator.com/item?id=50126097 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 23:22:04 +0000"
+  },
+  {
+    "id": "23f501c38a7f2971",
+    "title": "Show HN: CtxWise – MCP schema tree-shaker and firewall for Claude and Codex",
+    "url": "https://github.com/FramY2/ctxwise",
+    "summary": "Article URL: https://github.com/FramY2/ctxwise Comments URL: https://news.ycombinator.com/item?id=50125990 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 23:08:42 +0000"
+  },
+  {
+    "id": "339e3b4ae8fcc0b6",
+    "title": "Show HN: Ozil AI – Turn one photo into the viral Ozil goal video",
+    "url": "https://ozilai.net/",
+    "summary": "Article URL: https://ozilai.net/ Comments URL: https://news.ycombinator.com/item?id=50125797 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 22:46:28 +0000"
+  },
+  {
+    "id": "a3e0984a586846b8",
+    "title": "Show HN: Fly a Tesla Roadster over parked Teslas before the air runs out",
+    "url": "https://roadster.pavlin.dev",
+    "summary": "(credits to Fable 5.1) Comments URL: https://news.ycombinator.com/item?id=50125746 Points: 4 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 22:40:23 +0000"
+  },
+  {
+    "id": "8839ba78c339d28f",
+    "title": "Show HN: Pomoflow – a 1-bit Pomodoro with a todo list that syncs without sign-up",
+    "url": "https://pomoflow.pages.dev/",
+    "summary": "Pomoflow is (yet another) Pomodoro app in a 1-bit style inspired by the early Macintosh GUI. It also has a todo list you can sync between your devices without having to login to an account. A jukebox loads and plays your favourite YouTube playlists. And there are bonus weekly focus stats for the numberphiles among us. I built this because I wanted three things in one place: a pomodoro timer that…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 21:36:28 +0000"
+  },
+  {
+    "id": "adce55cbafd62538",
+    "title": "Show HN: Play a 5 minutes match of CS 1.6 1v1 while you wait for your agent",
+    "url": "https://csfor.fun/",
+    "summary": "I just made it and I think it's fun to play while I wait for claude, but I need more users to play with Comments URL: https://news.ycombinator.com/item?id=50124893 Points: 5 # Comments: 8",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 21:18:50 +0000"
+  },
+  {
+    "id": "3af7b0839d5d7a71",
+    "title": "Show HN: TV Explorer. Improving UI for a Solid IPTV App",
+    "url": "https://tvexplorer.live/channel",
+    "summary": "Article URL: https://tvexplorer.live/channel Comments URL: https://news.ycombinator.com/item?id=50124741 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 21:08:10 +0000"
+  },
+  {
+    "id": "04cab0412d65343f",
+    "title": "Show HN: I benchmarked 6 MCP proxies in Claude Code, then built my own",
+    "url": "https://rabin-a.github.io/mcp-router/#benchmark",
+    "summary": "I compared 6 MCP proxies inside Claude Code. Most advertise 85–99% token savings, but those numbers assume every tool schema is loaded upfront, and Claude Code already avoids that. On real tasks, 4 of them used more tokens than no proxy at all, and 2 couldn't finish the tasks. So I built my own router, which cut tokens by 13–44% and completed every task. Comments URL: https://news.ycombinator.com…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 20:45:52 +0000"
+  },
+  {
+    "id": "d1ba9c921bb2a467",
+    "title": "Show HN: Pogi – AWS, Google Cloud and Azure on your machine, in one binary",
+    "url": "https://github.com/nrndev/pogi",
+    "summary": "I built pogi to test cloud code locally without an emulator per service or a test account. It's one Go binary that serves 181 services across AWS, Google Cloud and Azure on one port. The official SDKs, CLIs, Terraform and the CDK work unchanged, and there's a web console, IAM checks, chaos rules, snapshots built in and much more... Some services are deep, others cover the common calls; the covera…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 20:44:38 +0000"
+  },
+  {
+    "id": "a7a63e070f280300",
+    "title": "Show HN: CoastMath: (Open Source) Personal Finance and Retirement Planner",
+    "url": "https://github.com/blank-slate-labs/coastmath",
+    "summary": "Self-hosting instructions in the README. Hosted version: https://coastmath.com/ iOS app: https://apps.apple.com/app/id6809539979 This post is partially inspired by this thread: https://news.ycombinator.com/item?id=50048344 ``` > Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. >> No, th…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 20:17:33 +0000"
+  },
+  {
+    "id": "81ef485607ae576d",
+    "title": "Show HN: Make house walkthrough videos only from photos – TensorPix",
+    "url": "https://tensorpix.ai/usecases/real-estate-video-maker",
+    "summary": "Article URL: https://tensorpix.ai/usecases/real-estate-video-maker Comments URL: https://news.ycombinator.com/item?id=50123249 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 19:26:05 +0000"
+  },
+  {
+    "id": "e3f0d8a240d7060d",
+    "title": "Show HN: Donut Browser, the most private anti-detect browser",
+    "url": "https://github.com/donutbrowser/donutbrowser",
+    "summary": "Hi everyone! About 2 years ago, I began to work on Donut Browser as a tool to manage browser profiles, which over time has evolved into a proper anti-detect browser. Anti-detect browsers let you create browser profiles that look like as if you have a completely different computer. I believe Donut is the most private anti-detect browser because: - It has no telemetry and doesn't track your browsin…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 19:24:28 +0000"
+  },
+  {
+    "id": "67fb525ebb5639c5",
+    "title": "Show HN: Sill for Android – control your Mac's windows from an Android phone",
+    "url": "https://github.com/rahimnathwani/sill-android",
+    "summary": "Sill (discussed here: https://news.ycombinator.com/item?id=50112739 ) streams one Mac window, or the whole Desktop, to an iPhone or iPad and lets you control it by touch. It's open source, so I made an Android client for it. It's unofficial and not affiliated with Sill's author: it speaks Sill's existing protocol, so the Mac side is the stock Sill app, unchanged. Install Sill on the Mac, sideload…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 19:13:22 +0000"
+  },
+  {
+    "id": "996025c543b8b99d",
+    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+    "url": "https://stoke.money",
+    "summary": "Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 18:54:47 +0000"
+  },
+  {
+    "id": "9cbe9c9ecbfc6748",
+    "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+    "url": "https://github.com/Moshik21/weatherdeck",
+    "summary": "Article URL: https://github.com/Moshik21/weatherdeck Comments URL: https://news.ycombinator.com/item?id=50122767 Points: 8 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 18:54:22 +0000"
+  },
+  {
+    "id": "3cad625a3a3a3b87",
+    "title": "Show HN: Putaway – sorts your Mac's Downloads into the folders you have",
+    "url": "https://github.com/devYRPauli/putaway",
+    "summary": "My Downloads folder is full of files like download (3).pdf, IMG_4821.jpg, and Untitled.docx. I already have folders for them in Documents. I never move them because I have to open each file to know what it is. Putaway does that part. It reads the start of each file on your Mac: PDF text, OCR for scans and photos, Word, Excel, CSV, and HTML. Then it picks one of the folders you already have. It ne…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Fri, 16 Oct 2026 18:48:37 +0000"
+  },
+  {
+    "id": "5a0f9e17c20efeb4",
+    "title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown",
+    "url": "https://www.ctvnews.ca/canada/article/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/",
+    "summary": "Article URL: https://www.ctvnews.ca/canada/article/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown/ Comments URL: https://news.ycombinator.com/item?id=50099331 Points: 8 # Comments: 0",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "Thu, 15 Oct 2026 04:56:11 +0000"
+  },
+  {
+    "id": "3a513a846e6c8380",
+    "title": "Atelier",
+    "url": "https://www.producthunt.com/products/atelier-9",
+    "summary": "The studio your AI coding agents work in Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-14T15:43:03-07:00"
+  },
+  {
+    "id": "37bf9e8730e43c25",
+    "title": "Calenteri",
+    "url": "https://www.producthunt.com/products/calenteri",
+    "summary": "SaaS where a user can can book appointments to other users. Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-13T00:17:21-07:00"
+  },
+  {
+    "id": "6b0e46053cfa03de",
+    "title": "Sparrow",
+    "url": "https://www.producthunt.com/products/sparrow-10",
+    "summary": "Self-hosted webhook delivery. One binary, just Postgres. Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-15T03:10:10-07:00"
+  },
+  {
+    "id": "1a9f653dd72286c9",
+    "title": "zranitm/docviewer",
+    "url": "https://github.com/zranitm/docviewer",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T02:03:59Z"
+  },
+  {
+    "id": "da0a54e65ed607fa",
+    "title": "RonaldLandaeta/page_dippea",
+    "url": "https://github.com/RonaldLandaeta/page_dippea",
+    "summary": "create a page of dippea",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T02:03:32Z"
+  },
+  {
+    "id": "98756c59edfc6c82",
+    "title": "sureshkumar20133151-arch/3d-portfolio",
+    "url": "https://github.com/sureshkumar20133151-arch/3d-portfolio",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T02:02:14Z"
+  },
+  {
+    "id": "9e8e0464f4b2a375",
+    "title": "plattnum/cera",
+    "url": "https://github.com/plattnum/cera",
+    "summary": "A quick WYSIWYG Markdown viewer and editor for macOS",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T02:00:48Z"
+  },
+  {
+    "id": "ecbbf2b11e95e7f2",
+    "title": "easygl1der/supervisor-skills-plus",
+    "url": "https://github.com/easygl1der/supervisor-skills-plus",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T02:00:38Z"
+  },
+  {
+    "id": "05a5d6dad9cb4e68",
+    "title": "Jgracier/ClikCode",
+    "url": "https://github.com/Jgracier/ClikCode",
+    "summary": "One harness for all your coding agents. Unlimited accounts, resumable conversations in any provider, auto switch on usage limits.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T01:59:49Z"
+  },
+  {
+    "id": "0e4f6609ef278a59",
+    "title": "jeremylanes/git-claw",
+    "url": "https://github.com/jeremylanes/git-claw",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T01:59:48Z"
+  },
+  {
+    "id": "da58bc18587ebdf5",
+    "title": "Quriosity-agent/articles",
+    "url": "https://github.com/Quriosity-agent/articles",
+    "summary": "My article collection",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T01:59:35Z"
+  },
+  {
+    "id": "23fe12b90739c0e2",
+    "title": "TheCraigHewitt/bruh",
+    "url": "https://github.com/TheCraigHewitt/bruh",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T01:59:12Z"
+  },
+  {
+    "id": "df1617763d2f052c",
+    "title": "[推广] 自建反代和用中转差在哪？新人领 10 美元免费额度",
+    "url": "https://www.v2ex.com/t/1249515#reply0",
+    "summary": "自己买台海外 VPS 搭反代，和直接用中转，到底差在哪？这个问题常被问到。 省钱吗？ VPS 本身要花钱，API 还是按官方原价走。aicoding.inc 按 1.9 折、2.9 折、4.9 折三档消耗，差距一算就出来了。 稳定吗？自建线路全看那一台机器，晚高峰网络抖了只能自己扛。我们这边是数万用户、200 多家企业共用的线路，出了问题有人盯着处理。 麻烦吗？反代要续证书、盯 IP 有没有被封，还得有张海外卡付官方账单。这边国内支付就能充值，在 Claude Code 里改一下 ANTHROPIC_BASE_URL 就能用。 喜欢自己掌控整条链路的，自建也没问题。想对比一下的，加群领 10 美元额度，两边跑同一个任务看看。 https://aicoding.inc",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-17T00:49:44Z"
+  },
+  {
+    "id": "0f5fe32251b1ede1",
+    "title": "[问与答] 过敏性鼻炎怎样治疗？",
+    "url": "https://www.v2ex.com/t/1249502#reply10",
+    "summary": "2021 年感冒病了一个月得了过敏性鼻炎一直没好碰到空调还是打喷嚏🤧特别难受脑子懵懵的每次见客户之前都要吃抗过敏的药才能捱过去去上海也看了医生各种印度要印度药欧洲药都试了很多还是没有用用",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-16T20:22:28Z"
+  },
+  {
+    "id": "62c684d24be3eedb",
+    "title": "[酷工作] 招远程兼职助理",
+    "url": "https://www.v2ex.com/t/1249475#reply1",
+    "summary": "我自己做软件外包 有些行政文书类的工作自己忙不过来所以需要找个远程兼职助理。所有项目完全合法没有任何黑灰产。 希望按时薪支付，请自带期望时薪 微信 base64 Y2hhdGlsY24=",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-16T13:51:31Z"
+  },
+  {
+    "id": "5c0b3b1a88c5df6f",
+    "title": "[分享创造] NanaZip Rev - NanaZip 社区分支，新增主题切换与代码页切换",
+    "url": "https://www.v2ex.com/t/1249464#reply0",
+    "summary": "NanaZip 的非官方社区分支，跟随上游同步，上游功能一个不少。做了两个上游长期没做的痛点： 主题切换 ：跟随系统 / 始终浅色 / 始终深色，实时应用到已打开的窗口（含 XAML 岛屿）。 代码页切换 ：文件名以旧编码存储时按需重新解码，选择按归档记忆、切换目录后保留，压缩包注释同样有效。 另外补了几个小功能：文件大小按 IEC 单位（ KiB / MiB ）显示、Modern 文件管理器设置页可选界面语言、7z 选用 ZS 压缩方法时提示上游 7-Zip 读不了、Ctrl+W 关闭文件管理器窗口。 fork 使用独立包名 Kaesinol.NanaZipRev ，可与官方版并存安装，设置分别存放、互不干扰；两者会竞争资源管理器右键菜单等注册项，同时只有一个生效。 Windows 10 / 11 ，x64 与 ARM64 ，MIT ，免费。 安装 （需能访问 GitHub ） TUN…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": "2026-10-16T12:48:28Z"
+  },
+  {
+    "id": "a4490eecbba5cc8f",
+    "title": "Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]",
+    "url": "https://www.v2ex.com/t/1249294",
+    "summary": "![]( https://i.v2ex.co/rlO7TTqkl.png) Bref 是一款适用于 iPhone 、iPad 、Mac 和 Apple TV 多平台支持的媒体播放器。 **功能概览** * 支持多种视频格式：3GP / 3G2, ASF, AVI, DivX / Xvid, DVR-MS, FLV, M4V, MKV, MOV, MP4, MPEG, MTS / M2TS, MXF, OGM / OGV, RM / RMVB, TS, VOB, WebM, WMV, WTV 等等 * 支持多种视频编码：H.264 / AVC, H.265 / HEVC, AV1, VP9, VC-1, MPEG 等等 * 支持多种音频格式：AAC, AC-3, E-AC-3, ALAC, APE, DTS / DTS-HD, FLAC, M4A, MLP / TrueHD, MP3, O…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792120842
+  },
+  {
+    "id": "b4778509b2add3ca",
+    "title": "做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么",
+    "url": "https://www.v2ex.com/t/1249321",
+    "summary": "上班路上喜欢听广播，但经常听到一半就到公司了；平时干活的时候也想听点新鲜的，不想翻来覆去总是歌单里那几首；偶尔听到一首好听的，还得赶紧翻出音乐 App 去识别是什么歌。 所以就做了这么个小玩意：打开网页按一下，随机掉进世界上某个城市的电台，听听那里此刻在播什么。 ## 能做什么 - **路上没听完**：每个台都有分享链接，到公司在电脑上打开接着听；同一个浏览器下次打开，会停在上次听的台 - **想听点新鲜的**：按「下一站」随机换台，连续翻台时会提前缓冲后面几台，基本是秒切；可以只听高码率（≥128 / 192 / 320 kbps ），也可以在设置里只留想听的语言 - **听到好歌**：能读到曲名的台，直接显示在播什么歌；读不到的点「识别这首歌」就行；曲名旁边点 ♡ 收藏，顺手跳到网易云、QQ 音乐、Spotify 去搜 - 能读到曲名的台还可以开跟唱歌词 - 星图按流派把电台铺开，可…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792124904
+  },
+  {
+    "id": "567709286f5f4d01",
+    "title": "特斯拉有的我们都有😝",
+    "url": "https://www.v2ex.com/t/1249270",
+    "summary": "https://www.youtube.com/watch?v=nt2_bSIHvxA",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792119238
+  },
+  {
+    "id": "e0991c19738d2473",
+    "title": "企微聊天就和裸聊差不多",
+    "url": "https://www.v2ex.com/t/1249287",
+    "summary": "毫无隐私，尤其是现在接入了 AI 分析之后，监控手段又上了一层，大家注意，本人已吃亏",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792198011
+  },
+  {
+    "id": "c6835d37c6421e43",
+    "title": "如何处理食之无味弃之可惜的老数码产品",
+    "url": "https://www.v2ex.com/t/1249305",
+    "summary": "OP 有一个 AirPods Pro 一代和 Apple Watch S7 蜂窝 因为使用时间长加上产品迭代快，性能/续航已经不太满足需求了 想卖掉，但二手市场连 100 块钱都够呛；留着吧，感觉只能吃灰没啥用。 另外要不要官方花 809 给手表换个新，给家人继续用？ 你们是怎么处理这种快速贬值的数码产品的？",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792121606
+  },
+  {
+    "id": "d117db350513b263",
+    "title": "大佬们带带弟弟， Codex 登录要电话验证怎么办",
+    "url": "https://www.v2ex.com/t/1249260",
+    "summary": "回复 52",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792117069
+  },
+  {
+    "id": "b261c69e6da0677a",
+    "title": "如何评价 rea 逆向一切？",
+    "url": "https://www.v2ex.com/t/1249389",
+    "summary": "复制提示词粘贴给 Claude Code 、Codex 、Cursor 、Muse Code ，直接让 AI 帮你逆向 安卓 APK 、iPhone App 、Windows EXE ，固件、闭源软件也没问题 https://github.com/morluto/rea",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-17T02:04:02.777472+00:00",
+    "published": 1792137191
+  }
+]
