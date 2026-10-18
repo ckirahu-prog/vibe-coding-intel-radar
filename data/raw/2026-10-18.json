@@ -1,0 +1,581 @@
+[
+  {
+    "id": "d4e3f4e51c40aa70",
+    "title": "poudelsubhan/npc-exe",
+    "url": "https://github.com/poudelsubhan/npc-exe",
+    "summary": "An AI courier uses a real Pine computer to solve seeded challenges, recover from changed inventory, and bring verified artifacts into a hand-drawn world.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T00:29:30Z"
+  },
+  {
+    "id": "a3611c72959fbd7a",
+    "title": "EVEDensity/Wheel-Mcp",
+    "url": "https://github.com/EVEDensity/Wheel-Mcp",
+    "summary": "Godot MCP server for AI-assisted game development｜连接 Codex、Cursor 等 AI 助手，运行游戏、检查场景与运行时状态、调试 GDScript，通过断言、日志和截图验证修改。",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T00:04:08Z"
+  },
+  {
+    "id": "b3ec1b5fa0371ec3",
+    "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+    "url": "https://github.com/ahmtsahin/claude-env-tabs",
+    "summary": "Article URL: https://github.com/ahmtsahin/claude-env-tabs Comments URL: https://news.ycombinator.com/item?id=50137006 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sun, 18 Oct 2026 01:44:24 +0000"
+  },
+  {
+    "id": "d32465c142409f22",
+    "title": "Show HN: MCPX – MCP server directory scanning for tool poisoning, leaked keys",
+    "url": "https://www.mcpx.digital/",
+    "summary": "Article URL: https://www.mcpx.digital/ Comments URL: https://news.ycombinator.com/item?id=50136645 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sun, 18 Oct 2026 00:32:09 +0000"
+  },
+  {
+    "id": "73a57e5ed4cb2acc",
+    "title": "Show HN: NoBadge – Hide Dock Badges During macOS Focus",
+    "url": "https://github.com/asdftq/NoBadge",
+    "summary": "Article URL: https://github.com/asdftq/NoBadge Comments URL: https://news.ycombinator.com/item?id=50136397 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 23:59:20 +0000"
+  },
+  {
+    "id": "14e135b53a667fb8",
+    "title": "Show HN: HardwareOS - Turn a prompt into hardware project you can wire and flash",
+    "url": "https://hardwareos.ai",
+    "summary": "Article URL: https://hardwareos.ai Comments URL: https://news.ycombinator.com/item?id=50136365 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 23:55:12 +0000"
+  },
+  {
+    "id": "aaf45e9b929d58e1",
+    "title": "Show HN: MoroccoAPI: An open source API for Moroccan public data",
+    "url": "https://moroccoapi.dev/",
+    "summary": "Article URL: https://moroccoapi.dev/ Comments URL: https://news.ycombinator.com/item?id=50136316 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 23:49:19 +0000"
+  },
+  {
+    "id": "dca077fd6304b09a",
+    "title": "Show HN: Serve Nix closures to k8s pods",
+    "url": "https://github.com/Kranzes/nix-store-csi",
+    "summary": "I’ve been working on a Nix CSI for kubernetes since NixCon when I realized that everyone seems to working towards killing OCI layers (and images) in Kubernetes deployments. I’m hoping to get people to give it a spin and report back to me bugs, feature requests or general feedback. I don’t have a lot of data on how this scales and that makes it hard to decide whether to justify adding a feature or…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 23:24:52 +0000"
+  },
+  {
+    "id": "ff93a3a7f9f75d32",
+    "title": "Show HN: Nexo – S3-compatible object storage in Go, single binary, AGPL",
+    "url": "https://github.com/R3n3r0/Nexo",
+    "summary": "Article URL: https://github.com/R3n3r0/Nexo Comments URL: https://news.ycombinator.com/item?id=50135825 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 22:37:59 +0000"
+  },
+  {
+    "id": "0710020f1f889602",
+    "title": "Show HN: PrimerKit, financial market work at agent speed",
+    "url": "https://primerkit.ai/",
+    "summary": "Article URL: https://primerkit.ai/ Comments URL: https://news.ycombinator.com/item?id=50135649 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 22:13:50 +0000"
+  },
+  {
+    "id": "1c7974c00aaaf4c8",
+    "title": "Show HN: Put AI to work across your company",
+    "url": "https://vstorm-co.github.io/vstormos-landing/",
+    "summary": "Article URL: https://vstorm-co.github.io/vstormos-landing/ Comments URL: https://news.ycombinator.com/item?id=50135614 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 22:07:13 +0000"
+  },
+  {
+    "id": "3ce349ccac7ac8a7",
+    "title": "Show HN: Ayafy: A free app to memorise and revise the Quran",
+    "url": "https://ayafy.com/",
+    "summary": "I built Ayafy, a free Quran learning app on iOS and Android. It lets you manage memorisation, automatically prepares revision tests as you study, measure progress, establish goals and review your recitation with AI-powered word-by-word feedback. It has also a quran reader, voice search and much more. I would love to hear your open feedback & ideas for improvements! Website: https://ayafy.com iOS:…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 21:18:46 +0000"
+  },
+  {
+    "id": "d015a50d66af581f",
+    "title": "Show HN: KIRA – Sovereign, local-first AI and media workstation for Windows",
+    "url": "https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&gl=US",
+    "summary": "Article URL: https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&amp;gl=US Comments URL: https://news.ycombinator.com/item?id=50135001 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 20:48:04 +0000"
+  },
+  {
+    "id": "8367ade82f852cda",
+    "title": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
+    "url": "https://walden.learnmer.com/",
+    "summary": "Article URL: https://walden.learnmer.com/ Comments URL: https://news.ycombinator.com/item?id=50134868 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 20:33:22 +0000"
+  },
+  {
+    "id": "8cd71f99cee4e496",
+    "title": "Show HN: Photos to Gaussian Splat inside your browser using DA3 Small",
+    "url": "https://antoinemopa.github.io/splatting-rs/",
+    "summary": "Article URL: https://antoinemopa.github.io/splatting-rs/ Comments URL: https://news.ycombinator.com/item?id=50134324 Points: 4 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:34:07 +0000"
+  },
+  {
+    "id": "dc9b22c1905ca306",
+    "title": "Show HN: I Made 17 AIs Play 7,700 Hands of Poker",
+    "url": "https://chrystianschutz.com/blog/ai-poker-holdembench/",
+    "summary": "Article URL: https://chrystianschutz.com/blog/ai-poker-holdembench/ Comments URL: https://news.ycombinator.com/item?id=50134322 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:33:59 +0000"
+  },
+  {
+    "id": "7cb275e7a2c16a41",
+    "title": "Show HN: Free Tool to Extract Tables from PDFs and Images to CSV/Excel",
+    "url": "https://parseextract.com/table-extraction-free",
+    "summary": "Article URL: https://parseextract.com/table-extraction-free Comments URL: https://news.ycombinator.com/item?id=50134261 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:28:03 +0000"
+  },
+  {
+    "id": "3b97b038ee41887f",
+    "title": "Show HN: Fundstash – expense tracker that parses bank SMS on-device, no cloud",
+    "url": "https://fundstash.app/",
+    "summary": "Article URL: https://fundstash.app/ Comments URL: https://news.ycombinator.com/item?id=50134243 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:26:52 +0000"
+  },
+  {
+    "id": "c677ef74f4a3e756",
+    "title": "Show HN: Task629 – Personal development tracking through task descriptions",
+    "url": "https://github.com/sudo-bendg/task629",
+    "summary": "I built Task629 to make the tracking of my personal development less time consuming. Instead of spending time thinking about how the tasks which I have completed fit into certain skills I am trying to develop, I pass this to a locally hosted AI. As well as tracking individual skills which are demonstrated by tasks, there is functionality to work towards goals and to produce a report. This additio…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:22:06 +0000"
+  },
+  {
+    "id": "b0f3837fc3dc4262",
+    "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+    "url": "https://github.com/Annora998/inboxwall",
+    "summary": "An open-source, local-first MCP server designed to sanitize email HTML and protect local AI agents from hidden CSS/Unicode prompt injections before the LLM processes the data. Comments URL: https://news.ycombinator.com/item?id=50134132 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:15:11 +0000"
+  },
+  {
+    "id": "54670be636679547",
+    "title": "Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins",
+    "url": "https://halalcryptoindex.com/",
+    "summary": "Hi HN, We built Halal Crypto Index ( https://halalcryptoindex.com ) to provide transparent, open-methodology Shariah screening for 820+ crypto assets based on AAOIFI financial ratios (debt/market cap, interest revenue, utility vs speculation). Ecosystem: • Live Web App: https://halalcryptoindex.com • Telegram Mini App: https://t.me/Halal_Crypto_App_Bot/app • MCP AI Server: https://smithery.ai/ser…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 19:14:32 +0000"
+  },
+  {
+    "id": "9fca658e0f6bd371",
+    "title": "Show HN: Agent skill for designing iOS apps for iPhone Duo",
+    "url": "https://github.com/Belweave/iphone-duo-design",
+    "summary": "Article URL: https://github.com/Belweave/iphone-duo-design Comments URL: https://news.ycombinator.com/item?id=50133880 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "Sat, 17 Oct 2026 18:50:41 +0000"
+  },
+  {
+    "id": "ba809b2a21609bad",
+    "title": "Parrot",
+    "url": "https://www.producthunt.com/products/parrot-10",
+    "summary": "Smart Meeting Assistant for Mac that helps during the call Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-09-24T11:02:58-07:00"
+  },
+  {
+    "id": "85de25504b4d92d6",
+    "title": "CrewTower Mod for Claude Code",
+    "url": "https://www.producthunt.com/products/crew-tower",
+    "summary": "Talk to Claude Code right from your MacBook notch Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-14T14:15:16-07:00"
+  },
+  {
+    "id": "70bfc095612e23c7",
+    "title": "xjeway/mcp-manager",
+    "url": "https://github.com/xjeway/mcp-manager",
+    "summary": "A cross-platform desktop app for managing MCP server configs across Claude Code, Codex, Cursor, VS Code, OpenCode, Gemini CLI, and more.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T02:03:23Z"
+  },
+  {
+    "id": "deb48abd09a237e6",
+    "title": "nimblecloud13/Nimble-Notes",
+    "url": "https://github.com/nimblecloud13/Nimble-Notes",
+    "summary": "One note per app in a small Windows desktop window you can leave open all day. Local only.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:59:48Z"
+  },
+  {
+    "id": "d1516e22f211870c",
+    "title": "weiweiweidong/joeyddong_homepage",
+    "url": "https://github.com/weiweiweidong/joeyddong_homepage",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:59:16Z"
+  },
+  {
+    "id": "e3b93220a8b3d354",
+    "title": "hakuimaku/hakuspace",
+    "url": "https://github.com/hakuimaku/hakuspace",
+    "summary": "This is just a personal dotfiles. Multi-WM support: Hyprland, Niri, MangoWM and Labwc",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:56:53Z"
+  },
+  {
+    "id": "84aa9b2813ae4e63",
+    "title": "furkanisikay/ardupilot-mcp",
+    "url": "https://github.com/furkanisikay/ardupilot-mcp",
+    "summary": "ArduPilot uçuş loglarını (.bin) teşhis eden deterministik MCP sunucusu — yapay zekâ açıklar, motor temellendirir.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:55:46Z"
+  },
+  {
+    "id": "f847ab9edb5bc36a",
+    "title": "[推广] 「送 50 个 Pro 码」告别 Finder 抓狂折腾： macOS 键盘流双栏文件管理器 ATBCmder 更新（网盘支持 / 权限交互重构 / 全新 UI）",
+    "url": "https://www.v2ex.com/t/1249700#reply0",
+    "summary": "各位 V 站的朋友们好！ 上个月初，我在 V 站发帖介绍了我打造的 macOS 双面板文件管理器 ATBCmder 。 上一个发帖 收到了非常多 V 友极为中肯、深刻的吐槽与建议（比如老派 UI 的违和感、沙盒权限授权过于繁琐、希望支持云存储挂载等）。 过去这段时间，我认真复盘并吸收了大家的每一条反馈，完成了高强度的迭代与重构，今天带着 脱胎换骨的全新版本 向大家汇报交作业，并带来 新一轮 50 个永久 Pro License 的社区专属福利！(文末查看领取方法) Mac App Store 官方下载： https://apps.apple.com/app/atbcmder/id6792398333 官方网站 &amp; 完整用户手册： https://cmder.aitobox.com 付费模式： 免费下载，默认提供 90 天全功能免费试用 ；永久买断制，终身升级。（文末 50 个 P…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:45:18Z"
+  },
+  {
+    "id": "b436680d4b4a532e",
+    "title": "[分享创造] 做了个外链整合站，给你的 bot 当外链库让它自动去发外链",
+    "url": "https://www.v2ex.com/t/1249698#reply1",
+    "summary": "前几天看到范师傅这条推： https://x.com/FanShifu/status/2111318211631174097 简单说是用 grok bot 根据自己的外链库定时发外链，新站每天 5 条，一周多就到了 DR10 我在尝试时发现外链库挺麻烦的，网上的 awesome 列表要么很久没人维护，死链一堆；要么就是一张大表，看不出哪些免费、提交入口在哪、要满足什么条件。人看都费劲，更别说喂给 bot 。 所以干脆让 bot 跑了一天整理了一份，做成了一个目录站： https://everybacklink.com 收录 509 个可提交的站点，分成 AI 工具目录、SaaS 目录、发布平台、社区、博客平台、开发者平台等类别 其中 214 个免费或有免费方案，可以按价格和分类筛选 每个站点都写了提交入口、要求和步骤 给 bot 用的接口：/llms.txt 、/llms-full.tx…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:34:36Z"
+  },
+  {
+    "id": "b9213b68d8c9f48c",
+    "title": "[分享创造] `[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`",
+    "url": "https://www.v2ex.com/t/1249697#reply0",
+    "summary": "各位好，独立开发的小工具，求拍砖。 缘起：最近到处都在说算力贵，但「贵」到底贵在哪——电、卡、还是利用率？我找了圈，没有一个小白也能上手推演的东西，就自己做了一个。 它是什么：一个算力效率模拟沙盒。拖四个滑杆（能源供给、芯片效率、并行度、数据质量），实时看吞吐、能耗、成本三条曲线怎么变，系统会自动诊断瓶颈出在哪一层。 三个功能点： 零门槛：不用懂 GPU 架构，拖滑杆就行 方案存档：调好一组参数可以存档，几组方案放在一起对比 10 套皮肤：纯粹因为我自己喜欢（这条可以骂我） 地址： https://aicomputingpowersimulator.kimi.site 免费，不注册也能玩；登录后可以存档和评论。 求指点：这个场景你们觉得有用吗？参数模型哪里不真实，请直接喷，我扛得住。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T01:19:18Z"
+  },
+  {
+    "id": "b078d348768a7eb3",
+    "title": "[程序员] 之前让 AI 智能体去服务器在线改 BUG，我动不动就 CPU 内存占满",
+    "url": "https://www.v2ex.com/t/1249694#reply0",
+    "summary": "我最早都是使用 vscode+SSH 登录到远程机； 后面是 qoderIDE 登录到远程机， 还有 Claude code 在远程机直接改或者嵌入 vscode ， 但是坏处就是稍微大一点的工作，就到导致远程小鸡 CPU 内存占满， 不重启的话，根本无法再用， 后来不是御三家 Work 大战？ 我就下载了一个，抱着试一试的态度，把 ssh 登录方式发在 work 对话中，让 work 直接改，这时候发现不会占满 CPU 内存了，因为大部分工作都在我本机处理了，但是坏处就是 tokens 用的更多了。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-18T00:18:29Z"
+  },
+  {
+    "id": "46e4ff5bb9cf6ed2",
+    "title": "[分享创造] vibestead/Vibe 村，面向 Vibe Coding 的像素风村庄经营游戏，写代码，建家园",
+    "url": "https://www.v2ex.com/t/1249660#reply0",
+    "summary": "更新:新增了广告牌系统，达到 1000 繁荣值后，可以消耗 5000 钻石（游戏内货币，无需充值）就可以在游戏内买下一个所有玩家都能查看的广告牌 https://vibestead.org/zh 你从一片林地和一间木材厂开始，慢慢搭起生产线、建造住宅、种菜、布置小院，把森林里的小村庄经营起来。 可以玩些什么？ 1.经营木材厂 招募伐木工和种植工，安排采伐、补种和运输，再把原木一步步加工成木板与成品。升级设备、扩展林区，观察哪里缺料、哪里积压，把整条生产线运转起来。 2.接订单、做生意 根据客户需求备货、装车、配送，完成订单领取货款，再把收入投入下一轮建设。随着发展，还能解锁更多设备和经营内容。 3.招募经理，逐步实现自动化 收集和培养不同经理，提高机器效率，解锁运输和接单等自动化能力，看着伙伴们在村里忙碌。 4.盖房子，建设自己的村庄 从第一栋住宅开始，收集木材、钉子、油漆和砖块，完成施…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-17T15:04:49Z"
+  },
+  {
+    "id": "2b09db09effe4374",
+    "title": "[Cursor] 实测： Cursor Pro $20 合并到 $30 大一统套餐，成功退回 $15.37",
+    "url": "https://www.v2ex.com/t/1249656#reply2",
+    "summary": "最近 Cursor / Grok 推出了 $30 的大一统套餐，整合了 Cursor、Grok、Grok Bot 等权益。 我原本一直订阅 Cursor Pro，每月 $20。看到新的 $30 套餐后，觉得挺适合自己，就直接在 Grok/X 上又订了一份。 然后问题来了： 旧的 Cursor Pro $20 还在，新套餐 $30 也买了，岂不是每个月要付 $50？ 研究了一下，发现官方提供了 Unify 账号合并功能，于是实际操作了一遍。 最终结果：合并成功，原 Cursor Pro $20 订阅退回了 $15.37。 分享一下整个过程，给同样订了两个套餐的朋友参考。 一、我的订阅情况 合并前： Cursor Pro：$20/月，原有订阅 Grok/X 大一统套餐：$30/月，新购买 两个套餐分别购买，最初没有主动合并 Cursor 主要使用 Grok / Composer 因为我平时主…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-17T14:33:04Z"
+  },
+  {
+    "id": "b61b7c0c15a2134b",
+    "title": "[分享创造] 群晖 Nas 管理软件 - 群晖助手，邀请你来体验。",
+    "url": "https://www.v2ex.com/t/1249655#reply3",
+    "summary": "使用群晖 Nas 的各位彦祖们大概都有这样一个体验：官方的 DSM Web 确实好用，但自家的移动生态真的是一坨。自己家里有极空间、飞牛、之前还用过海康威视，这几家随便一个在移动端的体验都要吊打群晖好几条街，但是群晖的生态和服务稳定性确实没得说，于是，在 Vibe Coding 的加持下，基于 SwiftUI 做了一款「群晖助手」，来优化移动端管理 NAS 的体验，macOS 因为 SwiftUI 的天然跨端属性也进行了专门适配，将来也有可能适配 tvOS 。App Store 搜索「群晖助手」或 「 SYNO Assistant 」即可下载。 目前已经支持和适配了这些功能： File Station 文件管理与预览、上传下载 Photo Station 相册浏览 Download Station 下载管理 Audio Station 音乐管理 Docker 套件管理 Virtual M…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-17T14:24:26Z"
+  },
+  {
+    "id": "14d49f01fbde6f37",
+    "title": "[iPhone] 为了满足记账+记物的需求，我开发了一款 App",
+    "url": "https://www.v2ex.com/t/1249648#reply2",
+    "summary": "核心亮点 • 钱物一体：不仅能记下每天的收支，还能记录添置了多少物品，并且物品相关账单自动跟着生成。 • 双向追溯：看一件物品，能直接翻到当初的购买记录：什么时候买、花了多少、现在值多少，都在一个页面上。看月度账单，能看到这个月给自己添置了哪些好东西，不再是一串干巴巴的数字。 • 资产一眼看清：一份统计摆出这个月收支多少、净增了多少资产、现有物品总估值多少。最有用的是净增资产：它把花掉的钱和留下的东西放在一起算，比单看结余更接近真实状况。 • 一个分类，两种身份：同一个分类既可以是支出，也可以是收入。卖旧相机走「二手」是收入，买二手镜头走「二手」还是它，不用为同一件事建两个分类来回切。 g 关于 App 软件名称叫财悟-记账也记物，下载地址[点此跳转]( https://apps.apple.com/app/id6801788635 ) 这是我的第一款独立开发的 App ，欢迎大家下载体…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-17T13:15:49Z"
+  },
+  {
+    "id": "ecab65ab81992855",
+    "title": "[程序员] 今天， PStack 官方支持 Claude Code 了，但是没支持 Codex，你品，你细品",
+    "url": "https://www.v2ex.com/t/1249647#reply0",
+    "summary": "10 月 17 日，poteto 的 PR #637 合进了 cursor/plugins 主分支，pstack 从此有了官方的 Claude Code 支持，安装方式： /plugin marketplace add cursor/plugins /plugin install pstack@cursor-plugins 装好之后，原来的 /poteto-mode 在 Claude Code 里要写成 /pstack:poteto-mode 。 彩蛋：这个 PR 中途其实带过一整套 Codex adapter 和 Codex 插件副本，后来被 commit e84046f （ drop Codex as a harness and keep Claude Code only ）删掉了，提交记录里看得到。为什么删，PR 里没写。 你品，你细品。你们觉得 Codex 是迟早会补上，还是另有…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": "2026-10-17T13:11:29Z"
+  },
+  {
+    "id": "8f0f9ea37825a2fe",
+    "title": "0 基础入行金融需要多久？",
+    "url": "https://www.v2ex.com/t/1249646",
+    "summary": "请教下金融大佬没有基础入行金融需要多久多久 本人女研究生学历英语交流无障碍 适合做金融哪个类目呢",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792284658
+  },
+  {
+    "id": "0e97559ceaeebef1",
+    "title": "AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度",
+    "url": "https://www.v2ex.com/t/1249583",
+    "summary": "这次做一个 v2 用户专享的体验活动 注册送 $3 留 ID 再送$10 注册后在本帖回复你的 AIxAPI 用户 ID ，送 $10 的 API 体验额度。 首充最高赠送 $100 活动期间不限名额，新老用户都可以参加。 怎么领取 在 https://www.aixapi.io/r/v2ex?to=register 注册入口 注册登录，\"个人资料\" 查看自己的用户 ID 。 在本帖回复这个 ID 即可。请只留用户 ID ，不要贴 API Key 、密码或其他账号凭据。 我们会按回复顺序核对 ID ，分批发放到账。每人限领一次，同一 V2EX 账号或 AIxAPI 账号重复回复不重复发放。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792220806
+  },
+  {
+    "id": "6546a8c657fcb080",
+    "title": "智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）",
+    "url": "https://www.v2ex.com/t/1249529",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了链动小铺，您有问题可以随时联系我们 QQ 客服，我们会协助您一起解决。 **我们的小铺地址： https://www.ldxp.cn/shop/282D9KDL 。我们的产品目前只要分成下面两种。** **一：稳定特殊渠道特价商品：目前这几款我们测试下来都是…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792203655
+  },
+  {
+    "id": "7beef571cba2aaf7",
+    "title": "肉身在墙外，现在做物理机远程 Claude 的生意怎么样？",
+    "url": "https://www.v2ex.com/t/1249581",
+    "summary": "最近在 X 发现了一个趋势就是好像越来越多的人想要用墙外的物理 mac Mini 跑 Claude 了。 我人在加拿大，想看看这个生意咋样？ 你们能够接受一个月花多少钱在中转和机器上？",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792220102
+  },
+  {
+    "id": "a1fd49d0a4467262",
+    "title": "deepseek-v4.1-flash-1017 发布了",
+    "url": "https://www.v2ex.com/t/1249603",
+    "summary": "回复 36",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792226094
+  },
+  {
+    "id": "8411d05df506a0f9",
+    "title": "roadster 发布了，是真的假的这么牛",
+    "url": "https://www.v2ex.com/t/1249540",
+    "summary": "回复 29",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-18T02:03:37.847959+00:00",
+    "published": 1792283494
+  }
+]
