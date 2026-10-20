@@ -40219,6 +40219,216 @@
       "url": "https://lifeofboris.itch.io/boristan",
       "first_seen": "2026-10-19T02:20:24.912869+00:00",
       "source_id": "itch-new-popular"
+    },
+    "a6b6e278d4ecd12b": {
+      "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "5c04c69e83c72fe5": {
+      "url": "https://chai-ui.com/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "60d7b14be1cac2bf": {
+      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "gd-ai"
+    },
+    "0fb87ec3a212663c": {
+      "url": "https://shortener.dev",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "5cbfe61cc01d2763": {
+      "url": "https://privai-sandy.vercel.app/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "c5b03ad28d632df2": {
+      "url": "https://github.com/gojko/lights-on-software-factory",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "ac13ed862394c213": {
+      "url": "https://ailegal.legal/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "e11da069c1e7525b": {
+      "url": "https://demo.costura.ai/overview",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "70ba30f8649a9f2e": {
+      "url": "https://resourcedeck.app/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "184a4ca928bc6115": {
+      "url": "https://github.com/luisrudge/omasharp",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "a7af2804dd5e4c6f": {
+      "url": "https://github.com/SeeRay11/OpenFlow",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "e09779e826942954": {
+      "url": "https://mediationbench.com/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "ccb6b6f897440b56": {
+      "url": "https://spacebar.greg.technology/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "5e15e1078ac26ee9": {
+      "url": "https://barn.ope.cool",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "b286d627b41723f5": {
+      "url": "https://github.com/waceinc/vexplor-aas",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "2c56be350818f1b6": {
+      "url": "https://roadrash.pages.dev",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "2838e2a73135353c": {
+      "url": "https://gitwal.com/mentions",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "0611045d7d50ef51": {
+      "url": "https://www.typeui.sh/ui-foundations/configurator",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "385a26d564fe67b8": {
+      "url": "https://github.com/ehnruiz/claude-skills",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "1ca9d15854e5b49b": {
+      "url": "https://sitesolide.fr/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "301fd334760bb935": {
+      "url": "https://craig-cli.com/",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "aa5837f9cd456bc5": {
+      "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "hn-show"
+    },
+    "eb65d41fa5052fb7": {
+      "url": "https://www.producthunt.com/products/walkai-talkai",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "producthunt"
+    },
+    "a1333e0b35da945b": {
+      "url": "https://www.producthunt.com/products/starkomand",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "producthunt"
+    },
+    "96e691bda33010bb": {
+      "url": "https://github.com/seehar/agent-island",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "34e3c4d665602ef3": {
+      "url": "https://github.com/TechTideOhio/techtide-harness-kit",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "8ae9716ac67f557a": {
+      "url": "https://github.com/Golden0Voyager/kimi-code-usage",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a61bcab7551593cf": {
+      "url": "https://github.com/Teslyar75/My_Stamina",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "90e6d0d3803e0d95": {
+      "url": "https://github.com/0xRayAI/xray",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "40d54d6e9b85c6f8": {
+      "url": "https://github.com/jcdavis131/gods-eye-view",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "664b1021aa7d0509": {
+      "url": "https://github.com/eldridgerdev/agent-mainframe",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "87ab92388ef918df": {
+      "url": "https://www.v2ex.com/t/1250209#reply0",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e668477735e32914": {
+      "url": "https://www.v2ex.com/t/1250178#reply0",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "2c09ad95721923af": {
+      "url": "https://www.v2ex.com/t/1250167#reply45",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "3123788b71b95748": {
+      "url": "https://www.v2ex.com/t/1250023",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "9bb0fdca388112f5": {
+      "url": "https://www.v2ex.com/t/1249936",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "4e3fbb8e779f74ea": {
+      "url": "https://www.v2ex.com/t/1249995",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "935bea0544fa50d4": {
+      "url": "https://www.v2ex.com/t/1249955",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "af1c8c729f272eb4": {
+      "url": "https://www.v2ex.com/t/1250044",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ce34476e73046856": {
+      "url": "https://www.v2ex.com/t/1250081",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "df9ca5c9d03829ce": {
+      "url": "https://www.v2ex.com/t/1249998",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8deb3e147cde2731": {
+      "url": "https://www.v2ex.com/t/1250033",
+      "first_seen": "2026-10-20T02:33:46.360095+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
