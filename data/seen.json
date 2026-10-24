@@ -41179,6 +41179,296 @@
       "url": "https://www.v2ex.com/t/1250855",
       "first_seen": "2026-10-23T02:29:26.520021+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "bd0de5a9e1b1bdba": {
+      "url": "https://bellman.sh/r/blog/p001-hello-front-desk",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "159869e96a5fe51c": {
+      "url": "https://github.com/wnsrn3436/open-game-works-core",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-game-ai"
+    },
+    "ccb4a54589c28420": {
+      "url": "https://github.com/aigamedevs/awesome-ai-tools-for-game-dev",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-game-ai"
+    },
+    "659a6c96df9bd174": {
+      "url": "https://github.com/wlejon/bro",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-game-ai"
+    },
+    "7e2175e53f0f4b0b": {
+      "url": "https://twitter.com/josefchen/status/2113687649131336039",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "f4d1a8e94f51c1a5": {
+      "url": "https://motorhangar.com/",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "489435e5b92def5c": {
+      "url": "https://privacymeridian.org/",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "cfddc453c0013e06": {
+      "url": "https://github.com/gtindo/task-view",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "2d4d7ef141f47491": {
+      "url": "https://github.com/soollabs/holdmydocs",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "879f68a4250eb3ee": {
+      "url": "https://openzpl.com/",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "8b090ba6096398a8": {
+      "url": "https://gasfree.app/",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "29d58fa649949b0d": {
+      "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "abd61ac68f893b62": {
+      "url": "https://commitgarden.app",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "df4e0318ea663cc3": {
+      "url": "https://github.com/greg76/token-quota/tree/main",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "c28dace32f81936c": {
+      "url": "https://news.ycombinator.com/item?id=50216053",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "3d1ffdcbcc913cb0": {
+      "url": "https://github.com/Arthur031221/Token-Beggar",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "5359a84739c675a9": {
+      "url": "https://github.com/Arthur031221/AiSniff",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "fb570d162036886f": {
+      "url": "https://jakubcwirlej.com/ai-dev/",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "9e8eec7cc8b9f0fd": {
+      "url": "https://news.ycombinator.com/item?id=50215667",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "3c7ac93a088cb28d": {
+      "url": "https://news.ycombinator.com/item?id=50215652",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "a932be86fcb51b3f": {
+      "url": "https://github.com/kathan3009/photoshop-mcp",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "f679e91700ff43d2": {
+      "url": "https://news.devs.dev",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "1696bd94c2e3b62b": {
+      "url": "https://hammerill.com/en/blog/libfpv",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "083b1403f55826ae": {
+      "url": "https://zenodo.org/records/23602948",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "hn-show"
+    },
+    "f7fda8171297815a": {
+      "url": "https://www.producthunt.com/products/producthunt",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "producthunt"
+    },
+    "01619fc955cc4a4b": {
+      "url": "https://www.producthunt.com/products/peras",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "producthunt"
+    },
+    "3ee45ea26cb0c275": {
+      "url": "https://www.producthunt.com/products/bloblings",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "producthunt"
+    },
+    "47c4378938144bca": {
+      "url": "https://github.com/gsmith-alvarez/rvspp",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "42057ac36c9af774": {
+      "url": "https://github.com/LiamVisionary/aeon-template",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2ed8265e6bf481cd": {
+      "url": "https://github.com/hotlandsoftware/gemu",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "328f9142d5b9b82b": {
+      "url": "https://github.com/ardenone/vibecodeleaderboard-frontend",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "20a93617cccac3ad": {
+      "url": "https://github.com/jedarden/vibecodeleaderboard-frontend",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ea9a20959bde0d05": {
+      "url": "https://github.com/QAInsights/awesome-ai-tools",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "14bde204472a56ee": {
+      "url": "https://github.com/fezzymultiverse/raindrops",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "42b12f1d103ef0bd": {
+      "url": "https://github.com/HiroPrime/core-node",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "cf6dd576f455031a": {
+      "url": "https://github.com/Gabrielrtads/vibe-design-studio",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9e7320becfbce239": {
+      "url": "https://github.com/mysticalsin/spacescope",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f8d74a0a18a1c10d": {
+      "url": "https://github.com/HardHeadHackerHead/DrVibe",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ab7c81d5c9d21c32": {
+      "url": "https://github.com/pyk-kentech/tenure-desktop",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f0597843f64701d9": {
+      "url": "https://github.com/wpgaurav/WordPress-skills",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "78615ce10313d44f": {
+      "url": "https://www.v2ex.com/t/1251422#reply1",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "76146804c12bc415": {
+      "url": "https://www.v2ex.com/t/1251417#reply5",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "23d36a6cda9c31b1": {
+      "url": "https://www.v2ex.com/t/1251411#reply3",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8d0fc920edf617e0": {
+      "url": "https://www.v2ex.com/t/1251402#reply40",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e2d00cef21c9f519": {
+      "url": "https://www.v2ex.com/t/1251397#reply1",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "42a8bed2845935e8": {
+      "url": "https://www.v2ex.com/t/1251396#reply0",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "682781de5b273a3a": {
+      "url": "https://www.v2ex.com/t/1251391#reply7",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "e0e3e6feadbcefde": {
+      "url": "https://www.v2ex.com/t/1251374#reply1",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "deb4c0730ef42230": {
+      "url": "https://www.v2ex.com/t/1251200",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "2474d57cf6354dc1": {
+      "url": "https://www.v2ex.com/t/1251173",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8d984c71f0e4e43b": {
+      "url": "https://www.v2ex.com/t/1251212",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f026130ab59b08f1": {
+      "url": "https://www.v2ex.com/t/1251190",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "483b09261839fd56": {
+      "url": "https://www.v2ex.com/t/1251258",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8be261ec481deeab": {
+      "url": "https://www.v2ex.com/t/1251184",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c945f2d0637264bb": {
+      "url": "https://www.v2ex.com/t/1251194",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "bb5162ba5f631332": {
+      "url": "https://www.v2ex.com/t/1251203",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "f76e62788b17a86a": {
+      "url": "https://www.v2ex.com/t/1251299",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d86f65c3e07e6a69": {
+      "url": "https://www.v2ex.com/t/1251201",
+      "first_seen": "2026-10-24T02:27:36.872055+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
