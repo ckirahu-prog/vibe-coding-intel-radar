@@ -1,0 +1,726 @@
+[
+  {
+    "id": "e8d0cca6d6da2ab5",
+    "title": "I put an AI in the Garden of Eden. Then I introduced the serpent",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/",
+    "summary": "Article URL: https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/ Comments URL: https://news.ycombinator.com/item?id=50265624 Points: 2 # Comments: 0",
+    "source_id": "hn-ai-game-tools",
+    "source_name": "HN: AI game tools",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 20:51:54 +0000"
+  },
+  {
+    "id": "ed18f8ab0f26929a",
+    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 234 # Comments: 87",
+    "source_id": "hn-gamedev",
+    "source_name": "HN: gamedev",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Mon, 26 Oct 2026 03:29:05 +0000"
+  },
+  {
+    "id": "36f2ceac4c946d04",
+    "title": "CrimeyMike/SVList-Unity",
+    "url": "https://github.com/CrimeyMike/SVList-Unity",
+    "summary": "高性能 Unity UGUI 虚拟列表框架，支持动态高度、零GC滚动、多模板与可扩展布局。基于 AI 辅助开发持续迭代。High-Performance UGUI Virtual List Framework for Unity.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:59:03Z"
+  },
+  {
+    "id": "901c9674763bfd69",
+    "title": "TusanHomichi/nomos",
+    "url": "https://github.com/TusanHomichi/nomos",
+    "summary": "Semantic game runtime for AI-authored worlds: typed facts, capability contracts, deterministic projections, sealed transactions, replay, and explanation. Rust.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:10:27Z"
+  },
+  {
+    "id": "da148de333fed948",
+    "title": "Rawframe-Project/maul-nav",
+    "url": "https://github.com/Rawframe-Project/maul-nav",
+    "summary": "Game navigation in C: navmeshes baked from your geometry, paths, crowds and fliers, the same bits on every machine. C23, MIT.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T01:05:35Z"
+  },
+  {
+    "id": "f841bd240655d980",
+    "title": "Warhorse Studios hit by an undetailed cybersecurity incident",
+    "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
+    "summary": "The developer behind the Kingdom Come: Deliverance games has revealed that it has been hit by a 'serious' cybersecurity attack and is taking steps to assess the full impact.",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 19:15:00 GMT"
+  },
+  {
+    "id": "9502f826429f617d",
+    "title": "Epic is updating its EULA to allow AI training on outputs from Unreal Engine and MetaHuman",
+    "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+    "summary": "In a post on X, Epic CEO Tim Sweeney casually states that the EULA for using Epic's engine will allow for training AI on the output, though developers can still choose to restrict it for individual games.",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 17:53:41 GMT"
+  },
+  {
+    "id": "418b9673a0c04ac8",
+    "title": "Changing acquired studios' core identity consistently leads to doom, says Nightdive Studios CEO",
+    "url": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+    "summary": "Why don't large publishers acquire companies and let them do what they do best?",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 14:47:20 GMT"
+  },
+  {
+    "id": "1a155f401eb33557",
+    "title": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'",
+    "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+    "summary": "24 members of staff have been laid off from the studio making for an estimated total staff reduction of around 10 percent.",
+    "source_id": "gd-ai",
+    "source_name": "Game Developer",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 14:10:40 GMT"
+  },
+  {
+    "id": "f9d562a5e15d4b84",
+    "title": "Show HN: PVisor, VM-isolated containers for agents",
+    "url": "https://github.com/DeepLink-org/pvisor",
+    "summary": "Article URL: https://github.com/DeepLink-org/pvisor Comments URL: https://news.ycombinator.com/item?id=50268585 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 02:17:04 +0000"
+  },
+  {
+    "id": "836b9f43d2e5c9a8",
+    "title": "Show HN: Slopcap",
+    "url": "https://github.com/dmead/slopcap",
+    "summary": "I wasn't happy with available options for recording planets and the moon, so I vibe coded one. Comments URL: https://news.ycombinator.com/item?id=50268363 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 01:45:23 +0000"
+  },
+  {
+    "id": "9acd10524191854e",
+    "title": "Show HN: A calculator for gas costs and road trip expenses",
+    "url": "https://gettripcost.com/",
+    "summary": "Article URL: https://gettripcost.com/ Comments URL: https://news.ycombinator.com/item?id=50268216 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 01:20:40 +0000"
+  },
+  {
+    "id": "568e85abdf877585",
+    "title": "Show HN: Misery in America",
+    "url": "https://sightspinner.ai/blog/misery-in-america-2026-10-28.html",
+    "summary": "A model forecasting the misery index into next year. You can find the model without the article here: https://app.sightspinner.ai/share/g7Xirw5fr1e_BUExZv0hvlqjkW... Comments URL: https://news.ycombinator.com/item?id=50268124 Points: 2 # Comments: 7",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 01:09:05 +0000"
+  },
+  {
+    "id": "231d75fb0445cdd1",
+    "title": "Show HN: I built Trvlrr, home for all your travels",
+    "url": "https://trvlrr.app/",
+    "summary": "Hi HN, I'm Sanjay. I've been travelling since I moved from Pakistan to Stockholm in 2008; I live in Sydney now. My trips were scattered across a spreadsheet, airline apps, old inboxes and a photo library, so I built Trvlrr to hold all of it. It's how I plan all my future trips and look back at all my past ones. Forward a booking email (flights, trains, hotels, tours) to a private address and it l…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 01:07:28 +0000"
+  },
+  {
+    "id": "6e8137be4da6174a",
+    "title": "Show HN: A visual explainer tracing an LLM API request to the GPU and back",
+    "url": "https://github.com/sujee/visual-stories/tree/main/projects/tracing-llm-api-request",
+    "summary": "Article URL: https://github.com/sujee/visual-stories/tree/main/projects/tracing-llm-api-request Comments URL: https://news.ycombinator.com/item?id=50268042 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 00:55:41 +0000"
+  },
+  {
+    "id": "e6577262a44798f3",
+    "title": "Show HN: VelaTrace KiCad plugin: Catch PCB mistakes before you order the board",
+    "url": "https://forum.kicad.info/t/velatrace-plugin-a-linter-for-kicad-boards-that-catches-mistakes-before-you-order-free-plugin-now-with-early-high-speed-checks/72000",
+    "summary": "Article URL: https://forum.kicad.info/t/velatrace-plugin-a-linter-for-kicad-boards-that-catches-mistakes-before-you-order-free-plugin-now-with-early-high-speed-checks/72000 Comments URL: https://news.ycombinator.com/item?id=50267795 Points: 3 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 00:23:23 +0000"
+  },
+  {
+    "id": "9ae55eca061b2013",
+    "title": "Show HN: Better Backlog: Filter GitHub issues with decision models",
+    "url": "https://github.com/BerriAI/better-backlog",
+    "summary": "Article URL: https://github.com/BerriAI/better-backlog Comments URL: https://news.ycombinator.com/item?id=50267779 Points: 1 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 00:19:59 +0000"
+  },
+  {
+    "id": "b7f12e366b3dbef4",
+    "title": "Show HN: Guess what frontier LLMs do in a repeated prisoner's dilemma",
+    "url": "https://thenunchiproject.com/game/ai-decides",
+    "summary": "Article URL: https://thenunchiproject.com/game/ai-decides Comments URL: https://news.ycombinator.com/item?id=50267680 Points: 4 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 00:07:47 +0000"
+  },
+  {
+    "id": "ad2c9a531aa4a782",
+    "title": "Show HN: WordClash Daily – A daily crossword game, solo or multiplayer",
+    "url": "https://wordclash.io/daily",
+    "summary": "Article URL: https://wordclash.io/daily Comments URL: https://news.ycombinator.com/item?id=50267632 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Wed, 28 Oct 2026 00:01:24 +0000"
+  },
+  {
+    "id": "ced2cfa25915a224",
+    "title": "Show HN: Aqueous Archive Format",
+    "url": "https://github.com/lifthrasiir/aqueous/",
+    "summary": "Article URL: https://github.com/lifthrasiir/aqueous/ Comments URL: https://news.ycombinator.com/item?id=50267373 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 23:31:52 +0000"
+  },
+  {
+    "id": "669fa7d24e52e340",
+    "title": "Show HN: A 4-minute film that runs live in the browser – pause it and walk in",
+    "url": "https://wishkino.com/",
+    "summary": "Article URL: https://wishkino.com/ Comments URL: https://news.ycombinator.com/item?id=50266994 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 22:50:53 +0000"
+  },
+  {
+    "id": "58af3d4f61a30253",
+    "title": "Show HN: Chorgi – a strength coach that updates your Garmin workouts every week",
+    "url": "https://chorgi.me/",
+    "summary": "Read the small note under the form first Comments URL: https://news.ycombinator.com/item?id=50266845 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 22:37:18 +0000"
+  },
+  {
+    "id": "d0c5d056b4878c5a",
+    "title": "Show HN: Stranded, move ERC-20 tokens out of a wallet that has no ETH for gas",
+    "url": "https://strandedtoken.trade/",
+    "summary": "Article URL: https://strandedtoken.trade/ Comments URL: https://news.ycombinator.com/item?id=50266603 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 22:14:03 +0000"
+  },
+  {
+    "id": "be0e23ad1d5385ae",
+    "title": "Show HN: Voice-first Bible study app with original Greek and Hebrew context",
+    "url": "https://www.thewordincontext.org/",
+    "summary": "Article URL: https://www.thewordincontext.org/ Comments URL: https://news.ycombinator.com/item?id=50266439 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 22:00:04 +0000"
+  },
+  {
+    "id": "3f58013c4611c033",
+    "title": "Show HN: Spend Extra AI Usage Transcribing Murray's New English Dictionary",
+    "url": "https://github.com/timjonez/new-english-dictionary",
+    "summary": "I've been working on transcribing the New English Dictionary ( NED ) into clean text using my extra usage on my AI sub. Thought I'd open it up to everyone and see if anyone want's to put their leftover usage to good use! Also would welcome any pointers getting something like this transcribed. Thanks! Comments URL: https://news.ycombinator.com/item?id=50266274 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 21:44:13 +0000"
+  },
+  {
+    "id": "8eb69c9bd9e5d611",
+    "title": "Show HN: Talkhawk, Wispr Flow-style dictation for Windows that runs on your PC",
+    "url": "https://talkhawk.app/",
+    "summary": "Article URL: https://talkhawk.app/ Comments URL: https://news.ycombinator.com/item?id=50265802 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 21:05:36 +0000"
+  },
+  {
+    "id": "511accbe0abcb1f9",
+    "title": "Show HN: Extending Axiom's PrimeGapsLib to prove parts 2 and 3 of Erdős #420",
+    "url": "https://erdosproblems.ai/problems/420",
+    "summary": "Article URL: https://erdosproblems.ai/problems/420 Comments URL: https://news.ycombinator.com/item?id=50265726 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 20:59:17 +0000"
+  },
+  {
+    "id": "dad94d6cf6f08321",
+    "title": "Show HN: CleanCode – Claude Code and Codex collaborating on one canvas",
+    "url": "https://github.com/chen-985211/cleancode",
+    "summary": "Article URL: https://github.com/chen-985211/cleancode Comments URL: https://news.ycombinator.com/item?id=50265699 Points: 3 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 20:57:26 +0000"
+  },
+  {
+    "id": "54c3a25c9af6c1fd",
+    "title": "Show HN: Happy-Eyeballs.club",
+    "url": "https://happy-eyeballs.club/",
+    "summary": "This is kinda a chan like forum where I use IPv6 to its absolute limit. IPv6 attribute have been mapped to dictionary words so that when you visit, you get an automatic name based on your IPv6. That's just one goody. There are many others I've tried to build in. If you're on IPv4, you can't use the site at all. You will get to the losers page and you will see other losers. The page is linked to f…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 20:19:54 +0000"
+  },
+  {
+    "id": "07f6704e29b85c74",
+    "title": "The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers",
+    "url": "https://codingplans.dev/briefs/us-model-labs-part-2/",
+    "summary": "Article URL: https://codingplans.dev/briefs/us-model-labs-part-2/ Comments URL: https://news.ycombinator.com/item?id=50265421 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Tue, 27 Oct 2026 20:37:03 +0000"
+  },
+  {
+    "id": "fdc98de39547d049",
+    "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
+    "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
+    "summary": "Article URL: https://codingplans.dev/briefs/us-model-labs-part-1/ Comments URL: https://news.ycombinator.com/item?id=50251518 Points: 5 # Comments: 2",
+    "source_id": "hn-solo-revenue",
+    "source_name": "HN: solo founder revenue",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "Mon, 26 Oct 2026 21:48:19 +0000"
+  },
+  {
+    "id": "76f3f0aed240ae4e",
+    "title": "phaisd/servi-fbsmcu",
+    "url": "https://github.com/phaisd/servi-fbsmcu",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:58:34Z"
+  },
+  {
+    "id": "ce43e6b4a7417b9f",
+    "title": "Shelios-Ceres/edgelings",
+    "url": "https://github.com/Shelios-Ceres/edgelings",
+    "summary": "Little bots at the edge of your screen that keep an eye on your AI coding agents (Claude Code, Codex, Kimi Code, Cursor and more). Windows app in WinUI 3; macOS app from Agent Island.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:56:27Z"
+  },
+  {
+    "id": "d4dce18cdf26ae19",
+    "title": "Mark44928/NoNameOS",
+    "url": "https://github.com/Mark44928/NoNameOS",
+    "summary": "🖥️ Pure C++ hobbyist OS simulation — interactive shell, virtual filesystem, more built-in games, and system tools in a single source file. No external dependencies. Educational and fun.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:56:26Z"
+  },
+  {
+    "id": "83f4c2f15eafa040",
+    "title": "AbhinayBoda/lean-agent-toolkit",
+    "url": "https://github.com/AbhinayBoda/lean-agent-toolkit",
+    "summary": "Twenty agent skills behind one AGENTS.md. Not a fork of ponytail.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:56:28Z"
+  },
+  {
+    "id": "42a1fd23819d4ce8",
+    "title": "ai-boost/awesome-prompts",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "summary": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:55:49Z"
+  },
+  {
+    "id": "9f7cb121b5d15b9a",
+    "title": "seanpk/xv-agents",
+    "url": "https://github.com/seanpk/xv-agents",
+    "summary": "Skills that make the Xtreme Vibing agents real",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:55:27Z"
+  },
+  {
+    "id": "e0bd2781b32b6d86",
+    "title": "ai-boost/awesome-image-video-prompts",
+    "url": "https://github.com/ai-boost/awesome-image-video-prompts",
+    "summary": "Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:55:54Z"
+  },
+  {
+    "id": "a3db2f531b4f4d63",
+    "title": "sincebyte/neo-emacs",
+    "url": "https://github.com/sincebyte/neo-emacs",
+    "summary": "Neo emacs is a configuration framework for GNU Emacs which is based on doom emacs and focuses on the java web application coding environment.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:55:03Z"
+  },
+  {
+    "id": "46549ca7ea09b13e",
+    "title": "kkone1238899/x-viral-skills-curated",
+    "url": "https://github.com/kkone1238899/x-viral-skills-curated",
+    "summary": "精选 AI skills 专属合集：视频生产 / 文案钩子 / 营销增长 / 去AI味 / 提示词，每条都提炼到拿来即用",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:54:39Z"
+  },
+  {
+    "id": "97052790f99ac33a",
+    "title": "prdmohangoogley/gea-agents-arch-guidelines-mcp-server",
+    "url": "https://github.com/prdmohangoogley/gea-agents-arch-guidelines-mcp-server",
+    "summary": "Enterprise Agents Architectural Guidelines MCP Server",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:54:33Z"
+  },
+  {
+    "id": "309b03ecd22551c8",
+    "title": "zhixuli0406/DuDuClaw",
+    "url": "https://github.com/zhixuli0406/DuDuClaw",
+    "summary": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more chat apps. A judge reviews each result, every cost is logged, memory stays on your machine. Also runs as a standalone MCP memory server. Self-hosted, Apache 2.0.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:54:25Z"
+  },
+  {
+    "id": "cbe606246bb238db",
+    "title": "[推广] ChatGPT plus/pro 官方套餐订阅代充值",
+    "url": "https://www.v2ex.com/t/1252455#reply0",
+    "summary": "充你自己的帐号，OpenAI 官方直充，长期稳定使用，全程质保包售后服务。 可开正规企业发票（加点手续费和税费）。 沉浸式全程自助充值: https://www.gptcat.vip 咨询可 +v(备注: v2 ) : Z2Vla29wcw==",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:42:13Z"
+  },
+  {
+    "id": "4e4005c1793b9f46",
+    "title": "[分享创造] 零成本！用 Google 表单 + Apps Script 搭建全自动独立分发码/优惠码系统",
+    "url": "https://www.v2ex.com/t/1252447#reply0",
+    "summary": "在 V2EX 发码，是一个比较常见的场景，目前来看手工发邮件有点儿烦；自动化的方案就是 woobox,tally 等表单服务，但是它们的免费版有很多限制；最致命的就是发码数目太少了； 本来想自己写个轻量服务的，但是跟 AI 一通聊，发现用 Google Forms 也可以非常简单的做这件事；于是整理了下面这篇文档；这是我跟着 AI 一步一步做下来，跑通了，然后整理完成的； 供有发码需求的开发者们参考： 对于独立开发者而言，产品上架或大版本更新时，去各大垂直社区（如 Reddit 、V2EX 、MacRumors 、专属垂直论坛）做 Giveaway （免费赠码 / 兑换码活动） 是冷启动最高效的手段之一。 但在分发“一人一码”的兑换码（如 App Store 兑换码、独立激活码）时，通常会遇到以下尴尬痛点： 人工私信发码：回帖量一旦破百，纯手动查收、复制、私信不仅累瘫，还极易错发、漏发。…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:29:06Z"
+  },
+  {
+    "id": "674d5c96c4572b01",
+    "title": "[分享创造] Vibe code 了一个美股财报图解 deepstock.us",
+    "url": "https://www.v2ex.com/t/1252438#reply0",
+    "summary": "最近闲着无聊，用 Claude Code 做了个美股财报图解的网站 [ https://deepstock.us/zh ], 主要想自己可以方便地看美股公司的利润表/现金流之类的图表（类似 appeconomyinsights ）。欢迎大家使用。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:15:33Z"
+  },
+  {
+    "id": "ad0f7cb0f4255432",
+    "title": "[求职] 蹲一个广州深圳后端的岗位吧",
+    "url": "https://www.v2ex.com/t/1252436#reply0",
+    "summary": "本人经历如下： 10 年+年 Java 后端研发，软件工程本科，英语工作水平，一周可到岗；开源项目 Committer 。 深耕电商交易领域，主导订单、结算、优惠券、促销模块开发重构，完成交易系统微服务改造、海量券数据分表迁移，落地缓存、限流熔断、分布式锁等方案，支撑大促高并发，对接多方外部电商渠道，解决大量线上性能与业务一致性问题。 同时具备微服务架构调优、故障排查能力，拥有企业级 AI Agent 、RAG 大模型工程落地实战，主导平台端到端交付；具备技术统筹、跨团队协作经验，意向 Java 后端、微服务、AI 应用开发岗位。 找了几个月了，都有点心灰意冷了，本来想找电商相关的，但因为不是一直做电商被别人觉得我行业经验不垂直，想去外资银行又没有相关的行业经验，加上学历只是双非，又触达 35+的门槛。对我感兴趣的就只有外包和 web3 了，广深现在还有正常的一点后端岗位吗",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": "2026-10-28T02:14:15Z"
+  },
+  {
+    "id": "d995ae24281af566",
+    "title": "《关于我和一个教师恋爱一年的经历》后续",
+    "url": "https://www.v2ex.com/t/1252184",
+    "summary": "# 一段关系结束之后：事情并没有就此结束 ## 一、分手之后，事情再次出现转折 https://www.v2ex.com/t/1227680 书接上文 原本，我以为这段关系已经彻底告一段落。今年 7 月，我将对方留在我这里的物品全部寄还给她，也算是给这段关系画上了一个句号。 但事实证明，每当我以为事情已经结束时，往往又会出现新的进展。 今年 8 月，我发现手机里仍然保存着一段视频，内容涉及对方与其他男性出去约炮，以及她本人对此事的陈述。 随后，我通过小红书联系对方，希望她删除我们此前旅行期间拍摄的一些私人照片，以免这些涉及双方隐私的内容继续留存。我也表示，自己会删除她相关的照片和记录。 然而，对方并没有接受这一提议，而是将我在多个平台拉黑，并指责我影响了她的生活，对我进行了讽刺和攻击。 之后，我又尝试通过微信联系她，希望双方能够当面沟通，将涉及彼此隐私的照片和记录清理干净，避免日后产生不…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793072896
+  },
+  {
+    "id": "06aa01dbadeaebb2",
+    "title": "这是你印象中的 WinXP 吗，一起回到 2005 吧",
+    "url": "https://www.v2ex.com/t/1252173",
+    "summary": "连肝一段时间，mac 都罢工了。（送修中） 之前做了个 win98.si ，后来好多朋友问为啥不做 XP 好吧。其实不太喜欢 xp ，虽然工作中 xp 用的时间最长。 我对 win98 感情真的很深。都有些恋物癖那种了（有可能真是一种病，隔一两天就会打开，一打开就想起 20 年前坐在机房中的场景）。我的大部分软件都会去找个 win98 皮。（对 win7 之类没有任何感情） 发现真的好多朋友没有用过 98 。甚至没有见过。 流用了很多 win98 的思路和基础。折腾。windows xp web 版如下。 目前应该是所有史上市上实际上事实上模拟版中颗粒度最细的。还会继续改进 - 可以真实访问历史上存在过的 web 版网页。 - 可以挂载真实磁盘文件夹（映射成虚拟盘符），双向同步。 - 99%视觉和流程上忠于 xp 本身 ## 首页 https://winxp.si/ ## 2007 年的…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793071448
+  },
+  {
+    "id": "2bae887a18246dc5",
+    "title": "[送码] Mu3ic 重磅更新！支持车机播放和电台，完美横屏播放， Navidrome 最佳播放器， Nas 音乐玩家的优选",
+    "url": "https://www.v2ex.com/t/1252164",
+    "summary": "🎉Mu3ic 1.7.0 正式版发布🎉 [主页]( https://mu3ic.xyz) 进行了升级重构，更新的所有内容都可以直接在主页上体验，无需下载应用即可上手体验，玩起来： ![]( https://i.imgur.com/RRK2V1c.png) ![]( https://i.imgur.com/Zp35iZv.png) ## 本帖专属福利规则 本帖送码分为三层，**激活码**和**优惠券**： - **50 个 Pro 激活码**：前 50 个留下邮箱的，会送出 Mu3ic Pro 激活码，**24h 内激活有效，逾期不补**，最后一批 Pro 赠码 - **可叠加优惠券**：50 个码送完后，本帖留下邮箱（优惠券本帖不限量供应），送出 6 元 Pro 优惠券，叠加推广期优惠，限时 ~~38~~ **12 元**即可激活 Mu3ic Pro （史低价格，6 元优惠券 24h 有…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793070731
+  },
+  {
+    "id": "7c900c6a9b3386a0",
+    "title": "情感抉择问题,ab 选择纠结",
+    "url": "https://www.v2ex.com/t/1252192",
+    "summary": "我今年 34 了,坐标深圳,目前没有工作好几年了,之前赚到过一些钱,现在一直在吃老本做做投资,行情也不太好,最近一直在研究 ai 和寻找机会,上班应该是不会有什么机会上了，存款几乎没有,但是有一些资产,净资产大概 320w(扣除房贷信用卡消费贷等负债),其中有 220w 是房产,平时花销都是花信用卡,信用卡额度充足可以花个两三年,新房房贷每个月要三千多,我接受每个月共同消费在 1.2 万之内. 现在有两个女孩 a 和 b 可以选择. 关于 a:我在 2020 年底在一次社交活动认识的 a ，后来断断续续联系，她很能花钱，消费很高，因为买东西费钱就断联了几次，中途我们去了很多地方旅游，新疆西藏新加坡马来西亚，成都澳门呼伦贝尔等地，几乎每去一个地方都要吵架，25 年 10 月开始我经常去她那和她同居在一起，今年 8 月开始搬到我的新房子同居在一起生活了，从认识开始她和我在一起的时间全是花我的…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793074314
+  },
+  {
+    "id": "231942826b4ecefa",
+    "title": "做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权",
+    "url": "https://www.v2ex.com/t/1252166",
+    "summary": "做了个叫 Zipover 的小工具，刚发布 1.0.0 。 Mac 、Windows 、Linux 连接同一局域网，配对后就能互相复制粘贴文字、图片、文件和文件夹。局域网直连、加密传输，剪贴板内容不经过云端。 支持 30 天免费试用，无需账号。 下载： https://zipover.app/cn/download/ 一次送出 30 份 1.x 许可证，每份最多用于 5 台电脑，包含 1.x 的永久使用权和更新。许可证联网激活后可长期离线使用。 想领的朋友回帖留下邮箱即可。回复前 30 位，每人一份，名额确认后统一邮件发放，满额会更新原帖。 欢迎试试，有问题直接回帖反馈。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793070881
+  },
+  {
+    "id": "a94888eebac6dbdd",
+    "title": "今天发现一个沙雕游戏：大到离谱的斧头",
+    "url": "https://www.v2ex.com/t/1252202",
+    "summary": "游戏地址： https://4c92724c.pinme.dev/",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793077027
+  },
+  {
+    "id": "4b3132309019e8d0",
+    "title": "人生到底应该未雨绸缪，还是车到山前必有路？",
+    "url": "https://www.v2ex.com/t/1252239",
+    "summary": "不知道大家会不会这样，我平时不管是工作还是生活，遇到什么事都喜欢提前想很多，想着万一出现什么问题该怎么办，总要多准备几套兜底方案才安心。 大多数时候，确实也因为提前考虑得比较多，避开了不少不必要的麻烦。但偶尔遇到一些没预料到的情况，事情没处理好，就会特别自责和内耗，觉得是不是自己考虑得还不够周全，准备得还不够充分。 时间久了，真的感觉有点累。 最近就在想，是不是凡事没必要考虑那么多？与其总担心各种可能发生的问题，不如遇到问题再想办法，相信车到山前必有路？ 想问问大家，你们平时是习惯提前考虑各种可能性，还是走一步看一步？哪种心态会活得更轻松一点？",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793147011
+  },
+  {
+    "id": "696cf9ac5cf4ad71",
+    "title": "Jetbrains 在经历 Fleet 和 Air 的失败之后再次发布一款的轻量级编辑器 Thinkrail",
+    "url": "https://www.v2ex.com/t/1252393",
+    "summary": "编辑器官网地址： https://thinkrail.ai/ 编辑器外观： https://i.imgur.com/5d87HDE.png",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793146504
+  },
+  {
+    "id": "f2a04858ad9d01c1",
+    "title": "第一次去健身房需要注意什么",
+    "url": "https://www.v2ex.com/t/1252288",
+    "summary": "没去过健身房，不懂健身器械，不看健身视频。一直都是徒手自己练，平时训练组合比较单一。 1. 40 个左右俯卧撑 + 十几个引体向上 + 40 个深蹲 2. 20+俯卧撑 + 40 左右深蹲 （平时比较累的时候会这样） 3. 5km 跑步 自认为大臂练的还可以，充血可以达到 32 （让我自燃一波 hhhh ）,但是肩膀很窄，想练宽肩 可以是任何建议和提醒，包括不限于与以下： 1. 去健身房需要注意什么器械 2. 去什么类型的健身房 3. 办卡有什么坑没有 4. 健身房乱不乱 5. ... 佬们，有用的回复我会打赏感谢的!",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-10-28T02:58:49.805401+00:00",
+    "published": 1793090866
+  }
+]
