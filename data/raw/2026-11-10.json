@@ -1,0 +1,664 @@
+[
+  {
+    "id": "2c04cb154dd4b800",
+    "title": "chenyihang98-pixel/Modelwright",
+    "url": "https://github.com/chenyihang98-pixel/Modelwright",
+    "summary": "Modelwright（模匠）— 面向游戏开发者的 AI 3D 生成工作台：一键生成 3D 模型，直接进 Unity。Windows 桌面应用",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:09:52Z"
+  },
+  {
+    "id": "51c98a1265efcced",
+    "title": "Show HN: 3D Conformal Transformations via Geometric Algebra",
+    "url": "https://static.laszlokorte.de/conformal-3d/",
+    "summary": "Inspired by this great talk by Hamish Todd about Conformal Geometric Algebra [1] I felt the urge to play with those conformal transformations myself and to learn more about geometric algebra. In the original talk Hamish shows many interactive visualizations to make a point about properties of conformal transformations and their representation via Geometric Algebra. My goal was to reverse engineer…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 04:45:56 +0000"
+  },
+  {
+    "id": "a3178e8ee26ee371",
+    "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+    "url": "https://zthr.ai/",
+    "summary": "Article URL: https://zthr.ai/ Comments URL: https://news.ycombinator.com/item?id=50435672 Points: 3 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 03:21:56 +0000"
+  },
+  {
+    "id": "faee3fbc0d8ffb2e",
+    "title": "Show HN: Kinsona – a hotel booking site that shows its cut on every booking",
+    "url": "https://kinsona.com/",
+    "summary": "Hotel for one night in Livonia, Michigan, and the three lines: room $54.53, platform fee $0.50, Kinsona fee $1.36. $1.86 is all Kinsona earns. This was a live test booking that got cancelled to ensure booking plumbing is working and refunds hit credit card. Still waiting for my first $1.86 as we refund everything within free cancellation window. My background is in healthcare pricing and it has t…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 03:13:42 +0000"
+  },
+  {
+    "id": "df519ba8e0f26505",
+    "title": "Show HN: AI Frothiness Index. Daily reading of how stretched the AI boom is",
+    "url": "https://frothiness.jagular.io",
+    "summary": "Article URL: https://frothiness.jagular.io Comments URL: https://news.ycombinator.com/item?id=50435624 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 03:13:00 +0000"
+  },
+  {
+    "id": "56528af518859a6c",
+    "title": "Show HN: Fynepdf-pdfa – PDF/A conversion without Ghostscript (MIT)",
+    "url": "https://github.com/fynepdf/fynepdf-pdfa",
+    "summary": "Article URL: https://github.com/fynepdf/fynepdf-pdfa Comments URL: https://news.ycombinator.com/item?id=50435403 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 02:36:41 +0000"
+  },
+  {
+    "id": "7b74ab9681ea3c29",
+    "title": "Show HN: Dating app based on your LinkedIn profile",
+    "url": "https://synergy.dating/",
+    "summary": "Article URL: https://synergy.dating/ Comments URL: https://news.ycombinator.com/item?id=50435336 Points: 3 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 02:26:43 +0000"
+  },
+  {
+    "id": "04252fb99948a8f0",
+    "title": "Show HN: KeyPad – Universal Control like keyboard/mouse for iPhone, iPhone Duo",
+    "url": "https://apps.apple.com/us/app/keypad-bluetooth-keyboard/id1491684442?mt=12",
+    "summary": "Hi Everyone, I'm Samyeer, I wrote KeyPad a while back; it’s still going strong. Apple's Universal Control lets you use your Mac's keyboard and mouse with an iPad, but it doesn't support the iPhone…or anything else. KeyPad lets you use your Mac Keyboard and Trackpad as a bluetooth keyboard and mouse for the iPhone, android phones, Tablets, TVs, Raspberry Pi and I just verified it on the iPhone Duo…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 02:18:35 +0000"
+  },
+  {
+    "id": "cbe5c28e02d87ce1",
+    "title": "Show HN: BetterMan – man pages for all of Debian, with explain and portability",
+    "url": "https://betterman.sh",
+    "summary": "Article URL: https://betterman.sh Comments URL: https://news.ycombinator.com/item?id=50435241 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 02:12:52 +0000"
+  },
+  {
+    "id": "0a70d51a4d9fce33",
+    "title": "Show HN: Blabla Meter – Jev scores how useful page content is before you read it",
+    "url": "https://github.com/maths-oliveira/blabla-meter",
+    "summary": "Hello there I built a little Chrome extension that analyzes the content elements on a page, scores their \"usefulness\" and labels them based on that score. What counts as useful can be customized to your preferences and interests, and it learns from your feedback on the scores. Each element gets a badge with its score; hover it for more details. I'm using Jev, so the basic analysis is very fast an…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 02:04:24 +0000"
+  },
+  {
+    "id": "71b1e5705bba099b",
+    "title": "Show HN: CMusee – C/C++ timeless debugger, record every function called",
+    "url": "https://veefuse.com/en/cmusee/",
+    "summary": "Article URL: https://veefuse.com/en/cmusee/ Comments URL: https://news.ycombinator.com/item?id=50434819 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 01:16:30 +0000"
+  },
+  {
+    "id": "7c45df31a481619d",
+    "title": "Show HN: I built a tool that babysits your agents",
+    "url": "https://www.physicsbase.ai/",
+    "summary": "Hi Hackernews, This is my go at an important issue which is making sure agents stick to their rules and context. After using agents and learning from the community on reddit, I decided to have a go at some of the most important problems surrounding how agents are built and deployed in production. This is meant to be a control layer for agents. It gives the agent an identity, policy, and a vault t…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 01:06:29 +0000"
+  },
+  {
+    "id": "533f6c23649e8bd9",
+    "title": "Show HN: FormaNest, Lay out a room in 3D in the browser and share it as a link",
+    "url": "https://formanest.app/p/2LxQNrjg50vvxrbb",
+    "summary": "Hi, I'm the maker. I don’t have architect background, but recently I just love learning about 3D design, and I found out access to the 3D design software is expensive and hard to use. That is why I build FormaNest, so everyone can build a 3D design just on the browser, and can share the design with everyone, no need to install, no need to pay. I would love to hear how do you feels when open the s…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 00:55:51 +0000"
+  },
+  {
+    "id": "2b0c38f51e1e6512",
+    "title": "Show HN: I abandoned my AVX2 128-bit fixed-point library",
+    "url": "https://github.com/arjavsharma91/v4q128",
+    "summary": "Article URL: https://github.com/arjavsharma91/v4q128 Comments URL: https://news.ycombinator.com/item?id=50434431 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 00:24:17 +0000"
+  },
+  {
+    "id": "4b81133caae89b9b",
+    "title": "Show HN: Stop Walking – A 10-level, one-button 3D rage game in the browser",
+    "url": "https://stopwalking.online",
+    "summary": "Article URL: https://stopwalking.online Comments URL: https://news.ycombinator.com/item?id=50434318 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 00:11:58 +0000"
+  },
+  {
+    "id": "d3395fa115a942c1",
+    "title": "Show HN: Rat Race (After Dark, 1994), ported from 68k assembly to TypeScript",
+    "url": "https://rat-race.heyitsjam.es/",
+    "summary": "Ported to TypeScript from Motorola 68k assembly! All the rats' behaviors are true to spec: Their distractions (sniffing, turning around, grooming, stopping) are all frame accurate and occur in the same ratios as the original. The artwork and animation speeds were extracted from the old bitmaps and jump instructions and are (as close as I can get) to being frame accurate. Enhancements: I ran tens…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 00:05:38 +0000"
+  },
+  {
+    "id": "8751dc83431b81ca",
+    "title": "Show HN: Nenya, a 0.5B-active base trained on 60B tokens, rivals Qwen3.5-2B",
+    "url": "https://huggingface.co/ArsalanZ/Nenya-2.5B-A0.5B-Base",
+    "summary": "Would love some feedback! :) Comments URL: https://news.ycombinator.com/item?id=50434208 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Tue, 10 Nov 2026 00:01:40 +0000"
+  },
+  {
+    "id": "3ef8796c73132e7c",
+    "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+    "url": "https://nibiashara.com/agent-index",
+    "summary": "Article URL: https://nibiashara.com/agent-index Comments URL: https://news.ycombinator.com/item?id=50433678 Points: 3 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Mon, 09 Nov 2026 23:10:11 +0000"
+  },
+  {
+    "id": "9d31d4ac9735a371",
+    "title": "Show HN: Drop, self hosted, OSS file transfer for agents",
+    "url": "https://twitter.com/jalcowastaken/status/2119922971599057366",
+    "summary": "Article URL: https://twitter.com/jalcowastaken/status/2119922971599057366 Comments URL: https://news.ycombinator.com/item?id=50433609 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Mon, 09 Nov 2026 23:04:16 +0000"
+  },
+  {
+    "id": "7f316f2ffd345226",
+    "title": "Show HN: FetchIndex – cost calculator for 19 scraping and search APIs",
+    "url": "https://fetchindex.com/calculator/",
+    "summary": "Article URL: https://fetchindex.com/calculator/ Comments URL: https://news.ycombinator.com/item?id=50433490 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Mon, 09 Nov 2026 22:54:54 +0000"
+  },
+  {
+    "id": "6ca7ab3db4af2077",
+    "title": "Show HN: First-year vs. renewal prices for 532 domain extensions, updated weekly",
+    "url": "https://github.com/AlonDrilich/tld-renewal-prices",
+    "summary": "Article URL: https://github.com/AlonDrilich/tld-renewal-prices Comments URL: https://news.ycombinator.com/item?id=50433486 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "Mon, 09 Nov 2026 22:54:37 +0000"
+  },
+  {
+    "id": "241434de795b5623",
+    "title": "TigerPlaysGames/midnight-paws-boba",
+    "url": "https://github.com/TigerPlaysGames/midnight-paws-boba",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:40Z"
+  },
+  {
+    "id": "9b37ee89965b2aaa",
+    "title": "Jenqyang/Awesome-AI-Agents",
+    "url": "https://github.com/Jenqyang/Awesome-AI-Agents",
+    "summary": "A collection of autonomous agents 🤖️ powered by LLM.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:40Z"
+  },
+  {
+    "id": "7c8e5e6ce31c6a27",
+    "title": "MohammedAl-Alimi/agent-security-playbook",
+    "url": "https://github.com/MohammedAl-Alimi/agent-security-playbook",
+    "summary": "Defense-in-depth security rules AI coding agents can follow, and verify. 25 rule chapters, checklists, drop-in CLAUDE.md, self-verification test patterns.",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:37Z"
+  },
+  {
+    "id": "4d988387a072d456",
+    "title": "ShovonScripts/Muiz-Mahmood",
+    "url": "https://github.com/ShovonScripts/Muiz-Mahmood",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:33Z"
+  },
+  {
+    "id": "636d373226d7062b",
+    "title": "theexperiencecompany/gaia",
+    "url": "https://github.com/theexperiencecompany/gaia",
+    "summary": "Your proactive personal AI assistant for daily life",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:32Z"
+  },
+  {
+    "id": "70e832753fe5e7b4",
+    "title": "jwcrystal/vibe-usage-desktop",
+    "url": "https://github.com/jwcrystal/vibe-usage-desktop",
+    "summary": "Cross-platform desktop shell for vibe-usage-local-server — Electron tray + embedded local API/dashboard (macOS / Windows / Linux)",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:24Z"
+  },
+  {
+    "id": "e7bb2c33a288a90c",
+    "title": "calmandchange/vibe-headset",
+    "url": "https://github.com/calmandchange/vibe-headset",
+    "summary": "vibe coding耳机口喷：有线 EarPods 线控 + Windows，说→改→发",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:09:12Z"
+  },
+  {
+    "id": "f1b2a75e976ac50d",
+    "title": "CISODavidO540/UIX--Ultra",
+    "url": "https://github.com/CISODavidO540/UIX--Ultra",
+    "summary": "UI UX for an AI's toolkit",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:09:02Z"
+  },
+  {
+    "id": "5c0a0cd9d8376813",
+    "title": "yaohongan/x-follower-lens",
+    "url": "https://github.com/yaohongan/x-follower-lens",
+    "summary": "Chrome extension: show follower counts and quality tags on X (Twitter) timeline and following lists. 在 X 信息流和关注列表显示粉丝数与质量标签。",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:08:28Z"
+  },
+  {
+    "id": "fdc1588ff828b983",
+    "title": "benjamin30121976-del/classeur-tim.",
+    "url": "https://github.com/benjamin30121976-del/classeur-tim.",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:08:18Z"
+  },
+  {
+    "id": "a54877ca811c6431",
+    "title": "giadaf-boosha/claude-code",
+    "url": "https://github.com/giadaf-boosha/claude-code",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:08:14Z"
+  },
+  {
+    "id": "fb7cbd018883b1b3",
+    "title": "[酷工作] [上海] YC W24 出海 AI SaaS 招产品工程师",
+    "url": "https://www.v2ex.com/t/1255850#reply0",
+    "summary": "🖥️ Openmart 招聘｜产品工程师（ Product Engineer ） 📍 上海 💼 全职 🚀 YC W24 🌎 客户在美国 你对一块产品结果负责，也是离客户最近的工程师。 🏢 关于 Openmart Openmart 是 Y Combinator （ YC W24 ） 投资的 AI SaaS 公司，客户主要在美国。我们做 SMB 与本地商家的数据平台，并在数据之上提供 enrichment 、API 和 AI 销售 agent 。 上海团队负责工程、产品和运营，每天通过 Slack 和美国的创始团队、销售团队紧密协作。 💡 这个岗位是什么 你对 Openmart 的一块产品结果负责，而不只是把页面写出来。 你从客户对话、PostHog 录屏和数据里发现问题，自己判断该做什么，然后设计、写代码、上线、看数据、再迭代。 你也是离客户最近的工程师：运营同事解决不了的问题由你接手，并…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T05:10:42Z"
+  },
+  {
+    "id": "a4c516737fb83cd5",
+    "title": "[推广] 未读 Fable 5.2 王者归位，吉吉 api 第一时间上线，官方正品满血版 倍率 1.5，欢迎大佬来偿偿。",
+    "url": "https://www.v2ex.com/t/1255831#reply0",
+    "summary": "佬们，Fable 5.2 王者归位。正式登陆吉吉 API ！ https://www.jiji.cc 后台分组选 claude code max 组即可品尝。 🔥 新一代模型强势登场！这次不仅是能力升级，更是性能与成本的双重进化！ 🧠 核心性能全面提升 与其他旗舰模型正面对比 FrontierCode 2.0 编程评测： 🥇 Fable 5.2：49.1% 🥈 Opus 5.5：45.5% 🥉 GPT-6 Astra：42.8% 🏅 Gemini 4 Carbon：41.1% 在这项编程评测中，Fable 5.2 取得领先！ 相比上一代 Fable 5.1 ，官方公布的多项评测成绩显著提升： ⚡ 编程能力：32.4% → 49.1% ⚡ 软件工程：56.3% → 69.9% ⚡ 智能自动化：31.4% → 51.4% ⚡ 科学研究：52.6% → 74.6% ⚡ 智能搜索：68.7% →…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T03:59:10Z"
+  },
+  {
+    "id": "a48fbaa55ee5020a",
+    "title": "[酷工作] 海外广告投放优化师（工具类 App）远程办公",
+    "url": "https://www.v2ex.com/t/1255822#reply0",
+    "summary": "我们是一家专注于移动互联网应用开发与海外市场运营的科技公司，目前正在招聘有海外 App 买量经验的广告投放优化师。 希望你熟悉海外主流广告平台，能够独立负责广告账户运营，并根据实际投放数据持续优化获客成本和用户变现效果。 岗位职责 负责海外 App 在 Google Ads、Meta、TikTok 等平台的广告投放。 制定投放策略，管理预算，优化 CPI、CPA、ROAS 等指标。 分析不同市场、渠道及素材的投放效果，持续优化获客成本。 配合设计及产品团队进行广告素材测试和数据分析。 任职要求 2 年以上海外 App 广告投放经验。 熟悉 Google Ads、Meta、TikTok 等至少两个投放平台。 熟悉 CPI、CPA、ROAS、LTV 等核心指标。 有工具类 App、订阅或广告变现经验优先。 具备基本英文阅读能力，能够独立分析投放数据。 简历投递 hr.celeste.seam…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T03:41:27Z"
+  },
+  {
+    "id": "8ba0504c8673c9da",
+    "title": "[分享创造] 最近 Vibe Coding 搓了个小网站 (AI 比价的)",
+    "url": "https://www.v2ex.com/t/1255818#reply0",
+    "summary": "主要是整理了全网一些 AI 代充和订阅渠道的价格，支持 ChatGPT 、Claude 、Gemini 等，方便大家比比价，看看哪个渠道更划算。 自己平时也经常找这些渠道，索性就做成了一个网站。 目前还在慢慢完善，欢迎大家体验，有什么建议也可以提提～ jiaduoduo.xyz",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T03:26:04Z"
+  },
+  {
+    "id": "c2d6d7e2ea7976da",
+    "title": "[推广] 在我哥家玩 3D 打印，后来做了个免费的 STL 修复工具",
+    "url": "https://www.v2ex.com/t/1255813#reply1",
+    "summary": "我刚开始尝试做独立开发，做的第一个产品叫 STLFixer 。这个想法来自之前在我哥家玩 3D 打印的经历。 他找来的模型文件经常有些损坏，本来是想打印点东西玩，结果得先处理文件问题。我就想，能不能做个简单的网页工具，选好文件就能检查，能修的地方尝试修一下，不用再安装软件。 后来就做了 STLFixer 。 它能检查 STL 模型，并修复支持范围内的一些网格问题。免费，不用注册，文件在浏览器本地处理，不会上传到服务器。修复后可以对比前后变化，再下载结果。 同时，在继续深入的过程中，我发现还有不少需要做文件转换的需求。因此在 converter 页面还可以进行常规文件的互相转换...... 目前，它有不少限制，不能把所有损坏的模型都修好。大面积破损和复杂的问题，还是需要专门的建模软件；修复完成也不代表一定能打印成功，下载后还得在切片软件里检查。 有玩 3D 打印的朋友可以试试，也想听听大家…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T03:21:58Z"
+  },
+  {
+    "id": "34415159cb351039",
+    "title": "[职场话题] 外企外包也许是大龄失业人员的最好归宿",
+    "url": "https://www.v2ex.com/t/1255797#reply34",
+    "summary": "入职一家外企外包几个月，谈谈感受。 我们组一共 12 人，全部 95 前，还有几个 80 后，只有 3 个是正式的，其余全是外包。时间最长的在这边干了有 6 年多，稳定性不错 工作极度轻松，是我工作以来最轻松的，之前在互联网公司上班的肯定不太适应这个节奏。以前公司排期一周的任务这边至少排一个月，做不完继续延期。有几位负责做重构的同事，他们的任务已经排到 2028 年了 不打卡不管考勤，基本就是想来就来想走就走，我们一般 10 点到 6 点，午休两小时。不想来的随时可以居家办公，没人管。我们组有不少家在外地的，长期居家办公，我到现在还没见过真人。非常适合大龄有家庭有孩子的 收入肯定比不了大厂，和一般民企差不多，10 年经验年收入税前 40-50w 左右，到手也就 30 多，但是胜在轻松，这个性价比还是可以的 福利待遇不如正式员工，没有那么多的年假，但是随时请假，随时申请 wfh ，看起来差…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T02:51:12Z"
+  },
+  {
+    "id": "dc849a2ee3b18029",
+    "title": "[程序员] [开源] 微子中枢 v0.6.0：一键部署面板 + 智能访问路由",
+    "url": "https://www.v2ex.com/t/1255790#reply0",
+    "summary": "微子·中枢是一键部署面板和智能访问路由，你在自己电脑上部署的应用，出门用任何客户端都能访问，另外也支持零客户端 Web 分享，你发个链接给同事，他们用浏览器也能访问，不用买服务器和域名。所有的应用都经过安全的 8443 服务端口访问，由微子中枢统一控制访问权限，避免安全问题。 链接 GitHub： https://github.com/iffiX/neutrino 主站和安装： https://neutrinohub.net/ 在线演示： https://neutrinohub.net/demo/ 好用的话请务必给我个 Star ！ 一键部署 系统访问：远程桌面、传文件、终端、SSH 写代码：VS Code 、code-server 、Gitea AI 工作流：Claude Code 、Codex 、CloudCLI 、Codeg 、Hermes WebUI 写论文：Ayakaleaf…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T02:43:25Z"
+  },
+  {
+    "id": "b1b138b29b7329d7",
+    "title": "[酷工作] 远程技术招聘｜ 36 类岗位，覆盖 Go、 Java 、Flutter、AI、算法与安全",
+    "url": "https://www.v2ex.com/t/1255777#reply0",
+    "summary": "技术岗位招聘，欢迎投递或推荐合适的人选。 岗位名称及薪资如下： H5 游戏开发工程师（海外社区方向）｜ 20–25K iOS ／ Flutter 开发工程师｜ 21–35K 高级 Flutter 工程师（ Android ／ iOS ／ Web ）｜ 20–25K 高级 Flutter 开发工程师｜ 18–30K Flutter 客户端工程师｜面议 高级前端开发｜ 20–30K 前端开发工程师（ SEO 方向）｜面议 Golang 后端工程师｜面议 后端工程师（ Golang ＋高级）｜ 25–40K 高级后端开发｜ 20–30K 高级 Java 工程师｜ 25–40K SpringBoot 后端开发工程师（ AI 应用方向）｜ 20–30K 高级服务器开发工程师｜ 20–30K 高级 PHP 开发工程师｜ 18–25K 高级全栈工程师（ PHP 为主，Flutter ／ Vue 方向）…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": "2026-11-10T02:25:08Z"
+  },
+  {
+    "id": "0e22360138fb303e",
+    "title": "七年级期中考试分数如下，哎，认命了",
+    "url": "https://www.v2ex.com/t/1255591",
+    "summary": "总分：282 语文：60 数学：35 英语：88 生物：19 政治：47 历史：27 地理：6",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794210690
+  },
+  {
+    "id": "529c674e842d302e",
+    "title": "突然想到个一直没有想的事情，各位一般多久剪一次头发",
+    "url": "https://www.v2ex.com/t/1255744",
+    "summary": "之前一直是 20-30 天一次，头发乱糟糟的。今天刷到别人说 2 周一次，有点怀疑自己一直没有好好对待自己的头发了。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794274944
+  },
+  {
+    "id": "79011c51ec8881ad",
+    "title": "[送会员] 为了学好 英语 和 日语，我做了这个...",
+    "url": "https://www.v2ex.com/t/1255556",
+    "summary": "地址在： https://www.lingodew.com/ 目前支持 Web/iOS/Android 三端同步, App Store 和 Google Play 搜 “lingodew” 即可。 ## 简介 首先我自己坚信语言学习的最有效途径就是**大量可理解的输入**，所以为了**大量**，**可理解**的**输入**，以及确保自己有持续的学习兴趣，我做了这个项目： 收集了适合语言学习的 YouTube 视频 - 提供双语字幕 - 提供单词级别的时间戳同步 - 点击即查的内置词典 - 内置类似 Anki 的单词本，遗忘曲线复习，单词会包含来源视频的来源句子上下文，点一下就能回到原视频播放 ## 特色 再简单说一下这个项目不同于市面上同类项目的特点： ### 新鲜视频 - 每天抓取 YouTube 上 500 多个频道发布的最新视频 ### 难度分级 - 所有视频按照难度分级，英语 A…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794204494
+  },
+  {
+    "id": "9a2aa083394d9ccb",
+    "title": "我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了",
+    "url": "https://www.v2ex.com/t/1255590",
+    "summary": "很久没来 V 站了，今天搜「 gpui 」想学点新东西，点开第一个结果，发现这个项目和我做的 SSH 客户端 Termark ，在界面布局、功能设计、交互方式，甚至图标上都高度一致。 作为开发者，第一反应挺复杂的。这些细节是我一点点打磨出来的，现在被原样搬走，说不难受是假的。 不过冷静下来想想，能被人复刻，至少说明这个产品是有价值的。 我也不打算折腾维权，只想说一句：**开源不等于可以不署名、不尊重原创。** 借鉴可以，但希望能有边界，也希望能说明来源。 Termark 会继续开发和维护，不会因为出现了相似产品就停下来。下面是两边的截图，大家可以自己对比。 如果你还没用过 Termark ，欢迎体验： 官网： https://termark.app **我的（ Termark ）：** ![]( https://i.v2ex.co/648CA39g.png) **对方的：** ![](…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794210550
+  },
+  {
+    "id": "b18858d08ee93cb0",
+    "title": "说说最近在折腾 Claude 上继续浪费的钱吧",
+    "url": "https://www.v2ex.com/t/1255567",
+    "summary": "之前说过，Claude 连续被封了几个自己的老号。 一直在尝试折腾 [在自己的电脑上，使用 Claude Code desktop 开发] 折腾了几天，除了浪费点钱之外，没有任何收获 分享一下吧 主要是购买了已经过 kyc 的账号。 包括过 kyc 是印尼区、美区的 id 也包括 Outlook 、Gmail 等邮箱 包括新号、老号（通过我自己看邮箱里面 Claude 注册邮件） 使用不同的梯子（没错，之前说梯子 300 一个月，被 V 站老哥喷惨了，经过评论区指导，我也尝试购买了一些所谓的美国家宽） ## 结果 总共大概投入 7-8 个各种类型已过 Kyc 的账号，价格在 80-150 不等 总投入 1000 元左右。 这些账号，基本确实都做到了保证登录，网页版登录没有啥问题，免费的 Sonnet5.5 也能对话几轮 但是高强度对话几轮，比如真让他做点代码上的 review ，很快也封…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794206902
+  },
+  {
+    "id": "cdf521d0b1392084",
+    "title": "天冷了，各位都穿什么价位的羽绒服呢？",
+    "url": "https://www.v2ex.com/t/1255730",
+    "summary": "有什么推荐的吗？想入手一件平价羽绒服",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794273195
+  },
+  {
+    "id": "7542432850bd058f",
+    "title": "公司不让用苹果手机设备了，有 苹果 pro 尺寸大小的手机推荐么",
+    "url": "https://www.v2ex.com/t/1255727",
+    "summary": "感觉 pro 尺寸大小正好，不喜欢 pro max 那样太大的手机。也不想买太贵的。求手机推荐。 这个要求是真特么扯，公司还没停止优化裁员呢，真怕换完被优化了。钱白花了。",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794273039
+  },
+  {
+    "id": "15c2cd24517a43c5",
+    "title": "工作以及求职解惑",
+    "url": "https://www.v2ex.com/t/1255587",
+    "summary": "背景： 我们公司现在全面推 AI ，前段时间裁了几个人，目前只剩 5 个主力开发。 困境： 老板是技术出身，自己用 Claude 很溜，最近几个月派活儿完全按他自己的预估来，还搞了绩效考核，一直在扣我和另一个同事的绩效。我是前端，现在靠 AI 也能写后端功能，但运维部署这块不熟，偶尔进度会拖，我也清楚这是自己需要补的地方。 最近朋友介绍了一个 CMS 的小活，做的过程中我就在想，要不要干脆离职、彻底转自由职业。现在受限于工作地点，工资也不高，还经常被 PUA ，心情挺受影响。 能力： 说下我目前的情况，全栈开发基本没问题，App （ iOS 已经上架）、小程序、Web 和后端都能做。借助 AI ，常规业务开发没什么压力，只有比较大的 SaaS 才吃力一些。 诉求： 我的目标其实不大，就是想走一下独立开发者，不想上班了，现在有 AI 的情况下，希望每个月稳定接几个小单子，但是又担心贸然离职…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794210274
+  },
+  {
+    "id": "2644ac6285f6bae0",
+    "title": "有没有三个月瘦 30 斤的办法",
+    "url": "https://www.v2ex.com/t/1255768",
+    "summary": "从现在开始，想在过年前减肥减掉 30 斤，惊艳那些亲戚们，也给自己涨个面 有没有什么方法？平常工作时间朝九晚六，一坐就是一天。 离我最近的健身房，三个月 500 元子，有必要办一个吗",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794276819
+  },
+  {
+    "id": "dd4fab7ae226de98",
+    "title": "不晓得大家有没有见过如此厚颜无耻之开发者",
+    "url": "https://www.v2ex.com/t/1255716",
+    "summary": "https://i.imgur.com/1vLnqbQ.png 大约三个星期前，在 GitHub 上发现了一个破解 Frset 的项目:https://github.com/sxyq/Kitnest ，项目最早叫 Open Frset ，后来改名 Frset Next ，换皮后现名 Kitnest 。起初，这位开发者打着“学习研究”的旗号，破解了我在今年 6 月发布的闭源软件 https://frset.com/ 。当时想着反正现在用户量也不多，就随他玩儿去吧，便没有理会。结果这两天再去看，才发现事情已经越来越离谱了。破解我就算了，还发布成一款新 App ，大量照搬 Frset 的界面布局和交互设计，甚至连本地化资源都一起打包带走，说实话，挺让人生气的。 如果 Kitnest 的开发者也在 V 站的话，想对你说的是，Frset 并不是什么成功的产品，没多少下载，也没多少付费。对我来说，它…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-10T05:09:44.471098+00:00",
+    "published": 1794269109
+  }
+]
