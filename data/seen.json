@@ -46209,6 +46209,331 @@
       "url": "https://www.v2ex.com/t/1255716",
       "first_seen": "2026-11-10T05:09:44.471098+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "c619bb88505937dc": {
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-ai-game-tools"
+    },
+    "7ce38e3e435d9184": {
+      "url": "https://twitter.com/TimSweeneyEpic/status/2120184723938877753",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "16d98e3fe2b26ac8": {
+      "url": "https://github.com/voyager-so/vork",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "8603f64da3214cd5": {
+      "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "9400b601c16bc04a": {
+      "url": "https://github.com/23333ironnnnn/minigame-loop",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "58559f4cbc7bfff9": {
+      "url": "https://github.com/FrancisCuarto/OrbitKit",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "551f20b353dc37d3": {
+      "url": "https://github.com/zenstory-ai/novel-to-game",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "dabe42c456e7fe01": {
+      "url": "https://github.com/lxb0957/sneak_ai",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "a93e11207c1052ad": {
+      "url": "https://github.com/mumblebox-gpt/mumblebox-foundry",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "295bf3e142a68315": {
+      "url": "https://github.com/SeanShaffer88/ForAI",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-game-ai"
+    },
+    "ab2ab2a224928290": {
+      "url": "https://crayon.net/relaunch",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "10ac1de8888efbfd": {
+      "url": "https://naklecha.com/research/caramel-1",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "a3f260bc1ef93333": {
+      "url": "https://taipeiledger.com/gpu/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "4b6891bf26f3b5e5": {
+      "url": "https://restless.run/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "b00d2bfd73142ec5": {
+      "url": "https://hc.labynet.fr/en.html",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "5f99a67f9f9dd8c7": {
+      "url": "https://github.com/kbr-/kotlean",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "209d701594a902d4": {
+      "url": "https://sitetoolsbox.com/article.php?id=55",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "aa7f54c643964213": {
+      "url": "https://github.com/vaultbase-sh/vaultbase",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "75d1684fafc86c1a": {
+      "url": "https://sqlestev.com",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "aa85367de70e4228": {
+      "url": "https://www.rystic.ai",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "2fd60ae5d8fec3c9": {
+      "url": "https://mimzie.com/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "d4f56bfcfef6845a": {
+      "url": "https://github.com/OddlyGoods/peep-note",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "10b3b33a97e1ab0b": {
+      "url": "https://filmcraft.tech/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "dd9c9d942ff09add": {
+      "url": "https://pdfmeasure.com/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "2fe8e46a9fe3e956": {
+      "url": "https://nollie.city/spots/LDN-5",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "863897ec152239a5": {
+      "url": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "b933237e1c27ffef": {
+      "url": "https://github.com/iignaite/Codemm",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "543b1683ba87bd56": {
+      "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "4058f0b183cc2812": {
+      "url": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/blob/main/README.md",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-show"
+    },
+    "84f3b5d3194b1b5f": {
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "1a4dc6b64d9239f7": {
+      "url": "https://github.com/mamrezme/30yr-uptime",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "e6a4481d1af60836": {
+      "url": "https://barterpilot.com/",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "a397f1ea63ad8dd1": {
+      "url": "https://github.com/MaxonT/aisync",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-cursor-vibe"
+    },
+    "35cb7421317538e5": {
+      "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "hn-solo-revenue"
+    },
+    "3463d67124d3957d": {
+      "url": "https://www.producthunt.com/products/openvibe-2",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "producthunt"
+    },
+    "796fbb61871611ba": {
+      "url": "https://www.producthunt.com/products/seldon",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "producthunt"
+    },
+    "f5afa6377261e573": {
+      "url": "https://github.com/Iceman2050/skillguard-registry",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "55cd6a240b457897": {
+      "url": "https://github.com/Iceman2050/mcp-permission-firewall",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "fe6088cdd4d8732c": {
+      "url": "https://github.com/Justin-sky/ai-art-engine",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "59d54e86730b5dd8": {
+      "url": "https://github.com/bitjaru/styleseed",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1adce270617df62e": {
+      "url": "https://github.com/sunyych/SmartKeys",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a04f491fe7909d17": {
+      "url": "https://github.com/jimena-garcia/Proyecto-final-SF-Vibe-Lab",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9e5b58fc073adc04": {
+      "url": "https://github.com/Iceman2050/agent-skills-security-scanner",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1af343ea1900c9c8": {
+      "url": "https://github.com/mappingAu/pretty",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2c8569377b4b0f4f": {
+      "url": "https://github.com/GoogleHub67/GoogleHub67",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "1e460b524716870e": {
+      "url": "https://github.com/hishamsam/idea2app",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "130c385c84767d8d": {
+      "url": "https://github.com/rar0n/rarons-TTS-Reader",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "51bc2ea437ee210a": {
+      "url": "https://github.com/arcmira/integrations",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "0dfb8b4561138f17": {
+      "url": "https://www.v2ex.com/t/1256112#reply0",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8fae49bd2122f292": {
+      "url": "https://www.v2ex.com/t/1256109#reply0",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "1d09bfb29df986c8": {
+      "url": "https://www.v2ex.com/t/1256105#reply0",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "f79b88b02d0a7eaa": {
+      "url": "https://www.v2ex.com/t/1256102#reply0",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "b82e0f0590a106f9": {
+      "url": "https://www.v2ex.com/t/1256089#reply6",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "6a1fcc759fc8a86c": {
+      "url": "https://www.v2ex.com/t/1256072#reply0",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "1a8253d283f0ed14": {
+      "url": "https://www.v2ex.com/t/1256062#reply3",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "a5c8c483e80b4833": {
+      "url": "https://www.v2ex.com/t/1256060#reply6",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "23601c8c4f6546de": {
+      "url": "https://www.v2ex.com/t/1256055",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "994327321e62c768": {
+      "url": "https://www.v2ex.com/t/1255839",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8bc65ce298366471": {
+      "url": "https://www.v2ex.com/t/1255879",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "07d64622aeac2961": {
+      "url": "https://www.v2ex.com/t/1255880",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "944c2a260b82f167": {
+      "url": "https://www.v2ex.com/t/1256030",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "81640302e7d3a26b": {
+      "url": "https://www.v2ex.com/t/1255953",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "3f438b66dce220cf": {
+      "url": "https://www.v2ex.com/t/1256021",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "747a4562d86c8402": {
+      "url": "https://www.v2ex.com/t/1256051",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "d8973df6afd54507": {
+      "url": "https://www.v2ex.com/t/1255843",
+      "first_seen": "2026-11-11T03:42:31.409399+00:00",
+      "source_id": "agent-reach-v2ex-hot"
     }
   }
 }
