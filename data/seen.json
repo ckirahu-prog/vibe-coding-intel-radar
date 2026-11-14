@@ -47074,6 +47074,271 @@
       "url": "https://www.v2ex.com/t/1256523",
       "first_seen": "2026-11-13T04:01:28.926123+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "b9d4967255c8e22e": {
+      "url": "https://github.com/laaielichter/Reverseport",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-game-ai"
+    },
+    "869fdfa6dc5c13f8": {
+      "url": "https://github.com/RazorEdge-wyh/ai-indie-game-workflow",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-game-ai"
+    },
+    "749c77238a995ab1": {
+      "url": "https://github.com/revenantworks/claude-skills",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-game-ai"
+    },
+    "2280fd083f6c7cd9": {
+      "url": "https://github.com/IvanMurzak/RQL",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-game-ai"
+    },
+    "dd57c5036228d4a4": {
+      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "gd-ai"
+    },
+    "772c78fed213df84": {
+      "url": "https://github.com/globalmpc/backendskills",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "f554571bee1c5033": {
+      "url": "https://browserr.dev",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "88da32d615c4365e": {
+      "url": "https://github.com/open-geocode-rs/open-geocode",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "72010232b2ec5c27": {
+      "url": "https://opencyclone.vercel.app/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "0425d34bc4a426fa": {
+      "url": "https://github.com/KevinOBytes/remoteku",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "72ca8203092be2e8": {
+      "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "4b8cbbaba626001e": {
+      "url": "https://structurify.io/en/playground/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "28df45a6564e796f": {
+      "url": "https://kingstonyip.com/portal2bench",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "b88431679f55f635": {
+      "url": "https://github.com/memrohq/memro",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "1239519df2e9ce5f": {
+      "url": "https://another.directory/where-to-launch",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "c03d27c672e76ede": {
+      "url": "https://github.com/samleb/schmuck",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "fbfdf383f614de46": {
+      "url": "https://news.ycombinator.com/item?id=50491841",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "2b1693d4ad7b1792": {
+      "url": "https://www.tryanvil.dev/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "5c97ee21fcf0f96d": {
+      "url": "https://grounds.top/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "95537d1e1bd4061a": {
+      "url": "https://www.frontierbioml.com/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "464a4ef20ae1229a": {
+      "url": "https://play-netwar.com/?from=hn",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "429b6292835725de": {
+      "url": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "2f29ee8faf0e5216": {
+      "url": "https://midicompanion.revisitedlabs.com/",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "01e800b5362cc090": {
+      "url": "https://twitter.com/mathewpregasen/status/2121356951682752809",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "0451a58fe617ea92": {
+      "url": "https://pricemend.com/retailers",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "hn-show"
+    },
+    "3588bf6219d4b241": {
+      "url": "https://www.producthunt.com/products/burnstate",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "producthunt"
+    },
+    "76dbe9010af17b0f": {
+      "url": "https://github.com/anomixer/openclaw-news",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "fdd922070851c06b": {
+      "url": "https://github.com/a-blauer/Ashen-wilds",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "df9fef7f45e40de4": {
+      "url": "https://github.com/BilLogic/plus-uno",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "ff17cd51a2979e86": {
+      "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "53c4f9d2a34a579a": {
+      "url": "https://github.com/forestqqqq/dubline-subs",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9d142afe1be277d4": {
+      "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "4483b9541bf5263d": {
+      "url": "https://github.com/OpenVibers/OpenVibe.Watch",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e09fb2383d095ca1": {
+      "url": "https://github.com/PramodDutta/AITesterBlueprint4x",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "e281bf3998dfceb9": {
+      "url": "https://github.com/OpenVibers/OpenVibe.Surf",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "2d320f2b8baa55ca": {
+      "url": "https://www.v2ex.com/t/1257015#reply2",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c684edbd0ca139ae": {
+      "url": "https://www.v2ex.com/t/1257014#reply0",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c8342719f0a16bd2": {
+      "url": "https://www.v2ex.com/t/1257006#reply1",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "b62bcb575698c3f5": {
+      "url": "https://www.v2ex.com/t/1257001#reply6",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "cf2789a9b1317205": {
+      "url": "https://www.v2ex.com/t/1256973#reply0",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "f15c3d7a14cb1ca9": {
+      "url": "https://www.v2ex.com/t/1256964#reply2",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "da52f0f327c8a4e7": {
+      "url": "https://www.v2ex.com/t/1256962#reply0",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "5aa978c9d1bb7744": {
+      "url": "https://www.v2ex.com/t/1256958#reply0",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "53ebe89c93eaa939": {
+      "url": "https://www.v2ex.com/t/1256957#reply8",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "8a16b0942b202ef9": {
+      "url": "https://www.v2ex.com/t/1256928",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8694fc8a2d45b6ce": {
+      "url": "https://www.v2ex.com/t/1256759",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "088ca53619a98823": {
+      "url": "https://www.v2ex.com/t/1256832",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8d1845ae4f82c9ec": {
+      "url": "https://www.v2ex.com/t/1256766",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "5a42f78f200c2cd9": {
+      "url": "https://www.v2ex.com/t/1256775",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "4e2ed6c79b7b210e": {
+      "url": "https://www.v2ex.com/t/1256831",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "e60bba53bec12115": {
+      "url": "https://www.v2ex.com/t/1256850",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "aa8c1c3bfcf57945": {
+      "url": "https://www.v2ex.com/t/1256817",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "565cdfa37d8d9bc9": {
+      "url": "https://firfireweed.itch.io/cantata",
+      "first_seen": "2026-11-14T03:59:23.498243+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
