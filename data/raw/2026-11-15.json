@@ -1,0 +1,713 @@
+[
+  {
+    "id": "bf39ba0a7c5a3279",
+    "title": "hassanireza/obsidianBreak",
+    "url": "https://github.com/hassanireza/obsidianBreak",
+    "summary": "A private, brick-breaking game with real gravity physics and AI assist, built in TypeScript/React for the Obsidian game center.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-07-27T16:22:32Z"
+  },
+  {
+    "id": "b9fb070987aa37cc",
+    "title": "zees-games/game-airdrift",
+    "url": "https://github.com/zees-games/game-airdrift",
+    "summary": "A 3D Godot timer-based game for speed runs and includes Bunny Hop and Surf Timer maps. Uses @modcommunity's Dot assets and servers are deployed onto the gaming platform!",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-12T15:42:07Z"
+  },
+  {
+    "id": "cc6290753b0ce6ce",
+    "title": "retsnomJ/claude-fable-games",
+    "url": "https://github.com/retsnomJ/claude-fable-games",
+    "summary": "🎮 Claude Fable 5.2「一句话做游戏」中文全景策展:12 款 AI 生成游戏拆解 · 原始 Prompt 点评 · 成本账本 · 本地部署实操 | One-Prompt Games curation & hands-on guide",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-15T01:31:56Z"
+  },
+  {
+    "id": "26329e2d56574a1a",
+    "title": "WASDEngine/WASD-Engine",
+    "url": "https://github.com/WASDEngine/WASD-Engine",
+    "summary": "The ultimate open-source harness for AI game development.",
+    "source_id": "github-game-ai",
+    "source_name": "GitHub: game-dev + AI repos",
+    "topics": [
+      "ai-game-dev"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-12T02:11:09Z"
+  },
+  {
+    "id": "537b7dc52f735e4f",
+    "title": "Show HN: PowerQueue free online message queue supports AWS, GCE, Azure, AMQP",
+    "url": "https://www.powerqueue.link",
+    "summary": "Article URL: https://www.powerqueue.link Comments URL: https://news.ycombinator.com/item?id=50503655 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 03:18:22 +0000"
+  },
+  {
+    "id": "3329787c38c056cf",
+    "title": "Show HN: Umbrella – macOS app to capture audio from any app",
+    "url": "https://umbrella.pixelegg.me/",
+    "summary": "Article URL: https://umbrella.pixelegg.me/ Comments URL: https://news.ycombinator.com/item?id=50503097 Points: 2 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 01:35:20 +0000"
+  },
+  {
+    "id": "2aad7466fcfc733c",
+    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+    "url": "https://bobbiec.github.io/jamaican-font.html",
+    "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 9 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 00:56:45 +0000"
+  },
+  {
+    "id": "3f08b64ff86bda7d",
+    "title": "Show HN: Light Sleep – Relax and Sleep",
+    "url": "https://play.google.com/store/apps/details?id=com.yugakhan.lightsleep&hl=en_US",
+    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.yugakhan.lightsleep&amp;hl=en_US Comments URL: https://news.ycombinator.com/item?id=50502552 Points: 1 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 00:20:35 +0000"
+  },
+  {
+    "id": "5dbb205eadc93cb2",
+    "title": "Show HN: Monster Cursor – Cartoon Beast Mouse",
+    "url": "https://chromewebstore.google.com/detail/monster-cursor-cartoon-be/fjgmgjefbipdjbcjhbenanmkhmdjokcl",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/monster-cursor-cartoon-be/fjgmgjefbipdjbcjhbenanmkhmdjokcl Comments URL: https://news.ycombinator.com/item?id=50502544 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 00:19:37 +0000"
+  },
+  {
+    "id": "b6fd5f8b9a860dc3",
+    "title": "Show HN: WendyOS, Linux for robots with USB-C deployment and rollback updates",
+    "url": "https://docs.wendy.dev/latest/getting-started/app/",
+    "summary": "Article URL: https://docs.wendy.dev/latest/getting-started/app/ Comments URL: https://news.ycombinator.com/item?id=50502531 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 00:18:17 +0000"
+  },
+  {
+    "id": "d998e458e5c6eb8b",
+    "title": "Show HN: I made a tiny HN-style forum for small communities",
+    "url": "https://github.com/skorokithakis/soliloquy",
+    "summary": "Article URL: https://github.com/skorokithakis/soliloquy Comments URL: https://news.ycombinator.com/item?id=50502423 Points: 1 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sun, 15 Nov 2026 00:05:11 +0000"
+  },
+  {
+    "id": "4d4fef01dac9f4b0",
+    "title": "Show HN:LetThemBuild:Claude, Codex, Gemini, Grok & OpenRouter models in Parallel",
+    "url": "https://letthembuild.com",
+    "summary": "Article URL: https://letthembuild.com Comments URL: https://news.ycombinator.com/item?id=50502144 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 23:24:50 +0000"
+  },
+  {
+    "id": "e1cb21c53c3eb7ab",
+    "title": "Show HN: Mapping the FAA ground stop with open flight-tracking data",
+    "url": "https://news.ycombinator.com/item?id=50502109",
+    "summary": "All open source, no email gating: https://www.birdyfoot.com/research/faa-ground-stop-2026 Comments URL: https://news.ycombinator.com/item?id=50502109 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 23:19:54 +0000"
+  },
+  {
+    "id": "6e1a951a568d8652",
+    "title": "Show HN: Daily puzzles to keep AI users sharp",
+    "url": "https://brainsaver.app",
+    "summary": "Article URL: https://brainsaver.app Comments URL: https://news.ycombinator.com/item?id=50502073 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 23:15:33 +0000"
+  },
+  {
+    "id": "dfaf261c26ec256c",
+    "title": "Show HN: Infinite Shaders",
+    "url": "https://shaderfrog.com/infinite",
+    "summary": "Article URL: https://shaderfrog.com/infinite Comments URL: https://news.ycombinator.com/item?id=50501503 Points: 5 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 22:11:43 +0000"
+  },
+  {
+    "id": "d1157d705147c99e",
+    "title": "Show HN: Omnistew - 3D multiplayer RTS inspired by Risk, playable in a browser",
+    "url": "https://omnistew.io/",
+    "summary": "Article URL: https://omnistew.io/ Comments URL: https://news.ycombinator.com/item?id=50501495 Points: 1 # Comments: 2",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 22:10:38 +0000"
+  },
+  {
+    "id": "0a1b16ea7397a18f",
+    "title": "Show HN: A throwaway CTF using Node, Ruby, and PHP",
+    "url": "https://breakinifyoucan.com/",
+    "summary": "Article URL: https://breakinifyoucan.com/ Comments URL: https://news.ycombinator.com/item?id=50501393 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 22:01:00 +0000"
+  },
+  {
+    "id": "3ea5d7274e5f9d7f",
+    "title": "Show HN: Paintpot – Kid-friendly MSPaint clone for Linux",
+    "url": "https://github.com/marktbaldridge/paintpot/",
+    "summary": "Most of the alternatives diverged from the true fun of MSPaint that I had as a child. My children also seem to enjoy this. The closest existing project was \"Drawing\" on Linux, but I felt it couldn't decide if it was a vector or a raster editor, and this confused my kids, and made good fill pours difficult. Features added beyond original Paint: - Draw circles starting from the center. - OKLCH Pale…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:56:40 +0000"
+  },
+  {
+    "id": "af96c4a3928207fe",
+    "title": "Show HN: Enzo – Dictation, meeting diarization, and recall for Mac, on-device",
+    "url": "https://tryenzo.ai",
+    "summary": "Article URL: https://tryenzo.ai Comments URL: https://news.ycombinator.com/item?id=50501316 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:53:05 +0000"
+  },
+  {
+    "id": "5563686a9780a056",
+    "title": "Show HN: Domino Rally – design in 2D, watch in 3D",
+    "url": "https://www.orgiggly.com/dominoes",
+    "summary": "This is a free to play, no sign up required domino rally simulator. You design them with the editor, and then run them in the 3D player. The from-behind \"Chase\" view is best. My mum helped develop it - she submitted issue reports direct from the app itself (make it possible to bend the domino tracks, make the playback controls disappear while mouse inactive, add like buttons to the showcase, let…",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:38:51 +0000"
+  },
+  {
+    "id": "62ea4dbfa82187f3",
+    "title": "Show HN: Deterministic prompt injection detector using formal logic",
+    "url": "https://nischoy.ai/",
+    "summary": "This is a prompt-injection detector I built using NLP and SMT2. Comments URL: https://news.ycombinator.com/item?id=50501132 Points: 1 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:35:45 +0000"
+  },
+  {
+    "id": "e111c8164286cc4c",
+    "title": "Show HN: Show HN: Free Casablanca Stock Exchange terminal, built by a student",
+    "url": "https://sahm-terminal.vercel.app",
+    "summary": "Article URL: https://sahm-terminal.vercel.app Comments URL: https://news.ycombinator.com/item?id=50501027 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:27:32 +0000"
+  },
+  {
+    "id": "17781775339950bc",
+    "title": "Show HN: HN's Most Recommended Fonts",
+    "url": "https://hacker.living/fonts",
+    "summary": "HackerTube and HackerTV inspired me to explore other aspects of HN's recommendations - fonts, websites, etc. I built: https://www.hacker.living - map of fonts and websites that is frequently recommended in HN. Comments URL: https://news.ycombinator.com/item?id=50500953 Points: 2 # Comments: 0",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 21:21:21 +0000"
+  },
+  {
+    "id": "e0802ff8d1444948",
+    "title": "Show HN: Atmosphere – Dolby Atmos for Netflix in Safari (Vibecoded)",
+    "url": "https://github.com/meghrathod/atmosphere",
+    "summary": "Article URL: https://github.com/meghrathod/atmosphere Comments URL: https://news.ycombinator.com/item?id=50500677 Points: 2 # Comments: 1",
+    "source_id": "hn-show",
+    "source_name": "HN Show HN",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 20:49:41 +0000"
+  },
+  {
+    "id": "70097c72de443859",
+    "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+    "url": "https://github.com/noambrand/ai-time-estimator",
+    "summary": "Article URL: https://github.com/noambrand/ai-time-estimator Comments URL: https://news.ycombinator.com/item?id=50499487 Points: 3 # Comments: 0",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 18:32:30 +0000"
+  },
+  {
+    "id": "8366e788c821e5bd",
+    "title": "Turbo Vision-style UI for Claude Code",
+    "url": "https://github.com/runvnc/tvclaude",
+    "summary": "Article URL: https://github.com/runvnc/tvclaude Comments URL: https://news.ycombinator.com/item?id=50498730 Points: 3 # Comments: 1",
+    "source_id": "hn-cursor-vibe",
+    "source_name": "HN: Cursor / vibe coding",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "Sat, 14 Nov 2026 17:18:14 +0000"
+  },
+  {
+    "id": "d1b2e82c44f78c76",
+    "title": "Businesses in ChatGPT",
+    "url": "https://www.producthunt.com/products/openai",
+    "summary": "Help customers discover your business through ChatGPT Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-13T00:53:51-08:00"
+  },
+  {
+    "id": "4c90859b874a6dff",
+    "title": "CodeMesh",
+    "url": "https://www.producthunt.com/products/codemesh-2",
+    "summary": "Cut AI coding costs by 90% Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-13T01:07:28-08:00"
+  },
+  {
+    "id": "a11475a9ac256e01",
+    "title": "Antelog",
+    "url": "https://www.producthunt.com/products/antelog",
+    "summary": "Stops AI coding agents from leaking or destroying your data Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-09T21:38:22-08:00"
+  },
+  {
+    "id": "bd76f0430bd81417",
+    "title": "FreeFlow Dictation",
+    "url": "https://www.producthunt.com/products/freeflow-dictation",
+    "summary": "On-device Mac dictation with a Claude Code voice hook Discussion | Link",
+    "source_id": "producthunt",
+    "source_name": "Product Hunt",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-10T00:38:27-08:00"
+  },
+  {
+    "id": "1bb189b0740f96e2",
+    "title": "mp3wizard/notebooklm-mcp-cli",
+    "url": "https://github.com/mp3wizard/notebooklm-mcp-cli",
+    "summary": "NotebookLM MCP CLI - Access NotebookLM via Claude with security fixes and FastMCP 1.0 compatibility",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-05T04:26:16Z"
+  },
+  {
+    "id": "c2779f0a3dc6de84",
+    "title": "Vibe-coder-Milo/Second-Brain",
+    "url": "https://github.com/Vibe-coder-Milo/Second-Brain",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-12T10:43:13Z"
+  },
+  {
+    "id": "ab179accdb0e5580",
+    "title": "bananastorycc/cuckcode",
+    "url": "https://github.com/bananastorycc/cuckcode",
+    "summary": "A macOS-first shell for vibe coding with Claude Code or any terminal agent",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-15T01:31:57Z"
+  },
+  {
+    "id": "6bb16dd5c95488ea",
+    "title": "MyNameIsNikki/oc-pilot",
+    "url": "https://github.com/MyNameIsNikki/oc-pilot",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T19:11:11Z"
+  },
+  {
+    "id": "8581175d9d31badf",
+    "title": "stenzek/duckstation",
+    "url": "https://github.com/stenzek/duckstation",
+    "summary": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-15T03:45:06Z"
+  },
+  {
+    "id": "29825242907dad76",
+    "title": "nihalnihalani/new-stuff",
+    "url": "https://github.com/nihalnihalani/new-stuff",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-12T03:38:36Z"
+  },
+  {
+    "id": "c909c77fb8086f51",
+    "title": "anomalyco/browse",
+    "url": "https://github.com/anomalyco/browse",
+    "summary": "Let your AI agents use your real browser: an MCP server and a Chromium extension",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-15T03:33:56Z"
+  },
+  {
+    "id": "9d5ac0e3fbae4745",
+    "title": "woxQAQ/hidpipe",
+    "url": "https://github.com/woxQAQ/hidpipe",
+    "summary": "",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-10T16:50:09Z"
+  },
+  {
+    "id": "62039a33b998baa9",
+    "title": "Alaraby527/ai-pm-skills",
+    "url": "https://github.com/Alaraby527/ai-pm-skills",
+    "summary": "沉淀最工程化的pm skill",
+    "source_id": "github-vibe-coding",
+    "source_name": "GitHub: vibe coding / built with cursor",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-08T16:38:10Z"
+  },
+  {
+    "id": "e45f891bf7d3a392",
+    "title": "[创业组队] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场",
+    "url": "https://www.v2ex.com/t/1257138#reply0",
+    "summary": "我是 Tim，2021 年在英国开了家公司 Mutus Tech，做农业和产业场景的 AI。和谢菲尔德大学、利物浦大学、Harper Adams 大学和农业咨询机构 ADAS 做过项目，参与过多个 Innovate UK 支持的研发项目，今年 4 月 Innovate UK Business Connect 写过一篇我们的案例。 五年下来最大的感受：在英国，技术不是最难的，难的是找对需求、拿到第一批客户、把研发项目变成能持续收钱的生意。这些坑我们一个个踩过。现在想把经验、团队和平台开放出来，和外面的人一起做新项目。 找谁。三类人： 1. 有技术或产品、已经有一点验证（原型、试点、客户、收入至少一样），想进英国市场、准备自己带队的创业者。 2. 想在英国设子公司或合资公司、需要一个本地运营方一起做的企业。 3. 已经在英国的技术负责人或博士，愿意接我们出的题目，三个月做出一个东西来。命题…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T20:00:57Z"
+  },
+  {
+    "id": "8bb28f92eaf66dd4",
+    "title": "[程序员] Runner iPhone 版开启 TestFlight 内测：在手机上看终端、回消息、带 crew 干活",
+    "url": "https://www.v2ex.com/t/1257131#reply0",
+    "summary": "Runner 是我做的一个管理 CLI agent 的开源桌面工具，之前在 V 站 介绍过 ，可以在同一个 app 里用 Claude Code 、Codex 等，也可以把不同的 agent 放进一个 crew 里一起做任务。上次发 0.18 桌面端远程控制 的时候提过移动端会优先做 iOS ，最近把 Runner iPhone 版的 UI 和主要交互定下来了，已经上传 TestFlight ，开放给想试试的朋友一起内测。 手机端通过和桌面端一样的端到端加密 relay 连回你的 Mac 、Windows 或 Linux 电脑，agent 仍然跑在电脑后台的 runnerd 里，手机上用 6 位 PIN 配对一次就能连上。打开之后是当前电脑的会话列表，可以看到正在运行的 chat 和关联在 chat 下面的 mission ，琥珀色图标会标出正在等你处理的会话，底部可以切换同一账号下已配…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T16:24:00Z"
+  },
+  {
+    "id": "d0cb97ce34d1a77e",
+    "title": "[问与答] Google Gemini 有好用的其他家 agent 吗",
+    "url": "https://www.v2ex.com/t/1257126#reply5",
+    "summary": "Claude 开了 5x ，124 刀，用了半个月，昨天被封了，申请退款，退了 56 刀。 GPT 已经彻底废了，完全干不了活，x 上看到不少推荐 Gemini 的，模型能力还可以，5x 土区大概 280 元，之前有 20x 大概 470 元。 但是众所周知，谷歌反重力并不好用。似乎没有办法将它接入到 Claude code 或者 codex 。",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T15:38:08Z"
+  },
+  {
+    "id": "878521c0908a3cc1",
+    "title": "[分享创造] 做了个能打断的 AI 语音面试陪练，求拍砖",
+    "url": "https://www.v2ex.com/t/1257121#reply10",
+    "summary": "大家好，我是独立开发者。面试最难的是找不到人陪练，所以我做了一个 AI 语音面试陪练 ，想请大家帮忙试试、拍拍砖。 跟其他 AI 面试工具有什么不一样 大部分工具是你说完一段、它再回一段，像在发语音消息。这个是 全双工实时对话 ： 你停下来想一想，它会等你，不抢话 它说得太长，你可以直接打断 目前有两个角色：技术面试官 Alex ，练 system design 和项目深挖；英语口语私教 Emma 。 怎么参加 打开 👉 https://aidou.studio/?scene=verify&amp;src=v2ex 用 Google 账号登录，和\"小豆\"随便聊 5 分钟（不考技术） 系统确认是真人后，送 90 分钟 通话时长 不登录也可以先免费体验 10 分钟。 为什么要先聊 5 分钟 ：防薅羊毛。语音模型按分钟计费，时长想留给真正来练的人。 我想要什么 真实反馈：哪里好用，哪里别扭。前…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T15:19:57Z"
+  },
+  {
+    "id": "25f7d11b9421a42d",
+    "title": "[分享创造] 学习 Steam 和 NetFlix 优雅的揩油定价策略: 让地主老财和穷苦欠发达地区收取不同费用.",
+    "url": "https://www.v2ex.com/t/1257102#reply0",
+    "summary": "正如标题所见的, Steam 游戏有所谓低价区 Netflix 有所谓低价区. 2010 年前后,南美区的账号几乎是 steam 玩家标配. 阿根廷人在贴吧熙熙攘攘. 购买游戏省一大笔钱,让你轻松具备国际视野(收获南美同志的友谊) 2026 年,吃着咖喱的印度同事会安利 youtube/netflix 会员在印度的订阅价格, 他们自豪的告诉我一年可以省下 100 多澳币. “weihy node?” 所以 indie dev 不妨学习这些大公司的思路. 对自己的产品,不管是 app 还是 iap 或者 saas. 让地主老财和穷苦欠发达地区收取不同费用. 所以 写了这个插件, 后来觉得插件还是太烦, 直接上 javascript 复制到书签就能用. 用 big mac index 给你的 ios app 和 iap item 定价 ios 进行 appstore,直接就可以自动计算了.…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T13:50:13Z"
+  },
+  {
+    "id": "59f55fa654af90e1",
+    "title": "[分享创造] 给 dsh 写了个工作区插件，文件、搜索、git 都在对话里",
+    "url": "https://www.v2ex.com/t/1257094#reply0",
+    "summary": "用 dsh 客户端写东西的时候，最烦的是文件：想看哪个文件、改一行、或者刚改完想确认一下 diff ，就得切出去开编辑器，回来还得把会话找回来。 所以写了个插件 dsh-workspace-ide 。装上之后左边栏多一个「工作区」，点开是文件树，文件可以直接看、直接改，有行号和语法高亮，⌘S 保存。另外两个页面，一个是全文搜整个工作区，一个是 git：当前分支、未提交的改动、提交历史，diff 是彩色的。 编辑器该有的基本都有：⌘P 快速打开文件、⌘F 查找替换（支持正则）、⌘G 跳行、多标签，每个标签记自己的草稿，关掉没保存的会问一句。Markdown 能切预览，图片和 SVG 直接看，括号匹配、自动配对、注释切换这些也都有。 主题默认跟 dsh 走，也能选 Dark+ / Light+ / One Dark Pro / Dracula 那几套。语法高亮是自己写的一个小分词器，没引 S…",
+    "source_id": "v2ex-latest",
+    "source_name": "V2EX 最新",
+    "topics": [
+      "sideline-pain-opportunity"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": "2026-11-14T12:45:09Z"
+  },
+  {
+    "id": "cbaa22fb808855a5",
+    "title": "iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro",
+    "url": "https://www.v2ex.com/t/1257030",
+    "summary": "平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。之前一直用论坛助手，支持的论坛多，用着其实也不差，就是我这人比较龟毛，很多地方想按自己的审美和习惯来，索性自己手搓了一个。断断续续做了几个月，前两天终于上架了。 App Store 搜「[**Dis 看帖**]( https://apps.apple.com/app/id6821816100)」，需要 iOS 18 以上，iPhone / iPad 都能用，iPhone Duo 也做了初步适配。 现在支持 V2EX 、NGA 、Linuxdo 、4D4Y 、Chiphell ，后面会接更多。 ![全部视图和聚合搜索]( https://i.imgur.com/Wt1fv61.png) ## 功能 - 「全部」里几个论坛的帖子混在一起刷，搜索也可以一次搜好几个论坛 - 帖子没有「页」的概念，一路往下滑就是。想去哪层，按…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794636858
+  },
+  {
+    "id": "ca4cb8ba0c0847d2",
+    "title": "关于设置中目前提供的 6 种楼中楼样式的 Demo",
+    "url": "https://www.v2ex.com/t/1257128",
+    "summary": "新的设置选项可以在这里找到： https://edge.v2ex.com/settings#reply_thread_style --- 六种样式的 Demo ### 引用条 ![]( https://hub.v2core.com/v1/embed/bafybeiffmnfwa3r5edlffz2766r6c6u2nc2243ujw6ihcsw65uofidmhea) ### 角标 + 悬浮预览 ![]( https://hub.v2core.com/v1/embed/bafkreids33ezap7kkcu6yjhhpnkpxz44vvxmcmwr5mteq5mpb6nfuamf5e) ### 楼中楼 ![]( https://hub.v2core.com/v1/embed/bafkreieglxqlq72ffmjyf6lg3i7crfd6xmvihf6hwlv6saoetky4xeq…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794671762
+  },
+  {
+    "id": "9d0e49f8d7feef0f",
+    "title": "求助: 想在寝室搞一个小主机 有推荐么?",
+    "url": "https://www.v2ex.com/t/1257109",
+    "summary": "目前只有一台 8845H 的笔记本 + iPad air(有点想把 pad 出掉... 记笔记屏幕滑的一 看书不如手机随时随地又小巧 拿着舒服) 预算 4000 左右 ## 用途 - 挂 agent 跑任务(主要是翻译一些文档 搜集一些资料 完成一些重复小任务 小机器人监控一些任务 有时候有一些想法直接丢给 ai one-shot 先跑三四轮 然后后看一看结果是否收敛 如果有感觉就继续迭代 感觉完成的不好或者是后续投入优化的时间会花费的很大的话就放弃掉) 如果在本机跑的话老是控制不住自己 tmux 切过去看进程 有点难受. - 挂 pt - 喜欢折腾 最近在学运维 docker 想要自己装台机子舒服一下 :) - ... 试过 grok bot 这类的产品 但是我还是更喜欢将一些 prompt 和数据维护在本地 grok bot 自动压缩和学习有时候会记住一些我不想让他记住的东西 有点难…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794665034
+  },
+  {
+    "id": "556508562c15c3c1",
+    "title": "有些程序员（产品经理）的脑回路秀逗了吧？ 就拿咪咕视频来说",
+    "url": "https://www.v2ex.com/t/1257021",
+    "summary": "没有会员，看个央视吧。 弹出来广告，猜猜多少秒？ 900 秒 15 分钟。 就这个破软件，我是不会花 1 分钱的",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794632362
+  },
+  {
+    "id": "823fe9145cc7f6dc",
+    "title": "纠结， Mac 有必要买 AC+么",
+    "url": "https://www.v2ex.com/t/1257035",
+    "summary": "600 多一年，感觉好像还好？ 还是说买 3 年。打算用久一点 以前旧的电脑经常带壳，结果散热又差，而且还会留印子 键盘膜和屏幕贴膜也感觉一定程度影响 最好还是直接裸奔，但是要非常爱惜，所以感觉好像买 care 还是有必要？ 各位群友买 apple care 么，毕竟是万把来块的电脑",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794638294
+  },
+  {
+    "id": "3bef947afdaad4b6",
+    "title": "有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了",
+    "url": "https://www.v2ex.com/t/1257073",
+    "summary": "想问一下，有没有 V 友尝试过自己用服务器搭建开源项目的云手机？ 比如在自己的服务器上部署云手机环境，然后通过网页端远程访问和操作，平时用来刷视频、玩游戏，测试 app 等等。 如果整个环境都部署在自己的服务器上，数据和操作也由自己掌控，理论上隐私和安全性也会更有保障。 不知道有没有大佬实践过？目前有哪些比较成熟的开源方案值得推荐？求分享经验！",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794651219
+  },
+  {
+    "id": "2b25e9cbfa9015e9",
+    "title": "如果给计算机基础教材列一个「五大经典」，你会选哪几本",
+    "url": "https://www.v2ex.com/t/1257146",
+    "summary": "最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材： 计算机系统：《深入理解计算机系统》（CSAPP） 计算机网络：《计算机网络：自顶向下方法》 操作系统：《操作系统导论》（OSTEP） 编译原理：《编译原理》（Dragon Book） 数据库：《数据库系统概念》（Database System Concepts） 这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来 想问问 V 站的各位： 这五本书作为对应领域的代表教材，选择是否合适？ 有没有你认为更值得推荐的替代书籍？ 除了这五个方向，还有哪些基础领域值得纳入这份书单？ 当然，这只是我个人整理出来的书单，不是什么权威排名。欢迎畅所欲言，推荐其他经典教材",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794702117
+  },
+  {
+    "id": "e5f084bf4865cabf",
+    "title": "我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps",
+    "url": "https://www.v2ex.com/t/1257076",
+    "summary": "# airhand > 我是 airhand 的开发者，项目地址： ，欢迎 Star ⭐ ## FAQ ### 为什么还要再做远程控制？为什么不用 RustDesk ？ 最开始的原因很简单：RustDesk 需要部署 `hbbs` 和 `hbbr`，开的端口太多了，我总觉得在服务端开很多端口不是什么好事…… 而且它不支持 **AV1 硬件编码**。（为什么一定要支持这个？自己使用过我的项目就能体会，效果非常不错。） ### 为什么之前一直没有编译二进制文件？ 因为早期版本里，如果服务端不可信，是很危险的：服务器管理员甚至可以直接连接任何客户端。 后来加了**配对码**功能，我才自己部署了服务端。 对了，最终 windows 安装包只有不到 4M ，也就一个高清图片大小。。。 ### 为什么用 QUIC 可靠流，而不是 UDP 或者数据报？ BBR 就不说了，为什么用可靠流传输画面呢？ 1…",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794701588
+  },
+  {
+    "id": "be65a0f4eb10eb50",
+    "title": "Claude 代充跳 kyc 被封都是不退款的吗",
+    "url": "https://www.v2ex.com/t/1257042",
+    "summary": "有走代充的朋友吗，可以讲一下么",
+    "source_id": "agent-reach-v2ex-hot",
+    "source_name": "V2EX 热帖 API",
+    "topics": [
+      "sideline-pain-opportunity",
+      "vibe-coding-commercial"
+    ],
+    "fetched_at": "2026-11-15T03:44:52.327380+00:00",
+    "published": 1794639778
+  }
+]
