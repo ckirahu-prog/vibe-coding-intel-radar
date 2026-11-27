@@ -7,12 +7,12 @@
     },
     "reddit-gamedev": {
       "hits": 639,
-      "errors": 37,
+      "errors": 38,
       "last_error": "403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2Fgamedev%2F.rss"
     },
     "reddit-unity3d": {
       "hits": 153,
-      "errors": 74,
+      "errors": 75,
       "last_error": "403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2FUnity3D%2F.rss"
     },
     "reddit-unrealengine": {
@@ -21,7 +21,7 @@
       "last_error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/unrealengine/.rss"
     },
     "github-game-ai": {
-      "hits": 575,
+      "hits": 581,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=topic%3Agame-development+topic%3Aai+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
@@ -31,7 +31,7 @@
       "last_error": null
     },
     "hn-show": {
-      "hits": 3147,
+      "hits": 3167,
       "errors": 0,
       "last_error": null
     },
@@ -41,22 +41,22 @@
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=solo+founder+OR+indie+hacker+revenue+OR+MRR+OR+bootstrapped&points=5"
     },
     "producthunt": {
-      "hits": 281,
+      "hits": 284,
       "errors": 0,
       "last_error": null
     },
     "github-vibe-coding": {
-      "hits": 1491,
+      "hits": 1503,
       "errors": 1,
       "last_error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/search/repositories?q=%22built+with+cursor%22+OR+%22vibe+coding%22+in%3Areadme+pushed%3A%3E7d&sort=updated&order=desc&per_page=20"
     },
     "indiehackers": {
       "hits": 0,
-      "errors": 70,
+      "errors": 71,
       "last_error": "404 Client Error: Not Found for url: https://www.indiehackers.com/feed.xml"
     },
     "hn-ai-game-tools": {
-      "hits": 226,
+      "hits": 227,
       "errors": 41,
       "last_error": "502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=Rosebud+OR+Meshy+OR+%22AI+game%22+OR+genAI+gamedev&points=2"
     },
@@ -67,7 +67,7 @@
     },
     "reddit-aigamedev": {
       "hits": 121,
-      "errors": 82,
+      "errors": 83,
       "last_error": "403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2Faigamedev%2F.rss"
     },
     "hn-cursor-vibe": {
@@ -77,11 +77,11 @@
     },
     "reddit-sideproject": {
       "hits": 182,
-      "errors": 62,
+      "errors": 63,
       "last_error": "403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2FSideProject%2F.rss"
     },
     "v2ex-latest": {
-      "hits": 1273,
+      "hits": 1279,
       "errors": 0,
       "last_error": null
     },
@@ -126,10 +126,10 @@
       "last_error": null
     },
     "agent-reach-v2ex-hot": {
-      "hits": 1294,
+      "hits": 1303,
       "errors": 0,
       "last_error": null
     }
   },
-  "last_updated": "2026-11-26T05:56:27.946566+00:00"
+  "last_updated": "2026-11-27T05:49:39.052985+00:00"
 }
