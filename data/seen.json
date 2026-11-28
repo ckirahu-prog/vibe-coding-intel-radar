@@ -50999,6 +50999,281 @@
       "url": "https://www.v2ex.com/t/1260091",
       "first_seen": "2026-11-27T05:48:08.893539+00:00",
       "source_id": "agent-reach-v2ex-hot"
+    },
+    "73a797c99187be25": {
+      "url": "https://tesseracted.com/experiments-llm-os/",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-gamedev"
+    },
+    "51b9649d35fe5d5a": {
+      "url": "https://github.com/Pimmy21/meow-in-chiang-mai",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-game-ai"
+    },
+    "98baaf712b2d0d3d": {
+      "url": "https://github.com/pretolancer01/unreal-ai-verify",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-game-ai"
+    },
+    "5508a4accdfe2d78": {
+      "url": "https://github.com/Nuro-Finance/threejs-kit",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-game-ai"
+    },
+    "edb6e41f9c1a753c": {
+      "url": "https://github.com/ontheplaya/threejs-kit",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-game-ai"
+    },
+    "cc5eb0d591dc1264": {
+      "url": "https://github.com/Eliezergam/NationsRTS",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-game-ai"
+    },
+    "1875696af97ae9fe": {
+      "url": "https://github.com/riffkit/riffsheet",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "46eb94ba17b1b0b8": {
+      "url": "https://iwantmy.app",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "2c0a821cc8bb198d": {
+      "url": "https://ourbuildstudio.com/app/demo",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "9d411225e04648f9": {
+      "url": "https://www.zeitgames.com/games/flokk-hunter",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "0b90172fa7a15ac0": {
+      "url": "https://github.com/sadilet/ramusdb",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "15a1c18a63de4dfe": {
+      "url": "https://beardstylesformen.org/beard-design/",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "9aaf85dcb67e8db5": {
+      "url": "https://eternityforest.github.io/calcurio/",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "89a03d656839dda7": {
+      "url": "https://hardcall.statementflow.win",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "3d1d2a4f5dae14be": {
+      "url": "https://github.com/Plain-Org/plain-auth",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "b18fccaadb9cc524": {
+      "url": "https://farworlds.com/play",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "2238fb1a3d22ce18": {
+      "url": "https://vending-bench-game.flo.st",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "521590fa0a0eb3c0": {
+      "url": "https://news.ycombinator.com/item?id=50672873",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "6113a5e5ad22e3ad": {
+      "url": "https://hypereffect.dev/demo/",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "0fd4c26c723d5533": {
+      "url": "https://api.sonojs.com",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "bea99cc988297a63": {
+      "url": "https://github.com/francescor/oscura-atti",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "b652481ed466aff9": {
+      "url": "https://github.com/routeflags/ai-citation-monitor",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "6423d44876575afc": {
+      "url": "https://statusmeter.web.app/",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "39dde65e49fa2cd2": {
+      "url": "https://www.youtube.com/watch?v=2zufRUcZeuc",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "hn-show"
+    },
+    "c424c2d2e717d705": {
+      "url": "https://www.producthunt.com/products/contral",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "producthunt"
+    },
+    "9549dec1bf25010d": {
+      "url": "https://github.com/SanHsien/ai-inbox",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "f2f898c30792069b": {
+      "url": "https://github.com/hellogumbo/awesome-jev",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "c8b01ee61f75cc21": {
+      "url": "https://github.com/gbomacfly/rbtop",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "536437ac565b5daf": {
+      "url": "https://github.com/jaequery/sqrap",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "3dd642762bea79bb": {
+      "url": "https://github.com/nguyentrantin98/vibecode",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "d4c443005a853da3": {
+      "url": "https://github.com/lph12168x/free-llm-daily",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "30910f1f95ad42ce": {
+      "url": "https://github.com/Saikojin/seikoclaw-harness",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "a7ee9db92aa035b4": {
+      "url": "https://github.com/mrkeyoor/honest-awesome",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "9329207b44497691": {
+      "url": "https://github.com/mazillka/deckyhub-registry",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "16dfcd91ecb42f7a": {
+      "url": "https://github.com/revelino01/vscode-in-rust",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "b9703390ef8da516": {
+      "url": "https://github.com/rjmurillo/ai-agents",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "github-vibe-coding"
+    },
+    "401a2a1dd1c20074": {
+      "url": "https://www.v2ex.com/t/1260547#reply2",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "092aa8b2d74936c5": {
+      "url": "https://www.v2ex.com/t/1260534#reply0",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "bbc91db67edeac6f": {
+      "url": "https://www.v2ex.com/t/1260533#reply0",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "bca50510fefa8680": {
+      "url": "https://www.v2ex.com/t/1260527#reply3",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "1c6297a7ad34401e": {
+      "url": "https://www.v2ex.com/t/1260513#reply17",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c07a5b66e99949f9": {
+      "url": "https://www.v2ex.com/t/1260500#reply3",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "400134b2374b7979": {
+      "url": "https://www.v2ex.com/t/1260497#reply7",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "74958591c6d3c9c0": {
+      "url": "https://www.v2ex.com/t/1260492#reply0",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "v2ex-latest"
+    },
+    "c24103727753534d": {
+      "url": "https://www.v2ex.com/t/1260358",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "c012af7ad7effc37": {
+      "url": "https://www.v2ex.com/t/1260356",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "4dfa71fcf542b024": {
+      "url": "https://www.v2ex.com/t/1260303",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "561f95019b7018d5": {
+      "url": "https://www.v2ex.com/t/1260372",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "ab98f85852f81518": {
+      "url": "https://www.v2ex.com/t/1260318",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "202bc45588fd5504": {
+      "url": "https://www.v2ex.com/t/1260324",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "32403002d94ec33f": {
+      "url": "https://www.v2ex.com/t/1260342",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "b43e41ceb0722fcd": {
+      "url": "https://www.v2ex.com/t/1260464",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "8733ef6dd3da4319": {
+      "url": "https://www.v2ex.com/t/1260459",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "6d2abddf92538b7f": {
+      "url": "https://www.v2ex.com/t/1260494",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "agent-reach-v2ex-hot"
+    },
+    "adb84d57aac60152": {
+      "url": "https://springasmr.itch.io/your-cat-girl-bully-hates-how-much-she-loves-your-head-pats",
+      "first_seen": "2026-11-28T05:28:13.038888+00:00",
+      "source_id": "itch-new-popular"
     }
   }
 }
